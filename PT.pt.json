@@ -43,6 +43,54 @@
         ],
         "size": 389021696
     },
+    "70010000000663": {
+        "id": null,
+        "rightsId": null,
+        "name": "Indivisible",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200428,
+        "nsuId": 70010000000663,
+        "category": [
+            "A\u00e7\u00e3o",
+            "RPG",
+            "Plataformas"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "505 Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d43edb0e2274d064c05724e08f59264172774604f1c69c4d31d015ecf485bb32.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f1fb49b56c3932e585c7fb2cb78bd7df59bc0888391c1af1dd325fa365864be9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/deb7195c07e602083b9f50853f012569eb9b54cdb42a208f9697531f876f50ab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3efb752f9b325f39cf00216a31c8e2c369ba66be404184cfe9ba5e375a82aab7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31543a6d18c7d3d180fda5e1cdd785ff34837fb4431a411641cd4aadaa49a6b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7792e5cefddbc6a378b07dbda09a7d67889de1ac46bafdfa5d29169998cee06.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46bd5eddd50db277a3dd34bf0b50a04453b09e9bc2baed17cd3ce258d2ad13df.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c10dbf8d119c08a702badff1eab56ea9dd225a658bf7cda090e68d930a83ae2.jpg",
+        "intro": "DESIGN H\u00cdBRIDO EXCLUSIVO \nCONJUNTO DE PERSONAGENS ENORME \nDESENHADO \u00c0 M\u00c3O E ANIMADO \u00c0 M\u00c3O ",
+        "description": "Indivisible \u00e9 um jogo de estilo RPG/plataformas com gr\u00e1ficos e anima\u00e7\u00f5es espetaculares desenhados \u00e0 m\u00e3o, combinados com uma mec\u00e2nica de combate em tempo real exclusiva. Mergulha num mundo fant\u00e1stico com dezenas de personagens jog\u00e1veis, uma hist\u00f3ria rica, jogabilidade f\u00e1cil de compreender mas dif\u00edcil de dominar, e a qualidade t\u00edpica de precis\u00e3o pela qual a Lab Zero Games \u00e9 conhecida!\nA nossa hist\u00f3ria gira em torno de Ajna, uma rapariga corajosa com veia rebelde. Criada pelo seu pai nos arredores da sua cidade do interior, a sua vida \u00e9 mergulhada no caos quando a sua casa \u00e9 atacada e um misterioso poder acorda dentro dela.\nO gigantesco mundo de fantasia do jogo, personagens e est\u00e9tica de design s\u00e3o inspirados em v\u00e1rias culturas e mitologias. Durante a sua senda, Ajna encontrar\u00e1 muitas \u201cIncarna\u00e7\u00f5es\u201d: pessoas que ela pode absorver e manifestar para combater a seu lado. Existem muitas Incarna\u00e7\u00f5es para recrutar, cada uma com a sua pr\u00f3pria hist\u00f3ria e personalidade. Ao unir pessoas de terras distantes, Ajna ir\u00e1 aprender sobre si mesma, sobre o mundo que habita e, o mais importante, como o salvar.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "zh"
+        ],
+        "size": 4305453056
+    },
     "70010000000666": {
         "id": "01000C7003FE8000",
         "rightsId": null,
@@ -1164,12 +1212,11 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b5ed9333582ceaf35e699dfd18c237093d1854f251f56e50af126531653781cc.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/f3830c19d01afa5f4a355fd9a4919ea10105f539c77ddcb1d9479c4e8787939e.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/90cfd1cc214cb719d71f267d9eb01e2d42dfeeb9f24dcf343ea4ab8d9e096781.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/9295e8ca1733a3efe4e6cda872cf8411998a831f3799f3be5f9083194b336d33.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/14c87dd6da92407809dca4530c344ba65a3c9e2b5b13d609df3f952ec8d5ab5f.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/afb5ec2a7540eff4da91e1725ba58bfcf3b10ea9c57c9e3797463522c6c2fd3e.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/71f02a677c7d1e92a0a57e9dd5ed62e127e0ae522854d2f261f911053d73e229.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/25b127bac5e5e3e166e74c398b8056a6b87979058acfbfc98d8d4a7dd5364712.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3636ba00e8558b6010a6d37868a21aeab248f69cbfb1db958aaf305176b540b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c837783dd59210f0ee4b2851742dea924c22a8f214dcc18c6403c4b436dfe35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/29a1dc36dde1c50bce87aa53792a22c441f4f783bf805a50ad20f77fdfcdcce1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed77277198b01fadc972ed40a2d256c0b3b3cef0b86f62eea74f74cb4384d4fb.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7c0dc0770e9c1f3615f8625f61097744c115e57762b07421405d3390ccec8c13.jpg",
         "intro": null,
@@ -3685,7 +3732,7 @@
             "de",
             "it"
         ],
-        "size": 14306770944
+        "size": 14346616832
     },
     "70010000018568": {
         "id": "0100E8200DAF4000",
@@ -6981,9 +7028,9 @@
             "https://img-eshop.cdn.nintendo.net/i/a60544ba9bf71884b3d73540760978af13bcb24161dd5bea4ce3cf073b020703.jpg",
             "https://img-eshop.cdn.nintendo.net/i/734edc5e14da1918c0d34d11358eada94d5d6d36d1a7f1e71e89dcf4e89d13be.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3e212bd49de8b41202947beeaab8b4703f6073ffa286c93d32b450e4bf7fba1c.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6c2b7f26b44b2817b1494f3f9c4d3a7bc79a59777a14bd9edabee46c12303fd5.jpg",
         "intro": "Todos os contos de fadas t\u00eam um monstro.",
-        "description": "R\u00f6ki \u00e9 um jogo de aventuras inspirado no folclore escandinavo. \u00c9 um conto de fadas contempor\u00e2neo e sombrio, apoiado por uma narrativa comovente, um estilo art\u00edstico atraente, enigmas antigos e por explora\u00e7\u00e3o ambiental.\n\nJuntamo-nos a Tove na sua fant\u00e1stica jornada, onde ela procura salvar a sua fam\u00edlia. A jornada vai lev\u00e1-la at\u00e9 ao cora\u00e7\u00e3o de um mundo do folclore, oculto e h\u00e1 muito esquecido, cheio de locais estranhos e criaturas ainda mais estranhas.\n\nExplora estas selvagens terras ancestrais e salva a tua fam\u00edlia, neste moderno jogo de aventuras para todos.\n\n\u201cEXPLORA uma floresta viva dos contos de fadas\u201d\nJunta-te a Tove e explora um mundo rico e cativante, imerso no folclore invernoso da Escandin\u00e1via; um mundo vivo, cheio de detalhes e vida, criado com o estilo art\u00edstico carater\u00edstico de R\u00f6ki.\n\n\u201cTorna-te amiga de MONSTROS\u201d\nProcura as criaturas ancestrais e m\u00e1gicas das terras selvagens da Escandin\u00e1via, algumas amig\u00e1veis, outras nem por isso! R\u00f6ki possui um elenco rico em personagens \u00fanicas \"arrepiantes mas queridas\", que vais descobrir na tua jornada pelo folclore escandinavo.\n\n\u201cPROCURA itens h\u00e1 muito esquecidos\u201d\nAs terras selvagens antigas encerra muitos segredos. Procura itens h\u00e1 muito esquecidos que v\u00e3o ajudar-te na tua aventura.\n\n\u201cRESOLVE os enigmas das terras selvagens\u201d\nR\u00f6ki \u00e9 jogo para o c\u00e9rebro, n\u00e3o para o m\u00fasculo. Podes desbloquear passagens ancestrais e resolver enigmas antigos.\n\n\u201cREGISTA a tua jornada\u201d\nTove regista os seus progressos no seu fiel di\u00e1rio, que \u00e9 o seu gral. Mapeia regi\u00f5es desconhecidas, embrenha-te na rica sabedoria do folclore escandinavo, recolhe objetos e ganha emblemas \u00fanicos de \u2018explorador selvagem\u2019.\n\n\u201cUma AVENTURA para TODOS\u201d\nR\u00f6ki \u00e9 um jogo de aventura para TODOS os jogadores. Com a sua jogabilidade sem viol\u00eancia, controlos acess\u00edveis e temas universais, \u00e9 uma jornada para deliciar todos os jogadores. O jogo foi concebido para ser um desafio, mas tamb\u00e9m oferece uma ajuda quando os aventureiros precisam, o que significa que pode ser apreciado por todos. Uma abordagem muito moderna ao g\u00e9nero dos jogos de aventura.\n",
+        "description": "Redescobre a magia e planeia uma aventura por este mundo n\u00f3rdico esquecido, repleto de mist\u00e9rios e monstros. Ganha coragem, descobre trilhos secretos, resolve enigmas ancestrais e desvenda a verdade no seio deste territ\u00f3rio gelado.\n\nJuntamo-nos a Tove na sua fant\u00e1stica jornada, onde ela procura salvar a sua fam\u00edlia. A jornada vai lev\u00e1-la at\u00e9 ao cora\u00e7\u00e3o de um mundo do folclore, oculto e h\u00e1 muito esquecido, cheio de locais estranhos e criaturas ainda mais estranhas.\n\nExplora estas selvagens terras ancestrais e salva a tua fam\u00edlia, neste moderno jogo de aventuras para todos.\n\n\u201cEXPLORA uma floresta viva dos contos de fadas\u201d\nExplora um encantador mundo n\u00f3rdico repleto de mist\u00e9rios e monstros a transbordar de detalhes, criados no estilo gr\u00e1fico habitual de Roki.\n\n\u201cTorna-te amiga de MONSTROS\u201d\nProcura as criaturas ancestrais e m\u00e1gicas das terras selvagens da Escandin\u00e1via, algumas amig\u00e1veis, outras nem por isso! R\u00f6ki possui um elenco rico em personagens \u00fanicas \"arrepiantes mas queridas\", que vais descobrir na tua jornada pelo folclore escandinavo.\n\n\u201cPROCURA itens h\u00e1 muito esquecidos\u201d\nAs terras selvagens antigas encerra muitos segredos. Procura itens h\u00e1 muito esquecidos que v\u00e3o ajudar-te na tua aventura.\n\n\u201cRESOLVE os enigmas das terras selvagens\u201d\nR\u00f6ki \u00e9 jogo para o c\u00e9rebro, n\u00e3o para o m\u00fasculo. Podes desbloquear passagens ancestrais e resolver enigmas antigos.\n\n\u201cREGISTA a tua jornada\u201d\nTove regista os seus progressos no seu fiel di\u00e1rio, que \u00e9 o seu gral. Mapeia regi\u00f5es desconhecidas, embrenha-te na rica sabedoria do folclore escandinavo, recolhe objetos e ganha emblemas \u00fanicos de \u2018explorador selvagem\u2019.\n\n\u201cUma AVENTURA para TODOS\u201d\nR\u00f6ki \u00e9 um jogo de aventura para TODOS os jogadores. Com a sua jogabilidade sem viol\u00eancia, controlos acess\u00edveis e temas universais, \u00e9 uma jornada para deliciar todos os jogadores. O jogo foi concebido para ser um desafio, mas tamb\u00e9m oferece uma ajuda quando os aventureiros precisam, o que significa que pode ser apreciado por todos. Uma abordagem muito moderna ao g\u00e9nero dos jogos de aventura.\n",
         "languages": [
             "en",
             "pt",
@@ -8518,6 +8565,53 @@
             "en"
         ],
         "size": 829423616
+    },
+    "70010000022996": {
+        "id": "01005E700ABB8000",
+        "rightsId": null,
+        "name": "Oddworld: New 'n' Tasty",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201027,
+        "nsuId": 70010000022996,
+        "category": [
+            "Plataformas",
+            "Puzzle",
+            "A\u00e7\u00e3o"
+        ],
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Oddworld Inhabitants",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8369748f636332ae87d84d6b45bc468158c96cce20f59710c72141ee9b3dbd80.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a97d3aa185d528190e38032be9eedf8b7edf3120d12d30ac2f8aa7e30765b7da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/99538c7ba803b198723cb4652e4707b6fc5709f86fad7f926c65510c9d776330.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/353d160d002922d03fd5bef570600b80f07dbc148c7e90b2278d133a7f76352a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5e484b03e41de95ed7a0f2ed910ee78aed8d668451c76feeacfc389e3df0a17.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3c5df741dc5b8c0f75fd63b64207fca1667571e612439980f1a9bd1a8179b67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4de823689681cf1ab973360339821520d5f30500fe92ec3efeea0f2b960f4727.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/28c38d19c01cae62b49b70849ebd14380c5416816d5cf3e2a68541576830c994.jpg",
+        "intro": "O Abe est\u00e1 de volta!",
+        "description": "Um mudokon escolhido pelo infort\u00fanio do destino, Abe era um a encerador de primeira da RuptureFarms catapultado para uma vida de aventura. Um dia \u00e0 noite, j\u00e1 tarde, ouviu sem querer os planos do chefe, Molluck o Glukkon, de querer transformar Abe e os colegas Mudokons em Guloseimas Saborosas como um esfor\u00e7o final para salvar o imp\u00e9rio da carne enlatada de Molluck em ru\u00edna! Ser\u00e1 que Abe consegue mudar o destino de milhares e salvar os Mudokons? Conseguir\u00e1 escapar aos recantos escuros de RuptureFarms e ao ambiente envolvente desolador, pouco convidativo e absolutamente aterrador?",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it"
+        ],
+        "size": 3052404736
     },
     "70010000023009": {
         "id": null,
@@ -13279,6 +13373,55 @@
         ],
         "size": 82837504
     },
+    "70010000027500": {
+        "id": "010098C010CD6000",
+        "rightsId": null,
+        "name": "Fracter",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201021,
+        "nsuId": 70010000027500,
+        "category": [
+            "Aventura",
+            "Puzzle",
+            "A\u00e7\u00e3o",
+            "Estrat\u00e9gia"
+        ],
+        "ratingContent": [
+            "Medo",
+            "Viol\u00eancia Ligeira"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "The Quantum Astrophysicists Guild",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/be93caf0f99b386384ae115feb522b27e88b5aeb87a2c71771f974706d95f402.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ce2b3a51350022de3ca50a1d98c79bfa363fef57b186f0d40d7f5cc87ef0459d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3128db51349756b83624ea2051fd32bfb62dfc9da60ff410ec278dfc841541b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7bf5cafefd7665d4bb8cc0436aa10bc01325acdbc1e68be695faa4c828ad423e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f171463fc4a73187f2cf8451531a3c2784fd400cf9c1e16ba5e75a8ee4956e2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0cd2af37181ceec24d21af37f6df4f95cf96520261c43c6af417ca6bd53eb937.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f526ab26dadbe09ffac8498b0334e45a914afec7d59f167366a17d0ecd908cbe.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/67ff878c3e6f3be3868b491b9033f0870619ff0beb461c67c6d60484ae82e30e.jpg",
+        "intro": "Fracter mostra um jovem her\u00f3i encapuzado que saiu em uma perigosa busca por luz atrav\u00e9s de um enigm\u00e1tico labirinto de sombras.",
+        "description": "Fracter \u00e9 um jogo de aventura e enigma isom\u00e9trico e emotivo ambientado em um misterioso labirinto com uma brilhante arquitetura negra. O jogo segue um jovem her\u00f3i encapuzado que saiu em uma perigosa busca por dissipar a escurid\u00e3o dentro de si mesmo. Os jogadores devem explorar este mundo de sombras, descobrir segredos ocultos na escurid\u00e3o e enganar criaturas amea\u00e7adoras enquanto soluciona cada enigma meticulosamente projetado usando sua \u00fanica for\u00e7a contra a escurid\u00e3o: a luz. Em uma viagem pelas emo\u00e7\u00f5es para restaurar a luz em um mundo escurecido, voc\u00ea vai encontrar paisagens dram\u00e1ticas em tons de cinza, uma trilha sonora sombria e uma narrativa po\u00e9tica e autorreflexiva.\n\nRecursos:\n\nENIGMAS METICULOSAMENTE PROJETADOS\nUma complexa s\u00e9rie de enigmas que deve ser resolvida usando a luz.\n\nIMPRESSIONANTES VISUAIS EM BRANCO E PRETO\nPaisagens dram\u00e1ticas em tons de cinza projetados por uma incr\u00edvel equipe de artistas.\n\nVIAGEM PO\u00c9TICA E AUTORREFLEXIVA\nUma experi\u00eancia de jogo profundamente pessoal que vai fazer o seu cora\u00e7\u00e3o palpitar\n\nTRILHA SONORA ASSUSTADORAMENTE LINDA\nUma trilha sonora sombria que combina sabores do oriente e ocidente com sons antigos e futur\u00edsticos.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 654311424
+    },
     "70010000027514": {
         "id": null,
         "rightsId": null,
@@ -16554,7 +16697,7 @@
             "zh",
             "zh"
         ],
-        "size": 484442112
+        "size": 503316480
     },
     "70010000028618": {
         "id": null,
@@ -19040,7 +19183,7 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2f61327bd19cff4806fb996060160c41cc628a39656546d9cc09c591ef37794c.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/6255e93dd893caad20cdb2c4fb8c7be980d5071014c97fb8bdbf5e806d6857b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0c91d2eb796b647ad4ba32855f4df36601c790d60972dffe2fdde36a3eb68f4.jpg",
             "https://img-eshop.cdn.nintendo.net/i/83f0ec007764e3c531354a28cdeb7f3e2045282b7c9541db3bf33580ff6e9dfd.jpg",
             "https://img-eshop.cdn.nintendo.net/i/81ca618d27b67c5ca59928a37577a61f490b44ea8188bb31196a5dab41911ccb.jpg"
         ],
@@ -19097,7 +19240,7 @@
         "languages": [
             "en"
         ],
-        "size": 37748736
+        "size": 54525952
     },
     "70010000029324": {
         "id": "0100103011894000",
@@ -23169,7 +23312,7 @@
             "ru",
             "zh"
         ],
-        "size": 6643777536
+        "size": 6705643520
     },
     "70010000030539": {
         "id": "010075601150A000",
@@ -23330,7 +23473,7 @@
             "ru",
             "ko"
         ],
-        "size": 92274688
+        "size": 93323264
     },
     "70010000030636": {
         "id": "010087C011C4E000",
@@ -25212,7 +25355,7 @@
             "zh",
             "zh"
         ],
-        "size": 674234368
+        "size": 1355808768
     },
     "70010000031228": {
         "id": "0100874012158000",
@@ -28832,7 +28975,7 @@
             "ko",
             "zh"
         ],
-        "size": 300941312
+        "size": 337641472
     },
     "70010000032136": {
         "id": "01000ED0124F2000",
@@ -29771,7 +29914,7 @@
         "languages": [
             "en"
         ],
-        "size": 168820736
+        "size": 210763776
     },
     "70010000032309": {
         "id": "0100C01012654000",
@@ -34546,6 +34689,44 @@
         ],
         "size": 167772160
     },
+    "70010000033393": {
+        "id": "0100872012B34000",
+        "rightsId": null,
+        "name": "My Little Dog Adventure",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000033393,
+        "category": [
+            "Aventura",
+            "Simula\u00e7\u00e3o",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "EpiXR",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4ffcff3297f2fedcc499dbaaeceb67082b1ea1c4ebdd3594b739490d94367393.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/726117e15d6ee5c84425fd120b7b81a65c4e05b6a653b219d97892914c7dfb27.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37d571a31406f1a69dddc4c20de6f3d43ef8bd5962a19c79b8917840ac3f7e64.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3244914bd9e39ce427aace003b50a05c6eb4434183ffe0531c422ffc1720f0e3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c2fb5e1a6699905f44c981980206e9badd2130f346bc59d8ca855f7741901f35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd7273cc4be29c3895c8b26b2aad7065f159fd555977cdd1c7d8057b90fbaf79.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0c0f0afe544f8f2b81897def3345297968955fe9d8d9ce94c5dc927b42d64315.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1ce8c531ab21c4caed90e68a326fafafffabc557bf1529ca61938afecb4a54a0.jpg",
+        "intro": null,
+        "description": "Em Little Dog Adventure, voc\u00ea joga como um cachorrinho que descobre o mundo em sua miss\u00e3o de encontrar o caminho de volta para casa.\n\n\u00c9 um pequeno jogo de explora\u00e7\u00e3o emocional dirigido por hist\u00f3rias que o manter\u00e1 interessado em uma hist\u00f3ria imersiva e personagens ador\u00e1veis.",
+        "languages": [
+            "en"
+        ],
+        "size": 4082106368
+    },
     "70010000033397": {
         "id": "0100BA9012B36000",
         "rightsId": null,
@@ -35101,7 +35282,7 @@
             "ru",
             "ko"
         ],
-        "size": 290455552
+        "size": 438304768
     },
     "70010000033575": {
         "id": "01005C1012C22000",
@@ -36667,12 +36848,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/895d95ac68b409bebcbc90ee568e22d96e6ec8a8ad6b93965b1d594d8ce3b69c.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/d4890b40291b289f5ebcdb361e89ba7cf0a6b60411d6c912ed4baa65f9e28739.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/8e7c4ffee5bc8713b512bd301297401aa8392353b6bd57018de91b9ab9a677d9.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/280c8642832653e81cf11478f1c0c2cbac24bc7870dcd0643c86535f79fa26d9.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2d5b814436bd5f479e41b3545f547242eaaa26f18eafd41339ae62e2a65ce36e.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/c4499761cd88a7d337257b4bf5b3dff63145d7da3ef981d562f3eb831961bebe.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/4ba00c0131bb573691a39fa8d5b61682df856f96383524973dc93ccec73b10cc.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/5262ec34e313ed6a0497e88a3677cd8c1b6b2b250f582b6df42b4ead7dcdd572.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5cca9f847c5030c12c3080099d5f8ec0ed4c91346e2a55254437eec712e89563.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4c07927d22636b3ac87570e954d2a43bea5dda4fbee1c8195abe4f8a3b9c56a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be7c94cde2a55a1b934de5304246e662ace7ee245b831d2fe9f62dc95465458c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/701363d3b2394ad10476a7e41be335642e4c8b0f7dfad84497375d558348b82a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9bf6a3219d5932f6961bffb01ef5977ca654c42b1deeac6677e752739b3f8672.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/412459f8619e7ff6329ca5762a7231d93c5cac4253afb0ec90c3976ebb1f8e7c.jpg",
         "intro": "GREEN HELL \u00e9 um simulador de sobreviv\u00eancia em mundo aberto localizado no cen\u00e1rio \u00fanico e inexplorado da floresta tropical da Amaz\u00f3nia.",
@@ -37590,6 +37771,45 @@
         ],
         "size": 46137344
     },
+    "70010000034987": {
+        "id": "0100B8B013310000",
+        "rightsId": null,
+        "name": "Dadish",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201014,
+        "nsuId": 70010000034987,
+        "category": [
+            "Plataformas",
+            "A\u00e7\u00e3o",
+            "Arcada",
+            "Aventura"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Thomas K Young",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b57445f8aada3d92e06eb31ba5182fe6b37aae7056ec118211ff5935d4f74f98.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0137bfcce60af050cc32b406de8c6831551d88a605251227639ebd38218df27f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/502e58b259c2d68954cd54b915ab1ea5752367b5e42277a182ad54711d0a4ba0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de589b6692f5808ad0a4b3e64126bd6827416c3bd04d50b2bce6a67e29b327f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/215a9e74c14cf270583f7357dadfcc51e52dd2df65e6bcbe4da8da94ec705ae8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f0f037ccde53cab2fababab5454ab71e0cf6de74e1cdf6b99a14b6ed90b9e9d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e6e4bb32ff5e43f257ec767e7d9ac4ef551cdee8cf4f2f7a26842623f334a6b6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5aa2d3328a4323b388205a87a4717696e3de604c1a950b7ecd20659fc9ecc168.jpg",
+        "intro": "Ele \u00e9 um pai E um rabanete! Os filhos dele desapareceram da horta e ele precisa da sua ajuda para encontr\u00e1-los.",
+        "description": "Explore um mundo emocionante, enfrente inimigos com o tema fast-food e re\u00fana Dadish com seus filhos desaparecidos nesta desafiadora aventura de plataforma.\n\n\u2022 Um desafiante jogo de plataforma retr\u00f4 do criador do Super Fowlst\n\u2022 Di\u00e1logo engra\u00e7ado, mas n\u00e3o MUITO engra\u00e7ado\n\u2022 50 n\u00edveis legais para vencer\n\u2022 50 rabanetes infantis rudes e atrevidos para encontrar\n\u2022 Caras de fast-food que tentar\u00e3o te matar\n\u2022 Cinco grandes chefes saborosos\n\u2022 Um gamb\u00e1 guinchante\n\u2022 As alegrias da paternidade\n\u2022 Uma trilha sonora muito boa, eu acho\n\u2022 Gosto dos gr\u00e1ficos, espero que voc\u00ea tamb\u00e9m goste\n\u2022 Estrelas colecion\u00e1veis\n\u2022 Segredos desbloque\u00e1veis",
+        "languages": [
+            "en"
+        ],
+        "size": 61865984
+    },
     "70010000034993": {
         "id": null,
         "rightsId": null,
@@ -38364,7 +38584,7 @@
         "nsuId": 70030000011669,
         "category": null,
         "ratingContent": [
-            "Viol\u00eancia pesada"
+            "Viol\u00c3\u00aancia pesada"
         ],
         "numberOfPlayers": null,
         "rating": 16,
@@ -38861,7 +39081,7 @@
         "nsuId": 70030000012225,
         "category": null,
         "ratingContent": [
-            "Viol\u00eancia Ligeira"
+            "Viol\u00c3\u00aancia Ligeira"
         ],
         "numberOfPlayers": null,
         "rating": 7,
@@ -38915,7 +39135,7 @@
         "nsuId": 70030000012270,
         "category": null,
         "ratingContent": [
-            "Viol\u00eancia pesada"
+            "Viol\u00c3\u00aancia pesada"
         ],
         "numberOfPlayers": null,
         "rating": 16,
@@ -40291,6 +40511,41 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c0a2f587d73a6c25e94d7f9bce9e3f0c69688d1939812b7c6ed979758bf5eea3.jpg",
         "intro": null,
         "description": "Proveniente do jogo ARMS e conhecida como a \"Ramen Bomber\", a lutadora Min Min est\u00e1 agora dispon\u00edvel! Durante os combates, ela tem a capacidade de alternar entre tr\u00eas ARMS extens\u00edveis e de longo alcance.\n\nO seu cen\u00e1rio chama-se \"Spring Stadium\". Recorre \u00e0s suas plataformas de salto e aos drones que largam objetos para dominares os combates! \n\nEst\u00e3o inclu\u00eddos ainda os temas originais dos cen\u00e1rios, assim como uma vers\u00e3o remisturada do tema oficial do jogo! Talvez at\u00e9 encontres algumas das tuas m\u00fasicas preferidas!\n\nEste conjunto inclui:\n\u30fb Lutador: Min Min\n\u30fb Cen\u00e1rio: Spring Stadium\n\u30fb M\u00fasica: 18 faixas (*1)\n\u30fb S\u00edmbolos de etiqueta Smash: 3\n\u30fb Spirits: Min Min (lutador) (*2)\n\u30fb Inclus\u00f5es no Spirit Board: Outros spirits do jogo ARMS que foram adicionados na vers\u00e3o 8.0.0. (*3) (*4)\n\n*1 Ap\u00f3s a aquisi\u00e7\u00e3o, podem ser encontradas ao selecionar \"Vault\", seguido de \"Sounds\".\n*2 Ap\u00f3s a aquisi\u00e7\u00e3o, pode ser obtido atrav\u00e9s do Classic Mode ou na loja a partir do menu Vault.\n*3 Estes novos spirits tamb\u00e9m est\u00e3o dispon\u00edveis gratuitamente selecionando \"Vault\", seguido de \"Shop\".\n*4 Para mais informa\u00e7\u00f5es sobre os novos spirits, consultar as informa\u00e7\u00f5es da atualiza\u00e7\u00e3o com o t\u00edtulo \"Software update available: Ver. 8.0.0\".",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018968": {
+        "id": null,
+        "rightsId": null,
+        "name": "Challenger Pack: Steve e Alex",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201014,
+        "nsuId": 70050000018968,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2c37243b3daefbc0d7b8934e8c0fbe13573d381fd3d41052c4b97b198bbe7910.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d925fb8fef50cf2505714c213e4e582e05818b95f5356dd1269bb8b8c122919d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d6fe0b35b9fbc38c212068c66783740fb95d5a8f525a7ede0c2e51e2ecea8d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/13cfe47da1fcb795c8fa74de2838438be545a10ba2e60d544edafb8a5e65bd24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12a233472560a0ff8953f4f97afea4b5ec6b589f1524d3cbbb88f9859e31040b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb9e953256eafa0384c47ee89c630fb7f5ee39dbb73faa47cc8b5859f7ca21c7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f682d2e9502f230717e1a0a676feebb1eae2bc8a168d4fc0f30d40535af9a52e.jpg",
+        "intro": null,
+        "description": "Provenientes da s\u00e9rie Minecraft, os lutadores Steve e Alex juntam-se aos combates! Quando selecionares o teu lutador, podes tamb\u00e9m optar por combater na pele de um Zombie ou de um Enderman. Parte \u00e0 aventura num novo cen\u00e1rio, Minecraft World, e extrai materiais, fabrica objetos e posiciona blocos!\n\nDescobre os seis diferentes biomas que existem em Minecraft World, incluindo plan\u00edcies e a tundra gelada. Tamb\u00e9m est\u00e3o inclu\u00eddas sete faixas musicais, a maioria remisturas. Mina, constr\u00f3i e luta!\n\nEste conjunto inclui:\n\u30fb Lutador: Steve/Alex/Zombie/Enderman\n\u30fb Cen\u00e1rio: Minecraft World\n\u30fb M\u00fasica: 7 faixas (*1)\n\u30fb S\u00edmbolos de etiqueta Smash: 5\n\u30fb Spirits: Steve, Alex (*2)\n\u30fb Inclus\u00f5es no Spirit Board: Outros spirits de Minecraft que foram adicionados na vers\u00e3o 9.0.0. (*3) (*4)\n\n*1 Ap\u00f3s a aquisi\u00e7\u00e3o, podem ser encontradas ao selecionar \"Vault\", seguido de \"Sounds\".\n*2 Ap\u00f3s a aquisi\u00e7\u00e3o, pode ser obtido atrav\u00e9s do Classic Mode ou na loja a partir do menu Vault.\n*3 Estes novos spirits tamb\u00e9m est\u00e3o dispon\u00edveis gratuitamente selecionando \"Vault\", seguido de \"Shop\".\n*4 Para mais informa\u00e7\u00f5es sobre os novos spirits, consultar as informa\u00e7\u00f5es da atualiza\u00e7\u00e3o com o t\u00edtulo \"Software update available: Ver. 9.0.0\".",
         "languages": null,
         "size": 4194304
     },
@@ -52962,6 +53217,33 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000022588": {
+        "id": null,
+        "rightsId": null,
+        "name": "Os Desafios de Razmi",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70050000022588,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "505 Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c13206facebe4ceda8ad51e23038a58319d91042b38a89c583ebfd3b5bf87364.jpg",
+        "intro": null,
+        "description": "A Razmi aborreceu-se no reino interior da Ajna e construiu uma s\u00e9rie de desafios diab\u00f3licos para humilhar a sua melhor amiga! Estes desafios exigem uma combina\u00e7\u00e3o das habilidades da Ajna, que a levar\u00e3o ao seu limite, e que testar\u00e3o a sua capacidade de trabalhar em equipa com os seus companheiros para vencerem batalhas com probabilidades intranspon\u00edveis. No final, haver\u00e1 um pr\u00e9mio! Bom, pelo menos \u00e9 o que diz a Razmi...Inclui uma nov\u00edssima hist\u00f3ria secund\u00e1ria c\u00f3mica com a Ajna, a Razmi e o resto do elenco, quarenta novos curtos n\u00edveis de desafios, duas novas paletas de cores para a Ajna e um novo conjunto de trof\u00e9us para ganhar.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000022632": {
         "id": "010092B010449001",
         "rightsId": null,
@@ -54928,6 +55210,174 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/04212f3a9b27947b85e71989b9a98b07b51f38b980e8f4f925789e94cf1286a3.jpg",
         "intro": null,
         "description": "CONTENT\nDoes NOT include any table and customization unlocks.\n\nThis DLC unlocks Zombie Invasion mode.\n\nDESCRIPTION\nZombie Invasion! The mode where brain fluid polishes the steel ball!\n\nFEATURES\nIn this survivor mode you have to survive through hordes of zombies on a uniquely designed pinball table. Strike them with thunder, rockets and many other special attacks to defend yourself against the Zombie Invasion!",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023145": {
+        "id": null,
+        "rightsId": null,
+        "name": "Creeper Mask + Outfit",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201014,
+        "nsuId": 70050000023145,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/573d2d4f09fd80507b7d28f65ec9d4e61ccf7c8bfb6b203d18efb1f9ec2a365c.jpg",
+        "intro": null,
+        "description": "Est\u00e1 agora dispon\u00edvel um fato para Lutador Mii baseado no Creeper, da s\u00e9rie Minecraft, e exclusivo para Mii Guerreiro. Distribui socos e pontap\u00e9s a torto e a direito ao melhor estilo Smash. Aterroriza os advers\u00e1rios com a apar\u00eancia deste tem\u00edvel monstro verde!\n\nEste conjunto inclui:\n\nFato para Lutador Mii\n\u30fb M\u00e1scara de Creeper\n\u30fb Fato de Creeper (para Guerreiro)\n\nPara utilizar este conte\u00fado ap\u00f3s a aquisi\u00e7\u00e3o, seleciona \"Games & More\", seguido de \"Mii Fighter\".",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023146": {
+        "id": null,
+        "rightsId": null,
+        "name": "Pig Mask + Outfit",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201014,
+        "nsuId": 70050000023146,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5ed3b652aea18c23dd593ed75a95e64d8c72872e064b3ade52d84a132a6c688f.jpg",
+        "intro": null,
+        "description": "Est\u00e1 agora dispon\u00edvel um fato para Lutador Mii baseado no Pig, da s\u00e9rie Minecraft. A sua apar\u00eancia \u00e9 completamente inspirada no jogo original, como os olhos, o nariz e o seu corpo caracter\u00edsticos. Encarna um Mii Guerreiro e executa golpes contundentes nos advers\u00e1rios!\n\nEste conjunto inclui:\n\nFato para Lutador Mii\n\u30fb M\u00e1scara de Pig\n\u30fb Fato de Pig (para Guerreiro)\n\nPara utilizar este conte\u00fado ap\u00f3s a aquisi\u00e7\u00e3o, seleciona \"Games & More\", seguido de \"Mii Fighter\".",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023147": {
+        "id": null,
+        "rightsId": null,
+        "name": "Diamond Helmet + Armor",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201014,
+        "nsuId": 70050000023147,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bda5a48018440848ef7868cd57a2e41875379064386869ccb43bb25244e8c55c.jpg",
+        "intro": null,
+        "description": "Est\u00e1 agora dispon\u00edvel um fato para Lutador Mii baseado na Diamond Armor, da s\u00e9rie Minecraft, e exclusivo para Mii Espadachim! Equipa-te com esta armadura e empunha a Diamond Sword para enfrentares os advers\u00e1rios e descobrires quem ir\u00e1 superar a noite!\n\nEste conjunto inclui:\n\nFato para Lutador Mii\n\u30fb Elmo de diamante\n\u30fb Armadura de diamante (para Espadachim)\n\nPara utilizar este conte\u00fado ap\u00f3s a aquisi\u00e7\u00e3o, seleciona \"Games & More\", seguido de \"Mii Fighter\".",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023148": {
+        "id": null,
+        "rightsId": null,
+        "name": "Travis Wig + Outfit",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201014,
+        "nsuId": 70050000023148,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/35281cb766debf5720fef6c15463f509ba537ef3d686da937578cd7f8ccd0340.jpg",
+        "intro": null,
+        "description": "Est\u00e1 agora dispon\u00edvel um fato para Lutador Mii baseado no Travis, da s\u00e9rie NO MORE HEROES, e exclusivo para Mii Espadachim! Empunha a fiel Beam Katana, coloca os \u00f3culos de sol e veste o casaco com estampa de tigre para derrotares os advers\u00e1rios com estilo!\n\nEste conjunto inclui:\n\nFato para Lutador Mii\n\u30fb Peruca de Travis\n\u30fb Fato de Travis (para Espadachim)\n\nPara utilizar este conte\u00fado ap\u00f3s a aquisi\u00e7\u00e3o, seleciona \"Games & More\", seguido de \"Mii Fighter\".",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023149": {
+        "id": null,
+        "rightsId": null,
+        "name": "Bomberman Mask + Outfit",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201014,
+        "nsuId": 70050000023149,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7c8182a7b3809e6d9948ad2cda881863b939f6c693dd77d3c4f1688992f7ea1e.jpg",
+        "intro": null,
+        "description": "Est\u00e1 agora dispon\u00edvel um fato para Lutador Mii baseado no Bomberman, da s\u00e9rie Bomberman, e exclusivo para Mii Guerreiro! Ao contr\u00e1rio da sua vers\u00e3o Assistente, este fato \u00e9 para lutadores que gostam de lutas corpo a corpo. A cor do fato \u00e9 determinada pela cor da personagem Mii utilizada. Escolhe a tua preferida!\n\nEste conjunto inclui:\n\nFato para Lutador Mii\n\u30fb M\u00e1scara de Bomberman\n\u30fb Fato de Bomberman (para Guerreiro)\n\nPara utilizar este conte\u00fado ap\u00f3s a aquisi\u00e7\u00e3o, seleciona \"Games & More\", seguido de \"Mii Fighter\".",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023150": {
+        "id": null,
+        "rightsId": null,
+        "name": "Gil's Helmet + Armor",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201014,
+        "nsuId": 70050000023150,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9e901cc67081d4fda5065ace63d6aa96097bc69312193fe3cda94639018e84ad.jpg",
+        "intro": null,
+        "description": "Est\u00e1 agora dispon\u00edvel um fato para Lutador Mii baseado em Gil, da s\u00e9rie Tower of Druaga, e exclusivo para Mii Espadachim! Enverga a tem\u00edvel armadura dourada de Gilgamesh, que transforma a coragem em for\u00e7a, e assume a sua vontade inquebrant\u00e1vel de alcan\u00e7ar novas e vertiginosas alturas!\n\nEste conjunto inclui:\n\nFato para Lutador Mii\n\u30fb Elmo de Gil\n\u30fb Armadura de Gil (para Espadachim)\n\nPara utilizar este conte\u00fado ap\u00f3s a aquisi\u00e7\u00e3o, seleciona \"Games & More\", seguido de \"Mii Fighter\".",
         "languages": null,
         "size": 4194304
     },
@@ -56930,7 +57380,7 @@
         "intro": null,
         "description": "Captain Tsubasa: Rise of New Champions \u00e9 um jogo de futebol de estilo arcada que introduz um novo estilo de futebol com a\u00e7\u00e3o emocionante e lances fant\u00e1sticos.\n\nA Deluxe Edition inclui:\n- Captain Tsubasa: Rise of New Champions (jogo completo)\n- Character Pass\n\nB\u00f3nus da Deluxe Edition:\n- Acess\u00f3rios V Jump\n\nCRIA A TUA EQUIPA DE SONHO\nCria as tuas personagens com novas habilidades e d\u00e1 forma \u00e0 tua equipa de sonho offline e online!\n\nVERSUS PARA 4 JOGADORES\nEnfrenta os teus amigos com o versus offline para 4 jogadores!\n\nONLINE\nCompete em v\u00e1rios modos online e recebe trof\u00e9us e recompensas\n\n2 MODOS DE HIST\u00d3RIA\nVive os eventos do anime ou faz parte do mundo de Captain Tsubasa!",
         "languages": null,
-        "size": 14352908288
+        "size": 14392754176
     },
     "70070000010865": {
         "id": null,

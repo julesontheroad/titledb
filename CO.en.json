@@ -2017,7 +2017,7 @@
             "https://img-eshop.cdn.nintendo.net/i/c06a7c551a35b4bb549d21a41ecc52225287cd7985f8cbb434a5fecf7197612b.jpg",
             "https://img-eshop.cdn.nintendo.net/i/8e26b2b5fbaa785806044caf66f77a61e6cb991a641fc8a820bab5fa4759448d.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/67ebd69458e0053c29a135ef12f5b9eb71f6b1f968f556f23252ce2582bbf3f2.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6917dc68ed3d3675368164e9a19d30f256de38cef36c636f9aebb3dcbeb61b19.jpg",
         "intro": "Grow a squad of adorable, plantlike Pikmin to traverse a strange world and save your planet",
         "description": "Command a capable crop of different types of Pikmin\u2122 to strategically overcome obstacles, defeat creatures, and find food for your famished home planet! You can even bring a second player along to divvy up tasks as you explore a world that seems larger than life from a pint-sized perspective. \n\nPikmin at your pace \n\nReturn to your ship before time runs out, or you (and your Pikmin) could be in big trouble. If you prefer a more casual approach, a variety of difficulty settings, lock-on targeting and optional hints have been newly added. With less pressure, you have more time to strategically command your Pikmin and take in the lush scenery. \n\nPlay side-story missions, head-to-head matches and more! \n\nThis deluxe version of the Pikmin 3 game includes new side-story missions featuring Olimar and Louie, the ability to play Story mode with a friend and all DLC stages from the original release. Feeling competitive? Enjoy fierce head-to-head Bingo Battles against another player!\n\nThree brave explorers land on planet PNF-404 on a mission to find food for their starving home planet. After a crash landing, these explorers must work with Pikmin to reunite and complete their mission.  \n\nDirect, toss and grow Pikmin with different abilities and strengths\u2014winged Pikmin can fly, while blue Pikmin can breathe underwater. By strategically choosing the right Pikmin for the job at hand and changing between the three captains (or coordinating with a second player), you can work efficiently to collect fruit and grow your Pikmin squad.  \n\nWhen you aren\u2019t busy collecting fruit and saving your planet, try out Mission mode to accomplish set requirements like defeating enemies or collecting items. Looking for some friendly competition? In Bingo Battle you must use Pikmin to retrieve items on your bingo card before your opponent does.  \n\nWith more options for cooperative play, settings that make it easy for newcomers to start their Pikmin journey, new side stories and more, these tiny Pikmin are in for their biggest adventure yet. \n\nDownload the Nintendo eShop demo to sample Story mode, Mission mode, and even explore together with a second player! Your progress will even transfer to the full game, once purchased. As an added bonus, defeating the first boss in the demo and transferring save-data to the full version of the game will immediately unlock the \u201cUltra-Spicy\u201d difficulty option for the full game.  ",
         "languages": [
@@ -2658,7 +2658,7 @@
             "ru",
             "ko"
         ],
-        "size": 12702449664
+        "size": 12918456320
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -4766,7 +4766,7 @@
             "ru",
             "ko"
         ],
-        "size": 13785628672
+        "size": 14448328704
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -5383,7 +5383,7 @@
             "fr",
             "de"
         ],
-        "size": 11413749760
+        "size": 11449401344
     },
     "70010000021364": {
         "id": "01000B900D8B0000",
@@ -6112,7 +6112,7 @@
             "pt",
             "fr"
         ],
-        "size": 13910409216
+        "size": 13931380736
     },
     "70010000027023": {
         "id": "0100DBF01000A000",
@@ -15987,12 +15987,12 @@
     "70050000018962": {
         "id": "01006A800016F008",
         "rightsId": null,
-        "name": "Challenger Pack 7",
+        "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 7",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20211231,
+        "releaseDate": 20201013,
         "nsuId": 70050000018962,
         "category": null,
         "ratingContent": [
@@ -16008,10 +16008,17 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/87bb724a4ae9b19ad2be2677a067885e47a07c26a70017a4844ac8778e199ec2.jpg",
-        "intro": null,
-        "description": "This pack of downloadable content contains:\n\u3000- One New Fighter\n\u3000- One New Stage\n\u3000- Several New Music Tracks\n\nAdditional information to follow at a later date.",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/39a117ef0605dc18f879d73d2736e210e61f690e607083d3e0de7f30e6661521.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd3c67869e83fe3566178f9ee726488f6c9f02c0fc5aa7bafbdcc51100e98458.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/667574cafea96ab02491e7faf265c1e28e2bef7768b20658ff1884dd8027030a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37dbc0661920540b71226772e06f2ae4964bfd0125972aedb585f24465163c1d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0182912adb294669cfaeefc7877884a1a689f162727682521cd2eaa3df49cdcd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/75bf74740f7092fb90feff3d5d5c4b50404871a3bb8b328e175a755fd4311ef6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/196fcb898450cbdb77c16a08a83e2e425f7f0bc5ea8b3ae518d5bbaece692412.jpg",
+        "intro": "Steve & Alex join the battle!",
+        "description": "Steve & Alex from the Minecraft\u2122 game are coming to the Super Smash Bros.\u2122 Ultimate game as a new playable fighter! This iconic fighter is the second fighter in the Super Smash Bros. Ultimate Fighters Pass Vol 2 DLC. Use Steve and Alex\u2019s various tools to mine and craft your way to victory! Challenger Pack 7 also includes a new stage\n\nNote: The content of this Challenger Pack is already included in Super Smash Bros. Ultimate Fighters Pass Vol. 2 (sold separately).\n",
         "languages": null,
         "size": 4194304
     },
@@ -17790,6 +17797,192 @@
         "languages": null,
         "size": 517996544
     },
+    "70050000023139": {
+        "id": "01006A800016F03D",
+        "rightsId": null,
+        "name": "\u3010Costume\u3011Creeper Outfit and Mask",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70050000023139,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/93446c02890d22bef487a4ca9d22aed9839c0f4486fe78913283f5d6b2066617.jpg",
+        "intro": null,
+        "description": "This DLC contains the Creeper Outfit and Mask.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023140": {
+        "id": "01006A800016F03E",
+        "rightsId": null,
+        "name": "\u3010Costume\u3011Pig Outfit and Mask",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70050000023140,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1b2536bf537fbd8d62973b04f049596011a8e4492aaf6bbf083df8043c3f3d43.jpg",
+        "intro": null,
+        "description": "This DLC contains the Pig Outfit and Mask",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023141": {
+        "id": "01006A800016F03F",
+        "rightsId": null,
+        "name": "\u3010Costume\u3011Diamond Armor and Helmet",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70050000023141,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a7d28258043577e04b0820804abb5f1f9289342d27a54c3cb70cc1d9aa5c5c66.jpg",
+        "intro": null,
+        "description": "This DLC contains the Diamond Armor and Helmet.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023142": {
+        "id": "01006A800016F040",
+        "rightsId": null,
+        "name": "\u3010Costume\u3011Travis Outfit and Wig",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70050000023142,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/72444bd713c10eb1ea519d7944bc90f95ed18987e20eb9a3245791a2389b7feb.jpg",
+        "intro": null,
+        "description": "This DLC contains the Travis Outfit and Wig.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023143": {
+        "id": "01006A800016F041",
+        "rightsId": null,
+        "name": "\u3010Costume\u3011Bomberman Outfit and Mask",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70050000023143,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7ba99ca3393389df953774e2af1892d0b27257a8078a0d04fcc4f84ce8bfe09a.jpg",
+        "intro": null,
+        "description": "This DLC contains the Bomberman Outfit and Mask.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023144": {
+        "id": "01006A800016F042",
+        "rightsId": null,
+        "name": "\u3010Costume\u3011Gil's Armor and Helmet",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70050000023144,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f67138b0300992fe16d07cd9a90419daabfd3999c3efbfee0d7c59988f9590a7.jpg",
+        "intro": null,
+        "description": "This DLC contains the Gil's Armor and Helmet.",
+        "languages": null,
+        "size": 4194304
+    },
     "70070000000041": {
         "id": null,
         "rightsId": null,
@@ -19010,7 +19203,7 @@
         "intro": "The Future Is Now.\u00a0 Are You With Us?",
         "description": "Overwatch: Legendary Edition includes:\n\u2022\tRedeemable code for Nintendo Switch Online Individual Membership 3-month subscription (Terms apply. nintendo.com/switch-online)\n\u2022\tThe full game\n\u2022\t5 Legendary Hero Skins\n\u2022\t5 Epic Hero Skins\n\u2022\t5 Origin Hero Skins\nBegin your Watch\nJoin the fight for the future in the world of Overwatch\u00ae and choose your hero from a diverse cast of soldiers, scientists, adventurers, and oddities. Bend time, defy physics, and unleash a dizzying array of extraordinary powers and weapons. Engage your enemies in iconic locations from around the globe in the ultimate team-based shooter.\nExperience the Extraordinary\nSpeed up and slow down time. Rain destruction from above in an experimental, jet-powered armor suit. Stalk your prey as a wraith-like assassin that can appear anywhere, anytime. Unleash powers such as Dragonstrike, Transcendence, Graviton Surge, and so much more. Every hero has a unique set of devastating, game-changing abilities.\nPlay Heroes, Not Classes\nEvery hero has a unique perspective on the battlefield and a story behind how they arrived there. You are a champion of a bygone age wielding his punishing rocket hammer in the service of honor, a robotic monk committed to healing the rifts between man and machine, a genetically engineered gorilla who also happens to be a brilliant scientist, and many, many more.\nFight for the Future...Together\nTeamwork is imperative for survival as you enter the fight with friends and comrades. Careful coordination will prove the difference between victory and defeat as your team combines the formidable powers at your disposal to devastating effect.\nShift Your Perspective\nJust when it seems like your team is destined to go down in defeat, switch heroes on the fly and change the course of the battle. But don\u2019t forget that your opponents can do the same. Master the game within the game as both teams shift strategies and change heroes to try to gain the upper hand.\nThe World Is Your Battlefield\nProtect the secrets of the mysterious Temple of Anubis in Egypt, safely escort an EMP device through King\u2019s Row in London, and do battle at many other unique locations. Every map has its own distinct feel with unique gameplay and team-based objectives.",
         "languages": null,
-        "size": 13785628672
+        "size": 14448328704
     },
     "70070000008561": {
         "id": null,
@@ -19475,7 +19668,7 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd2b31900908fa299444d35836d4ae468c0462160e35d36cf218482ac4ffca9b.jpg",
         "intro": "Expand your roster of fighters with the Super Smash Bros.\u2122 Ultimate Fighters Pass Vol. 2!",
-        "description": "Expand your roster of fighters with the Super Smash Bros.\u2122 Ultimate Fighters Pass Vol. 2 DLC for the Super Smash Bros. Ultimate game! Purchase this Fighters Pass now to get access to six additional playable fighters, plus additional stages, and music as they release. Announced fighters include Min Min from the ARMS\u2122 game! \n\nSuper Smash Bros. Ultimate Fighters Pass VOL. 2 will contain six Challenger Packs.\n\nThe contents of Challenger Pack 7 through Challenger Pack 11 have not been announced yet, but they\u2019re still included with the purchase of this Fighters Pass.\n\nChallenger Pack 6 includes Min Min as a playable fighter, their stage, and a selection of music.\n\nChallenger Pack 1 through Challenger Pack 5 of the original Super Smash Bros. Ultimate Fighters Pass are not included and are sold separately.\n",
+        "description": "Expand your roster of fighters with the Super Smash Bros.\u2122 Ultimate Fighters Pass Vol. 2 for the Super Smash Bros. Ultimate game! Purchase this Fighters Pass now to get access to six additional playable fighters, plus additional stages, and music as they release. Announced fighters include Min Min from ARMS and Steve & Alex from Minecraft\u2122! \n\nThe Super Smash Bros. Ultimate Fighters Pass VOL. 2 will contain six Challenger Packs.\n\nThe contents of Challenger Pack 8 through Challenger Pack 11 have not been announced yet, but they\u2019re still included with the purchase of this Fighters Pass.\n\nChallenger Pack 6 includes Min Min as a playable fighter, their stage, and a selection of music.\n\nChallenger Pack 7 includes Steve & Alex as a playable fighter, their stage, and a selection of music.\n\nChallenger Pack 1 through Challenger Pack 5 of the original Super Smash Bros. Ultimate Fighters Pass are not included and are sold separately.\n",
         "languages": null,
         "size": 29360128
     },
@@ -19737,7 +19930,7 @@
         "intro": "Super plays clash in soccer action game Captain Tsubasa!",
         "description": "The Deluxe Edition includes:\n- Captain Tsubasa: Rise of New Champions (full game)\n- Character Pass\n\nDeluxe Edition Bonus:\n- V Jump accessories\n\nCaptain Tsubasa: Rise of New Champions, based on the globally beloved anime series, is an action soccer game featuring the latest graphics and super plays anyone can enjoy.",
         "languages": null,
-        "size": 13956546560
+        "size": 13977518080
     },
     "70070000010923": {
         "id": null,

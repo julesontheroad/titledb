@@ -2017,7 +2017,7 @@
             "https://img-eshop.cdn.nintendo.net/i/c06a7c551a35b4bb549d21a41ecc52225287cd7985f8cbb434a5fecf7197612b.jpg",
             "https://img-eshop.cdn.nintendo.net/i/8e26b2b5fbaa785806044caf66f77a61e6cb991a641fc8a820bab5fa4759448d.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c26e75a89e5f2197cfe8daff15ef684114aba8e706d4c529ed50f03d7a382de8.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d94d7aad807ffb81a51c3979b16268d038c44b31713c7d6d9f3d4a2bf5e251f0.jpg",
         "intro": "Incrementa tu equipo de adorables pikmin para explorar un extra\u00f1o mundo y salvar al planeta ",
         "description": "\u00a1Comanda un grupo de diferentes Pikmin\u2122 para dominar todos los obst\u00e1culos, derrotar las criaturas y encontrar alimentos para tu planeta! Incluso puedes invitar a un segundo jugador para dividir las tareas mientras exploras un mundo que parece inmenso desde la perspectiva de un ser diminuto. \n\nPikmin a tu paso \n\nRegresa a tu nave antes de que acabe el tiempo, o t\u00fa (y tus pikmin) estar\u00e1n en grandes problemas. Si prefieres un enfoque m\u00e1s casual, se han a\u00f1adido una variedad de ajustes de dificultad, objetivos de bloqueo y consejos opcionales. Con menos presi\u00f3n, tendr\u00e1s m\u00e1s tiempo para comandar estrat\u00e9gicamente a tus pikmin y as\u00ed dominar el exuberante escenario. \n\n\u00a1Disfruta de las misiones en las historias adicionales, los combates cara a cara y mucho m\u00e1s! \n\nEsta versi\u00f3n especial del juego Pikmin 3 incluye una nueva historia adicional con protagonistas como Olimar y Luis, la opci\u00f3n de disfrutar del modo Historia junto a un amigo y todos los escenarios de contenido descargable de la versi\u00f3n original. \u00bfQuieres competir un poco? Disfruta de un intenso mano a mano con otro jugador en el modo Batalla de bingo. \n\nTres valientes exploradores aterrizan en el planeta PNF-404 en una misi\u00f3n para encontrar alimentos para su planeta en hambruna. Despu\u00e9s de un accidentado aterrizaje, estos exploradores deber\u00e1n trabajar con los Pikmin para reunir y completar su misi\u00f3n.  \n\nDirige, arroja y desarrolla Pikmin con diferentes habilidades y fortalezas, los pikmin alados pueden volar, mientras que los pikmin azules pueden respirar bajo el agua. Al elegir al pikmin adecuado para el trabajo y al intercambiar entre los tres capitanes (o coordinando con un segundo jugador), podr\u00e1s trabajar eficientemente para recolectar la fruta y cosechar tu propio equipo de pikmin.  \n\nCuando no est\u00e9s ocupado recogiendo fruta y salvando tu planeta, prueba el modo Misiones para cumplir los requisitos establecidos, como derrotar a los enemigos o recoger objetos. \u00bfBuscas una competencia amistosa? En el modo Batalla de bingo deber\u00e1s usar los pikmin para recobrar los objetos en tu cart\u00f3n de bingo antes de que tu oponente lo haga.  \n\nCon m\u00e1s opciones para disfrutar del juego cooperativo, ajustes que facilitar\u00e1n el inicio de una aventura pikmin para los m\u00e1s nuevos, nuevas historias adicionales y mucho m\u00e1s, estos peque\u00f1\u00edsimos pikmin est\u00e1n listos para la aventura m\u00e1s grande de todos los tiempos. \n\n\u00a1Descarga el juego de muestra en Nintendo eShop para poner a prueba el modo Historia, el modo Misiones e incluso explorar acompa\u00f1ado de un segundo jugador! Una vez adquirido el juego, tu progreso se podr\u00e1 transferir al juego completo. Como bonificaci\u00f3n adicional, al derrotar al primer jefe del juego de muestra y transferir los datos guardados a la versi\u00f3n completa del juego, se desbloquear\u00e1 inmediatamente la opci\u00f3n de dificultad \"superpicante\" para el juego completo.  ",
         "languages": [
@@ -2707,7 +2707,7 @@
             "ru",
             "ko"
         ],
-        "size": 12702449664
+        "size": 12918456320
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -4893,7 +4893,7 @@
             "ru",
             "ko"
         ],
-        "size": 13785628672
+        "size": 14448328704
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -5544,7 +5544,7 @@
             "fr",
             "de"
         ],
-        "size": 11413749760
+        "size": 11449401344
     },
     "70010000021364": {
         "id": "01000B900D8B0000",
@@ -6273,7 +6273,7 @@
             "pt",
             "fr"
         ],
-        "size": 13910409216
+        "size": 13931380736
     },
     "70010000027023": {
         "id": "0100DBF01000A000",
@@ -7909,7 +7909,7 @@
             "Desnudez",
             "Lenguaje fuerte",
             "Temas insinuantes",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00c3\u00b3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 17,
@@ -7969,7 +7969,7 @@
             "Derramamiento de sangre",
             "Violencia intensa",
             "Lenguaje fuerte",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00c3\u00b3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 17,
@@ -16148,12 +16148,12 @@
     "70050000018962": {
         "id": "01006A800016F008",
         "rightsId": null,
-        "name": "Paquete de aspirante 7",
+        "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 7",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20211231,
+        "releaseDate": 20201013,
         "nsuId": 70050000018962,
         "category": null,
         "ratingContent": [
@@ -16169,10 +16169,17 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/db3243dfd42ede47c0a291fa6ed75e2683a4021ce4b1c2951476cbfce00402aa.jpg",
-        "intro": null,
-        "description": "Este paquete de contenido descargable incluye:\n\u3000- Un combatiente nuevo\n\u3000- Un escenario nuevo\n\u3000- Varios temas nuevos\n\nSe ofrecer\u00e1 informaci\u00f3n adicional en una fecha posterior.",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/39a117ef0605dc18f879d73d2736e210e61f690e607083d3e0de7f30e6661521.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd3c67869e83fe3566178f9ee726488f6c9f02c0fc5aa7bafbdcc51100e98458.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/667574cafea96ab02491e7faf265c1e28e2bef7768b20658ff1884dd8027030a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37dbc0661920540b71226772e06f2ae4964bfd0125972aedb585f24465163c1d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0182912adb294669cfaeefc7877884a1a689f162727682521cd2eaa3df49cdcd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/75bf74740f7092fb90feff3d5d5c4b50404871a3bb8b328e175a755fd4311ef6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/99e54718b11dc790a31a48a7e1b13501bbf8f0e4d60f2233ed504556913a79bd.jpg",
+        "intro": "\u00a1Steve y Alex se unen al combate!",
+        "description": "\u00a1Steve y Alex del juego Minecraft\u2122 se unen al juego Super Smash Bros.\u2122 Ultimate como combatiente jugable! Estos personajes son dos apariencias del segundo combatiente del pase de combatientes vol. 2 de Super Smash Bros. Ultimate. \u00a1Usa las distintas herramientas de Steve y Alex para minar y fabricar para alcanzar la victoria! El paquete de combatiente 7 tambi\u00e9n incluye un nuevo escenario.\n\nNota: El contenido de este paquete de combatiente ya est\u00e1 incluido en el pase de combatientes vol. 2 de Super Smash Bros. Ultimate (se vende por separado).\n",
         "languages": null,
         "size": 4194304
     },
@@ -17951,6 +17958,192 @@
         "languages": null,
         "size": 517996544
     },
+    "70050000023139": {
+        "id": "01006A800016F03D",
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Traje de Creeper/ Gorro de Creeper",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70050000023139,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0db35c957b825e47d6b2c320a272a2bd129ed9e4baf13466090ec80f10ceb697.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye el traje y el gorro de Creeper.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023140": {
+        "id": "01006A800016F03E",
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Traje de Cerdo / Gorro de cerdo",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70050000023140,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b0eee023e0c4c3d1f66d3ac836f265074a6e8691a8acf7cac2e0a334b03ea59c.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye el traje y el gorro de cerdo.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023141": {
+        "id": "01006A800016F03F",
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Armadura de diamante / Casco de diamante",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70050000023141,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5a2ea1798fee274bb2298910bbddb7d1cf02675b56da9e9c827de5026eea6709.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye la armadura y el casco de diamante.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023142": {
+        "id": "01006A800016F040",
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Traje de Travis / Peluca de Travis",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70050000023142,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/59b141e8648a1356d7eea428207bc29f17308f44665b6caa9df9a1840451f7b4.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye el traje y la peluca de Travis.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023143": {
+        "id": "01006A800016F041",
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Traje de Bomberman / Casco de Bomberman",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70050000023143,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/34687e49cde1701e70ccc2bebf0b3f23b049921b68827cbdc7ccdfb498cd6939.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye el traje y el casco de Bomberman.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023144": {
+        "id": "01006A800016F042",
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Armadura de Gilgamesh / Yelmo de Gilgamesh",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70050000023144,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fe0fceba859881bf818ff533df001650d91a126a430db1ff926bbca8376729c2.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye la armadura y el Yelmo de Gilgamesh.",
+        "languages": null,
+        "size": 4194304
+    },
     "70070000000041": {
         "id": null,
         "rightsId": null,
@@ -19171,7 +19364,7 @@
         "intro": "El futuro es ahora. \u00bfEst\u00e1s con nosotros?",
         "description": "Overwatch: Legendary Edition incluye:\n\u2022\tC\u00f3digo para canjear para la suscripci\u00f3n de 3 meses de membres\u00eda individual de Nintendo Switch Online (Se aplican t\u00e9rminos. nintendo.com/switch-online)\n\u2022\tEl juego completo\n\u2022\t5 dise\u00f1os de h\u00e9roe legendarios\n\u2022\t5 dise\u00f1os de h\u00e9roe \u00e9picos\n\u2022\t5 dise\u00f1os de h\u00e9roe Origin\nEmpieza tu guardia\n\u00danete a la lucha por el futuro en el mundo de Overwatch\u00ae y elige a tu h\u00e9roe de entre una diversa lista de soldados, cient\u00edficos, aventureros y superdotados. Manipula el tiempo, desaf\u00eda la f\u00edsica y desata una gran variedad de armas y poderes extraordinarios. Enfr\u00e9ntate a tus enemigos en ubicaciones emblem\u00e1ticas de todas partes del mundo en el juego de disparos por equipos definitivo.\nVive lo extraordinario\nAcelera y ralentiza el tiempo. Haz llover destrucci\u00f3n desde lo alto en una armadura experimental con propulsores. Acecha a tu presa como un asesino espectral que puede aparecer en cualquier lugar en cualquier momento. Desata poderes como Golpe drag\u00f3n, Trascendencia, Oleada de gravitones y muchos m\u00e1s. Cada h\u00e9roe tiene un conjunto de habilidades \u00fanicas y devastadoras capaces de alterar el curso de la partida.\nJuega con h\u00e9roes, no clases\nCada h\u00e9roe tiene una perspectiva \u00fanica en el campo de batalla y una historia detr\u00e1s de c\u00f3mo lleg\u00f3 hasta all\u00ed. Puedes ser un campe\u00f3n de una era antigua que blande su martillo propulsado en servicio del honor, un monje rob\u00f3tico que tiene como misi\u00f3n sanar las grietas entre la humanidad y las m\u00e1quinas, o un gorila dise\u00f1ado gen\u00e9ticamente que resulta ser tambi\u00e9n un brillante cient\u00edfico, entre muchos otros.\nLucha por el futuro... en equipo\nEl trabajo en equipo ser\u00e1 fundamental para la supervivencia cuando ingreses al campo de batalla con amigos y compa\u00f1eros. Una coordinaci\u00f3n minuciosa puede marcar la diferencia entre la victoria y la derrota al momento de combinar en equipo los formidables poderes que tienen a disposici\u00f3n para provocar un efecto devastador.\nCambia tu perspectiva\nJusto cuando parece que tu equipo est\u00e1 destinado a sufrir una derrota, cambia de h\u00e9roe en cualquier momento y modifica el curso de la batalla. Pero no olvides que tus oponentes pueden hacer lo mismo. Domina el juego dentro de la partida al tiempo que ambos equipos cambian de estrategia y de h\u00e9roe para obtener una ventaja sobre su rival.\nEl mundo es tu campo de batalla\nProtege los secretos del misterioso Templo de Anubis en Egipto, escolta un dispositivo PEM para que llegue a salvo a destino por King\u2019s Row en Londres y libra batallas en muchas m\u00e1s ubicaciones \u00fanicas. Todos los mapas tienen caracter\u00edsticas distintivas propias, con objetivos por equipos y estilos de juego singulares.",
         "languages": null,
-        "size": 13785628672
+        "size": 14448328704
     },
     "70070000008561": {
         "id": null,
@@ -19636,7 +19829,7 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd2b31900908fa299444d35836d4ae468c0462160e35d36cf218482ac4ffca9b.jpg",
         "intro": "\u00a1Expande tu elenco de combatientes con el pase de combatientes VOL. 2 de Super Smash Bros.\u2122 Ultimate!",
-        "description": "\u00a1Expande tu elenco de combatientes con el pase de combatientes vol. 2 de Super Smash Bros.\u2122 Ultimate para el juego Super Smash Bros.\u2122 Ultimate! Tras adquirir el pase de combatientes tendr\u00e1s acceso a contenido adicional que incluye seis combatientes jugables, m\u00e1s escenarios y temas musicales una vez que est\u00e9n disponibles. \u00a1Los combatientes adicionales incluyen a Min Min del juego ARMS\u2122!\n\nEl pase de combatientes VOL. 2 de Super Smash Bros. Ultimate es un set que incluye seis paquetes de combatientes.\n\nEl contenido del paquete de combatiente 7 hasta el paquete de combatiente 11 a\u00fan no han sido anunciado, pero se incluye con la compra de este pase de combatientes.\n\nEl paquete de combatiente 6 incluye a Min Min como combatiente jugable, un escenario y varias melod\u00edas.\n\nEn la compra de este pase de combatientes vol. 2 no se incluye el contenido del paquete de combatiente 1 hasta el paquete de combatiente 5 del anterior pase de combatientes para Super Smash Bros. Ultimate que se vende por separado.\n\n",
+        "description": "\u00a1Expande tu elenco de combatientes con el pase de combatientes vol. 2 de Super Smash Bros.\u2122 Ultimate para el juego Super Smash Bros.\u2122 Ultimate! Tras adquirir el pase de combatientes tendr\u00e1s acceso a contenido adicional que incluye seis combatientes jugables, m\u00e1s escenarios y temas musicales una vez que est\u00e9n disponibles. \u00a1Los combatientes adicionales incluyen a Min Min del juego ARMS\u2122 as\u00ed como a Steve y Alex de Minecraft\u2122!\n\nEl pase de combatientes VOL. 2 de Super Smash Bros. Ultimate es un set que incluye seis paquetes de combatientes.\n\nEl contenido del paquete de combatiente 8 hasta el paquete de combatiente 11 a\u00fan no han sido anunciado, pero se incluye con la compra de este pase de combatientes.\n\nEl paquete de combatiente 6 incluye a Min Min como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 7 incluye a Steve y Alex como combatiente jugable, un escenario y varias melod\u00edas.\n\nEn la compra de este pase de combatientes vol. 2 no se incluye el contenido del paquete de combatiente 1 hasta el paquete de combatiente 5 del anterior pase de combatientes para Super Smash Bros. Ultimate que se vende por separado.\n\n\n",
         "languages": null,
         "size": 29360128
     },
@@ -19898,7 +20091,7 @@
         "intro": "\u00a1Vive un s\u00faper enfrentamiento lleno de acci\u00f3n y f\u00fatbol sin igual en Captain Tsubasa!",
         "description": "La Deluxe Edition incluye:\n- Captain Tsubasa: Rise of New Champions (juego completo)\n- Pase de personajes\n\nExtras con la Deluxe Edition:\n- Accesorios de V Jump.\n\nCaptain Tsubasa: Rise of New Champions, basado en la serie de anim\u00e9 tan aclamada en todo el mundo, es un juego de f\u00fatbol y acci\u00f3n con las gr\u00e1ficas m\u00e1s nuevas y todas las jugadas espectaculares que ser\u00e1n el deleite de chicos y grandes.",
         "languages": null,
-        "size": 13956546560
+        "size": 13977518080
     },
     "70070000010923": {
         "id": null,
