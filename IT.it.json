@@ -1,4 +1,48 @@
 {
+    "70010000000316": {
+        "id": null,
+        "rightsId": null,
+        "name": "Pinball FX3",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20171212,
+        "nsuId": 70010000000316,
+        "category": [
+            "Arcade",
+            "Simulazione"
+        ],
+        "ratingContent": [
+            "Imprecazioni moderate",
+            "Acquisti digitali"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Zen Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1171ec156a237b2c95457932e868f84902507bc4ab1be4aafe96dcda98b11adc.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/70e9b17de9e0572c3b4a78e4fefbf9095c3197162d84db4d52f0e0b1051fd1a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d24b276dbaccf2dc6ff85a4b23931761aa72423faddf22907738aed9ee8a8824.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fc29a3cea918ff067aa82c894c195371ad0fe238b9dedea619cdc1d97afe1f9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d2fdc0eee8b5c0de046fffe593204ab9acd809c6319633d73bcc80481e242fb3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/482a671abcec2c3ac24c01d9b464f3eba5b1bb981c9a8608fdbb65c15fd890ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5fcd034dc4fb3a9286baf8de50889e1d42844ad466c7d6d5a8d3ac618218e7b5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/18f624415aba993124a6003998b7ba8b20e7761e59abe48517b6628d533840e6.jpg",
+        "intro": null,
+        "description": "I classici Williams\u2122 Pinball sono disponibili insieme al tavolo GRATUITO Fish Tales\u2122! Zen \u00e8 fiera di offrire questi sensazionali titoli ai giocatori di tutto il mondo!\n\nPinball FX3 \u00e8 il flipper PI\u00d9 GRANDE e incentrato sulla COMMUNITY mai creato. Abbinamenti multigiocatore, tornei generati dagli utenti e campionati offrono opportunit\u00e0 infinite.\n\n- Non sei un asso del flipper? Pinball FX3 ha modalit\u00e0 per giocatore singolo che ti faranno migliorare!\n- Tutti i tavoli hanno una grafica potenziata, tra cui illuminazione in tempo reale e proiezione delle ombre.\n- In tutti i tavoli si possono affrontare nuove, avvincenti modalit\u00e0, miglioramenti dei tavoli, potenziamenti, oggetti bonus sbloccabili e molto altro!\n\nZen Studios continuer\u00e0 a supportare Pinball FX3 con tanti contenuti e funzionalit\u00e0 inedite!\n\nIn Pinball FX3 troverai una divertente collezione di flipper, con tavoli ispirati ai pi\u00f9 grandi marchi dell'intrattenimento, tra cui Alien\u2122,I Griffin, TellTale's The Walking Dead, Portal\u00ae e altri!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 389021696
+    },
     "70010000000666": {
         "id": "01000C7003FE8000",
         "rightsId": null,
@@ -854,12 +898,11 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b5ed9333582ceaf35e699dfd18c237093d1854f251f56e50af126531653781cc.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/f3830c19d01afa5f4a355fd9a4919ea10105f539c77ddcb1d9479c4e8787939e.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/90cfd1cc214cb719d71f267d9eb01e2d42dfeeb9f24dcf343ea4ab8d9e096781.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/9295e8ca1733a3efe4e6cda872cf8411998a831f3799f3be5f9083194b336d33.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/14c87dd6da92407809dca4530c344ba65a3c9e2b5b13d609df3f952ec8d5ab5f.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/afb5ec2a7540eff4da91e1725ba58bfcf3b10ea9c57c9e3797463522c6c2fd3e.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/71f02a677c7d1e92a0a57e9dd5ed62e127e0ae522854d2f261f911053d73e229.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/25b127bac5e5e3e166e74c398b8056a6b87979058acfbfc98d8d4a7dd5364712.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3636ba00e8558b6010a6d37868a21aeab248f69cbfb1db958aaf305176b540b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c837783dd59210f0ee4b2851742dea924c22a8f214dcc18c6403c4b436dfe35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/29a1dc36dde1c50bce87aa53792a22c441f4f783bf805a50ad20f77fdfcdcce1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed77277198b01fadc972ed40a2d256c0b3b3cef0b86f62eea74f74cb4384d4fb.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7c0dc0770e9c1f3615f8625f61097744c115e57762b07421405d3390ccec8c13.jpg",
         "intro": null,
@@ -954,7 +997,7 @@
             "de",
             "it"
         ],
-        "size": 1563426816
+        "size": 2121269248
     },
     "70010000011601": {
         "id": "01007A700A87C000",
@@ -2825,6 +2868,50 @@
         ],
         "size": 157286400
     },
+    "70010000018590": {
+        "id": null,
+        "rightsId": null,
+        "name": "Cardpocalypse",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191212,
+        "nsuId": 70010000018590,
+        "category": [
+            "Gioco di ruolo (RPG)",
+            "Avventura",
+            "Strategia",
+            "Altro"
+        ],
+        "ratingContent": [
+            "Paura"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Versus Evil",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9ebd998d07b33ad4c3f2cd16eb754b77d522c5250c5a9650c7f561f8757b0454.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/715db69afe17c8a80b10a64fa8469213a7a6f7c9a0946c2eaaade6f51816ae5c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1725c4e40092d64777dda4f3a4ffa8cbc959a7fb85a54676dff5c11bdf373cca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c78a6a424a6a6d62f5fd3a8305e165a20cce02a3764384c79f09a98ce5e91a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70f16c8310c03691f9652906072d97e10e4bf27c17fffec89d95c88e899f83cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/00acb4aa223858bf4bc5b8474bc28239df2e2f3b706db463a865a635099a8f73.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d21fd80c79d793511f476a82ee4592a4d2733af6ea16916da5e0baa2bda3e28b.jpg",
+        "intro": "Per fermare i mutanti, \u00e8 necessario batterli al loro stesso gioco...",
+        "description": "Fare amicizia, giocare a carte, stravolgere le regole, diventare un maestro dei Mega Mutant Power Pets, e cercare di salvare il mondo in questo gioco di ruolo per un giocatore singolo che racconta di essere un bambino degli anni '90. Al suo primo giorno alla Scuola elementare Dudsdale, Jess, una bambina di 10 anni, fa s\u00ec che il gioco di carte da collezione preferito da tutti venga accidentalmente proibito, costringendo i bambini a nascondere le loro battaglie di carte. I problemi sorgono quando i mutanti dal gioco invadono il mondo reale, e spetta a Jess e le sue amiche fermarli.\n\n\u2022 Sii un CAMPIONE: costruisci i tuoi mazzi intorno alle rarissime carte campione che guadagni. Ogni campione \u00e8 dotato di abilit\u00e0 uniche per personalizzare il tuo mazzo. Il primo giocatore che ottiene la salute della carta campione avversaria a zero vince la partita.\n\u2022 GO MEGA: le carte campione si evolvono nelle loro forme MEGA quando la loro salute si dimezza, facendo pi\u00f9 danni da attacco e guadagnando nuovi poteri.\n\u2022 CAMBIARE IL GIOCO: I bambini a volte usano le regole della casa e chiss\u00e0 cosa cambieranno i mutanti. Durante tutto il gioco sceglierai le nuove regole e condizioni, oltre a rinominare le tue carte preferite e a dare loro aggiornamenti utilizzando adesivi. Crea carte completamente nuove usando il Mega Mutant Power Magazine. Ma attenzione, queste decisioni sono permanenti.\n\u2022 RAGGIUNGI SCRAPPY: Avventurati in tutta la scuola per svelare le strane vicende di Dudsdale Elementary. Affronta missioni per guadagnare carte, adesivi e caramelle che puoi raccogliere e scambiare con i tuoi compagni di classe. Attento, non ci sono le retrovie!\n\u2022 NON \u00c8 POSSIBILE RACCOGLIERGLI TUTTI:: Alla fine, i tuoi mazzi e le tue regole saranno uniche per te. Gli adesivi sono rari, le scelte sono importanti e a volte dovrai prendere una decisione difficile per ottenere le carte migliori.\n\u2022 Gli anni '90: Attraverso la sua narrazione interattiva, totalmente rad, guidata dalla scelta, Cardpocalypse offre l'esperienza di essere un bambino degli anni '90. Boo-ya!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 1577058304
+    },
     "70010000018598": {
         "id": "010069100DB08000",
         "rightsId": null,
@@ -3217,6 +3304,53 @@
             "en"
         ],
         "size": 144703488
+    },
+    "70010000019739": {
+        "id": "010089D00E28A000",
+        "rightsId": null,
+        "name": "FUSER\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70010000019739,
+        "category": [
+            "Musica",
+            "Party",
+            "Multiplayer",
+            "Lifestyle"
+        ],
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0f4628c9de3b23a315b3912aae0b7d5030c1a2cb1b87cd4f84b6c68b653e4012.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/36334a8103212a587d1008df7456886b58887721acfb7f21c37242288a418cea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0f7874310a25335445e894a3c6d13f8157e935ddf55157805bc14e05ac476cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c9007d28c8ef710979602c369c31e362b7e697b0490d485a97c1de7c82350e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/87c3321598114673fd983dcaaed5beb794b2ddcb6d5c2a44189f8ff08d4a0cbf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/860d07f346c3dd9b66a0dcc838bdcefca82e2d8c300f2a14d712399ad77a2dab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58330b97c4cfa04a93b99d0973a9d34da0ef605d3d4546881bd4e984de65733d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Dai creatori di Rock Band e Dance Central, \u00e8 in arrivo FUSER, un festival musicale virtuale ininterrotto in cui sei tu a controllare la musica! Combina gli elementi dei brani pi\u00f9 popolari del mondo per creare un sound tutto tuo o collabora con gli amici, poi condividi i tuoi mix incredibili e i tuoi epici show col resto del mondo! FUSER uscir\u00e0 su PC e console in autunno. #PlayFuser",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 5456789504
     },
     "70010000019747": {
         "id": "010005E00E2BC000",
@@ -4111,6 +4245,46 @@
         ],
         "size": 3058696192
     },
+    "70010000021205": {
+        "id": "01009C000E442000",
+        "rightsId": null,
+        "name": "Freddy Fazbear's Pizzeria Simulator",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201031,
+        "nsuId": 70010000021205,
+        "category": [
+            "Simulazione",
+            "Strategia"
+        ],
+        "ratingContent": [
+            "Paura",
+            "Violenza moderata"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Clickteam",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d3779cbda83a831103afb64063ee7009afe03c4e74b373e2f221838e9be741cf.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f6f04feeb4647062f12861a38637a7e3e39b5f5dcb135a0c8e9a258399fd2485.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e522e2e7d5a5b12adcc414e12534b540c4f9b836eca09e3da466cdf4b0156f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/83e4e10336166410430c6f9718ffa199f19b4a17b220e204c44c6cf0232baa40.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d2b3be3b181bf0ab7aad39294b9cb2aa0bc3aa9a1d526e131a39ac554df9bbd7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7c062d3f1d657aa3d1fe2fc609b2752cb43c6894ef3122b475403f88590afe51.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad00b1a88101d0ced9102f3289efa96f45c10fc1bd3ce35b5486fce368668c29.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/88dfc4877546db18eeff30dfa891bf7ba1bbfd4544f4304341fbeafbb51c9330.jpg",
+        "intro": "Potenziale proprietario di un ristorante in franchising pizzeria di Freddy Fazbear, ti vogliamo!",
+        "description": "Quello che inizia come un semplice divertimento forno pizza diventa qualcosa di molto, molto di pi\u00f9. Spingi attraverso il visivo gioco arcade per rivelare che sei nella tua pizzeria Freddy Fazbear!\n\nEsplora i nostri cataloghi e acquista le tue prime attrazioni e animatronics, personalizza le tue decorazioni e, soprattutto, assicurati che tutte le attrezzature funzionino correttamente prima di aprire le porte della tua nuovissima pizzeria Freddy Fazbear!\n\nDopo una giornata intensa, concludere il lavoro e chiudere la vostra attivit\u00e0 (spesso a tardi notte durante la costruzione della propria attivit\u00e0!) Fate attenzione, tuttavia, di ci\u00f2 che forse si nasconde nelle prese d'aria. Se qualcosa cattura la tua attenzione, gira la torcia direttamente nello sfiato per difenderti, Fazbear Entertainment fornisce batterie gratis a tutti i tuoi affiliati!\n\nIl giorno dopo, supponendo che sia sopravvissuto durante la notte, reinvestire il suo reddito d' ieri in nuove squadre. Sviluppa la tua piccola pizzeria, giorno dopo giorno, per vederla diventare un impero di ristorazione e intrattenimento! Fazbear Entertainment fornisce ai suoi affiliati tutti gli strumenti e le conoscenze di cui hanno bisogno per creare e gestire una posizione accogliente, sicura ed conveniente.\n\nOh, e se ti va, cerca di salvare alcuni degli animatronics che vagano fuori dal tuo ristorante. Stanno cercando di entrare per mesi, meglio non perdere l'occasione di raccogliere pezzi di ricambio e risolvere qualche reddito aggiuntivo. Se rilevi instabilit\u00e0 o aggressivit\u00e0 in uno di essi, usa il taser di autodifesa Fazbear Entertainment fornito gratuitamente a tutti i suoi affiliati.\n\nCon questo mettiamo fine all'assistenza che siamo legalmente obbligati a fornire. Fazbear Entertainment non pu\u00f2 essere ritenuta responsabile per le sparizioni, le morti o le mutilazioni che possono verificarsi a seguito della gestione del franchising pizzeria di Freddy Fazbear.\n\nNon aspettare pi\u00f9 e inizia oggi!",
+        "languages": [
+            "en"
+        ],
+        "size": 335544320
+    },
     "70010000021225": {
         "id": "010007400EB64000",
         "rightsId": null,
@@ -4807,6 +4981,54 @@
             "zh"
         ],
         "size": 4845469696
+    },
+    "70010000022087": {
+        "id": "010022600E4AE000",
+        "rightsId": null,
+        "name": "R\u00f6ki",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201015,
+        "nsuId": 70010000022087,
+        "category": [
+            "Avventura",
+            "Puzzle",
+            "Piattaforme"
+        ],
+        "ratingContent": [
+            "Orrore",
+            "Violenza contenuta"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "United Label",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f69b05776ffff3bd192668a328698185bae67b9a59181a2482915d85612b1dc1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6a942b39a24635e39e0b62ae8d5428fe90cbfaefe9521337840b796f20fedcee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/baee004be114eb1fea8a142baae76f4be8b5cb31cefceddab20a39f8d04128a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f3d110534c5a0f37a43ef9a1709154eb5e46e7bf797570c1c08e4a13c94bb3e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0dcf316c154770992abc3eacd0b5685dbf8c0a9d6f6268d02583ebbbf31b449.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a60544ba9bf71884b3d73540760978af13bcb24161dd5bea4ce3cf073b020703.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/734edc5e14da1918c0d34d11358eada94d5d6d36d1a7f1e71e89dcf4e89d13be.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3e212bd49de8b41202947beeaab8b4703f6073ffa286c93d32b450e4bf7fba1c.jpg",
+        "intro": "C'\u00e8 un mostro in ogni storia tenebrosa.",
+        "description": "R\u00f6ki \u00e8 un'avventura ispirata al folklore scandinavo, una favola moderna impreziosita da una narrazione toccante, uno stile grafico affascinante, antichi enigmi ed esplorazione emotivamente coinvolgente.\n\nSeguiamo Tove nel suo incredibile viaggio per salvare la famiglia. Un viaggio che la porter\u00e0 nelle profondit\u00e0 di un mondo a lungo dimenticato, dove il folklore si mescola a strane ambientazioni e ancora pi\u00f9 strane creature.\n\nEsplora l'antica natura selvaggia, risolvine i misteri, salva la tua famiglia in questa fiaba moderna adatta a tutti.\n\n\"ESPLORA una foresta fiabesca e piena di vita\"\nSegui Tove nell'esplorazione del mondo ricco e accattivante del folklore scandinavo, pieno di vita e dettagli, creato nel caratteristico stile grafico di R\u00f6ki.\n\n\"Fai amicizia con i MOSTRI\"\nScova le antiche creature magiche della natura selvaggia scandinava: alcune sono amichevoli, altre un po' meno! R\u00f6ki ha un ricco cast di personaggi spaventosi ma allo stesso tempo adorabili, reinterpretati secondo la nostra visione del folklore nordico.\n\n\"CERCA reliquie a lungo dimenticate\"\nL'antica natura selvaggia ha tanti segreti. Ritrova reliquie da lungo tempo dimenticate che ti aiuteranno nella tua avventura.\n\n\"RISOLVI gli enigmi della natura selvaggia\"\nR\u00f6ki \u00e8 un gioco in cui si usa il cervello e non la forza. Riuscirai a sbloccare gli arcaici sentieri e risolvere gli enigmi degli antichi?\n\n\"PIANIFICA il tuo viaggio\"\nTove annota i suoi progressi sul fido e inseparabile diario. Mappa regioni inesplorate, affonda le mani nel ricchissimo folklore scandinavo, colleziona bottino e ottieni stemmi da perfetta esploratrice.\n\n\"Un'AVVENTURA adatta a TUTTI\"\nR\u00f6ki \u00e8 un'avventura adatta a TUTTI. Grazie al suo stile di gioco non violento, al sistema di controllo accessibile e alle tematiche universali, \u00e8 un viaggio che appassioner\u00e0 ogni tipo di giocatore. Il gioco \u00e8 stato sviluppato in modo da risultare impegnativo offrendo, per\u00f2, allo stesso tempo un aiuto quando necessario: pertanto pu\u00f2 essere affrontato da chiunque. Un approccio moderno al classico genere dei giochi di avventura.",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru"
+        ],
+        "size": 1944059904
     },
     "70010000022098": {
         "id": "0100E1800EFCE000",
@@ -6153,6 +6375,53 @@
         ],
         "size": 430964736
     },
+    "70010000024053": {
+        "id": "0100CCF00F5BC000",
+        "rightsId": null,
+        "name": "Outpost Delta",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201020,
+        "nsuId": 70010000024053,
+        "category": [
+            "Piattaforme",
+            "Azione",
+            "Avventura"
+        ],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Hidden Achievement",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8c84a1b56edd976c1c0018a2a356b597d916621b348583609e7113dffbf8c207.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e65fba19e79ba0620d5922838995f1e0bf7d1d52085ab87d89f080a4302407e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/257573e1f997d415c71c53b1f1f8a2bcd654785b20eaa7f46607c5174bb65e55.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3cecc97ce0406e14639d85b97a74695bb5cbf2b437d517023f5516f10be9645.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9a5491e355fea8a84d17cd5c3d171c5dbf10c6404721097ce838b233c23a569.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/93ca9ea2c8054476879e19ce94181cb5ab14b57117f1b81bead9ebaaad5b090c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/88429c126cf321d7d9cd9ad69ddf7704224979449b33d09cb6a606b74c7ea2f2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e4ea5af8fb5293db2eda2f73d05b7c57de6ea2431dc0e239571662e2baf84127.jpg",
+        "intro": "Uno sparatutto sci-fi in 2-D a scorrimento orizzontale per giocatore singolo. Assumi il ruolo di Delta che insieme alla sua IA dovr\u00e0 difendere la stazione spaziale dall'invasione aliena.",
+        "description": "Una stazione di ricerca abbandonata \u00e8 passata inosservata nello spazio per anni, fino ad ora. A causa di un esercito di alieni invasori che assalta la stazione, l'IA dell'avamposto ha riavviato l'ultimo drone di difesa rimasto: Delta. Ora sta a Delta respingere la minaccia Klaath, salvare l'avamposto e viaggiare per lo spazio in cerca di risposte.  \n\n* Sparatutto con doppia levetta in stile platform classico  \n* Esplora una stazione spaziale interconnessa invasa da un'orda implacabile  \n* Controlla la gravit\u00e0 della stazione: fluttua a gravit\u00e0 zero, o aumentane l'intensit\u00e0 per mettere in ginocchio i tuoi nemici  \n* Scopri un arsenale di armi e strumenti, ed equipaggia quelli adatti alla situazione \n* Potenzia la tua tuta per aiutarti a sopravvivere alla potenza dei Klaath",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ko"
+        ],
+        "size": 244318208
+    },
     "70010000024088": {
         "id": "0100CF900FA3E000",
         "rightsId": null,
@@ -6629,7 +6898,7 @@
             "it",
             "nl"
         ],
-        "size": 2159017984
+        "size": 2204106752
     },
     "70010000025487": {
         "id": "01007D8010018000",
@@ -6892,7 +7161,18 @@
         "intro": "Segue Greta, una ragazza che vive in un mondo di ombre mitologiche, mentre intraprende un viaggio alla scoperta di se stessa, incontrando gli eroi leggendari.",
         "description": "Projection: First Light segue le avventure di Greta, una ragazza che vive in un mondo di ombre mitologiche, mentre intraprende un viaggio alla scoperta di se stessa con l'aiuto degli eroi leggendari di tutte le culture da lei esplorate.\n \nCon un comparto visivo ricco di atmosfera e una colonna sonora eterea, creata con strumenti antichi usati nelle esibizioni del teatro delle ombre, Projection: First Light coinvolge i giocatori in un viaggio attraverso la storia del teatro delle ombre, con viaggi in Indonesia, Cina, Turchia e nell'Inghilterra del 19\u00b0 secolo.\n \nAll'inizio della sua spedizione, Greta prende il controllo di una fonte di luce e impara come manipolarla. Le ombre diventano piattaforme e muri, mentre altre soluzioni eleganti e fantasiose danno vita a rompicapi e dissolvono i nemici, in questo gioco che esplora i temi della mondanit\u00e0, del rispetto e della comprensione.",
         "languages": [
-            "en"
+            "ja",
+            "en",
+            "fr",
+            "pt",
+            "es",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
         ],
         "size": 1106247680
     },
@@ -8385,6 +8665,52 @@
         ],
         "size": 1589641216
     },
+    "70010000027353": {
+        "id": "0100F18010BA0000",
+        "rightsId": null,
+        "name": "Speed 3: Grand Prix",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70010000027353,
+        "category": [
+            "Corse",
+            "Arcade",
+            "Azione",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Orange One",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ac80c5c9b367dc89d124ddfb05e1e622cf6589ea32a41a85e3f806dad7b58187.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f06e355599274fa0f27edf4b5827b2c3bf22286eb0dc1cc4ec1851dd01a8aa3b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3740e5fef759dedfb6b22ecfd32b023a2cf84d45147817cbc0cdd74799a387f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/858177b030ce7118aed6b52a59662e04f6284dcbf6e34b44f6958393f1044a75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e73dc04e4ecbea691aaff36c32e781f5bfdbe3bbb21e466a23aeea9ab0c32164.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ce8ad6fe32c9534e452aba40a61d56357215f600206f35e2cc480a216c7e659.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7e6812b1ddabe59aa72cacb874e684408f003cb39a9ba3c6821e7968c7db8130.jpg",
+        "intro": "UN'ESPLOSIVA GARA ARCADE SU PISTA AD ALTA VELOCIT\u00c0 ADATTA A TUTTI",
+        "description": "Entra in pista e dimostra di essere il miglior pilota di tutti i tempi! Scegli la tua auto da corsa preferita e posizionati al primo posto in tutte le stagioni per ottenere il titolo di campione. Guida in modo spericolato per eliminare la competizione e far mangiare la polvere a tutti quanti! \n\nGUIDA IL BRANCO PER TUTTO IL MONDO\nFai sapere a tutti che sei tu a capo del branco. Alimenta la competizione mentre affronti gli altri per conquistare il mondo delle gare su circuito. Gareggia nelle aride terre americane, fai a pezzi l'asfalto del circuito tedesco, competi nella campagna britannica e percorri le strade illuminate di Tokyo! \n\nSta a te diventare una vera leggenda delle competizioni automobilistiche!\n\nFUNZIONALIT\u00c0:\n\u2022 Una gara arcade su circuito intensa e ad alta velocit\u00e0, piena di adrenalina! Elimina la competizione con il tuo stile spettacolare ed esplosivo!\n\u2022 Posizionati al primo posto in ogni stagione per diventare il migliore pilota del mondo.\n\u2022 Guida intuitiva, facile e accessibile a tutti; ideata per giocatori di tutti i tipi e di tutte le et\u00e0.\n\u2022 Se non gestisci i danni della tua auto in tempo, non saranno solo i copertoni a bruciare.\n\u2022 Parti per un tour mondiale nelle migliori piste che il mondo ha da offrire, sperimenta varie condizioni atmosferiche, e il tutto con una grafica incredibile!\n\u2022 Gioca con il multigiocatore locale a schermo condiviso e dimostra di essere il migliore quando sfidi chiunque in qualunque luogo!\n\u2022 Sblocca tante auto bonus: da quelle sportive, modificate ed esotiche ai mostri da gara a nitro, folli e truccati. \n\u2022 Continua a migliorare le tue abilit\u00e0 con l'appassionante modalit\u00e0 Fantasma! Sfida il tuo record personale e ottieni nuovi punteggi pi\u00f9 alti su ogni pista!",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 1524629504
+    },
     "70010000027365": {
         "id": "010044A010BB8000",
         "rightsId": null,
@@ -8701,7 +9027,52 @@
             "zh",
             "zh"
         ],
-        "size": 4493148160
+        "size": 6115295232
+    },
+    "70010000027432": {
+        "id": "0100D30010C42000",
+        "rightsId": null,
+        "name": "Monster Truck Championship",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70010000027432,
+        "category": [
+            "Corse",
+            "Simulazione"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Nacon",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/743d4ebdf03ac61e736e39d65a9e8838ae87863efd202ccf81ce5dd0e5c0b65d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4e96a39abb27614e0b5f49fb56579133e56148a5e113e9ab9b659de6e152d07f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df23ca065f1490d96838ea17a0caf831255e49e1b053d973e22bf948d812417d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da9c80794357d1b245612d35429aa8b09330f641cbbf932fffb23e8998f7ce26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/abc9748ddc07e27cb530c295a770523d537a1e9f19903603aa483506dcbabf2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/122615713e389d4a44312eacd3bd57db14357cac6783d8f807c51343dd8095db.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f893b72e8b834a2e75a68eb72ff612984014e5ede8f21c958276478233390304.jpg",
+        "intro": "La prima simulazione di monster truck!",
+        "description": "Da Las Vegas a Orlando, sfida piloti esperti in gare di velocit\u00e0 o freestyle! Ma prima di sfoggiare doughnut, wheelie e bicycle, dovrai mettere a punto al meglio il tuo camion: un bestione tanto spettacolare e impressionante quanto estremamente difficile da guidare. Il gioco riproduce fedelmente tutte specificit\u00e0 legate al pieno controllo di questi potentissimi mezzi, come la gestione indipendente delle ruote anteriori e posteriori, l'anticipazione del trasferimento di massa nelle curve e la previsione dei rimbalzi dopo i salti.\nMa oltre alle prestazioni c'\u00e8 anche lo stile: personalizza il tuo monster truck e mostralo con orgoglio ai tuoi 7 avversari nella modalit\u00e0 online.\n\u2022 16 monster truck\n\u2022 Oltre 50 elementi personalizzabili\n\u2022 25 arene\n\u2022 3 leghe",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 3152019456
     },
     "70010000027452": {
         "id": "010013C010C5C000",
@@ -10731,7 +11102,7 @@
             "zh",
             "zh"
         ],
-        "size": 8836349952
+        "size": 8838447104
     },
     "70010000028594": {
         "id": "01007130114CC000",
@@ -11771,7 +12142,7 @@
         "developer": null,
         "publisher": "Nerd Monkeys",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/62f01b76c8e404c0f280d7ee279e94ad3171b75b790d96dcda7aca901e7b3729.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b43cd9ffcb10372e6b4f3320983faef6acb131e7b18e744e6c6bcc5e9e2b52e0.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/cab5ccd5eac7db94ffe45e87f38f5c924458602d4abcaf2b436283cf22bb7e44.jpg",
             "https://img-eshop.cdn.nintendo.net/i/78169fef407f1afd524aa8e110493aec2c662c629e6c2c8923a9584056b89bd6.jpg",
@@ -11787,7 +12158,7 @@
             "en",
             "pt"
         ],
-        "size": 83886080
+        "size": 120586240
     },
     "70010000029069": {
         "id": "0100BA70117A6000",
@@ -12230,7 +12601,7 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2f61327bd19cff4806fb996060160c41cc628a39656546d9cc09c591ef37794c.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/6255e93dd893caad20cdb2c4fb8c7be980d5071014c97fb8bdbf5e806d6857b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0c91d2eb796b647ad4ba32855f4df36601c790d60972dffe2fdde36a3eb68f4.jpg",
             "https://img-eshop.cdn.nintendo.net/i/83f0ec007764e3c531354a28cdeb7f3e2045282b7c9541db3bf33580ff6e9dfd.jpg",
             "https://img-eshop.cdn.nintendo.net/i/81ca618d27b67c5ca59928a37577a61f490b44ea8188bb31196a5dab41911ccb.jpg"
         ],
@@ -13393,10 +13764,10 @@
             "Strategia"
         ],
         "ratingContent": [
-            "Violenza intensa"
+            "Violenza contenuta"
         ],
         "numberOfPlayers": 1,
-        "rating": 16,
+        "rating": 12,
         "developer": null,
         "publisher": "Crunching Koalas",
         "frontBoxArt": null,
@@ -15668,6 +16039,56 @@
         ],
         "size": 962592768
     },
+    "70010000030930": {
+        "id": "0100A6E01201C000",
+        "rightsId": null,
+        "name": "Supraland",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201022,
+        "nsuId": 70010000030930,
+        "category": [
+            "Avventura",
+            "Piattaforme",
+            "Azione",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Humble Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d3dd9c5431e7da05f846f0b030c400f7f1e10f561b7199cd8ab31f44f351b57a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dba20b829de85f55ede6a07785ee9b91e23626031ce33b9427c6bbb355fa26c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8bb8416ea9ab2e946e54f81994ef8a8a214f7bc52b7dea2f85211e81f1a45b66.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/75c4de95fa3b4cf4f7427b3d3b745659179b1484b3339758e2bb6b5c822186a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/951eed10b8f7a79a06f4af6604e596e26417b6f90b59990a983437971c79b3f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ba1f131a31df723ca32f79a67b60e10b2223e08b0ac60bccbce6b9f07148a04a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08a0c54af3a365f9674c1a1c36f5e74fc8e3c50f4d8cb80d0c0dad21ccb4a188.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9b788e2297f7e133174c3dcad0162a361f64ddbcb20d20d313f28b50c9eff1e4.jpg",
+        "intro": "Supraland \u00e8 l'avventura \"sandbox\" definitiva, che reinterpreta in una nuova chiave il concetto di rompicapo, esplorazione e avventura! ",
+        "description": "Intraprendi una valorosa missione per salvare il tuo villaggio dei giocattoli in questo acclamato gioco a piattaforme open world in prima persona ricco di rompicapi! \n \nEsplora liberamente un enorme mondo interconnesso. Sblocca nuove potenti abilit\u00e0 e combinale fra loro per risolvere fantasiosi rompicapi e svelare misteriosi segreti. Sfrutta un adrenalinico sistema di combattimento in prima persona per sconfiggere orde di nemici e farti strada fra di loro, fino a riuscire a ottenere un'udienza con il Blue King.\n \nCaratteristiche del gioco:\n- 12-25 ore di gioco open world, con rompicapi e azione degni di un vero gioco a piattaforme\n- Un'enorme avventura in un piccolo spazio \"sandbox\", con meccaniche di gioco gratificanti e centinaia di segreti da scoprire\n- Trova entusiasmanti potenziamenti e sblocca un'ampia gamma di armi e abilit\u00e0 capaci di rovesciare le sorti del gioco\n- Una grafica che far\u00e0 innamorare grandi e piccini, arricchita da innumerevoli ingegnosi rompicapi",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 4960813056
+    },
     "70010000030951": {
         "id": "010014901201E000",
         "rightsId": null,
@@ -16339,6 +16760,57 @@
         ],
         "size": 378535936
     },
+    "70010000031253": {
+        "id": "0100945012168000",
+        "rightsId": null,
+        "name": "Iris.Fall",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210107,
+        "nsuId": 70010000031253,
+        "category": [
+            "Puzzle",
+            "Strategia",
+            "Avventura"
+        ],
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "PM Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6aa7652cd6236f4b0d5ecc4672fa6293d5adfbf1a287bc0ad29ea20faf885984.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/36c3d524fd8d2601e8c6b2bb55b8629bf0463776cb0be4d8d90b5f6b81ce359f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/449165c632ba59e6384a80087850b388899edbe87e86f112e569c98c37e7c18e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f061a5a3a36b4afe676abc87de400fbe5dbaf4b84ba54121dc6207c8157ea99.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cbc3a9e6b1735629ddaae6be838a6e0a6efa3cda27520b3a2843f1c134e8ab68.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8aa9de0108c6fd8fd4441ed9643f1845b957f540d9b63ff0b4b47168aa4041bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/54d70fd45a7a7fa76d7bbefa9eb1180dd144ae574e9f65a7db58e5003e79cd91.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/989f68dbada32a068ce695ce3b1560faea3a0060ca1add5f553dc96444b1324a.jpg",
+        "intro": null,
+        "description": "Fusing gameplay with light & shadow. The concept of light and shadow runs throughout the design of the game\u2019s story, art and puzzles. Switch between light and shadow and pass through the two realities as you experience unique interlacing of black and white, as well as both 2D and 3D.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2354053120
+    },
     "70010000031255": {
         "id": "0100E5501206E000",
         "rightsId": null,
@@ -16684,6 +17156,47 @@
             "zh"
         ],
         "size": 4905238528
+    },
+    "70010000031451": {
+        "id": "01005240121F2000",
+        "rightsId": null,
+        "name": "Grood",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201023,
+        "nsuId": 70010000031451,
+        "category": [
+            "Sparatutto",
+            "Arcade",
+            "Azione"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Drageus Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cdcf4ff0a74363b049119d163670eb49d5f6dc7eb9242e3926be6989887a932e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cf316fd7b219a92de389a9217f76d6f5946a09c56ee3cb6908d53828f33bf2f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7dfaa20a7704bb9730a5ac779000c8175b88ac7d146bc904fdc3cb80a339c598.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ad9341c909ddd17f7af7b605f87cd6d108dc8c7f75ce461100689fe754c3da4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b433f3a7a350bc696e72346af295faeecea323026e7eeb788a8954637d27968.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b50719908bc78c86c3b03a4947262f6b73f0d6fe313172f2806a8de1a4e5570f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca553bb4d7a9bbbc844cc521e3783d706fed96c0e1d41e99529527a3d54f09c6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/63215806965a93dea7af4e458de45cd764811e0ecc810ac664d2fa929d2ae800.jpg",
+        "intro": "Scarica, a ritmo di heavy metal, tutta la tua potenza di fuoco contro gli invasori meccanici in questo shoot'em up concitato e galvanizzante!",
+        "description": "La tua missione: annientare i nemici e i boss dell'armata robotica desiderosi di attaccarti furiosamente con proiettili, missili e raggi laser.\nLa tua nave: GROOD, un potente mezzo da te creato. \u00c8 tempo di pilotare questo gioiellino da guerra!\n\nAttraversa boschi, paludi, citt\u00e0, lande ghiacciate, deserti e tanti altri luoghi per stanare e distruggere i nemici meccanici. Non c'\u00e8 tempo per riposare, il sole tramonter\u00e0 prima che la battaglia sia finita: preparati a combattere giorno e notte, con la pioggia, la neve e il vento... sar\u00e0 una sfida feroce e ci penser\u00e0 la colonna sonora heavy metal a mantenerti allerta e carico di adrenalina.\n\nGROOD coniuga il gameplay arcade dei classici shoot'em up con una grafica al passo con i tempi. I vividi effetti di esplosioni, fumo, fiamme e proiettili ti faranno immergere nell'inferno della battaglia. Ma se preferisci uno stile alla vecchia maniera, ti baster\u00e0 attivare l'opzione \"90s love\" per passare ai pixel della grafica retr\u00f2.\n\nPer riuscire nel tuo intento non basteranno solo le capacit\u00e0, visto che dovrai anche agire con strategia. Mira bene e scegli la posizione giusta per sbarazzarti subito dei nemici pi\u00f9 potenti ed evitare di essere circondato. \nSfida gli amici e gli altri guerrieri di tutto il mondo per ottenere il piazzamento migliore nella classifica mondiale!\n\nCaratteristiche:\n- volo frenetico e fuoco a volont\u00e0;\n- gioco arcade classico con grafica moderna...\n- ...o effetti grafici retr\u00f2 con l'opzione \"90s love\";\n- classifica mondiale;\n- 3 difficolt\u00e0: DIFFICILE, DIFFICILE e DIFFICILE;\n- meteo dinamico che consente maggiore variet\u00e0 e rigiocabilit\u00e0;\n- ciclo giorno/notte. Nessuna possibilit\u00e0 di riposo, combatti dall'alba al tramonto e per tutta la notte;\n- armi e boss finali multipli;\n- colonna sonora heavy metal.",
+        "languages": [
+            "en",
+            "es",
+            "it",
+            "ru"
+        ],
+        "size": 292552704
     },
     "70010000031460": {
         "id": "0100A280121F6000",
@@ -17806,7 +18319,7 @@
         "languages": [
             "en"
         ],
-        "size": 742391808
+        "size": 878706688
     },
     "70010000031829": {
         "id": "0100C7801232C000",
@@ -19166,7 +19679,7 @@
             "ko",
             "zh"
         ],
-        "size": 300941312
+        "size": 337641472
     },
     "70010000032136": {
         "id": "01000ED0124F2000",
@@ -20565,7 +21078,7 @@
             "de",
             "it"
         ],
-        "size": 591396864
+        "size": 725614592
     },
     "70010000032414": {
         "id": "010069C0123D8000",
@@ -20773,6 +21286,53 @@
             "zh"
         ],
         "size": 3308257280
+    },
+    "70010000032460": {
+        "id": "010017C012726000",
+        "rightsId": null,
+        "name": "Fantasy Friends",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70010000032460,
+        "category": [
+            "Simulazione"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "JUST FOR GAMES",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b4b5392c306135d4ce3d6417833ca0466f1c4e23dbaf69376e6c831ef2bbaa66.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/011f0a1f861d6db27f1ab18a1bc0ea56ff7bc47df7da24708ff428a57422753c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f989325ad5a0ecb13f37eeb25d875072fb0ac2db2c0a82359035f981a7dcf80d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12362b5d4f4f440fe7fd1cffa56bbb287da8637d3d2b62d1da4bf87e4b842124.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7abd1c7edfede3e4f177363c48cd2e6bf97def926900c7e48e0db76055011fab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2d9090672ac9ec8cc72a6914cf8272bf2678c7ce51ecfb2fb6e07c1e8f76ef68.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/99f85e745015999621e11283b1ed32792083b739ad13e7b873e103e8b678d188.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2ad9112a0f5cafca77d249230fe363b4687b355574f9bbbdaaf0634f94198a7d.jpg",
+        "intro": null,
+        "description": "Fantasy Friends si svolge in una splendida foresta fantasy dove tutto \u00e8 possibile! Con l'aiuto di Aurea, la fata magica, ti prenderai cura di 12 adorabili nuovi amici animali! Prenditi cura di loro e assicurati di dare loro tutto l'amore di cui hanno bisogno. Se lo farai, i tuoi animali cresceranno e giocheranno con te!\nPi\u00f9 ti prendi cura di loro, rendendoli felici e in salute, pi\u00f9 mana guadagnerai. Usa il tuo mana per ottenere nuove creature, giochi e vestiti, o addirittura incredibili oggetti divertenti per decorare la foresta!\n\n- Da un panda volante a un unicorno arcobaleno, scopri 12 creature incredibili che adorerai coccolare e con cui amerai giocare. Non appena si schiuderanno le uova, tutti avranno bisogno della tua attenzione.\n- Ogni animale ha bisogno di un alimento specifico che dovrai produrre. Ognuno di essi vive nella propria casa e ha un gioco originale che gli piace di pi\u00f9. Divertiti a conoscerli tutti!\n- Raccogli centinaia di colori e skin per i tuoi animali domestici e sfida i tuoi amici a vedere chi avr\u00e0 le creature pi\u00f9 uniche. Puoi essere il primo a trovare quelli pi\u00f9 rari!\n- Ottieni accessori fantastici (cappelli, occhiali da sole, nastri, ecc.) Per personalizzare ciascuno dei tuoi animali domestici!\n- Decora la foresta nel tuo stile con splendidi edifici, piante e oggetti magici! Alcuni potrebbero sorprenderti.\n- Eventi magici casuali possono accadere in qualsiasi momento... Puoi guadagnare pi\u00f9 mana o persino ottenere skin esclusive!\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 763363328
     },
     "70010000032478": {
         "id": "010045D01273A000",
@@ -21149,6 +21709,53 @@
             "en"
         ],
         "size": 451936256
+    },
+    "70010000032537": {
+        "id": "0100EA70127F2000",
+        "rightsId": null,
+        "name": "GONNER2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201022,
+        "nsuId": 70010000032537,
+        "category": [
+            "Piattaforme",
+            "Sparatutto"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Raw Fury",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e451b03956b4d326313ff7395d776f92fa4e93e291ba0d68cc0d72ee99a462df.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ca9c4eaa49a0e9d27a5f7ec5d166d1e518fee99f556f709e1ec47877dffef9d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ffc346b682ae35e7fb3a1f614b9cc7aac1263af1f82fd3672cb5c45c914a1006.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7aa8ce7a0e4bb6110e5e9b2a73ac4172c4b85648ac40daf0c96519153b42263.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0062532495a39506ca726b14bccdcaedb06ffe986ad1f0f64f118409b448f56.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/324991496aade2b26ebddd5ae47c1ac6158ea8c4e34cc60a805264eab1a6b4eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/149a634087e741e4400663dbcc34f572e2dbe5740a8e48ce4939f0710ff30b89.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f73b36f6fb0e44c045f3f8d4d115681494a4487837bd4fe5c468a7151db4dbc6.jpg",
+        "intro": "La morte ha bisogno di te! Sconfiggi i boss viaggiando tra livelli platform procedurali caotici e colorati (anche in compagnia), ma... non perdere la testa!",
+        "description": "In GONNER2, torna il nostro improbabile eroe altruista Ikk! E questa volta la Morte ha bisogno del suo aiuto: una misteriosa presenza si \u00e8 impadronita della sua tana e Ikk deve eliminarla. Viaggia tra luoghi profondi, oscuri e caotici pieni di inimmaginabili scintille colorate e boss folli, cercando letteralmente di non perdere la testa!! GONNER 2 \u00e8 un platform a generazione procedurale con elementi roguelike che ti terr\u00e0 sempre sul chi vive... ora con ancora pi\u00f9 colore e caos! \n\nTroverai: \n- Azione platform sparatutto mozzafiato\n- Livelli a generazione procedurale in un mondo strano e surreale\n- Struttura non lineare dei livelli\n- Teste, armi e potenziamenti da combinare\n- Segreti e misteri!\n\nGONNER 2 \u00e8 il seguito di GONNER, vincitore del premio IGF.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1010827264
     },
     "70010000032541": {
         "id": "0100FE10127F4000",
@@ -22912,7 +23519,7 @@
             "ru",
             "ko"
         ],
-        "size": 260046848
+        "size": 261095424
     },
     "70010000032912": {
         "id": "01005E501284E000",
@@ -23801,6 +24408,50 @@
             "pt"
         ],
         "size": 122683392
+    },
+    "70010000033178": {
+        "id": "01006BA0129F6000",
+        "rightsId": null,
+        "name": "INSTANT Chef Party",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201027,
+        "nsuId": 70010000033178,
+        "category": [
+            "Party",
+            "Multiplayer",
+            "Arcade",
+            "Da tavolo"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "JUST FOR GAMES",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/026e82dd09e43399b64e824e75e738fd2cd03ca58fc7b36e8e55faea8d815e0f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ef4fbb67b30521bb645ade22270674e7a2c328f2ff21b17793e78aa4eef2f192.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c119f1d98ade461fbea757371878b96cca0ad89fbacc375cfff2328f8fe9e2d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39443e1e8d4bdc6cca5070c2c12462ee0a9ebe7ac2a933663a48b89261698efd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/655bd4dedc4d905be1141be438b81abddca6074359eb60896408fae4340d800b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/91a32d427fd9642bdb4bb7d6ba2914618bec6fcdf1b24b0b526c9190a2d1a1af.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fbec2b929dbb5e0692edab5d5d412e1e29e17532ac90a1a0889938a095649f1f.jpg",
+        "intro": "The first cooking party-game !",
+        "description": "No matter if you like French, Italian or Mexican cuisine, cook your way up to the top! In INSTANT Chef Party, you will have to compete with up to 4 players in a series of mini-games themed around food and cook. Be ready to enjoy serving, cooking, harvesting, doing dish-washing and many more activities in coop or versus your friends & family!\n\nAnd guess what..? No cooking skills are required... except, maybe, for toasting marshmallows!\n\n- Salty or Sweety? Choose between our 2 mouth-watering boards to start your gaming session !\n- Select your avatar among 6 budding cooks : Ma\u00ef, Luc, Giovanni, Sidney, Pedro & Sarah ! And don\u2019t let the chef\u2019s hat impress you!\n- Roll the - spicy, hopeless, salty,\u2026 - dices and move forward or\u2026not! Our whimsical dices might provoke some unwanted reactions!\n- Challenge up to 4 buddies in user-friendly and funny various mini-games thanks to the motion-gaming technology!\n- \"Chance\" cards, \u201ccoop\u201d or \u201cone versus all\u201d mode ... everything is here to spice up your game!\n- Be the fastest, be the most skilful ... but to be the Star of our Show, you\u2019ll have to finish first to our run, in INSTANT Chef Party!\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "zh"
+        ],
+        "size": 1086324736
     },
     "70010000033185": {
         "id": "01009170129FA000",
@@ -24835,7 +25486,7 @@
             "zh",
             "zh"
         ],
-        "size": 1068498944
+        "size": 1274019840
     },
     "70010000033494": {
         "id": "0100E06012BB4000",
@@ -25847,7 +26498,7 @@
             "pt",
             "de"
         ],
-        "size": 508559360
+        "size": 514850816
     },
     "70010000033895": {
         "id": "01007FC00F246000",
@@ -25959,6 +26610,51 @@
             "en"
         ],
         "size": 61865984
+    },
+    "70010000033930": {
+        "id": "0100D95012C0A000",
+        "rightsId": null,
+        "name": "Gibbous - A Cthulhu Adventure",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201028,
+        "nsuId": 70010000033930,
+        "category": [
+            "Avventura",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Paura"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Stuck In Attic",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b807f9fdbdc5d6efde872aa71e24c8af07364b73bd862035c8d638c28b221ef9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/78329a235281bbda2b5b518c011bf4a797b4683afb6f6ce1865a0ed27fc25661.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51af7e54067e1c39e52280f89f8007e259224c6fc80e8e4e26f285ed9cdb7ff4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/935a3bfa5291b5e2193a92c2a88d36abe327b6f880f39aaa418e983adf715746.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/02d108a63e12a294fb15d0e33d77fb7283ba6c488ce5d700225f2c2741aeca44.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/10b118c1425dcefd41488852d9d9db3a9c6089b4ed89d8a6c1405c9d7d298556.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/282a2e3bab5b9b2ab8a9bca0654b72116da48c703197d950cfb70b93570fdd42.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/28b246ff1cd2421489d132a405b78551bc4e7b56bc4bfbb263efa14bad83215a.jpg",
+        "intro": "Una commedia/avventura horror cosmica fatta in Transilvania.",
+        "description": "Pazzi settari. Cthulhu. Un gatto parlante. Gibbous \u00e8 una grande avventura, interamente disegnata a mano, con animazioni vecchio stile. Insieme ai tre protagonisti, esplora un mondo ispirato a Lovecraft, e fatti strada tra antiche cospirazioni. Una commedia horror cosmica, fatta in Transilvania!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru"
+        ],
+        "size": 5261754368
     },
     "70010000033952": {
         "id": "01007AF012E16000",
@@ -26454,7 +27150,7 @@
         "languages": [
             "en"
         ],
-        "size": 2958032896
+        "size": 2963275776
     },
     "70010000034331": {
         "id": "01007FC012FD4000",
@@ -26751,6 +27447,44 @@
         ],
         "size": 162529280
     },
+    "70010000034367": {
+        "id": "0100E8B012FBC000",
+        "rightsId": null,
+        "name": "Maze",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201023,
+        "nsuId": 70010000034367,
+        "category": [
+            "Avventura",
+            "Arcade",
+            "Azione"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/304fd42934029a4e25543b839a7b2fb91f2e4f2e5046f524ecaf8d6dc200f85b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e931d0c1a404fa88f2dff7d36991d0ca6c0d2af470d1d9b3cf7d2060f94b2902.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e6ad1332a4ae05a6e64891641f845a309b0b95b0471cad28f9a779898fd169e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2cea51475bca6119ce7aa018990b384f262fa947e7db524833efe0899f0be058.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4f3e6a4e7884c1b9d071ab4757968a336f201a33b2aea4cba8a1a7340a24655.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/66476ef8072d16da1273ffb742b6dd9fe7c682853f289be3f85a313cd843ce61.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d37e455df206bbb764fb45cc0587cd2b121f314790f9b6bdb3e4dfc74a36059c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4dea6afc1a778f59ac19076972cad96c4d994f236b1c896f31dccb72bdd3d8f9.jpg",
+        "intro": "Explore every corner of the Maze. Dive into the abyss of mysteries and dangers. Use your instinct and find the way out to survive.",
+        "description": "EXPLORE EVERY CORNER OF THE MAZE.\nIt feels like you really are the part of the Maze. Don't get tricked! Or the Maze will devour you and your fantasy adventure will be ended. Remember, do not be fooled by beauty and seductive scent. Everything here wants to kill you.\n\nAVOID DANGEROUS TRAPS.\nHave you ever thought about what rabbit feels locked in the trap? Be careful where you step and maybe you will live. Let this fantasy adventure conquer you.\n\nMARVEL THE BEAUTY OF THE SURROUNDINGS AND ENVIRONMENT\nShining crystals, lush nature and fireflies. All of this and even more you will find in Maze game.\n\nDON'T GET LOST - USE RUNES.\nDo not rely solely on your desire to win, but keep your eyes wide open. Use tips and mark your path with runes. Follow the crumbs!",
+        "languages": [
+            "en"
+        ],
+        "size": 522190848
+    },
     "70010000034440": {
         "id": null,
         "rightsId": null,
@@ -26814,12 +27548,9 @@
             "Avventura",
             "Multiplayer"
         ],
-        "ratingContent": [
-            "Paura",
-            "Violenza moderata"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 4,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "Dmytro Derybas",
         "frontBoxArt": null,
@@ -27292,6 +28023,52 @@
         ],
         "size": 51380224
     },
+    "70010000034781": {
+        "id": "0100B53013236000",
+        "rightsId": null,
+        "name": "Kaptain Brawe: A Brawe New World",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201015,
+        "nsuId": 70010000034781,
+        "category": [
+            "Avventura",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Ocean Media",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/da3010b327abcd3bcb2ec278bd828a7d5b6b81e714557eec505ac4aa9489080e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/12014b535d77e4a031767b36c773baa968d64cdc8773dd3454c3de7a6f2c6d02.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/428b51a3d558453236d4623722132b00c15c517274190daa85b68f1901f10f7d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8c2c9a7692ad13c9eb3b96b1d06914b2ed2f6c6d43f8e177714725aa7fbe8891.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4dc2ba963d14140030d50c3811161c17e132d94db6a96038a4ee08afb3ba2210.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52117e62915cfd8172a8b01372bdd83ed14f1ef03d12b165c49ce47bb0cc2ef0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e496a07c1b476f48ea8850ef7ebd3b1f112a616b8312503700dcc5cab10bdb8e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/32c2555735befbd9a6627d80cae785e88ae181754916190ad4623e264a432aec.jpg",
+        "intro": "Reveal the greatest conspiracy in the Space Age!",
+        "description": "Step into the world of interstellar travel, where Space Pirates lurk at every corner. Kaptain Brawe, a Space Police officer will embark on a journey filled with quests, conspiracies and general chaos, as he and his friends follow the lead of two kidnapped alien scientists.\n\n- reveal the greatest conspiracy in the Space Age\n- travel and explore 4 planets\n- play with 3 different characters: Brawe, Luna and Danny\n- be a part of an intriguing and hilarious storyline\n- meet the space pirates, Interstellar government, secret agents and more\n- two game-play modes: Hard-Core and Casual\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 236978176
+    },
     "70010000034806": {
         "id": "0100B3901324A000",
         "rightsId": null,
@@ -27405,7 +28182,7 @@
         "languages": [
             "en"
         ],
-        "size": 224395264
+        "size": 267386880
     },
     "70010000034854": {
         "id": "0100C850130FE000",
@@ -27534,6 +28311,45 @@
             "zh"
         ],
         "size": 0
+    },
+    "70010000035131": {
+        "id": "0100995013404000",
+        "rightsId": null,
+        "name": "Fight",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201015,
+        "nsuId": 70010000035131,
+        "category": [
+            "Picchiaduro",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Violenza intensa"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Sabec",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d4f58c056b75b69a9382fbe2a0ce2c96b8aaffdcee55942b297587b71c43ada5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/06ba5d4cfc4670332da1828dc9e18e7b78c835196bc4f12ee709dc080eeb0651.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ef05fe88b8bd77b81ffb21701ef301454e528c6c686580731c61f80ac23ca683.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78d26e52e8678c442b7189af9e94599b9f9f16dca83f178df0a91ceace09695c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/343f166ce96e9518682983a91aa6325bc1ce38cc33566dbb591c3add704d57d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1eeed89cd5da78b99dd7a5e87f641cfdb944b16f49c2bf824ac92889457cbd6f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1eb0f4d06abb9a8f80deb6bc91849d48e8da1856a51fde7f37a1dc6920f32b52.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/02b9e6a5adb9c8bafb974b29741d24fc6b1a1c28a42a06d34bb16a481ba811d2.jpg",
+        "intro": null,
+        "description": "Are you ready to Fight!\n\nMany fighters receive an anonymous message about the exact location of hidden treasure in the ancient ruins of Saqqar.\n\nAs the fighters descend into the ancient ruins, driven by greed, little do they know an evil deception awaits them.\n\nThe infamous Draegon is the creator of this deception, whose motive is to take the life force of the fighters by using mysterious illusions from other worlds to make them fight one another. \n\nFight is a fun, easy to play one on one fighting game with many different fighters and scenes to choose from - no Fight will be the same. ",
+        "languages": [
+            "en"
+        ],
+        "size": 1363148800
     },
     "70010000035133": {
         "id": "010053C012AE2000",
@@ -29215,6 +30031,41 @@
         "description": "Da ARMS, l'amante del ramen Min Min \u00e8 ora disponibile per l'acquisto! Per combattere, si avvale delle sue lunghe braccia elastiche e di tre armi.\n\nIl suo scenario \u00e8 lo Stadio Boing: usa le piattaforme salterine e sfrutta i droni che trasportano strumenti per avere la meglio in battaglia!\n\nLa musica include i brani dello scenario originale e un remix del tema ufficiale del gioco! Chiss\u00e0, uno di essi potrebbe diventare il tuo preferito!\n\nContenuti\n\u30fb Personaggio: Min Min\n\u30fb Scenario: Stadio Boing\n\u30fb Musica: 18 brani (*1)\n\u30fb Icone per le schede Smash: 3\n\u30fb Spirito: Min Min (personaggio) (*2)\n\u30fb Aggiunte al Tabellone degli spiriti: altri spiriti da ARMS, disponibili nella Ver. 8.0.0. (*3) (*4)\n\n*1 Disponibili dopo l'acquisto in Forziere \u2192 Audio.\n*2 Ottenibili dopo l'acquisto nella modalit\u00e0 Classica o nel negozio nel menu del Forziere.\n*3 Questi nuovi spiriti sono disponibili anche gratuitamente in Forziere \u2192 Negozio.\n*4 Consulta la notizia \"Nuovo aggiornamento del software: Ver. 8.0.0\" per dettagli su questi spiriti.",
         "languages": null,
         "size": 4194304
+    },
+    "70050000019163": {
+        "id": null,
+        "rightsId": null,
+        "name": "Pinball FX3 - Williams\u2122 Pinball: Volume 6",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201020,
+        "nsuId": 70050000019163,
+        "category": null,
+        "ratingContent": [
+            "Imprecazioni moderate",
+            "Acquisti digitali"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Zen Studios",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/44c16044495965f017987ef8d522a9017b2ac143c576e33c93de1b2aa5e51cbc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/033e7cf8ebd7ab8550d499e7db6fcff89eea9f31bc561a86d61b88569bd0829b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/427479c7bb2f054e3e214f24b650a33fb932deae2275627d5c88572fcf672bd6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74bd88ca54a5c918ff3c099fb1a96d2277020e5e26bc46cf19dfcf708d9c132a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e6d582c40595233c2712f149a74c5b6844fc1750372b97f5dfd647fd5c0ab1eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3db875ebfa6a937c1dcace1eb6f163bfef354b975a01f179add82a22e4da4ed8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/44d3b06eafa138c7675edc8b7b0d7cc1431c7f35a2d2ec8963c04cc5b55143a1.jpg",
+        "intro": null,
+        "description": "Questa straordinaria raccolta di tre autentici tavoli Williams\u2122 e Bally\u2122 include FUNHOUSE\u2122, SPACE STATION\u2122 e DR. DUDE AND HIS EXCELLENT RAY\u2122, tutti giocabili sia nella loro forma originale classica, sia in versione rimasterizzata con grafica aggiornata, gadget animati e tantissime nuove funzionalit\u00e0.\n\n- FUNHOUSE: affronta Rudy, il pupazzo da ventriloquo pi\u00f9 iconico dell'universo flipperistico! Non farti scoraggiare dalle sue infinite provocazioni.\n- SPACE STATION: preparati al decollo. Reattori accesi. \u00c8 ora di lanciare questo classico.\n- DR. DUDE AND HIS EXCELLENT RAY\u2122: entra nella Clinica Cinetica di Dr. Dude! Diventa figo! Fatti rispettare e fatti invidiare! Fai avanzare il DUDE-O-METER da Tipo qualunque a Super Dude per vincere ricompense da sballo. \u00c8 arrivato il flipper pi\u00f9 figo di sempre!",
+        "languages": null,
+        "size": 0
     },
     "70050000019184": {
         "id": null,
@@ -38499,6 +39350,88 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000022192": {
+        "id": "01006C500A29D001",
+        "rightsId": null,
+        "name": "Pacchetto fondatore Homestar",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201020,
+        "nsuId": 70050000022192,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Milky Tea",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3d0b637b76cca66cbf8cc2052596264a6245cf9c6a31670662d2f1587e79d4c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7971dc61153480ea2dcb9bc12997407bc3ac9571ce03a72c7f14aa7a77a72a28.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ffd758cf4fbd08980191aa0cf2a214b55934e91b31a72a32a5a8482bd44b6e9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4d94cd76b1ff4d0b3ed18a27b9444d9067d7905087054e5b12c14b61980f65c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7978e00e46f92be4da68d4b54f7b825cd0d65a80745a8b156c736b35dd6ebd70.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e6e14265d6c5fa81fc3d3a949a9f2037308507c3f4ccff979b564b932f985e7f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b3bc3e67271a55427c22acc44f5e0548b93a3b89d5c32fc36d734247fcb80b49.jpg",
+        "intro": null,
+        "description": "Fai brillare ulteriormente i pi\u00f9 grandi eroi della Terra con questo pacchetto skin leggendarie per HyperBrawl Tournament.\nIl pacchetto include:\n- 2 skin leggendarie per Tristan\n- 2 skin leggendarie per Bazooki\n- 2 skin leggendarie per Rip Deadly\n- 2 skin leggendarie per Lito\nNota bene: per equipaggiare queste skin, devi aver sbloccato il rispettivo eroe all'interno del gioco. Gli eroi possono essere sbloccati gratuitamente man mano che si avanza nel gioco.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022284": {
+        "id": "0100D30010C43001",
+        "rightsId": null,
+        "name": "Monster Truck Championship Patriot Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70050000022284,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Nacon",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1d7f9a5be060fcc075c819c7a542f3673c0d3920368ccedb6fe2734674699f41.jpg",
+        "intro": null,
+        "description": "Domina la competizione con questo pack esclusivo che include 1 design e 1 veicolo.\n\nIl Patriot Pack include:\n\n- Il monster truck Patriot, perfetto per distinguerti dagli altri e vincere valanghe di gare!\n- Il design Sergeant Chaos, per lasciare a bocca aperta i tuoi avversari e scalare le classifiche!",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022285": {
+        "id": "0100D30010C43002",
+        "rightsId": null,
+        "name": "Monster Truck Championship Rebel Hunter Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70050000022285,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Nacon",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/50836287b556d9ca9a4ad797ac278d9bf02f8e12b9e18ef4ff51d1f396ac680e.jpg",
+        "intro": null,
+        "description": "Fatti un nome con questo pack esclusivo! Contiene 1 design, 3 veicoli e 1 arena.\n\nIl Rebel Hunter Pack include:\n\n- 1 design esclusivo \"Rebel Hunter\": mostra a tutti chi comanda!\n- 3 diversi veicoli: Magnum, Victory e Frantic, i migliori modelli americani per dominare la competizione\n- 1 arena di corse nella citt\u00e0 di Charleston\n\nSfoggia il tuo stile e fai capire a tutti chi \u00e8 il migliore di tutte le arene.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000022311": {
         "id": null,
         "rightsId": null,
@@ -41863,6 +42796,254 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023342": {
+        "id": "0100EB10108EB002",
+        "rightsId": null,
+        "name": "Pacchetto personaggi Duke classico e Cobra Commander classico",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70050000023342,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Game Mill",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/220a184e77b7be5fa9ab2cb514950cacdebddb0221369686ddc932733844fdac.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/296dd412360b43a00759d1af927fe66cf84a75f965ce3112647185fd79bc0d81.jpg",
+        "intro": null,
+        "description": "Ottieni due nuove skin per i personaggi basate sulla serie animata degli anni '80. Questo pacchetto permette l'accesso a Duke classico e Cobra Commander classico.",
+        "languages": null,
+        "size": 5242880
+    },
+    "70050000023356": {
+        "id": "0100EB10108EB001",
+        "rightsId": null,
+        "name": "Equipaggiamento: Pacchetto armi G.I. Joe e Cobra",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70050000023356,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Game Mill",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4226038d56246c45b8ce0d242765a083f3c57c3434cccc5ac0763b26edffe3ea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa7bcde5d54b4e62ade0195e4fe58c57b1540fa7a01654adc631e732b29ac75c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aa219793a091a2bfb57fedb4dbaede35121ad5afc5df812314d49a345e64be9e.jpg",
+        "intro": null,
+        "description": "Questo pacchetto include un totale di 12 nuove skin per le armi: sei skin d'oro per le forze del Cobra e sei skin cromate per le forze dei G.I. Joe",
+        "languages": null,
+        "size": 5242880
+    },
+    "70050000023365": {
+        "id": "01006C500A29D002",
+        "rightsId": null,
+        "name": "Pacchetto fondatore Cosmic",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201020,
+        "nsuId": 70050000023365,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Milky Tea",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1070e7222d1fd8ac0968dccd884444e88fe216cffb23f972ddfb277e709a08e5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4d77706a4ac4fb477696d1d3ba9ad9ead51dad7e754854943f390da0a2e10832.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9fd665cc44bc4b7623a8bb81b7b1ec7b2aeed604662a8bedd07b39d1e8024e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f47471ad33fd73d423aae0de8ee0c11b9894e3da9e99d92c1658f8fce315c95d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e7476efe6da6c0162ada5d572ed8caf74764c960fc8ca3408fdc90347d58c30.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2ea5ca572a1074e176a7f48de73e11ed8ccf3ce7aa6d7aa8d88da9618171ff6a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/16720a987df6cb27ec016c541e852d900e6e57c31d7e759ff444feb267445870.jpg",
+        "intro": null,
+        "description": "Lanciati nello spazio pi\u00f9 profondo con questo pacchetto skin leggendarie per HyperBrawl Tournament.\nIl pacchetto include:\n- 2 skin leggendarie per Lysander\n- 2 skin leggendarie per Go-Zen\n- 2 skin leggendarie per Ombra\n- 2 skin leggendarie per Brawlbot\nNota bene: per equipaggiare queste skin, devi aver sbloccato il rispettivo eroe all'interno del gioco. Gli eroi possono essere sbloccati gratuitamente man mano che si avanza nel gioco.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023366": {
+        "id": "01006C500A29D003",
+        "rightsId": null,
+        "name": "Pacchetto fondatore Guerriero",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201020,
+        "nsuId": 70050000023366,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Milky Tea",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/acdb37e6bf56607689a9a5b7a637790f4f9870a6ae0a28b972fe3cedecafda7d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db6a8806d11b9501b5cfc7067ef1309b60b9f0b2c5cd4f8feb1f4760585a8dcd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7c6e8a041c254d91216e0347ef5a46523a6c7fbdbbab1d031b9a68c11f40c8e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0aae26cac67adad0cde389c054acb938161e242f17b56de53736d39f7958be0a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/79f0fe4ddcfd3d4618f9d77af35047481348744b6fd8f874c55b0361a33a2623.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b155866c55fc9b326ea089f1472fe6e6569ee1ac0955df3f4125a694c4e0f93.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/30739c752304caf7d6e6fdff8fc086ec18b03871363932634b323a590a57948b.jpg",
+        "intro": null,
+        "description": "Libera il guerriero che \u00e8 in te con questo pacchetto skin leggendarie per HyperBrawl Tournament.\nIl pacchetto include:\n- 2 skin leggendarie per Toro\n- 2 skin leggendarie per Sir Gallant\n- 2 skin leggendarie per Rune\n- 2 skin leggendarie per Ti\nNota bene: per equipaggiare queste skin, devi aver sbloccato il rispettivo eroe all'interno del gioco. Gli eroi possono essere sbloccati gratuitamente man mano che si avanza nel gioco.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023367": {
+        "id": "01006C500A29D004",
+        "rightsId": null,
+        "name": "Pacchetto celebrazione 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201020,
+        "nsuId": 70050000023367,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Milky Tea",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/15bd05b7b7a9d0eb32a9632b3ea84570bb79cc51875f2c89d2fb3e892a5e3a45.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e1bb46cfbaf574760d8bdfa1376e43acd89f209165117bb5ddbe22b74b27927c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b3cd290ec5e5a00d3db8a53c7e6c9a10507c775211db37676cb9ed91ea6b8d97.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f998d48e83ac05c19467b6cf3f8d656b0dcd8585e7a41c60cbe31ce4680523f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/82da8ba5a3e766dd2c7479e567f89cf53d1b1222cbda95438937a237d492f727.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b27d7081d19dfa896d755720d6f61d1e2272c6b7714866dee02c715c3fa2bd55.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c802f6c78197b21142d7b36cfac206ca297390ec11b46f71a2788d9625a5a1d.jpg",
+        "intro": null,
+        "description": "Mostra le tue abilit\u00e0 nel segnare goal grazie al primo pacchetto fiamme del goal e scie della palla leggendarie per HyperBrawl Tournament.\nIl pacchetto include:\n- 5 fiamme del goal leggendarie\n- 5 scie della palla leggendarie",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023368": {
+        "id": "01006C500A29D005",
+        "rightsId": null,
+        "name": "Pacchetto celebrazione 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201020,
+        "nsuId": 70050000023368,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Milky Tea",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a284e032589eb5bbf0a170b5e20a5f84be6ca13067722415352edc6bfdf3652d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78fd121aadb025bb19c6dfcf1e213438377dbaa5c09a5ae7ec86e8b339d55b38.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e0f5b0c1f63fe94a13bcbe304c3f889984b623bdc2b7d4e20a36f8f95cc3eab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4869c89fc2fc530d0733d2d86e73130f2dcd7ef01dea8a20fe9aabb192263a67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/48a1942145f2acf3944f1df10401ea73e078562cbe58a311060313d4f9477673.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d76ac9b67bc4649cc6c34e697852bd5e19d19453f116e209d859f34c259dcec8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9e28c9a44dfd077c0eef2d55b717539a3531f69855a4b7686c4ced88c576663d.jpg",
+        "intro": null,
+        "description": "Mostra le tue abilit\u00e0 nel segnare goal grazie al secondo pacchetto fiamme del goal e scie della palla leggendarie per HyperBrawl Tournament.\nIl pacchetto include:\n- 5 fiamme del goal leggendarie\n- 5 scie della palla leggendarie",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023374": {
+        "id": "0100EB10108EB003",
+        "rightsId": null,
+        "name": "Artbook digitale + Colonna sonora",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70050000023374,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Game Mill",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e3512f62ef23ce667a44ed7eaa89aeafc326d490625d6355d026d3ef1c21299e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fbef557a195a124a9a9bebefa4f68184b0340f89bfd8445ec2faf30a871cacd5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7951f7f6aba7dc79ced934d501bc60e1f7c12d448af245e15ffcfd2a0a97e328.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b30c3a3571565bc49f6b34eb4640358fac4eddc812e813acdbd358d75a73e2f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d9cf49b8c113467239e01433533a1c9bea21ec1b4985c9e533c934fe7bea7f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9819ab8c2e451b2bcf38962f48537a26b884ef5c0b2f5613a2222abed426ec99.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e30233b6e6717add0fd9769a1d46cd4d12f3011ee4868122b1eaf4eda4589c43.jpg",
+        "intro": null,
+        "description": "Ascolta le tracce musicali del gioco integrali tramite un apposito menu. In pi\u00f9, accedi a nove tracce bonus tratte dalla serie animata degli anni '80.",
+        "languages": null,
+        "size": 5242880
+    },
+    "70050000023400": {
+        "id": null,
+        "rightsId": null,
+        "name": "Cardpocalypse: Out of Time",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201012,
+        "nsuId": 70050000023400,
+        "category": null,
+        "ratingContent": [
+            "Paura"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Versus Evil",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/77d069d08499a1dbbcbd941796f93fd848791af7de9f7cc1c7ef077d7b29449e.jpg",
+        "intro": null,
+        "description": "Out of Time \u00e8 un'avventura a se stante ambientata negli ultimi giorni della prima settimana di Jess nella nuova scuola. Sul punto di salvare il mondo, Jess incontra Tock, il campione Pipsqueak che sa viaggiare nel tempo. Tock spedisce Jess indietro nel tempo, intrappolandola in un loop temporale in cui \u00e8 costretta a rivivere lo stesso giorno di scuola di continuo come se fosse una gigantesca marmotta. Come se non bastasse, Jess perde i suoi mazzi nel viaggio indietro nel tempo. Magicamente, Jess trova una nuova carta campione in tasca. \u00c8 Bloop! Bloop \u00e8 l'unico campione neutrale del gioco, un noto smidollato del regno di Mega Mutant Power Pets, ma forse Jess pu\u00f2 fare qualcosa? Ora Jess e Bloop devono unire le forze per sconfiggere Tock, uscire dal loop temporale e tornare a salvare il mondo!\n\n\u2022 Una nuova campagna a se stante! Costruisci la tua collezione e cambia le regole ancora una volta.\n\u2022 Metti alla prova le tue abilit\u00e0 di gioco con le carte contro una serie di nuovi campioni nemici.\n\u2022 Sei bloccato in un loop temporale? Divertiti!\n\u2022 Trova nuove combo! Bloop, uno speciale campione neutrale, pu\u00f2 usare le carte di tutte le fazioni.\n\u2022 Costruisci il Campione che desideri. Bloop ha un unico albero di potenziamenti da esplorare.\n\u2022 Trova delle nuove carte dei Power Pets!\n\u2022 Bloop e tutte le nuove carte vengono aggiunte anche alla modalit\u00e0 Sfida per avere innumerevoli possibilit\u00e0!",
+        "languages": null,
+        "size": 97517568
+    },
     "70070000010486": {
         "id": null,
         "rightsId": null,
@@ -43079,7 +44260,7 @@
         "intro": "Il golf con una marcia in pi\u00f9!",
         "description": "La Digital Deluxe Edition include il Golden Touch Pack con driver placcato in oro e putter placcato in oro, oltre al pacchetto 2K/adidas CodeChaos MyPLAYER con le scarpe da golf adidas CodeChaos BOA e la polo, i pantaloni e il cappellino adidas / 2K CodeChaos personalizzati, disegnati da adidas in esclusiva per PGA TOUR 2K21. I giocatori riceveranno inoltre 2300 crediti di valuta aggiuntivi per sbloccare altro abbigliamento MyPLAYER per scendere in campo con stile!",
         "languages": null,
-        "size": 8844738560
+        "size": 8846835712
     },
     "70070000011006": {
         "id": null,
@@ -43669,7 +44850,7 @@
         "intro": null,
         "description": "La Bear Hunter Edition di Hunting Simulator 2 include il gioco base e i contenuti bonus del Bear Hunter Pack.\n\nIl Bear Hunter Pack include i seguenti contenuti:\n\u2022 Fucile a otturatore girevole-scorrevole Winchester XPR Strata Threaded\n\u2022 Fucile Browning Maral SF Grade 5 Monte Carlo scanalato\n\u2022 Licenze di gioco per la caccia all'orso\n\u2022 Giacca Browning Hell's Canyon 2 Infinity\n\u2022 Pantaloni Hell's Canyon 2 Infinity\n\u2022 Guanti Phase Liner\n\u2022 Berretto Browning Trail-Lite Mobuc\n\nLa caccia \u00e8 aperta! Tra spettacolari scenari naturali, scegli la tua attrezzatura selezionando i migliori accessori e le armi ufficiali, e parti con il tuo cane alla ricerca di moltissime specie animali in questa simulazione di caccia.",
         "languages": null,
-        "size": 4497342464
+        "size": 6119489536
     },
     "70070000011161": {
         "id": null,
@@ -43765,6 +44946,37 @@
         "languages": null,
         "size": 37748736
     },
+    "70070000011190": {
+        "id": null,
+        "rightsId": null,
+        "name": "Monster Truck Championship Rebel Hunter Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70070000011190,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Nacon",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2d1b329915a189c7fd3afc8498d76b905cc8af7db792fd52f00cb2b21054a062.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15703c7bdd738e376cd9ae0a217e58d70b68e2a2fc9e7a37815007bbd2de070e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b6bf584abdea114a463ca40ee600fb5f66f8383ad41c05020e12c2429731ee9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2b8992bf9baff0c8f7bc821afc0b61ac55904673c2f11bace78498dc093566a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23e51a6696521b48c3e0bd3913c3c8d542ba0cae1080bbe597942d5265871356.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7a973fdebc9b8df82e045f1c93106a1dcd6520fdbbc5c7d0428dad018ab9448a.jpg",
+        "intro": null,
+        "description": "La prima simulazione di monster truck! L'edizione Rebel Hunter include il gioco base e i seguenti contenuti aggiuntivi:\n\n- 1 design esclusivo \"Rebel Hunter\", per mostrare a tutti chi comanda!\n- 3 diversi monster truck: Magnum, Victory e Frantic: i migliori modelli americani per dominare la competizione\n- 1 arena di corse nella citt\u00e0 di Charleston\n\nDa Las Vegas a Orlando, sfida piloti esperti in gare di velocit\u00e0 o freestyle! Ma prima di sfoggiare doughnut, wheelie e bicycle, dovrai mettere a punto al meglio il tuo camion: un bestione tanto spettacolare e impressionante quanto estremamente difficile da guidare. Il gioco riproduce fedelmente tutte specificit\u00e0 legate al pieno controllo di questi potentissimi mezzi, come la gestione indipendente delle ruote anteriori e posteriori, l'anticipazione del trasferimento di massa nelle curve e la previsione dei rimbalzi dopo i salti.",
+        "languages": null,
+        "size": 3156213760
+    },
     "70070000011207": {
         "id": null,
         "rightsId": null,
@@ -43798,5 +45010,39 @@
         "description": "Esplora, costruisci, crea e addestra le scimmie insieme a massimo tre amici in una missione di sopravvivenza. Preparati ad affrontare l'ignoto: metti nello zaino l'edizione deluxe di The Survivalists.\n\nL'edizione deluxe include:\n\nGioco The Survivalists\n\nPacchetto Monkey Business: suscita l'invidia di tutti gli altri naufraghi grazie a un look davvero selvaggio! Include 3 cappelli giocatore e 6 cappelli scimmia, ottenibili completando la missione secondaria Box-Ex\n\nCostruisci e sopravvivi insieme \n\nL'isola \u00e8 troppo minacciosa per te, o magari vuoi condividere le fasi di costruzione con gli amici? The Survivalists ha la soluzione! Collabora per completare missioni, recuperare bottino, scambiare risorse e sopravvivere, mentre esplori l'isola insieme a un massimo di tre compagni d'avventura.\n\nTu ordina, scimmia fa! \n\nHai bisogno di un operaio, un taglialegna o un soldato, persino? Addomestica e addestra le scimmie dell'isola per assegnarle alle mansioni quotidiane o supportarti nelle incursioni agli accampamenti nemici! Il \"sistema di imitazione\" permette alle tue fedeli alleate di svolgere una lunga serie di azioni, al punto che la gestione delle scimmie \u00e8 un elemento chiave per sopravvivere alle sfide dell'isola.\n\nUsa l'ingegno e crea! \n\nIl segreto per la sopravvivenza \u00e8 trarre il massimo dalle risorse a disposizione. Costruisci un'ascia rudimentale per raccogliere legna, prepara un frullato di frutta per arginare la fame e barcamenati in mille altri modi. Giorno dopo giorno, scoprirai nuove formule e ricette per cucinare cibi, creare strumenti e molto altro ancora. \n\nRaccogli la sfida \n\nSei alla ricerca di un'arma epica da appendere nella tua capanna o, magari, da usare per debellare i nemici? Quello che ti serve potrebbe essere in uno dei numerosi templi dell'isola. Recuperare il bottino, tuttavia, potrebbe essere impegnativo, quindi preparati al meglio per lanciarti nella tua caccia al tesoro. \n\nSarai un vero survivalista?  ",
         "languages": null,
         "size": 1016070144
+    },
+    "70070000011239": {
+        "id": null,
+        "rightsId": null,
+        "name": "G.I. Joe: Operation Blackout - Digital Deluxe",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201013,
+        "nsuId": 70070000011239,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Game Mill",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4226038d56246c45b8ce0d242765a083f3c57c3434cccc5ac0763b26edffe3ea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa7bcde5d54b4e62ade0195e4fe58c57b1540fa7a01654adc631e732b29ac75c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d5b91e5805508244f3e46871f0783cb3c3473c3da3dbddf3d8a842a0195dfa6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39e451fb5a4f00ac91a81b1a4b84ed8607c58a5c680e6d869c3d4c790175d0e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0671d8c53d657b0363e8a777f39e12f68b0e67b2327f6e9b9ab408a54d5bf09e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/122fd374b8c879edd7a3173fbcaeebb11e55039372c237fa54e0e0922083a004.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dded4b57261df00658c90c23c817668b9a6160e4168a4061b27e5d411901d0a0.jpg",
+        "intro": null,
+        "description": "I G.I. Joe e il Cobra sono tornati! G.I. Joe: Operation Blackout \u00e8 uno sparatutto in terza persona a squadre nel quale puoi vestire i panni dei tuoi personaggi preferiti della Squadra G.I. Joe e della Squadra Cobra. Schierati con entrambe le fazioni: aiuta i G.I. Joe a ristabilire l'ordine e guida il Cobra verso la dominazione del mondo. Combatti usando nuove skin per personaggi e armi, e ottieni l'accesso esclusivo alle illustrazioni e alle musiche del gioco!\n\nG.I. JOE VS COBRA - Scegli una fazione e gioca con 12 dei tuoi personaggi preferiti, tra cui Snake Eyes, Duke, Roadblock, Storm Shadow, Cobra Commander, Destro e altri e affronta partite PvP a 4 giocatori in 17 campagne epiche. In pi\u00f9, potrai ascoltare le voci di oltre 20 personaggi iconici dell'universo di G.I. Joe.\n\nSTRUMENTI DA COMBATTIMENTO - Combatti per la tua fazione con 18 fantastiche armi, 36 skin arma, 12 skin personaggio alternative e una serie di abilit\u00e0 uniche e devastanti.\n\nUN FRANCHISE LEGGENDARIO - Assumi il controllo degli iconici carri armati G.I. Joe Persuader e Cobra H.I.S.S. mentre combatti in ambientazioni storiche come la USS Flagg e il quartier generale di Cobra.\n\nCO-OP & MULTIPLAYER PVP - Affronta le campagne insieme a un amico con la modalit\u00e0 co-op locale oppure gareggia in partite PvP locali a 4 giocatori in 4 modalit\u00e0 multiplayer: Conquista la bandiera, Assalto, Re della collina e Arena mortale.\n\nL'edizione Digital Deluxe include:\n\nPacchetto personaggi Duke classico e Cobra Commander classico - \nDue nuove skin per i personaggi basate sull'iconica serie animata anni '80\n\nEquipaggiamento: Pacchetto armi G.I. Joe e Cobra - Include 12 nuove skin arma, d'oro per il Cobra e cromate per i G.I. Joe.\n\nArtbook digitale esclusivo - Ammira le inedite illustrazioni usate per la creazione del gioco.\n\nColonna sonora digitale - Tracce musicali del gioco integrali e tracce bonus tratte dalla serie animata anni '80.",
+        "languages": null,
+        "size": 6504316928
     }
 }
