@@ -5058,7 +5058,7 @@
             "ru",
             "zh"
         ],
-        "size": 8755609600
+        "size": 9590276096
     },
     "70010000020947": {
         "id": "0100B1600E9AE000",
@@ -6202,7 +6202,7 @@
             "nl",
             "ru"
         ],
-        "size": 1944059904
+        "size": 2103443456
     },
     "70010000022098": {
         "id": "0100E1800EFCE000",
@@ -7761,6 +7761,45 @@
             "en"
         ],
         "size": 150994944
+    },
+    "70010000023707": {
+        "id": "01002E700F958000",
+        "rightsId": null,
+        "name": "Brunswick Pro Billiards",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201014,
+        "nsuId": 70010000023707,
+        "category": [
+            "Simulation",
+            "Sports",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "FarSight Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c3f7aaa49937421f464ed53eee3b3d4e29450d0d4158a7e7050924a9bbde3382.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/749cd180cb379e6f16964c7da582c33799fbb6e47225eb17bd47f306b168fc77.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c49476b3babc1e47243f3c53f7bde5ea28ff6a7e9d3b60abc88db475ebad10ea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c90c0ce10173fa2e4b4c69f73f25d74e8c25ac37019c19b4ff3088c3f29d2ce9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/75a8858b5da16ae03a2ac399a18b6ec78037dd792e6d75d29240fd0c3194a378.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04c95cc47686d31f25ce4e6f0efbcdb1fa224c1e84cf37ab6fc79ac106978d93.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/890be5de2d544dbf4661ad5d20b20d8b4612a8688e0f27aadd94645475a90fed.jpg",
+        "intro": null,
+        "description": "Brunswick Pro Billiards is the most realistic and immersive billiards game available for any platform. This is an officially licensed Brunswick product featuring real pool tables, pool cues, and billiard ball sets. Compete against friends or other players online for Brunswick Bucks!  Use those winnings to upgrade equipment and tables.  Players can also hone their skills against A.I. opponents, battle friends in local multiplayer matches, and play single player Challenge Modes offering a variety of gameplay options.",
+        "languages": [
+            "en"
+        ],
+        "size": 347078656
     },
     "70010000023737": {
         "id": "010064600F982000",
@@ -10753,8 +10792,7 @@
             "Action"
         ],
         "ratingContent": [
-            "Strong Violence",
-            "Simulated Gambling"
+            "Strong Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 16,
@@ -12337,6 +12375,52 @@
         ],
         "size": 940572672
     },
+    "70010000027849": {
+        "id": "010007B010FCC000",
+        "rightsId": null,
+        "name": "Sniper Elite 4",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70010000027849,
+        "category": [
+            "Action",
+            "Shooter",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cab853febf05d6b7989cfb6e4722757ca024f86b69cc7b63a80f03a2280a37f0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0ee5a831f0b73272f23170137678f52f21b98bda9fbc6b29504830b50a929906.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39eee0eee93bf383e6a562e845798124266b4c509d6e91489444498eb477a54f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0d5e802d35b2acecbca2566f84b0a2e853df4ac5d7f2228d80fdf1bad6a31c61.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d0a5296ebe5f175288aeb072fa2c0b772e0d1901c3292acae6b18ff82f1e8e14.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63ebbee10adb0c5a466e91437cae8e054f2854785538837c8ebf1d9314179b02.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4eff5f519689fb5647e68054b7a817bca6391e0496bee91c00bc4df8da08b591.jpg",
+        "intro": "ONE BULLET CAN CHANGE HISTORY",
+        "description": "Experience tactical third-person combat, gameplay choice and epic sharpshooting across gigantic levels as you liberate World War 2 Italy from the grip of fascism.\n \nUnrivalled sniping freedom. Complete the campaign your way\n \nEpic longshots with bone-crushing X-ray kill cam \n \nTeam-up or go head-to-head with local & online multiplayer\n \nFeel every shot with HD rumble & pan the battlefield with gyroscopic controls",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 6557794304
+    },
     "70010000027851": {
         "id": "010083E010AE8000",
         "rightsId": null,
@@ -13188,7 +13272,7 @@
             "zh",
             "zh"
         ],
-        "size": 3046113280
+        "size": 3634364416
     },
     "70010000028165": {
         "id": "010093F00F894000",
@@ -16757,6 +16841,57 @@
         ],
         "size": 1796210688
     },
+    "70010000029390": {
+        "id": "01005F7011950000",
+        "rightsId": null,
+        "name": "ScourgeBringer",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201021,
+        "nsuId": 70010000029390,
+        "category": [
+            "Shooter",
+            "Fighting",
+            "Platformer",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Swearing"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Plug In Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/71566877c78a9f1fc0337e5c2e64443b95463066c7c8295b7921c61684c3f4e1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0165870cdfeddfa9932190c1071bc0aa32c275b7eda53ced273997d9e792c2ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f5b33b4cd05862878bacf5b82324c33213b99fb2618801a8cf158564dd45ce22.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c42f690df59a3cb2a2dc1db1aa04c8fccabca52d5557881b0094979b4ddfdf8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afd0c51a976cc48df626d17646bd94d74c9213545139566d9d99efa9fc5c2515.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dabf9cd39b264f0dee638465d4e7f9a33cc669ca3735e8d4bccc7c451ed2f611.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b822a5ac20ebd4cdaef710aee4159ea3bf9a41545ee1fd2de0628215b9189179.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d27778606cfaddc0a09a53566cc9a5dcdf43a6ce9b672b14ec54a6f20642fae8.jpg",
+        "intro": "From the developers of NeuroVoider, ScourgeBringer is a fast-paced free-moving roguelite platformer.",
+        "description": "Set in a post-apocalyptic world where a mysterious entity wreaked havoc on all humanity, ScourgeBringer puts you in the shoes of the deadliest warrior of her clan: Kyhra. Help her to explore the unknown and slash her way through ancient machines guarding the seal of her past, and maybe the redemption of humanity.\n\n- Dive into fast-paced rogue-platforming gameplay described by Eurogamer as \"Dead Cells meets Celeste\"\n- Slash and shoot your way smoothly with super fluid platforming controls\n- Sharpen your skills with a frantic combat system focused on attacks only\n- Dash forward to the otherworldly adaptive sounds of Joonas Turner (Nuclear Throne, Downwell, Broforce...)\n- Defy hordes of unspeakable enemies and giant bosses holding the secrets of the Scourge\n- Explore the infinite depths of an ever-changing dungeon\n- Uncover mysteries and find mementos of previous explorers to unlock reality defining secrets",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 407896064
+    },
     "70010000029447": {
         "id": "0100ED301196A000",
         "rightsId": null,
@@ -17629,7 +17764,7 @@
         "developer": null,
         "publisher": "Microids",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/37453e5e1ef16317807545419c1ff66df465d1a101957c3340b55b297876f353.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/937a8e6a96d2ea866f70e37b1e3d82be21493e0e71bfa07ddb251883786ffbb0.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/3b4408bf11d7f07f6bad8a2d90f280066c8aea739d1bb0986ab007ff8b0f52fb.jpg",
             "https://img-eshop.cdn.nintendo.net/i/1c60630b5227cdc97944eaa93d5222fa4512d2d8857d2fe76251fed20c494c6a.jpg",
@@ -17648,7 +17783,7 @@
             "it",
             "nl"
         ],
-        "size": 644874240
+        "size": 1005584384
     },
     "70010000029762": {
         "id": "0100B0F011A84000",
@@ -21656,6 +21791,50 @@
         ],
         "size": 1249902592
     },
+    "70010000031178": {
+        "id": "01002AF011D14000",
+        "rightsId": null,
+        "name": "Tennis World Tour 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201015,
+        "nsuId": 70010000031178,
+        "category": [
+            "Sports",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Nacon",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/689ee5698dc717f2b270997bed604ceadc804b2f6112ea329a05aa73b5082e0e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/66129d7538751da184ab54354f08642c3b2a3f55f5acf56bf5b3c4c094159e9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0a4b94d11e6432d1940eb8147b244ad6b88a5833ee45b97f7ffae6c15b5f61a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70fcda868f0c5307ef68fdee535d94cdd1945c22c9eafd8854e6a4be1e49c197.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b033dc7031c0807baaf61f079dd21af58e7f57f130290209d16fccbe9a683c4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/920d863ad53a7daa4ea2323709f419d968300d96f02db101e58140a33b2833da.jpg",
+        "intro": null,
+        "description": "Play as the world's top players or create your own player to try and dominate the world rankings. Faster paced, with more animations and more realism: experience the true sensations of tennis, in singles or doubles games, and challenge your friends locally or online.\n\nTHE REAL LIFE OF A TENNIS PRO\nYour player, your decisions. In Career mode, you manage your season, your staff, your equipment and your sponsors. And if you are up to the challenge, you can become the new star of world tennis.\n\nDESIGNED FOR TENNIS FANS\nMaster the timing of your strokes, the new serve mechanics and all the moves to dominate your opponent, just for fun or to win in Ranked mode.\n\nTHE THRILL OF THE COURT\nMore animations, more strokes, a faster pace\u2026 Experience dynamic, realistic and precise gameplay that puts you in the heart of legendary rallies.",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 4810866688
+    },
     "70010000031189": {
         "id": "0100E7001210C000",
         "rightsId": null,
@@ -22475,7 +22654,7 @@
             "it",
             "ru"
         ],
-        "size": 292552704
+        "size": 469762048
     },
     "70010000031460": {
         "id": "0100A280121F6000",
@@ -24213,6 +24392,51 @@
         ],
         "size": 7579107328
     },
+    "70010000031922": {
+        "id": "010040E00F642000",
+        "rightsId": null,
+        "name": "Morbid: The Seven Acolytes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000031922,
+        "category": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Merge Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1a220e1559ee79ef8d2a3c2ef5460da103a401280aabee3ffb19f8dcc5b4f576.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/65122377d4c927b6d0322877ba8d68fdc5102f4702795d4ec1557c3b5b0576c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a6fe590bd115cc47ef5147731e6f72bb4b99fde2d2f72bfc1deb638401319c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18e1b296613cd47e3bb09829a5287924dd471a3b8cb384b8618de42887cec956.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1809ff29c5bac1fa3903dcc371a8dea405e69b18f327c36b5a22ac90142a8369.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3997259b2f5a8ad07fd3e249c040fc217073943d1cdffc9c037ca9ca20dda12e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a51b7e264f6400f96a93131c0dbdcd4a87ae231a143f687a90f961646d2c6f5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e7adb8fd6b837cec4478feae3a84ab735ce1ca6c5f3ce3ce7fd2b185f0f4664a.jpg",
+        "intro": null,
+        "description": "Morbid: The Seven Acolytes is a Horrorpunk Action RPG filled with Lovecraftian horrors and Cronenbergian gore, making it the most gruesome take on the isometric Souls-like genre yet!\n\nYou are the last surviving Striver of Dibrom. Your duty, for which you have trained your whole life, is to defeat the Seven Acolytes, accursed and powerful beings, possessed by malevolent deities called Gahars.\n\nChallenging foes, mini-bosses, and memorable large-scale boss fights with fully orchestrated music, are central to the world of Morbid. To overcome these obstacles you must master the combat, as well as improve your character and gear through a wealth of elements such as Quests, Perks, Runes, Upgrades, and Looting.\n\nThe Gahars have bound their twisted minds to the flesh of the Seven Acolytes, for without hosts they cannot survive. You must slay the Acolytes, thus ridding the Gahars of their flesh. Succeed, and you'll free the kingdom from the heavy yoke of their terror. Fail, and the malicious gods rule on, as the Acolytes rise anew, and madness prevails.\n\n-Experience epic, brutal boss encounters and explore a diverse array of environments \n-Perk levelling system with multiple ways to build your character\n-Deep, immersive lore with NPC's to meet throughout the world\n-Health, Stamina and Sanity management is important as you traverse the world",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 510656512
+    },
     "70010000031937": {
         "id": "01005250123B8000",
         "rightsId": null,
@@ -25814,7 +26038,7 @@
             "https://img-eshop.cdn.nintendo.net/i/d88e5392081cbd4cd08eed629eacba7041ce37833812300033b969f8898656dc.jpg",
             "https://img-eshop.cdn.nintendo.net/i/975431864c496f3882d2cb81b32f9312fec062c42232adcb4dbae13616b4d970.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0e5b67229e94d1258b2dd907045cffa244f39e604bfeaf59b79e721e4ea99998.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5e1775508e9229ae315d1611f52775c53102cf9357b7178742159702db5c8262.jpg",
         "intro": "Experience the music of KINGDOM HEARTS like never before!",
         "description": "Play as famililar faces from the KINGDOM HEARTS series, including Disney guest characters who will appear to lend you a hand. \n\nEnjoy a massive variety of music from both the KINGDOM HEARTS series and Disney, with a collection of over 140 songs. Dive into rhythm-action gameplay with memorable tunes in this can't-miss musical journey!",
         "languages": [
@@ -28719,7 +28943,6 @@
             "Other"
         ],
         "ratingContent": [
-            "Drugs",
             "Strong Language"
         ],
         "numberOfPlayers": 1,
@@ -31706,6 +31929,7 @@
         "languages": [
             "ja",
             "en",
+            "es",
             "ru",
             "ko"
         ],
@@ -32187,6 +32411,45 @@
             "en"
         ],
         "size": 5808062464
+    },
+    "70010000033789": {
+        "id": "01000CC012D74000",
+        "rightsId": null,
+        "name": "Rock 'N Racing Bundle Grand Prix & Rally",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201016,
+        "nsuId": 70010000033789,
+        "category": [
+            "Racing",
+            "Sports",
+            "Simulation",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "EnjoyUp Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/683fe77a0ab69158708a0a6fc2ae04ea68a73e5921dd559e0061dd64f4f5e87c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e84fdb9335746333a52170af457178f7e9db1aca246fe69200b040c037c4d60e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3cfa4f241b6f6d542939aa65fc6e659f2892a017d735f50286a30e66a6a09a31.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de45a9a14d05105c4e61bafae2e6711b7f8f216bc914895f59e5676264039ee2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69fb83278959be83553a69a1579417e092e0d66015ca5f6159be1a7372658847.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a82da6b22f607b706fb15a57b88a58e1f586dfa294c6e628eebcec2314964329.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e962aad3f8314048788ba725c31e16bccf87805f2474e622c3ad608091abb63a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/29e151de27da92956b5d0b157162ddb6da1151c59400cf5e0e132cc176e20adf.jpg",
+        "intro": "This pack includes the games: Grand Prix Rock 'N Racing and Rally Rock 'N Racing.",
+        "description": "Enjoy 2 games in 1 with this irresistible speed games pack!\n\nGrand Prix Rock 'N Racing\n\nGet ready for some speed with your family and friends!\n\nGrand Prix Rock 'N Racing gives you the fastest, most exciting races. You can evolve your car, improving the engine, brakes, tires and more until you've achieved the perfect evolution to win the Championship!\n\nRally Rock 'N Racing\n\nGet ready to skid around at full speed with your family and friends!\n\nIn Rally Rock'N Racing, you\u2019ll enjoy a wide variety of natural environments, such as deserts, snow-covered mountains, forests... where you can show your skill at the wheel, competing against everyone to become the fastest. The game has several modes, such as Championship, Time Trial, Arcade, and 4-player multiplayer.\n\nFeatures:\n\n-Arcade driving\n-4-Player Multiplayer\n-Online ranking\n\nIf you prefer, you can also purchase them separately in the Nintendo eShop.",
+        "languages": [
+            "en"
+        ],
+        "size": 498073600
     },
     "70010000033805": {
         "id": "010078E012D80000",
@@ -33002,7 +33265,7 @@
             "ru",
             "zh"
         ],
-        "size": 2657091584
+        "size": 2855272448
     },
     "70010000034265": {
         "id": "0100C13012F8E000",
@@ -34362,6 +34625,45 @@
         ],
         "size": 247463936
     },
+    "70010000035284": {
+        "id": "01000E50134A4000",
+        "rightsId": null,
+        "name": "#Halloween, Super Puzzles Dream",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70010000035284,
+        "category": [
+            "Puzzle",
+            "Multiplayer",
+            "Party",
+            "Board Game"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "JORGE BIEDMA AZUAR",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7d16e65474767c1312336f22e04b6d5c89d5306d007134bdb562edf3f594a2df.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/33a992e61ab8c67ae2aef4bc2ba63b59ecf95980529408972784aaa390720798.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/945458453ad0d66a5475e7bbde1b86c90f023546295bddd9244a6311a828f349.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ae57030c6e8000b82dc4fd745e874731cf11189567f8421aaf2eab183a2fa7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27a2c1bd288263de2db5b5145b3c64ce8a9024fa45e72bedd5b730e16addf467.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/315727f21922e86c5ca614e14fdf5eafc914a2d6bc06d2294ba9611bdaede215.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d397e47fd66c02fb16f4ebaccebf1fcfc3caddb6c323c65f867c1e10408e40a3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/994b0fc51ae6a5a580695f903e4aa32c50be934e9e67f5e31331ca7b5286e2a2.jpg",
+        "intro": "Without fun there is no \u00ab Super Puzzles Dream \u00bb",
+        "description": "#Halloween! is the hashtag for the most terrifying topic!\n\nPuzzles move onto the next level with \u2018Super Puzzle Dream\u2019, a mix between classic jigsaw puzzle and a \u2018Tetromino\u2019-style dynamic mechanic.\n\n Two levels of play, 'senior' (for adults) and 'junior' (for children aged 3+), guarantee hours of entertainment for all.\n\n Become an expert and finish the puzzles in the shortest possible time and you will find yourself amongst the best in the world on the online leaderboard.\n\nHave fun working together to complete the puzzles in Cooperative (co-op) mode.\n\n You can also play with friends and family in the one-on-one split-screen competition mode. Your rival won't make it easy for you! Don't give up - fill an energy bar to perform a counterattack and put them in their place.\n\nRemember, without fun there is no \u00ab Super Puzzles Dream \u00bb",
+        "languages": [
+            "en"
+        ],
+        "size": 818937856
+    },
     "70010000035313": {
         "id": "010019A0134E2000",
         "rightsId": null,
@@ -34476,6 +34778,34 @@
         "languages": null,
         "size": 2040528896,
         "parentId": "01005420101DA000"
+    },
+    "70030000010802": {
+        "id": null,
+        "rightsId": null,
+        "name": "ScourgeBringer Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000010802,
+        "category": null,
+        "ratingContent": [
+            "Mild Swearing"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 447741952,
+        "parentId": "01005F7011950000"
     },
     "70030000010862": {
         "id": null,
@@ -35390,6 +35720,34 @@
         "languages": null,
         "size": 162529280,
         "parentId": "010084B012FF0000"
+    },
+    "70030000012255": {
+        "id": null,
+        "rightsId": null,
+        "name": "KINGDOM HEARTS Melody of Memory DEMO Version",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012255,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 552599552,
+        "parentId": "01005D2011EA8000"
     },
     "70030000012270": {
         "id": null,
@@ -45990,6 +46348,33 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000021755": {
+        "id": null,
+        "rightsId": null,
+        "name": "Hunting Simulator 2 Beretta Model 486 by Marc Newson",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201015,
+        "nsuId": 70050000021755,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Nacon",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/264a1b79abf06e2a8697e55a898c80858a80e026e3aa89a502797d789ed2ac43.jpg",
+        "intro": null,
+        "description": "Receive an exclusive premium shotgun with this downloadable content for Hunting Simulator 2.\n\nThis exceptional shotgun combines the renowned expertise of Beretta with a stunning design by Marc Newson.\nPut it to good use in the game!",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000021831": {
         "id": null,
         "rightsId": null,
@@ -46416,7 +46801,7 @@
         "intro": null,
         "description": "Hatsune Miku: Project DIVA Mega Mix Song Pack 8 includes:\n\n- Paradichlorobenzene\n- Colorful x Sexy\n- STROBO NIGHTS\n- Love-Colored Ward\n- NekoMimi Switch\n- VOiCE -DIVA MIX-",
         "languages": null,
-        "size": 249561088
+        "size": 250609664
     },
     "70050000022119": {
         "id": null,
@@ -47520,6 +47905,40 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000022190": {
+        "id": null,
+        "rightsId": null,
+        "name": "Hunting Simulator 2 Beretta Weapon Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201015,
+        "nsuId": 70050000022190,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Nacon",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/86cc051f39bbcb4251b4b626e983d0833a51737443cf42047407ccfa84960f8f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/86fcaa160140e9a6bc209f856f44aab7be297776e397fcf5cc8768bb75d78285.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/57eeaa1a4737d30b526d716eff78e4f4e545fa27596afa23a9ef58af60c0b213.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/066754472dc184f0274c381e3b4d61ca3e3d10ab75254438b4022cfb719b8fc5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58ccd3e3f65005988b392df3fdd68eedc9aaf325c29f68fafac5794790059ea5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8370a183fa3c951d8ccdefd19ed26b01240a1a04654c2c9710c150eb2bfc39ef.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f7691a48bebba1e2b99ccb53408f2798be7da25917d4e43f7ef2980eb8e4f57b.jpg",
+        "intro": null,
+        "description": "Beretta is the oldest firearms manufacturer in the world. Renowned for their reliability and performance, Beretta firearms are used by all the top hunters.\nThis weapons pack includes 7 Beretta shotguns for hunting small game, such as ducks and rabbits. These shotguns are designed for hunters looking for guaranteed performance with Beretta's renowned craftsmanship. With incredible ballistic performance and unmatched reliability, they are essential firearms in the gunrack of all the top hunters.\n\n\u2022 686 Silver Pigeon I\n\u2022 695\n\u2022 A400 Upland\n\u2022 A400 Xtreme PLUS True Timber DRT\n\u2022 A400 Xtreme Plus Mossy Oak Bottomland\n\u2022 A400 Xtreme Plus Synthetic\n\u2022 A400 Xtreme Plus Max 5",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000022192": {
         "id": "01006C500A29D001",
         "rightsId": null,
@@ -47599,6 +48018,31 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/50836287b556d9ca9a4ad797ac278d9bf02f8e12b9e18ef4ff51d1f396ac680e.jpg",
         "intro": null,
         "description": "Make a name for yourself with this exclusive pack! This pack contains 1 design, 3 vehicles and 1 arena.\n\nThe Rebel Hunter Pack includes:\n\n- 1 exclusive \"Rebel Hunter\" design; show everyone who's boss!\n- 3 different vehicles: Magnum, Victory and Frantic , the best US designs to crush the competition\n- 1 racing arena in the city of Charleston\n\nShow off your style and show everyone who's boss in all the arenas.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022288": {
+        "id": "01002AF011D15001",
+        "rightsId": null,
+        "name": "Tennis World Tour 2 Legends Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201015,
+        "nsuId": 70050000022288,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Nacon",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5bd98a6672e25d0663f4e0fbf0613dcbb389791a679fc6eb82a73573090696d4.jpg",
+        "intro": null,
+        "description": "The Legends pack unlocks 2 players who left their mark on tennis history in the 2000s: Gustavo Kuerten and Marat Safin.\n",
         "languages": null,
         "size": 4194304
     },
@@ -51409,6 +51853,210 @@
         "languages": null,
         "size": 97517568
     },
+    "70050000023403": {
+        "id": "01002F0011DD5001",
+        "rightsId": null,
+        "name": "Round Hammer Particle Cannon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201015,
+        "nsuId": 70050000023403,
+        "category": null,
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Lightning Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5ee5045f0a4d7ba06f38678ef0a76ce08922ced682d7a6f314c5b9d678d64fa3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ea90b6c44e4d094577b8a380af39ab09e2d43f67e5e4378c00cd3adc7dfcdba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/13e90374ea1d3e3b2eaa3aecef029b0fb9c444c9a96ace2a1a9f65f353c2a492.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7cef86f6b8d1c23c7258c49a705bdbe77da43c4c25e0bfffd55655f52f6f33e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/66e420e72b25ba3bac2300629f7c5d59d5ff6c76dbda2f9f3afd64be74814982.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f936a9849f8b54fea5fd8fd98ab1839dba554299b27c9c4d3ae232538b74ad08.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/47cb5e13983315abcd154abee5b02c2ee44239b16fed86f20dd560b2342c4184.jpg",
+        "intro": null,
+        "description": "This DLC includes a multiplayer mecha: Round Hammer Particle Cannon.\nRound Hammer Particle Cannon can only be used in Local Multiplayer, Online Multiplayer and Training.\n\nRound Hammer Particle Cannon is a model modi\ufb01ed to test the Siege Cannon model. It retains the original heavy armor, but lacks mobility. Also, to prevent the test data being used by enemies, it also comes with a self-destruction system.\n\nPrimary Weapon (Normal Mode) - Particle Shotgun\nHeavy Particle Cannon spread \ufb01ring mode.\n\nSecondary Weapon - Shock Wave\nRelease high-power particles to the front to knockback the enemy.\n\nLight Melee - Graphite Scrambler\nForms temporary electric shock to temporarily disrupt the movement of the enemy.\n\nHeavy Melee - Self-destruction System\nDetonates an explosion with a large e\ufb00ective radius to destroy test data.\n\nPrimay Weapon (Sniper Mode) - Heavy Particle Cannon\nGiving up mobility, sets up the shield and transforms into a turret.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023404": {
+        "id": "01002F0011DD5002",
+        "rightsId": null,
+        "name": "Shepherd J\u00e4ger & Morris",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201015,
+        "nsuId": 70050000023404,
+        "category": null,
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Lightning Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6828144a206e6069743c1e089d0bb4887047f5304a68e32dd3bdf90647f1abda.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22b1c7d03dfb592cb7d7ded99a2855163528f9ca0269841f78332ebc81f18247.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b139e83dfe31c83d83449c0586ea6ea76e40df33a4fd31279a903b9ffdc09f46.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/070a1c6e045d24cdbc484e8eef9a6735eddecedda320de6a87439d0b6b7d5c16.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1a331625720e3a309be471343d27182c66ca375cc9150b4386e49c6706e368b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/796e06ed4942c02642d31d249b5028b902dc6968da9dbf3e34f82b5a4fd0caf0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/da71d3991f08658c74053d91e0b401849c35fc6ea4820a96d70f79bccf51c501.jpg",
+        "intro": null,
+        "description": "This DLC includes a multiplayer mecha \"Shepherd J\u00e4ger\" and a multiplayer pilot \"Morris Yasir\".\nShepherd J\u00e4ger & Morris can only be used in Local Multiplayer, Online Multiplayer and Training.\n\n\u3010Mecha\u3011\nShepherd J\u00e4ger is a model with its melee attack strengthened around its sabre.\n\nPrimary Weapon - Throwing Knife\nThrows a high speed dagger to disrupt the enemy.\n\nSecondary Weapon - Shoulder Vulcan\nFires two vulcans on the shoulder at the same time.\n\nLight Melee - Iaido Combo Slash\nPerforms a 2 hit combo slash.\n\nHeavy Melee - Iaido Heavy Slash\nPerforms a heavy slash.\n\nShepherd J\u00e4ger and Morris Yasir can only be used in Local Multiplayer, Online Multiplayer and Training.\n\n\u3010Pilot\u3011\nMorris is the captain of Hardcore Defense Corp., a stoic warrior and sword master, equipped with pistol, rocket launcher and katana.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023405": {
+        "id": "01002F0011DD5003",
+        "rightsId": null,
+        "name": "Graeme & Vulphaes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201015,
+        "nsuId": 70050000023405,
+        "category": null,
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Lightning Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7128b4148218dce766408118a82b59060261cee44c222f679e81d6b6740c1ec1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/886f659e473c795c4a0ba84008c5ea72659ac1dfd8ecc733d36c970d2a8d3d04.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f741da8f7f9ca8b2ae5d452c0379c672c8afc9ecfdd600892965debb32b90965.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd7e684f550b918db0fd3f2f05eda9605afcfb575092cadc478f6f40d6437ab0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d84fa3cc5cdfbe14205ec37e50a27136e8d3689ac58b1b8941526ca6a64bf81f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3afe303158a2ab22b4c54714f46b0451724c532fc29008a4b25efde67276502e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/74c52091cc2bd9652ff02a29d7d735cda19f328c1b4ddc3e62b1993c07076ffa.jpg",
+        "intro": null,
+        "description": "This DLC includes a multiplayer mecha \"Graeme\" and a multiplayer pilot \"Vulphaes Bonaparte\".\nGraeme and Vulphaes Bonaparte can only be used in Local Multiplayer, Online Multiplayer and Training.\n\n\u3010Mecha\u3011\nModified Golem adjusted to the feature of the pilot, suitable for melee combat. The ride for Vulphaes Bonaparte.\n\nPrimary Weapon - Dagger Attack\nLaunches quick attack with AT Dagger\n\nSecondary Weapon - Chest Vulcan\nSmall caliber vulcan gun.\n\nLight Melee - Martial Arts\nPerforms 2 combo melee strike\n\nHeavy Melee - Iaido Heavy Slash\nLoads HE round then performs a large scale strafing.\n\nLight Melee(Battle Damaged) - Ram\nPerforms a tackle.\n\nSecondary Weapon(Battle Damaged) - Chest Vulcan\nSmall caliber vulcan gun.\n\nDefend/Transform\nNone.\n\n\u3010Pilot\u3011\nVulphaes is the ACE Pilot of Musbel, a wild red-hair merc who is very good with guns and knives.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023406": {
+        "id": "01002F0011DD5005",
+        "rightsId": null,
+        "name": "Mecha Painting Set 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201015,
+        "nsuId": 70050000023406,
+        "category": null,
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Lightning Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b45d76df7c0db0ae7622a596fef4f77813f89412fbf628f6553d77ed0e03ef17.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/868f447a727ac47cec7a88be2fe8fcc2268e2dccc300354a2d04b6b0dd3ea23c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a092a36736bfa2d00c70136d15690e36c7a52d2ed02a113d4ac109bec6e0ad9b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9474407560fd45baeff4bc2e1195a2aa65bc3baeca3fb6a78e524225876db55d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/929ae6e894f3de62d523a04e359f99c070aafae95cdbc3fcc535f17fb0d6e10e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b50df3c60f214c421b91dbfaadf91b9b2ecd0e674683f596cbafa947e896e27.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7d5f37430ebc148222aba2211440c73e68d4aff4f388ad823612439af73d5582.jpg",
+        "intro": null,
+        "description": "This DLC contains 5 different mechas' paintings.\nPaintings can only be used in Local Multiplayer, Online Multiplayer and Training.\n\n\u30fbThunderbolt, Painting \"Wish of Edgar\"\n\u30fbCrimson Flame, Painting \"Black Iron Fortress\"\n\u30fbGeier EVOL, \"Psychological Warfare\"\n\u30fbKnell A3, Painting \"Giant Rise\"\n\u30fbRound Hammer Siege Cannon, Painting \"Red Brick\"",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023407": {
+        "id": "01002F0011DD5006",
+        "rightsId": null,
+        "name": "Pilot Pack 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201015,
+        "nsuId": 70050000023407,
+        "category": null,
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Lightning Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/35da936319afe2ddf72a04cbc383fec638f6152e061c47a4e25434b1fcd376d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/90a1047e7fdaa41b58d9528afe784e4c79da2f8bb3750e06a69309172b10f6d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c62dfd3364abe550e12fa0cb2c6f2a7048b6cef36b007514a372d8bf9a40fca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/763f5e5ddf56176485cc8fcb90bd033d85fab1cb48d2796ed9182dda553943f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/794453bcb4c63e4394d796b9b24d175f92d33738b063a79f19b293dd69851e46.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/47d64dcba24ef9fea5e7de546172d98258ed32da73c3c65ae1e42bdf515091e3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25b65a21d79595592c2f68c4d67bd7fa310b02ee9f13419572607b3359794490.jpg",
+        "intro": null,
+        "description": "This DLC includes 3 multiplayer pilots: Tarethur O'Connell, Edgar Fieldbach and Aylatanya Kiruna.\nTarethur O'Connell, Edgar Fieldbach and Aylatanya Kiruna can only be used in Local Multiplayer, Online Multiplayer and Training.\n\n\u3010Tarethur O'Connell\u3011\nTarethur O'Connell is an ACE pilot for Hardcore Defense Corp., a merc with a simple but e\ufb00ective combat style, equipped with pistol, grenade and combat dagger.\n\n\u3010Edgar Fieldbach\u3011\nEdgar is a support pilot of Hardcore Defense Corps., an outgoing robot anime fan, excellent in penetrating weak spot of the enemy, equipped with SMG and grenade.\n\n\u3010Aylatanya Kiruna\u3011\nLt. Aylatanya, a vigorous and speedy UNF intel o\ufb03cer, good at jamming enemies, equipped with pistol, jamming grenade and grapple gun.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023408": {
+        "id": null,
+        "rightsId": null,
+        "name": "Thunderbolt Otome",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70050000023408,
+        "category": null,
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Lightning Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f3f4e5bf2aef5e24111ace8c73b99709794929a7afb49329e7af9be51b792937.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2d4dd6602376fc7de2bc06b7733bd36ca49b73f3aa02825878258cde52ec6e01.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/05ae675fd981094bcd83e1ce55c6d4f53bc2fa700adfa4ebceb59230ede1516a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/abf7ec738b98e8e207f2da5a5bcfbee499aed9416fe4addeba9cf30d9047dd1a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a1f6a99cb2d7ebbb274a51f6b3d1864dc1f1dd3f7580c36b9b0728adeac1d853.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/72b744b03c972096146e0ffbf9b360af5f5d687de2e7efbf32092eb98a63221d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1aff96c0ad51f6e530c6c8bceef30c6b4018099a9e2aba230f59152e541c762f.jpg",
+        "intro": null,
+        "description": "This DLC includes a multiplayer mecha \"Thunderbolt Otome\".\nThunderbolt Otome can only be used in Local Multiplayer, Online Multiplayer and Training.\n\nCreated by simulation battle developers in private, according to their preferences. Although it has exactly the same performance as the original Thunderbolt, it unexpectedly increased the pilot\u2019s moral.\n\nPrimary Weapon - Beam Rifle\nFires a semi-automatic beam rifle.\n\nSecondary Weapon - Chest Vulcan\nSmall caliber vulcan gun.\n\nLight Melee - Energy Blade\nSlashes with the arm-mounted Energy Blades. Can perform a three-hit combo.\n\nHeavy Melee - Shield Shock\nBlasts the enemy with an electric shock. Press again to release another pulse.\n\nDefend/Transform\nUses a shield to block attacks from the front.",
+        "languages": null,
+        "size": 0
+    },
     "70070000010094": {
         "id": null,
         "rightsId": null,
@@ -53368,7 +54016,7 @@
         "intro": "Ninjas Play Free",
         "description": "Warframe is a cooperative free-to-play third person online action game set in an evolving sci-fi world.\n\nKickstart your Warframe experience with this powerful pack of gear.\n\nIncludes: 420 Platinum, Nidus Warframe, Boltor Rifle, Essential Base Damage Mod Bundle, Split Chamber Mod, 2000 Endo, Warframe\u00ae Base Game.",
         "languages": null,
-        "size": 26870808576
+        "size": 27140292608
     },
     "70070000011103": {
         "id": null,
@@ -53736,6 +54384,33 @@
         "languages": null,
         "size": 1016070144
     },
+    "70070000011236": {
+        "id": null,
+        "rightsId": null,
+        "name": "Cardpocalypse: Time Warp Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201014,
+        "nsuId": 70070000011236,
+        "category": null,
+        "ratingContent": [
+            "Fear"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Versus Evil",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6e5fa8ab059946fbb201c7577969af8d4118a7813ce738a1c37056477a9e6fc3.jpg",
+        "intro": null,
+        "description": "Make friends, play cards, twist the rules, become a Mega Mutant Power Pets master, and try to save the world in this single-player RPG about being a 90's kid. On her first day at Dudsdale Elementary, 10-year old Jess accidentally gets everybody's favorite collectible card game banned, forcing the kids to take their card battles underground. Troubles arise when mutants from the game invade the real world, and it's up to Jess and her friends to stop them.\n\n\u2022 GO MEGA: Champion cards evolve to their MEGA forms when their health halves, doing more attack damage and gaining new powers.\n\u2022 CHANGE THE GAME: The kids sometimes use house rules and who knows what the Mutants will change. Throughout the game you will choose the new rules and conditions as well as renaming your favorite cards and giving them upgrades using stickers. Create entirely new cards using the Mega Mutant Power Magazine. But be careful, these decisions are permanent.\n\u2022 GET SCRAPPY: Adventure throughout the school to unravel the strange occurances at Dudsdale Elementary. Take on quests to earn cards, stickers, and candy which you can collect and trade with your classmates. Careful, there's no backsies!\n\u2022 YOU CAN'T COLLECT 'EM ALL: In the end, your decks and rules will be unique to you. Stickers are rare, choices matter, and sometimes you'll have to make a tough decision to get the best cards.\n\u2022 THE 1990's: Through its totally rad, choice-driven, interactive narrative, Cardpocalypse delivers the experience of being a 90's kid. Boo-ya!\n\u2022 Now featuring Gauntlet Mode! A roguelike mode where every run is unique. Pick your champion and fight your way through ever more difficult battles. After every win draft new cards, rules and rewards for your deck! Can you build the ultimate combo and beat the Gauntlet?\n\u2022 Out of Time: A whole new standalone campaign! Build your collection and change the rules once more.",
+        "languages": null,
+        "size": 1739587584
+    },
     "70070000011239": {
         "id": null,
         "rightsId": null,
@@ -53769,5 +54444,38 @@
         "description": "G.I. Joe and Cobra are back! G.I. Joe: Operation Blackout is a  team-based third- person shooter where you play as your favorite characters from Team G.I. Joe and Team  Cobra. Experience the action from both sides as you help G.I. Joe restore order and lead Cobra to world domination. Continue the fight with all new character and weapon skins and get exclusive access to the art and music from the game!\n\nG.I. JOE VS COBRA - Play with 12 of your favorite characters from both sides including Snake Eyes, Duke, Roadblock, Storm Shadow, Cobra Commander, Destro and more in 4-player PvP and across 17 epic campaign story missions.\u00a0 Includes voice acting for over 20 iconic characters in the G.I. Joe universe.\n\nCOMBAT TOOLS - Fight for your side with 18 awesome weapons, 36 weapon skins, 12 alternate character skins and a series of uniquely devastating ultimate abilities.\n\nLEGENDARY FRANCHISE - Take control of the iconic G.I. Joe Persuader and Cobra H.I.S.S. tanks in your battle across classic locations like the USS Flagg and Cobra Headquarters.\n\nCO-OP & PVP MULTIPLAYER - Play the campaign with a friend in local co-op, or compete in 4-player PvP local matches in 4 Multiplayer Modes: Capture the Flag, Assault, King of The Hill, and Deathmatch Arena.\n\nDigital Deluxe Edition Includes:\n\nClassic Duke & Classic Cobra Commander Character Pack - \nTwo new characters skins based on the iconic 80\u2019s cartoon!\n\nBattle Gear: G.I. Joe and Cobra Weapons Pack - Includes 12 new weapon skins in Cobra Gold and G.I. Joe Chrome.\n\nExclusive Digital Art Book - Get a look at the never-before-seen art used to create the game.\n\nDigital Soundtrack - Full length music tracks from game plus  bonus tracks from the 80\u2019s cartoon.",
         "languages": null,
         "size": 6504316928
+    },
+    "70070000011266": {
+        "id": null,
+        "rightsId": null,
+        "name": "DLC Pack\u3010Fighter Pass\u3011",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201015,
+        "nsuId": 70070000011266,
+        "category": null,
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Lightning Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2b50df3c60f214c421b91dbfaadf91b9b2ecd0e674683f596cbafa947e896e27.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a73d9b3b087741c776b1db9702a6bf4eb8f778c98d2af4532f7c363899539945.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/796e06ed4942c02642d31d249b5028b902dc6968da9dbf3e34f82b5a4fd0caf0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ea90b6c44e4d094577b8a380af39ab09e2d43f67e5e4378c00cd3adc7dfcdba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9896c596e0bb90b3277f811cf4febf6ed7c989531f3d72523c1642772bd93da2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0a0cc9e93bef891c752bcd01cb4cc2b06a270d08daceed110d987bd4dd35ba36.jpg",
+        "intro": null,
+        "description": "This DLC Pack includes:\n\n\u25a0 Mecha Painting Set 1\n\u25a0 Graeme & Vulphaes\n\u25a0 Shepherd J\u00e4ger & Morris\n\u25a0 Round Hammer Particle Cannon\n\u25a0 Pilot Pack 1",
+        "languages": null,
+        "size": 20971520
     }
 }
