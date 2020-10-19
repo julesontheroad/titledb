@@ -21972,10 +21972,10 @@
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/32de74d73e1959605b22af26757b1eb4c8168e3547d5ebf9b182be5b78f0b7a4.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/b068325d54eb29248659c800b661e6c9b3c6591fe6e1932b348e8167a47810ad.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/a87475575f2424b80c84188b1843e40362e336791a80592f7c4aa641488b1914.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2170317b4893c8894d839740f3a1e395d2b2e269c6cff404a7e938134d04d94b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/86006aaa0df2d8124a820499214d5ea4662daa929dda9de0cbdf2fdb2924f67a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/903fb1e92b01763ad5405c3cacea4c8d52d99f93dad43eb272e274635cac3d6e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/1866c1581e8b5f10aada9a81dea618eb979ac9f212e1f17c6ea4c6613b082d36.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/1d6656f4cd92836bc278d7043e2c445b48f172d1a8616f29b5bdb23039418ef7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab1631a2e0f88fc2bb0e3857c322f0d1dee985cab1328e85162a676dfa707072.jpg",
             "https://img-eshop.cdn.nintendo.net/i/a72968e0ff6bd93c2e4e03427117501bb4d3124b24be3d61f880a3cc9275e286.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/22e7bde45cd5a30bf1ea95a0aee8d43b5da901a04134ba550e3673a47d4687c8.jpg",
@@ -30017,6 +30017,39 @@
             "en"
         ],
         "size": 28311552
+    },
+    "70010000035323": {
+        "id": "01006CE0134E6000",
+        "rightsId": null,
+        "name": "A Frog Game",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201022,
+        "nsuId": 70010000035323,
+        "category": [
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "EntwicklerX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7dbb7b959e71793bf04941e092975bbfb171417d7b65b47ceb4d7cbc6cf62ab3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/703e74a5c785080b23db4f0861d26cf54b70a08444257d1e0e025b7d8a8f9eea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/66e1ca027d8a771329d8aaad0ae47ba744b1bb6d65cb29001a414a3e4c36cda5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20fd3a3a52636a27f5442a7e14612674b956201885d3e0a599b63b9f96191627.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c91d33d6149d5a03af8996b50cbc711b3ff329031279333183c3d2ba66645ddf.jpg",
+        "intro": "In this game you just have to catch flies. Nothing more, nothing less. ",
+        "description": "In this game you just have to catch flies. Nothing more, nothing less. But be careful, you are not the only hungry frog.\n\nEat special flies for better scores or time bonus. You also should know that not every fly is delicious!",
+        "languages": [
+            "en"
+        ],
+        "size": 35651584
     },
     "70030000010781": {
         "id": null,
@@ -47347,7 +47380,7 @@
         "intro": "Pi\u00f9 tracciati e divertimento: Cavalca con Ryan Tutti in gita Edizione Deluxe \u00e8 la migliore esperienza di corse per i fan del Mondo di Ryan!",
         "description": "Gioca nei panni di Ryan e un cast di personaggi sempre pi\u00f9 ampio, grazie a 12 nuovi piloti provenienti dagli Stati Uniti, tra cui American Titan, Kansas Gus, New York Lexa e molti altri. Unisciti a loro in una splendida gita in America, con 4 nuovi circuiti fantasiosi e colorati come l\u2019immaginazione di un bambino. Raggiungi l\u2019ovest percorrendo la storica Route 66, dimostra di essere un pilota glaciale nelle Lande ghiacciate, ritorna alla natura nella Foresta e sfreccia nel traffico in Citt\u00e0. Sarai di nuovo il primo a tagliare il traguardo?\n\nLa Deluxe Edition include anche la frenetica esperienza di corse dell\u2019originale Cavalca con Ryan. Gareggia per il campionato nella modalit\u00e0 Carriera o sfida i tuoi amici in avvincenti gare a 2-4 giocatori a schermo condiviso. Emergi dal gruppo con le sorprese delle famose Uova del Mistero di Ryan, come gli Scudi Hamburger, la Melma Appiccicosa, le Uova con sorpresa truccate e molte altre. Con comandi semplificati, accelerazione automatica opzionale e un tutorial per guidare i giocatori pi\u00f9 giovani attraverso la loro prima esperienza di gioco, \u00e8 il perfetto regalo di Natale per i piloti di ogni et\u00e0!\n\n",
         "languages": null,
-        "size": 2805989376
+        "size": 2985295872
     },
     "70070000011207": {
         "id": null,

@@ -1203,10 +1203,10 @@
             "Adventure"
         ],
         "ratingContent": [
-            "Moderate Violence"
+            "Mild Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 12,
+        "rating": 7,
         "developer": null,
         "publisher": "Humble Games",
         "frontBoxArt": null,
@@ -5426,12 +5426,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/63584812b3140dda685c2cea8ccc28d745cd1088d245e187f3201d6bfab77c77.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/fd47426fb2d2ff5d32634ab6b6703a40fb8fec3f440b98c48eef5aff804455c8.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/e81c8b847606090bb0c9033f6b18d916e3acf4da3c60a34dbffc1e18bef27d42.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/ea809d699315317f0069d3e03e089dba66ad80a18a4b4857a07c772ffcde5b87.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/548d9dcb3845ffb0d24f11f977ef0dca26cb80914e8c514797c6e6b89f3c9e69.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/72791e5a2b8778cf6c0e44f9b19f9521fa9f6d9f414dcaaea43bde849ffc3800.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/56bf40ae2eb1b86e31a49e51f9852b643b0756e06083464627fe8c4b1a5efd0b.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/f6d3ecc51a81d6c403ed8d1ee5acf7ba6369b9bc5e2e89d4f5da17b3e51093a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aff883ce967ae4303d79f49063224c37429f129b438967d6ff883f3b8a434a7a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8861f4fa2b2c35c31862591525dcb3bf03e12e85a5cc900816dc08dc04d49854.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7fd0531fb78747fb82207d1216c36c8d479bd2a06e3051cffa3782219dc55070.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bbec4bb91c0f1065cc7619dd370076027d43513f6c7e0bc845d55348f5d48a9a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97116bfaa9527156b90ea3ab41bddeae5867cb327c2ee5eccdbcaaf9c7bd4b1b.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b635d94700b1a297353d61c449c01ff5d4ca77330ec586b26f1bed0f5489c7ff.jpg",
         "intro": "Cooperate with Yourself\n",
@@ -9096,7 +9096,7 @@
             "zh",
             "zh"
         ],
-        "size": 6827278336
+        "size": 7032799232
     },
     "70010000023393": {
         "id": "0100C0C0040E4000",
@@ -11073,7 +11073,13 @@
         "intro": "The grand micro brawls",
         "description": "Gerrrms is a party brawl game that puts you in the role of a microorganism fighting against its single-celled opponents.\n\nTake part in the eternal battle of the microbes! Become one of the sneaky bacteria and tech your friends their place in line. This is the best micro brawl game out there.\n\nPlay as one of 11 unlockable characters with different personalities.\n\nThere are as many as seven game modes!\nDeathmatch - this is the classic germ vs germ warfare. \n\nFlag - grab that flag and hold it tight. The longer you hold it, the closer you are to victory. \n\nBomb - ever tried to hold a hot potato? When the timer goes down, the bomb will explode. \n\nSynapse Snatch - everyone has their own-colored corner. The task is to grab the ball and carry it with you to your corner.\n\nGobble - oh, look, the delicious germ food is appearing in random locations! Make sure you devour as much as you can.\n\nAntibody - Avoid Barney's angry attacks as long as you can.\n\nTake Over - pay attention to shiny spots popping up on the field\u2019s walls. If you bump into them, they will turn into your very own spikes! \n\nEvery game mode features a power-up that can give you an edge against your opponents. Wait for the power-up timer to fill up and\u2026 fire!\n\nNo friends coming over? No worries! The single player mode will keep you hooked for hours!\n",
         "languages": [
-            "en"
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru"
         ],
         "size": 790626304
     },
@@ -17173,12 +17179,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d1d2f86170fb95fb659a28608337563d9baffe05fa7aec3a26721386e7ae42d8.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/b2341b45ddbd3444b11ac665171d1aed2821d79b9a890720deb294510a5ed7c3.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/9e335639e411aefb1a1c0a578c176b6d3de755a146ba38a59e3677e363854243.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/352ffa72e78758c5db097902c3f471e0fb28982f1562f55d4eba74c5fd843586.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/8c160e3badd15aa63d33428b82709a9f31e12e7a8033abef8978207190d9232e.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/fe51984c6505c2b6ba5a339e870cf2293a561f26059c202c4199e2b2e51358f0.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/9d30a5e6747d261126e17cc1f8b7f8f57556b74822012887eea3b8ac2100fa7e.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/ac13788e830bca33941e997ad21dc1c3ffa0bb3353195bc5529d4d69d8292539.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e21ddffc16f83c01ab3d3d184e201181ec4e980369a55a68e66160e8ab6d494.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0d41a60d7cbcaa02ca2316388789142f824a1c703007bb2d921cf6c7a30f253a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d0580452190c8bf307ea826b3e7b75232b9e83308b9f14fed977cb4494e27e6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16d4358cf02233c5ebc7dc5b23563b05514182dad0dcbb3158451f6fafd5d087.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2fe576e3622c770ec677171d484cc60d45ec3455f6d74497db1eb4bf53dc5a5.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4904a83a2822b96a3aef2122bf476af77d430b912ff15594b2eb6ca00252bf83.jpg",
         "intro": "Charge. Break. Defeat. Repeat.",
@@ -19722,7 +19728,7 @@
             "ko",
             "zh"
         ],
-        "size": 492830720
+        "size": 706740224
     },
     "70010000029249": {
         "id": "0100F6F0118B8000",
@@ -28553,7 +28559,7 @@
         "developer": null,
         "publisher": "Graffiti Games",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/90b77a28593d05eaba8b658ccedbfd67824df2962dc10d6eaaf25ed27412aea7.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3968f2a1862fbf41388d8d9bd258327124926c7905a649967e6ae305e4220c5c.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/8e87e24de3cf2d7af0e73f01e1c266d4702ab55c9bc36a5289007866d80815e8.jpg",
             "https://img-eshop.cdn.nintendo.net/i/032fcdf8f6abee7638dcba310961b252a45ee4cacf35f87aeff6b95ad5edc4d8.jpg",
@@ -28573,7 +28579,7 @@
             "de",
             "ru"
         ],
-        "size": 371195904
+        "size": 564133888
     },
     "70010000031855": {
         "id": "0100B7E01234E000",
@@ -31527,10 +31533,10 @@
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/32de74d73e1959605b22af26757b1eb4c8168e3547d5ebf9b182be5b78f0b7a4.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/b068325d54eb29248659c800b661e6c9b3c6591fe6e1932b348e8167a47810ad.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/a87475575f2424b80c84188b1843e40362e336791a80592f7c4aa641488b1914.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2170317b4893c8894d839740f3a1e395d2b2e269c6cff404a7e938134d04d94b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/86006aaa0df2d8124a820499214d5ea4662daa929dda9de0cbdf2fdb2924f67a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/903fb1e92b01763ad5405c3cacea4c8d52d99f93dad43eb272e274635cac3d6e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/1866c1581e8b5f10aada9a81dea618eb979ac9f212e1f17c6ea4c6613b082d36.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/1d6656f4cd92836bc278d7043e2c445b48f172d1a8616f29b5bdb23039418ef7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab1631a2e0f88fc2bb0e3857c322f0d1dee985cab1328e85162a676dfa707072.jpg",
             "https://img-eshop.cdn.nintendo.net/i/a72968e0ff6bd93c2e4e03427117501bb4d3124b24be3d61f880a3cc9275e286.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/22e7bde45cd5a30bf1ea95a0aee8d43b5da901a04134ba550e3673a47d4687c8.jpg",
@@ -31900,9 +31906,11 @@
             "Sports",
             "Other"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Moderate Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 12,
         "developer": null,
         "publisher": "Forsaken Games",
         "frontBoxArt": null,
@@ -31921,7 +31929,7 @@
         "languages": [
             "en"
         ],
-        "size": 111149056
+        "size": 146800640
     },
     "70010000032485": {
         "id": "01007A1012376000",
@@ -35499,7 +35507,7 @@
             "zh",
             "zh"
         ],
-        "size": 747634688
+        "size": 752877568
     },
     "70010000033277": {
         "id": "0100E18012A64000",
@@ -37459,7 +37467,7 @@
         "languages": [
             "en"
         ],
-        "size": 61865984
+        "size": 120586240
     },
     "70010000033930": {
         "id": "0100D95012C0A000",
@@ -39707,6 +39715,39 @@
             "en"
         ],
         "size": 28311552
+    },
+    "70010000035323": {
+        "id": "01006CE0134E6000",
+        "rightsId": null,
+        "name": "A Frog Game",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201022,
+        "nsuId": 70010000035323,
+        "category": [
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "EntwicklerX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7dbb7b959e71793bf04941e092975bbfb171417d7b65b47ceb4d7cbc6cf62ab3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/703e74a5c785080b23db4f0861d26cf54b70a08444257d1e0e025b7d8a8f9eea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/66e1ca027d8a771329d8aaad0ae47ba744b1bb6d65cb29001a414a3e4c36cda5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20fd3a3a52636a27f5442a7e14612674b956201885d3e0a599b63b9f96191627.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c91d33d6149d5a03af8996b50cbc711b3ff329031279333183c3d2ba66645ddf.jpg",
+        "intro": "In this game you just have to catch flies. Nothing more, nothing less. ",
+        "description": "In this game you just have to catch flies. Nothing more, nothing less. But be careful, you are not the only hungry frog.\n\nEat special flies for better scores or time bonus. You also should know that not every fly is delicious!",
+        "languages": [
+            "en"
+        ],
+        "size": 35651584
     },
     "70030000010396": {
         "id": null,
@@ -61119,7 +61160,7 @@
         "intro": "More tracks, more friends, more fun \u2013 it's Race with Ryan: Road Trip Deluxe Edition, the complete racing experience for fans of Ryan's World!",
         "description": "Play as Ryan and an expanded roster of friends, with 12 new USA-themed drivers including American Titan, Kansas Gus, New York Lexa and more. And join them on the open road for an American truck tour, featuring 4 new circuits as exciting and colorful as a kid\u2019s imagination. Cruise out west on historic Route 66, prove you're the coolest driver in Icy Land, get back to nature in the Forest, and zoom past traffic in the City. Will you be first across the finish line... again?\n\nThe Deluxe Edition also includes all the high-speed action of the original Race with Ryan. Go for the championship in Career Mode, or speed past your friends in 2-4 players split-screen races. And power through the pack with the surprise items in Ryan\u2019s famous Mystery Eggs \u2013 like Burger Shields, Sticky Slime, Trick Surprise Eggs, and many more. With simple controls, optional auto-acceleration, and a tutorial to guide younger players through their first video game, it's the perfect Christmas gift for drivers of all ages!\n",
         "languages": null,
-        "size": 2805989376
+        "size": 2985295872
     },
     "70070000011207": {
         "id": null,
