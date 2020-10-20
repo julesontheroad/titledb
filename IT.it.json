@@ -937,10 +937,10 @@
             "Avventura"
         ],
         "ratingContent": [
-            "Violenza contenuta"
+            "Violenza moderata"
         ],
         "numberOfPlayers": 1,
-        "rating": 12,
+        "rating": 7,
         "developer": null,
         "publisher": "Humble Games",
         "frontBoxArt": null,
@@ -1340,9 +1340,11 @@
             "Sparatutto",
             "Multiplayer"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
         "numberOfPlayers": 4,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Ratalaika Games",
         "frontBoxArt": null,
@@ -2820,7 +2822,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3940fe4db688da4ef0d01a2d20591ff5deda19cfbde2a47102e6217303587362.jpg",
         "intro": "Scegli attentamente. Vivi intensamente.",
-        "description": "La Lanterna Rossa \u00e8 un gioco survival rogue-lite che segue un filo narrativo in cui tu e la tua squadra di 5 cani da slitta, smarriti nella natura selvaggia, dovrete superare gli ambienti in continuo mutamento delle selve dell'Alaska per ritrovare la strada di casa.\n\nCaratteristiche:\n- Un mondo dinamico che muta mentre giochi\n- Quasi 100 ambienti diversi, ciascuno con risultati diversi\n- Ottieni oggetti e potenziamenti mentre scopri nuovi elementi del mondo circostante\n- 8 cuccioli diversi da aggiungere alla tua squadra, ciascuno con una propria personalit\u00e0.\n",
+        "description": "The Red Lantern \u00e8 un gioco survival rogue-lite che segue un filo narrativo in cui tu e la tua squadra di 5 cani da slitta, smarriti nella natura selvaggia, dovrete superare gli ambienti in continuo mutamento delle selve dell'Alaska per ritrovare la strada di casa.\n\nCaratteristiche:\n- Un mondo dinamico che muta mentre giochi\n- Quasi 100 ambienti diversi, ciascuno con risultati diversi\n- Ottieni oggetti e potenziamenti mentre scopri nuovi elementi del mondo circostante\n- 8 cuccioli diversi da aggiungere alla tua squadra, ciascuno con una propria personalit\u00e0.\n",
         "languages": [
             "ja",
             "en"
@@ -2935,7 +2937,7 @@
             "Altro"
         ],
         "ratingContent": [
-            "Violenza moderata"
+            "Violenza implicita"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -4033,12 +4035,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/63584812b3140dda685c2cea8ccc28d745cd1088d245e187f3201d6bfab77c77.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/fd47426fb2d2ff5d32634ab6b6703a40fb8fec3f440b98c48eef5aff804455c8.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/e81c8b847606090bb0c9033f6b18d916e3acf4da3c60a34dbffc1e18bef27d42.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/ea809d699315317f0069d3e03e089dba66ad80a18a4b4857a07c772ffcde5b87.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/548d9dcb3845ffb0d24f11f977ef0dca26cb80914e8c514797c6e6b89f3c9e69.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/72791e5a2b8778cf6c0e44f9b19f9521fa9f6d9f414dcaaea43bde849ffc3800.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/56bf40ae2eb1b86e31a49e51f9852b643b0756e06083464627fe8c4b1a5efd0b.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/f6d3ecc51a81d6c403ed8d1ee5acf7ba6369b9bc5e2e89d4f5da17b3e51093a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aff883ce967ae4303d79f49063224c37429f129b438967d6ff883f3b8a434a7a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8861f4fa2b2c35c31862591525dcb3bf03e12e85a5cc900816dc08dc04d49854.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7fd0531fb78747fb82207d1216c36c8d479bd2a06e3051cffa3782219dc55070.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bbec4bb91c0f1065cc7619dd370076027d43513f6c7e0bc845d55348f5d48a9a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97116bfaa9527156b90ea3ab41bddeae5867cb327c2ee5eccdbcaaf9c7bd4b1b.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b635d94700b1a297353d61c449c01ff5d4ca77330ec586b26f1bed0f5489c7ff.jpg",
         "intro": "Collabora con te stesso\n",
@@ -5958,7 +5960,7 @@
             "zh",
             "zh"
         ],
-        "size": 1454374912
+        "size": 1521483776
     },
     "70010000022757": {
         "id": "0100C9E00F54C000",
@@ -7770,7 +7772,13 @@
         "intro": "The grand micro brawls",
         "description": "Gerrrms is a party brawl game that puts you in the role of a microorganism fighting against its single-celled opponents.\n\nTake part in the eternal battle of the microbes! Become one of the sneaky bacteria and tech your friends their place in line. This is the best micro brawl game out there.\n\nPlay as one of 11 unlockable characters with different personalities.\n\nThere are as many as seven game modes!\nDeathmatch - this is the classic germ vs germ warfare. \n\nFlag - grab that flag and hold it tight. The longer you hold it, the closer you are to victory. \n\nBomb - ever tried to hold a hot potato? When the timer goes down, the bomb will explode. \n\nSynapse Snatch - everyone has their own-colored corner. The task is to grab the ball and carry it with you to your corner.\n\nGobble - oh, look, the delicious germ food is appearing in random locations! Make sure you devour as much as you can.\n\nAntibody - Avoid Barney's angry attacks as long as you can.\n\nTake Over - pay attention to shiny spots popping up on the field\u2019s walls. If you bump into them, they will turn into your very own spikes! \n\nEvery game mode features a power-up that can give you an edge against your opponents. Wait for the power-up timer to fill up and\u2026 fire!\n\nNo friends coming over? No worries! The single player mode will keep you hooked for hours!\n",
         "languages": [
-            "en"
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru"
         ],
         "size": 790626304
     },
@@ -11202,8 +11210,7 @@
             "Avventura"
         ],
         "ratingContent": [
-            "Linguaggio volgare",
-            "Acquisti in-game"
+            "Linguaggio volgare"
         ],
         "numberOfPlayers": 1,
         "rating": 16,
@@ -11693,12 +11700,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d1d2f86170fb95fb659a28608337563d9baffe05fa7aec3a26721386e7ae42d8.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/b2341b45ddbd3444b11ac665171d1aed2821d79b9a890720deb294510a5ed7c3.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/9e335639e411aefb1a1c0a578c176b6d3de755a146ba38a59e3677e363854243.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/352ffa72e78758c5db097902c3f471e0fb28982f1562f55d4eba74c5fd843586.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/8c160e3badd15aa63d33428b82709a9f31e12e7a8033abef8978207190d9232e.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/fe51984c6505c2b6ba5a339e870cf2293a561f26059c202c4199e2b2e51358f0.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/9d30a5e6747d261126e17cc1f8b7f8f57556b74822012887eea3b8ac2100fa7e.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/ac13788e830bca33941e997ad21dc1c3ffa0bb3353195bc5529d4d69d8292539.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e21ddffc16f83c01ab3d3d184e201181ec4e980369a55a68e66160e8ab6d494.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0d41a60d7cbcaa02ca2316388789142f824a1c703007bb2d921cf6c7a30f253a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d0580452190c8bf307ea826b3e7b75232b9e83308b9f14fed977cb4494e27e6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16d4358cf02233c5ebc7dc5b23563b05514182dad0dcbb3158451f6fafd5d087.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2fe576e3622c770ec677171d484cc60d45ec3455f6d74497db1eb4bf53dc5a5.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4904a83a2822b96a3aef2122bf476af77d430b912ff15594b2eb6ca00252bf83.jpg",
         "intro": null,
@@ -13168,7 +13175,7 @@
             "ko",
             "zh"
         ],
-        "size": 492830720
+        "size": 706740224
     },
     "70010000029252": {
         "id": "01008680118BA000",
@@ -13736,9 +13743,11 @@
             "Gioco di ruolo (RPG)",
             "Avventura"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "NotYetEntertainment",
         "frontBoxArt": null,
@@ -14917,7 +14926,7 @@
         "languages": [
             "en"
         ],
-        "size": 1067450368
+        "size": 1505755136
     },
     "70010000030143": {
         "id": "0100B0E010CF8000",
@@ -15361,7 +15370,7 @@
             "zh",
             "zh"
         ],
-        "size": 42957012992
+        "size": 43236982784
     },
     "70010000030376": {
         "id": "0100D55011D60000",
@@ -16322,9 +16331,11 @@
             "Sparatutto",
             "Azione"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "JanduSoft",
         "frontBoxArt": null,
@@ -19203,7 +19214,7 @@
         "developer": null,
         "publisher": "Graffiti Games",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/90b77a28593d05eaba8b658ccedbfd67824df2962dc10d6eaaf25ed27412aea7.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3968f2a1862fbf41388d8d9bd258327124926c7905a649967e6ae305e4220c5c.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/8e87e24de3cf2d7af0e73f01e1c266d4702ab55c9bc36a5289007866d80815e8.jpg",
             "https://img-eshop.cdn.nintendo.net/i/032fcdf8f6abee7638dcba310961b252a45ee4cacf35f87aeff6b95ad5edc4d8.jpg",
@@ -19223,7 +19234,7 @@
             "de",
             "ru"
         ],
-        "size": 371195904
+        "size": 564133888
     },
     "70010000031855": {
         "id": "0100B7E01234E000",
@@ -20546,7 +20557,7 @@
             "ko",
             "zh"
         ],
-        "size": 337641472
+        "size": 340787200
     },
     "70010000032136": {
         "id": "01000ED0124F2000",
@@ -22300,9 +22311,11 @@
             "Sport",
             "Altro"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza contenuta"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 12,
         "developer": null,
         "publisher": "Forsaken Games",
         "frontBoxArt": null,
@@ -22321,7 +22334,7 @@
         "languages": [
             "en"
         ],
-        "size": 111149056
+        "size": 146800640
     },
     "70010000032485": {
         "id": "01007A1012376000",
@@ -22919,9 +22932,11 @@
             "Avventura",
             "Piattaforme"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Ratalaika Games",
         "frontBoxArt": null,
@@ -24490,11 +24505,9 @@
             "Azione",
             "Arcade"
         ],
-        "ratingContent": [
-            "Violenza moderata"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "Vertex Pop Inc.",
         "frontBoxArt": null,
@@ -24865,10 +24878,12 @@
             "Strategia"
         ],
         "ratingContent": [
-            "Violenza intensa"
+            "Orrore",
+            "Imprecazioni moderate",
+            "Violenza contenuta"
         ],
         "numberOfPlayers": 1,
-        "rating": 16,
+        "rating": 12,
         "developer": null,
         "publisher": "Headup Games",
         "frontBoxArt": null,
@@ -25851,7 +25866,7 @@
             "zh",
             "zh"
         ],
-        "size": 747634688
+        "size": 752877568
     },
     "70010000033279": {
         "id": "0100BD0012A68000",
@@ -26808,6 +26823,44 @@
         ],
         "size": 717225984
     },
+    "70010000033563": {
+        "id": "010043A012A32000",
+        "rightsId": null,
+        "name": "Blackjack Hands",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201020,
+        "nsuId": 70010000033563,
+        "category": [
+            "Puzzle",
+            "Da tavolo",
+            "Strategia",
+            "Study"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "QUByte Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e9a2d136076897b38a8ff0e300a0e102a45e7bb4260c8fa61e5c5b4e33e0a9ad.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2ca9b336e2b9d50af6ed8455e1434b9ccae615f86a13e5b1d34255269e5385a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/87310a949a74928e4810be6af8b01e802219eed4a83cf977aab01649a32dc842.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f101ba27207b0516ba9c89b2904e3b724be4ce2fc1d3baee76f1f4ab2a9ee14e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0cdfd64acdb5ce4c5eda88c5cd39019c3b3cd05f506bdc6a7262d70d1d57c123.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bfc911c794e10d9b8019ff807514bb5cf5c13327dd5a7f550001663fcfd47f6c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/95ab58ab98d76b650f2fbf15416cd02078bb1d3186245472a565d8a6b570285c.jpg",
+        "intro": "A puzzle game inspired in Blackjack but with a new way to enjoy the Blackjack hands.",
+        "description": "Merge neighboring cards in the correct order to beat the Dealer. Enjoy and challenge yourself in this new experience.\n\ngame feature:\nUse your arrow keys to move the cards. When two cards touch, they merge into one!\nTry to beat the dealer in 50 hand crafted levels;\nDesigned for experienced blackjack players and newcomers alike (you do not need to know how to play blackjack to enjoy this game!);\nA relaxing and addictive puzzle game.",
+        "languages": [
+            "en"
+        ],
+        "size": 110100480
+    },
     "70010000033569": {
         "id": "0100645012C20000",
         "rightsId": null,
@@ -26919,7 +26972,7 @@
             "Simulazione di giochi d'azzardo"
         ],
         "numberOfPlayers": 4,
-        "rating": 12,
+        "rating": 18,
         "developer": null,
         "publisher": "Ratalaika Games",
         "frontBoxArt": null,
@@ -26942,7 +26995,7 @@
             "fr",
             "de"
         ],
-        "size": 40894464
+        "size": 68157440
     },
     "70010000033625": {
         "id": "0100E4401139C000",
@@ -27376,6 +27429,44 @@
         ],
         "size": 5808062464
     },
+    "70010000033773": {
+        "id": "0100EB8011B0C000",
+        "rightsId": null,
+        "name": "Gnome More War",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201027,
+        "nsuId": 70010000033773,
+        "category": [
+            "Sparatutto",
+            "Avventura",
+            "Multiplayer",
+            "Party"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Keybol Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0e5bf0c904ab641ca17df2c96109507377ee33651f9c0c20245318320c2bfbe6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ed3ad26b8b96a44d9269cec536e9a7c00cfc6ac8d4e2340ee3613838b8cd94bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f77babb2bfde1fcb91508d7ca51a575b53090a95613db5ee7572d1e5bb6a0ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c8398bae728bb116eec7c46f0899dfb832f4e681686bf8353b70f2e85a6b895.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/50b634992a913f8a531121eb53bb275e6af73ecd704d931a873ad63fba55f3cf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fb7713b7ab1ec60504fbeb77b76c65c5685bf5a79d0c698b527d1689b20171b4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/65063cd3c815f42094297d3e94589d613ac95e82b10f575403c243cdbb0cd1da.jpg",
+        "intro": null,
+        "description": "It was a fine day in the farm, and Freija was just chatting with his friend Filipo about the upcoming harvest when out of nowhere, a gnome passed by and stole from their barn! Will they let it slide? Not on their watch.\n\nExperience the classic arcade shooter game play with loads of twists in Gnome More War. Deal with incoming gnomes in waves, protect yourself from attacks, and prevent your barn resources from being depleted. Unlock offensive power-ups like Magic Missile, Power Burst, and Wind Boomerang and combine them with defensive power-ups like Barrier, Shell, and Slow Time to aid you in your quest. As you go through each map, you will need to employ a deeper strategy and make use of the unlockable upgrades that can increase your armor, gain more power-up charges over time, or even enlist your goblin friends to assist you. To top it all off, you can also invite a buddy to play as Freija, Nih, or Scarlet in co-op mode.\n\nThis is war!",
+        "languages": [
+            "en"
+        ],
+        "size": 320864256
+    },
     "70010000033789": {
         "id": "01000CC012D74000",
         "rightsId": null,
@@ -27769,7 +27860,7 @@
         "languages": [
             "en"
         ],
-        "size": 61865984
+        "size": 120586240
     },
     "70010000033930": {
         "id": "0100D95012C0A000",
@@ -28493,7 +28584,8 @@
             "Simulazione"
         ],
         "ratingContent": [
-            "Violenza estrema"
+            "Droghe e medicinali",
+            "Linguaggio volgare"
         ],
         "numberOfPlayers": 1,
         "rating": 18,
@@ -28814,6 +28906,56 @@
             "en"
         ],
         "size": 100663296
+    },
+    "70010000034531": {
+        "id": "010076001311E000",
+        "rightsId": null,
+        "name": "TAURONOS",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201103,
+        "nsuId": 70010000034531,
+        "category": [
+            "Arcade",
+            "Avventura",
+            "Puzzle",
+            "Simulazione"
+        ],
+        "ratingContent": [
+            "Paura",
+            "Violenza implicita",
+            "Violenza moderata"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Restless Corp",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/586e1dbaa959ebc6dd37ba75dbe42011893ee896364762c07af6d5070d275c24.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3cbe8706abdb9a869d9e7b84c195d0ec21a69fcbe83893eec76009621807dab0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c085897ec8909b0a6096556f14603ecc5ac46f87eacff68bcbf640f8dc2b84b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31d932b58907ebb353ddae2a1016f11f1192df5b2c1c4691c5ec09be39343c67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/858e729b07097bb374c431d319bfed0f5e007b311ae0fe59a7d047863fb2e06d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c272dba316d3c1f5ba8e9eda5e7f29bebd96d4c0cdcce8054bfacbaf23b674eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0d980ceb96882d53645a98f5adc4a0b7d710e5572d2189c26acd9c7d32959be9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1181481a918d90d863f5cebcaafcbae9ed36b20b7a657e46e71f544e9c4b18c7.jpg",
+        "intro": null,
+        "description": "Intrappolato in un antico labirinto, inseguito dal mitico Minotauro. Raggiungerai il centro? E se \u00e8 cos\u00ec, cosa scoprirai di te l\u00ec, al buio?\n\nC'\u00e8 solo un nemico ...\nMa \u00e8 il Minotauro imbattibile. Solo esplorando il labirinto del labirinto puoi sperare di scoprire come sconfiggere questo mostro immortale. Il grande labirinto ha molti strumenti, molti premi e molti segreti che aspettano solo che tu li trovi. Ma non puoi perdere tempo prezioso, perch\u00e9 il Minotauro si sta avvicinando sempre di pi\u00f9.\n\nSapore scuro\nIl gioco \u00e8 ispirato al mito greco del labirinto e alla lotta tra Teseo e il Minotauro. Il tema oscuro \u00e8 visivamente espresso dalla pixel art retr\u00f2, arricchita dalla recitazione vocale e dalla narrazione metaforica, creando (speriamo) un'atmosfera elettrizzante.\n\nIl labirinto\nIl viaggio ha 6 capitoli, ognuno con le proprie sfide, schemi e premi specifici. Un totale di 42 tappe, 5 potenziamenti di abilit\u00e0 - ognuno con 3 livelli, 3 potenziamenti nascosti, 2 potenziamenti unici, passaggi segreti e uova di Pasqua. E perch\u00e8 no ? un editor di mappe personalizzato che metter\u00e0 alla prova la tua creativit\u00e0 (e pazienza), in cui puoi sbloccare pi\u00f9 contenuti in base ai tuoi progressi nella storia principale.\n\nGiusto avvertimento\nQuesto gioco non \u00e8 un crawler sotterraneo simile a un ladro, ma piuttosto un'esperienza che alla fine ti dar\u00e0 la risposta alla domanda: osi conoscere te stesso? Certo, puoi semplicemente vederlo come un gioco arcade di piacere colpevole, basta prendere nota: permadeath non perdona.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "de",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 680525824
     },
     "70010000034537": {
         "id": "0100472013142000",
@@ -29166,6 +29308,50 @@
             "it"
         ],
         "size": 769654784
+    },
+    "70010000034712": {
+        "id": "01006C10131F6000",
+        "rightsId": null,
+        "name": "Pumpkin Jack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201023,
+        "nsuId": 70010000034712,
+        "category": [
+            "Azione",
+            "Avventura"
+        ],
+        "ratingContent": [
+            "Imprecazioni moderate"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Headup Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1378dfbed7c2add7ea35e8aa3960b0d4d3b9de0b9dbe3c91d669529d7509b84c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f7212e31584e103ea56976ac665b31a4415d6cd098812b5fcc0da7080516f091.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12c8610bd8eb56dc9dcc15ecc7853ca5a1da0c915874c12fc517d4184d2540c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b7897ccebaa6584bfefad62458af17b1bfaa21e1588a363ff7bad063d371f09.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f447f99992964b83d524f7633e25f8f05e0ac20c7a4f271d148543406189acd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2ecdb0c25b2ff593833b5ce2e7a90df83c97e8afda34e7700057c8b6061f4293.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a20309957cc25c0b4f2f1ab5941d7be53cd494decc22771821c87f5e26a912d2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/533941608216b0194f8196fc5b0b8b9b98b75de604556f080b5225a094326f89.jpg",
+        "intro": null,
+        "description": "Pumpkin Jack \u00e8 un terrificante gioco platform in 3D nel quale vestirai i pumpkin di Jack, il mitico Signore delle zucche! Lanciati in un'avventura agghiacciante attraverso lugubri paesaggi e aiuta il male a trionfare sul bene!\n\nCARATTERISTICHE\n\u2022 Coloratissime atmosfere cartoonistiche: Vai alla scoperta di orridi luoghi dall'atmosfera intrigante, ognuno disegnato con colorazioni vivide ed effetti luce di altissima qualit\u00e0\n\u2022 Combatti, se vuoi vivere: Per sopravvivere alle creature che popolano i livelli, dovrai padroneggiare l'arte delle combo d'attacco; schivare e coordinarsi \u00e8 necessario negli scontri all'ultimo sangue! Sblocca nuove armi e scegli quella appropriata da usare a seconda del nemico da sconfiggere\n\u2022 Non perdere la zucca: Risolvi rompicapi basati su fisica, gravit\u00e0 e riflessione, oppure molla il travestimento e usa la testa fiammeggiante per bruciare libri, colpire qualche talpa, creare sentieri per sfere magiche e tanto altro man mano che affronti nuove sfide a ogni livello\n\u2022 Incontra nuovi compagni di battaglia: Utili compagni saranno pronti ad assistere Jack nel corso della sua avventura: un inquietante gufo gufante che gli indicher\u00e0 il cammino, e un corvo scorbutico abile negli attacchi a distanza\n\nComincia un'avventura epica e aiuta il male a trionfare sul bene!\nSegui le orme del Diavolo in corna e ossa e sconfiggi la tua nemesi in un'impresa epica che ti condurr\u00e0 attraverso il Boredom Kingdom, un regno mitico devastato dalla Maledizione. Incontra nuovi amici nel corso del cammino: un gufo gufante e un corvo scorbutico!\n\nSalta, corri e arrampicati per farti strada tra livelli unici\nPumpkin Jack \u00e8, prima di tutto, un classico gioco platform in 3D! Ogni livello rappresenta una sfida a tema con nuove prove da superare.\n\nCombatti contro bestie maligne usando fantasmagoriche armi sbloccabili\nDovrai padroneggiare l'arte delle combo d'attacco, schivate e tempismo per annientare i nemici di Jack. Durante gli scontri all'ultimo sangue, dovrai scegliere l'arma da usare per colpire al momento giusto!\n\nAffronta sfide mozzafiato e scopri una marea di stili di gioco unici\nRisolvi rompicapo basati su fisica, gravit\u00e0 e riflessione. Indossa la zucca e brucia libri, colpisci talpe, crea sentieri per sfere magiche e tanto altro ancora! In ogni livello dovrai attraversare nuove sequenze d'azione facendo affidamento su nuovi ed esclusivi stili di gioco!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 3076521984
     },
     "70010000034726": {
         "id": "01008DD013200000",
@@ -29803,11 +29989,9 @@
             "Corse",
             "Puzzle"
         ],
-        "ratingContent": [
-            "Violenza moderata"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "Digital Game Group",
         "frontBoxArt": null,
@@ -31864,7 +32048,7 @@
         "intro": null,
         "description": "Questa straordinaria raccolta di tre autentici tavoli Williams\u2122 e Bally\u2122 include FUNHOUSE\u2122, SPACE STATION\u2122 e DR. DUDE AND HIS EXCELLENT RAY\u2122, tutti giocabili sia nella loro forma originale classica, sia in versione rimasterizzata con grafica aggiornata, gadget animati e tantissime nuove funzionalit\u00e0.\n\n- FUNHOUSE: affronta Rudy, il pupazzo da ventriloquo pi\u00f9 iconico dell'universo flipperistico! Non farti scoraggiare dalle sue infinite provocazioni.\n- SPACE STATION: preparati al decollo. Reattori accesi. \u00c8 ora di lanciare questo classico.\n- DR. DUDE AND HIS EXCELLENT RAY\u2122: entra nella Clinica Cinetica di Dr. Dude! Diventa figo! Fatti rispettare e fatti invidiare! Fai avanzare il DUDE-O-METER da Tipo qualunque a Super Dude per vincere ricompense da sballo. \u00c8 arrivato il flipper pi\u00f9 figo di sempre!",
         "languages": null,
-        "size": 0
+        "size": 199229440
     },
     "70050000019184": {
         "id": null,
@@ -43404,6 +43588,39 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000022792": {
+        "id": null,
+        "rightsId": null,
+        "name": "Hidden Through Time - Legends of Japan",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201020,
+        "nsuId": 70050000022792,
+        "category": null,
+        "ratingContent": [
+            "Interazioni degli utenti"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Rogueside",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/83b26240bf22e21e6a2a5b465d2fd2a133b6ed0199f389bb54473b4035a5e85b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20fa32d9d7e0b12848ed3967a40023800b02fa43dda49e835d15de92328dc303.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3564717b92bc7e07cf7b7f285a9de89c843660155f2f796a62a660fb9e942482.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e09780337728066221d7d1bd2005113d3c053e5966a291c815754fcffb800b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61faa473fa3b62175a4884751bdd2e7707818d2652cfb469d4d0f5ddc2074360.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9fbc3e247e3b9efa6011013aa1d35a3be82e78f74164099bdaa0e6af4d2ccfc6.jpg",
+        "intro": "Questo DLC comprende 10 nuovi livelli che spaziano dai templi giapponesi ai tornei di sumo.\nInoltre, presenta pi\u00f9 di 300 nuovi oggetti e personaggi.",
+        "description": "Dai templi del Monte Fuji ai campi di riso intorno alle colline, in ogni parte del Giappone si celano dei segreti.\nIl sole sta sorgendo e gli Yokai stanno attraversando le terre spirituali per giungere nel nostro regno materiale.\n\nUnisciti a Clicky in un viaggio attraverso il Giappone feudale, in cui scoprirai i meravigliosi festival di fuochi d'artificio e imparerai le tradizioni disciplinate dell'addestramento dei samurai nei loro dojo.\n\nQuesto DLC comprende 10 nuovi livelli che spaziano dai templi giapponesi ai tornei di sumo.\nInoltre, presenta pi\u00f9 di 300 nuovi oggetti e personaggi a tema Giappone che saranno disponibili nell'editor dei livelli una volta effettuato l'acquisto!\n\nColoro che non possiedono questo DLC potranno ancora giocare nelle mappe create dagli utenti che utilizzano oggetti del DLC Leggende del Giappone.\n\nAfferra la tua katana e fatti strada lungo la foresta di bamb\u00f9, dove ti aspetta il DLC.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000022808": {
         "id": "010044000F7F3001",
         "rightsId": null,
@@ -46823,7 +47040,7 @@
         "intro": null,
         "description": "NBA 2K21 \u00e8 l'ultimo capitolo della famosissima serie campione di vendite NBA 2K, che include innovazioni per la next-gen e al contempo continua a rappresentare uno dei principali punti di riferimento nel panorama dei titoli sportivi su tutte le attuali piattaforme di gioco.\n \nGrazie ai considerevoli miglioramenti apportati alle meccaniche di gioco, alla grafica, alle funzionalit\u00e0 online competitive e relative alla community nonch\u00e8 alle numerose modalit\u00e0 di gioco, NBA 2K21 regala un'immersione unica nel suo genere in tutte le sfaccettature del basket e della cultura NBA. Everything is Game\n\nNBA 2K21 Mamba Forever Edition include i seguenti oggetti digitali:\n \u2022 100.000 Virtual Currency\n \u2022 10.000 punti La mia SQUADRA\n \u2022 10 gettoni La mia SQUADRA\n \u2022 60 potenziamenti abilit\u00e0 La mia CARRIERA\n \u2022 40 pacchetti promo La mia SQUADRA (10 al momento dell'uscita, poi 3 alla settimana)\n \u2022 2 carte La mia CARRIERA Standard Edition Atleta di copertina Zaffiro \n \u2022 Collezione scarpe Il mio GIOCATORE\n \u2022 Zaino Il mio GIOCATORE\n \u2022 Collezione digitale Kobe Bryant",
         "languages": null,
-        "size": 42957012992
+        "size": 43236982784
     },
     "70070000011074": {
         "id": null,
