@@ -1014,7 +1014,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20201027,
+        "releaseDate": 20201105,
         "nsuId": 70010000010999,
         "category": [
             "Strategia",
@@ -1795,10 +1795,10 @@
             "Sparatutto"
         ],
         "ratingContent": [
-            "Interazioni degli utenti"
+            "Violenza moderata"
         ],
         "numberOfPlayers": 4,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Decoy Games",
         "frontBoxArt": null,
@@ -1813,7 +1813,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/04a91b32c2a5a84d3a581935bf0fc12c8b2ed0056c9be40caec7c21635c04304.jpg",
         "intro": "Swimsanity! \u00e8 uno sparatutto subacqueo multigiocatore con modalit\u00e0 Co-op e Versus tutte azione, disponibili sia online sia in locale.",
-        "description": "Nel ruolo dell'eroico Mooba, userai ogni genere di armi e potenziamenti unici per sopravvivere in questo mondo acquatico.\n\nNuota con gli amici per affrontare la modalit\u00e0 Avventura, o affrontalo in partite competitive come Ultimo Mooba rimasto: hai pi\u00f9 di 150 sfide da completare in 8 modalit\u00e0 di gioco tutte azione in Swimsanity! Tutte le modalit\u00e0 sono disponibili online o in locale.",
+        "description": "Aggiornamento Swimsanity 2.0!\n- Nuove modalit\u00e0 di gioco in singolo aggiunte ad Avventura, AvventurSanity e Sopravvivenza, progettate per una migliore esperienza in singolo.\n- La difficolt\u00e0 del Co-op \u00e8 stata ridotta e bilanciata in tutte le modalit\u00e0 di gioco.\n- Matchmaking a server singolo, stanze personalizzate, e risoluzione di molti bug.\n\nNel ruolo dell'eroico Mooba, userai ogni genere di armi e potenziamenti unici per sopravvivere in questo mondo acquatico.\n\nNuota con gli amici per affrontare la modalit\u00e0 Avventura, o affrontalo in partite competitive come Ultimo Mooba rimasto: hai pi\u00f9 di 150 sfide da completare in 8 modalit\u00e0 di gioco tutte azione in Swimsanity! Tutte le modalit\u00e0 sono disponibili online o in locale.",
         "languages": [
             "ja",
             "en",
@@ -1826,7 +1826,7 @@
             "ko",
             "zh"
         ],
-        "size": 780140544
+        "size": 781189120
     },
     "70010000015152": {
         "id": null,
@@ -1917,7 +1917,7 @@
             "zh",
             "zh"
         ],
-        "size": 11856248832
+        "size": 11983126528
     },
     "70010000015327": {
         "id": "01003D90058FC000",
@@ -3518,11 +3518,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4fd209b2e2d28346ec56f623720fde9fbdf42380a0b4709559d21219276b934a.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/e2f7a73e556c4dcea8ecfc5be4ef84a44dfe1e39c307ab0bfae59ab3b0d56782.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/3799c2ff25457b2f82e8da33df7bd3ed63fe7372dbfd62c7c338ad90892dd643.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/1789e13ec7b686200964a176bf0f996e63de61c1a92610e3cfb10dda57cb237f.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7bb6566bb82a4c171189adc3dde1fa568702ebcdc1633908b7e05bae652126e4.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/dcc5575f343ebbb562d34c4cd687fd49658c2b0880d1edaadffdfbed28e8b762.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/4c889404cf3c8d327fcf23030c9b34da495b5ab76e763d359c5524f94e0cd6eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1d17ebe3fd7207aeb21a558c93d454eec33f0fdfb7c7c021850461ea578984df.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea0c59c14e874af835ff73523f866ef793156d45e3f6e0a227fe9cbd9216504b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/47a4608df0812a8d90baccb5d027f09dcb4c1cab56a40ef79ec46c70b8514447.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6b4cee0ebd617dcc41eeeb8618424c21ba54ba1cc0cada59aba48c4f53cc159e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63014a8aa6bc51bb7f72a74250c7ff00af03195fb2c3bbbfe2300316752f76f5.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e0b6940ffe095a29056334b076c8282512bbadfe1ffee3aadbf4546c96f769b5.jpg",
         "intro": "UN'ARTE DA IMPARARE, UN DESTINO DA PLASMARE ",
@@ -4741,7 +4742,7 @@
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/e4d9cb1ffde0509138d373f2a9488ca8fe9e7da82920ce359a2da4e4de80966e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/5ac87112c7ec419c710406becbcce48fe75236fea5a9a6b107a2fe4c09127a01.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/24f5cdea1681a61a3bb8b90e2c1db2824482439c26bb6ba032e4f836dd9edd16.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39f9604e355f7feab0d0f97d1307a177a2c3cb3406f8e3b317a9245ffe11b3a0.jpg",
             "https://img-eshop.cdn.nintendo.net/i/965ca198a60475e978e7fdbc776f6cf8ddfe33abbd9314fd7c92127de3cd3a01.jpg",
             "https://img-eshop.cdn.nintendo.net/i/364b5d2d47651299579f4bd28b256b49215a2cfb3887799f47829987c9df17e4.jpg",
             "https://img-eshop.cdn.nintendo.net/i/5c12a569b13c5a70ed1dc768dca5d839e38578678a6acfe02fe5fa07c1a70023.jpg"
@@ -5141,7 +5142,7 @@
             "ko",
             "zh"
         ],
-        "size": 6547308544
+        "size": 6803161088
     },
     "70010000021961": {
         "id": "0100B5B00EF38000",
@@ -5479,7 +5480,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20201031,
+        "releaseDate": 20201030,
         "nsuId": 70010000022181,
         "category": [
             "Avventura",
@@ -6804,7 +6805,7 @@
             "it",
             "ko"
         ],
-        "size": 244318208
+        "size": 300941312
     },
     "70010000024088": {
         "id": "0100CF900FA3E000",
@@ -6896,6 +6897,52 @@
         ],
         "size": 509607936
     },
+    "70010000024188": {
+        "id": "0100A5600FAC0000",
+        "rightsId": null,
+        "name": "Construction Simulator 3 - Console Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201021,
+        "nsuId": 70010000024188,
+        "category": [
+            "Simulazione"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "astragon",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/05e9f6d9d14c80a8724f6236ff64d34f80cd0eaadee9ef13a1193cedf0e54358.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d81a3b87e8de92d352c915ffd3bce299a3d5c4603f30b6ffd17c08b3828efd23.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7cc02e2113c5c534e7e3565253d8c2b23098c7515555b0f2174a8c181476b9f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2017f4db0a3af656b215ef049b384759e834c0d65f2086d68e4a9027d8266a63.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1305540370b69778f788a4b26a54783c7f01376e71c56828b7dccdfb7753932.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7915a946a63a20a154dc0ffd14b4d195c5fbf00096804422c44295899386068.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c05d4c1ceae85d738ae7609e5be35e33b39d82add23f745b31741d797c81779d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1a53c1ac566130a6aeb0f1b6ac1804cec7f1768600aecbe58188745cebe89c35.jpg",
+        "intro": "La costruzione si sposta in Europa!",
+        "description": "Construction Simulator 3 ritorna in Europa! Scopri un'idilliaca citt\u00e0 europea nel seguito dei popolari Construction Simulator 2 e Construction Simulator 2014 con le licenze ufficiali dei mezzi di famose case: Caterpillar, Liebherr, CASE, Bobcat, Palfinger, STILL, MAN, ATLAS, Bell, BOMAG, WIRTGEN GmbH, JOSEPH V\u00d6GELE AG, HAMM AG e MEILLER Kipper. Accetta incarichi diversi e impegnativi. Costruisci e ripara strade e abitazioni. Plasma lo skyline della citt\u00e0 ed espandi il tuo parco mezzi. Scopri una mappa completamente nuova e sblocca nuovi appalti e mezzi man mano che la tua impresa si espande. \n\nCONSTRUCTION SIMULATOR IN EUROPA\nEsplora una mappa di 10 km\u00b2, curata nel dettaglio per rievocare le idilliache pendici delle Alpi, e gioca in tre diversi distretti: il paese in cui stabilirai la tua impresa, una spaziosa area industriale e una moderna citt\u00e0. Sfrutta il tempo tra un incarico e l'altro per esplorare liberamente questo mondo aperto dietro al volante.\n\nCARATTERISTICHE NUOVE DI ZECCA: LIEBHERR LB28 E VISUALE DALL'ABITACOLO\nGoditi la perforatrice verticale Liebherr LB28 e costruisci delle fondamenta profonde e stabili di ponti e per altre elettrizzanti missioni! Altra caratteristica a lungo attesa dai fan: la vista dall'abitacolo. Ora puoi goderti Construction Simulator 3 dall'interno di ogni mezzo e avere un'esperienza in prima persona di cosa si prova a controllare macchine epiche! \n\nOLTRE 50 MEZZI DI 14 CASE\nUno sterminato numero di mezzi ti aspetta! Scegli la macchina ideale per ogni lavoro: accetta le sfide di lavori stradali e di rinnovo con i veicoli di Caterpillar, BOMAG o WIRTGEN GmbH, V\u00d6GELE AG e HAMM AG. Disponibili per la prima volta: l'escavatore compatto E55 e la pala compatta T590 di Bobcat renderanno i lavori di movimento terra una passeggiata! Mettiti al volante della motrice MAN TGX per andare alla cava di ghiaia o al negozio di materiali edili della zona e raggiungi vette inesplorate grazie alla gru a torre Liebherr 150 EC-B 8. \n\nOLTRE 70 NUOVI APPALTI\nMetti alla prova le tue capacit\u00e0 di lavoro: da piccole monofamiliari in stile bavarese fino a veri e propri grattacieli, passando per capannoni industriali, dovrai dare fondo a tutte le tue capacit\u00e0 per completare gli oltre 70 impegnativi appalti di Construction Simulator 3. Rinnova strade pericolanti e adopera i mezzi del vasto parco a disposizione per superare ogni sfida. Plasma la skyline di Neustein grazie al tuo tocco originale! ",
+        "languages": [
+            "ja",
+            "pt",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 2690646016
+    },
     "70010000024295": {
         "id": "0100CD900FB24000",
         "rightsId": null,
@@ -6937,7 +6984,7 @@
             "de",
             "it"
         ],
-        "size": 3256877056
+        "size": 3452960768
     },
     "70010000024367": {
         "id": "010044700FB46000",
@@ -7558,7 +7605,7 @@
             "zh",
             "zh"
         ],
-        "size": 1106247680
+        "size": 1116733440
     },
     "70010000026153": {
         "id": "010079501025C000",
@@ -8628,12 +8675,11 @@
             "Avventura"
         ],
         "ratingContent": [
-            "Sesso",
-            "Violenza intensa",
-            "Scene di nudo"
+            "Orrore",
+            "Violenza contenuta"
         ],
         "numberOfPlayers": 1,
-        "rating": 16,
+        "rating": 12,
         "developer": null,
         "publisher": "Nova-box",
         "frontBoxArt": null,
@@ -10732,11 +10778,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1078da1c97e2de17b7b8c8528c8d3b94ea7e31cd414bc3245d32b26981d4ff3b.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/f79aa1e2f2c23c6e5a8d79a7bc41b323eab66c63f011e8127f515cfd916dd38e.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/95adf9220e91f9aa83bc9fc2c6f71da9d785b213f0ceee971f81d2a7cff51d87.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/1380aa242bb88dac1a9a3a08d1f6db66e0aa107bc4dccef4a4e0bfd304d230a2.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/170825b9bc3b5d7704195da2805fea16b41c8024c7b48a9dd70b9ac0a6b59813.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2a376cda43a1a344b220a71b8fe5af4d68cecaa0b4d89c7a93af0c0ee329d60d.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/1fd911820cf905f9e894291b14b84f9d873d8fb3e26338d740ab5a855a213b9a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3878534e10bd61580ce5be6877d0f78b0a05d48a258a7bc5d5cf588108eaeb07.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c578a6570160358cfbaeee876bdd322da76dfe3479f850490e7d02f887af8dd4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/67de5b648a6a2020c2ecd53a7fb996930fee8bd3ae30c259bc4bfad39a4a52de.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c97a3f244b3ca5e8cdb222069855b025eb29554b187f2aa11805e0e491d337cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8eb5e5a739d6ac1a9a68020f09335fe30da33f546d9a6fbfc351e623ba4e2396.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2527fd6fe7b6380378f8b3d4da13cfe06006f877d35b8b5ceed5ddbb57da91c.jpg",
         "intro": null,
@@ -11072,12 +11119,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/53a61499ec92a13217fa5421858d053f27ea76c065339f3ea1a0b322282daab0.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/b79dab7dac9f8db9299eb8e02e43ec75f69d59402ebf87b5c5638278f8efdf15.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/974e707445634df4efd3df2065ff92bde939502897ad8372d0201892f5df65ef.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/d2b39cd845fe56f6c80c948acec25e5eb759aebdba597c2894077f56379c1780.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/be79e895d68fd6ad731aa62e41819902654f1389ea3a59df6c77ea5bb2634b6a.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2b3d8d1e66768440271c44370f67b98e55bcc86b044ad39e3585c0639cecc6ca.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2b0e636ccea1db3636b2ad43a85917aec252f0006acaf57500931c72e63933b9.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/10c3b1c752ec43de51a20940aba28a265872b676d727061deaa48a9f75b43e92.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31eb5df907c3d238c4f91bdcfb669ef9b190f9f62f24fa4d20a092e2755095e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6b4cfe74af90eeaed60074e878272a4a7ecd7b722ecfd43db79bc28901da186.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9eced30249b77a3e3a8537bf25d65e53985edbe4125fe87f864cc6939dad9a90.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/60b82099bce4cf5b6cb035d77cf56bb48df698db688cd1939f9638ab31c88a50.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/213732290b18ad58e90251521a8a309f2294f24c1e47869133197c137a60b202.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dbc2a8d7dc85b3d67fbc755dcd0565edb84b0cca4261cc7c49fca86c1b2b2934.jpg",
         "intro": "Spacca. Lotta. Segna!",
@@ -12047,11 +12094,11 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b9aa85a5a259e27d83eafa92d1eb9e79b8b2087b65da4abdf6c9a01f5d8bfd32.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/c89a67f72c22020d4c14af2e86b1f36d7dffea157f1ff7217fb7159821e2aa84.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/1f503d2227842651a04ae1de665cd98ab3003ba7ab62cff4bf62e24fd0fd35a8.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/4d824bb8df0236c46c70bf9fdc22102a76236fa8f00189380a9949cf38a628d0.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/5f021249418a9b31dfcc5b6e745dade44cac30a74d6a8b892ca201bb085e558f.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/3b22792193e7dfa9a5ecebe31599d555b9a7e0940a4e0dfb719126891831c697.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/0f1688839511d0113cc3a0e55a18fd32d2976c0940f19da3baeeb986c40d2a33.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bc24bd79dafcb0699d6c5002d9d43c9234ad2f33017c1930262815fada667686.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ac81995733ced99be866f64565ac4b37eeef08684457b2189ba08f5b50be32f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0dfe09442d2cecaa6f9b089bc8e8bfb20b521770735a3fd11a0b87c1ae3b8c1d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2aeae3e319ef967e0cc9a97dec6811fc8976cc78fe0054a711f8f11c7bbd491e.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cbd55c8450a553ef5baa6dae08b396ba78d74093735c339656d91b5422b21757.jpg",
         "intro": "Shoot-'em-up meets battle-royale. Prepare your thumbs for adrenaline mashing madness.",
@@ -12639,6 +12686,57 @@
             "en"
         ],
         "size": 95420416
+    },
+    "70010000029046": {
+        "id": "01006CB010840000",
+        "rightsId": null,
+        "name": "Oceanhorn 2: Knights of the Lost Realm",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201028,
+        "nsuId": 70010000029046,
+        "category": [
+            "Avventura",
+            "Gioco di ruolo (RPG)",
+            "Azione"
+        ],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Cornfox & Bros.",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7512b42b61e02af43a1f27e70370cb22c9176c742ab4104af609fc0dfff9ed3a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/315ba8dee708b17aaf7687723c19b7b017fc7ee4becfde70df559ff386af1f87.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9f3a2670da8bb4a2f38bea22d1874736e2263847904631105318b5003e7d84f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/87e32fe64bbc6e7948116307671a77fa04149ab689ba7329c5fe5dd816880b17.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cae0d08903d2f769544f88e7d5d2a5b3a1d812b92df25d45db586cc146eb4a78.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/396f5e2b15621e150d7940454a5c1e461f95bdb5e4bc0326010150338f9806a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8698b2851b839e92eb0a24e29179b3f59b0d26b1eb78c386329a3d7c5642a227.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a814d16505bbab5654282a2b17631711667db77714223a0468728e1c18acf38f.jpg",
+        "intro": null,
+        "description": "UNA GRANDE AVVENTURA\nOceanhorn 2: Knights of the Lost Realm, ambientato mille anni prima degli eventi del primo capitolo, ti porter\u00e0 in un magico viaggio nel vasto mondo di Gaia, ricco di mitologia e tradizioni. Un giovane cavaliere affronta una sfida impossibile, dato che lo Stregone Mesmeroth \u00e8 tornato con un formidabile Esercito oscuro. Riuscir\u00e0 il nostro eroe a unire gli Owru, i Gillfolk e gli umani nella lotta per il destino del mondo?\n\nQUESTA VOLTA NON SEI DA SOLO\nNon affronterai questo viaggio da solo. Trin, la nipote del condottiero di Arcadia Archimede, e Gen, un misterioso robot che brandisce una vecchia arma da samurai, ti accompagneranno e combatteranno al tuo fianco contro l'Esercito oscura di Mesmeroth. I comandi contestuali ti permetteranno di condurre questi alleati in battaglia, o di farti aiutare a risolvere gli enigmi pi\u00f9 difficili del gioco!\n\nCOMBATTI, RISOLVI, ESPLORA\nPi\u00f9 grande, migliorato e pieno di nuove funzionalit\u00e0: Oceanhorn 2 non \u00e8 solo uno dei giochi d'avventura pi\u00f9 belli di sempre, ma costruisce anche un'esperienza straordinaria sulla scia dei videogiochi classici. Raccogli potenti oggetti, impugna la Caster Gun, risolvi i misteriosi enigmi degli antichi e scopri tutto ci\u00f2 che Arcadia e i regni vicini hanno da offrire! Accetta la sfida e diventa un vero eroe.\n\nCARATTERISTICHE\n\u2022 Un epico GDR, con una missione principale che dura pi\u00f9 di 20 ore di gioco.\n\u2022 I combattimenti dei boss mettono alla prova i riflessi e le capacit\u00e0 di combattimento.\n\u2022 Decine di missioni secondarie garantiscono ricompense incredibili.\n\u2022 Enigmi intelligenti da risolvere e misteriosi dungeon da esplorare.\n\u2022 La meravigliosa grafica studiata nei dettagli d\u00e0 vita a un mondo di intrighi e leggende.\n\nPer ricevere assistenza, scrivi una email a support@cornfox.com",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2594177024
     },
     "70010000029057": {
         "id": "0100E9100F244000",
@@ -13392,6 +13490,50 @@
         ],
         "size": 1959788544
     },
+    "70010000029340": {
+        "id": "010044701191E000",
+        "rightsId": null,
+        "name": "Mars Horizon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70010000029340,
+        "category": [
+            "Strategia",
+            "Simulazione"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "The Irregular Corporation",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e3b468fb0b405e8a0b82f3f8f0a24e14c8063fd5976d979aff641791aab6eb61.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e3dd7f012511314b5b356e373b6b28dbc4c3b6267c8b15b6ea9ef5336f7a5949.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d98b1828f6bbbce7a31e8dc24d1fe9a4d12aa146c7c67a56188123be0f291ba6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2d1b3c31d22d2845767fb1dee37e04d7289d0a8519adab3c18ac0132d02d874.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22bce51d44b2ecf3b377d51858ea72105e96572d0a31e320b54a805289c2e34c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/43c057b46dee2772355bb07d67a6f7cb5243f85d2b35e5c1d770b7afa56beff8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db099c9727fc2399d2fe75d5e12c836fb208160eaa58048fd1c0cfb398b9a0e4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9cdd2c09cb30e1dea22623e870fc8161309ce6034dbea8823132f4825a973fd7.jpg",
+        "intro": "Lead a space agency from the dawn of the Space Age to landing humans on Mars in this strategy simulation game.",
+        "description": "In Mars Horizon, you take control of a major space agency, leading it from the dawn of the space age through to landing astronauts on Mars. Guide your agency through the space race and write your alternate history of space travel - any of the agencies can be the first to land on The Moon if you make the right choices. Manage the numerous challenges faced then and now:\n\n\u2022 Create your base with launch pads, research labs, astronaut training facilities, and much more\n\u2022 Construct your own custom vehicles from hundreds of combinations\n\u2022 Launch satellites and crewed spacecraft to explore the Solar System\n\u2022 Run mission control as you solve the various challenges of turn-based missions to earn scientific advancement and public support\n\u2022 Explore an extensive tech tree and compete or collaborate with other agencies to plot your roadmap to Mars\n\u2022 Choose from five unique space agencies, each with their own traits, base, vehicles, and spacecraft\n\u2022 Create your own custom space agency\n\nYou\u2019re in charge of every element of the journey into space: success rides on your decisions.\n\nWill you push to stay ahead of the other agencies, or focus on testing and research? There are multiple ways to ensure the first person on Mars is under your command. Every choice matters: will you invest in the most advanced technology or take risks in the rush to the red planet?\n\nUsing actual events and missions as inspiration, can you handle the challenges faced by real space agencies?\n\nManagement is a vital aspect of Mars Horizon. You'll need to design and build the right spacecraft, hire and train the crew, and make strategic decisions as mission control to survive the journey to Mars.\n\nEnter into diplomatic partnerships with other agencies to share the rewards of space exploration, or risk going it alone to gain greater prestige. Construct the ideal rocket from historically-inspired vehicle parts. Hire contractors to construct vehicles and use their unique benefits to gain a key edge over your competitors.\n\nLaunching a payload into space is only the first step. In assuming the role of Flight Director of mission control, you'll need to manage your spacecraft's resources and solve strategic challenges in turn-based missions in order to succeed. But beware: space is a very unforgiving environment.\n\nThese are the critical moment-to-moment decisions of mission control; do you spend power to fix a malfunctioning antenna or save it in case of an oxygen leak? Perhaps risking that extra three months of mission planning could have avoided this issue?\n\nMars Horizon has been made with the input and support of the European Space Agency (ESA) and the UK Space Agency. We\u2019ve collaborated with numerous experts in space exploration from the ESA in creating Mars Horizon. From engineers developing the technology used in Mars programmes, to those designing the next generation of missions, bringing an unprecedented level of authenticity, realism and legitimacy to the gameplay and its scenarios.",
+        "languages": [
+            "ja",
+            "pt",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 2535456768
+    },
     "70010000029346": {
         "id": "01002E4011924000",
         "rightsId": null,
@@ -13517,7 +13659,7 @@
             "it",
             "pt"
         ],
-        "size": 1796210688
+        "size": 2272264192
     },
     "70010000029390": {
         "id": "01005F7011950000",
@@ -14303,7 +14445,7 @@
             "de",
             "it"
         ],
-        "size": 3227516928
+        "size": 3573547008
     },
     "70010000029769": {
         "id": "0100BAE011072000",
@@ -14887,7 +15029,7 @@
             "it",
             "zh"
         ],
-        "size": 3392143360
+        "size": 4592762880
     },
     "70010000030139": {
         "id": "0100C31011C24000",
@@ -18942,7 +19084,7 @@
             "zh",
             "zh"
         ],
-        "size": 628097024
+        "size": 699400192
     },
     "70010000031791": {
         "id": "010051E012302000",
@@ -19457,7 +19599,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20201105,
+        "releaseDate": 20201203,
         "nsuId": 70010000031922,
         "category": [
             "Azione",
@@ -22743,7 +22885,7 @@
             "https://img-eshop.cdn.nintendo.net/i/74b966c5532fa950e8369936126fc300ddcbca59564851a3255b8ff8aefd50ed.jpg",
             "https://img-eshop.cdn.nintendo.net/i/33227fb3985a0b2adcc9391b173c51eb723d22f175397b9127cb2ecbad20f36c.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a4ebaf4d3d3ba4ba69f2797de083fa201d9ccb9b018242fe9daa88620429e9d5.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/139cb00f81d54f2f9900f4189ff9539ff49196805adb0500b7adfd217c0c4636.jpg",
         "intro": null,
         "description": "In Aery - Ricordi Spezzati entri nella mente di un'altra persona per riportarla da un coma.\n\nNella mente dell'altro umano, sei rappresentato attraverso un uccellino che si muove agevolmente attraverso pensieri, paure e ricordi.\n\nIl tuo obiettivo \u00e8 trovare frammenti di memoria per conoscere l'altra persona, progredire con la storia e sbloccare nuove aree sconosciute della mente.\n\nProva la sensazione di volare, immergiti in paesaggi meravigliosi e suggestivi e goditi la storia unica del gioco.",
         "languages": [
@@ -24386,7 +24528,7 @@
             "https://img-eshop.cdn.nintendo.net/i/99a79f23d57d95fe5cb27dcfdacce363fb25ab99faef7586ac073936a0646a49.jpg",
             "https://img-eshop.cdn.nintendo.net/i/fcacb80c8c7d2dd25e1167b26c3b601643ffad1fabc89e88c8c42b193c36c85c.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d7c6ce2174fab10901bb49de22a76f6f33c16bab384677391d9371ba258323d5.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bbe6731da88b7fdbc0cca48ceef8e269787fd80ddd7fec0f67ebe03bece5b88e.jpg",
         "intro": "Finalmente \u00e8 qui... ed \u00e8 meglio cos\u00ec",
         "description": "Il gettonatissimo simulatore di sviluppo giochi che ti fa rivivere la storia dei videogiochi e gestire il tuo studio di sviluppo \u00e8 finalmente disponibile per Nintendo Switch\u2122. Ottimizzato per il touch screen e i Joy-Con\u2122, Game Dev Tycoon si gioca meglio rispetto a prima.\n\nGame Dev Tycoon ti fa sperimentare in prima persona la storia dello sviluppo dei videogiochi partendo da una semplice passione nata in un garage negli anni Ottanta fino ai moderni studi di sviluppo di prim'ordine. Toccher\u00e0 a te assumere le persone giuste per il team e creare i giochi migliori nonch\u00e9 trovare la tecnologia perfetta per lasciare un segno nel settore.\n\nCrea giochi a modo tuo: in Game Dev Tycoon, le decisioni che prendi si ripercuotono sullo sviluppo. Preferisci sviluppare un gioco che abbia un gameplay avvincente con suoni da urlo o con una trama appassionante ricca di missioni? Decidi tu!\n\nFai crescere il tuo studio: non appena avrai rilasciato qualche gioco di successo, potrai trasferire la sede dei tuoi uffici e formare un team di sviluppo d'eccellenza. Assumi del personale, gestiscilo e sblocca nuove ed emozionanti opzioni di sviluppo. Crea i tuoi motori di gioco, inventa nuove tecnologie e fai molto altro.\n\nPensa in grande: grazie a un nutrito gruppo di fan e un ottimo team potrai creare giochi pi\u00f9 complessi, fare soldi a palate e aumentare la tua notoriet\u00e0. Ma col crescere delle ambizioni dovrai affrontare nuove sfide e gestire bene il team e i guadagni per rimanere sempre sulla cresta dell'onda nel settore.\n\nModalit\u00e0 Pirata: diventare uno sviluppatore di giochi di successo \u00e8 gi\u00e0 abbastanza dura, ma se vuoi aggiungere un'altra sfida puoi provare la modalit\u00e0 Pirata (facoltativa) in cui riuscire a guadagnare sar\u00e0 difficile se vuoi accontentare i fan ma anche combattere una pirateria molto aggressiva.\n\nSalvataggi multipiattaforma: giochi gi\u00e0 a Game Dev Tycoon su altre piattaforme? Nessun problema! La nuova funzionalit\u00e0 di salvataggi multi-piattaforma ti consente di importare il gioco esistente e giocarci ovunque tu sia pi\u00f9 comodo.",
         "languages": [
@@ -27309,6 +27451,52 @@
         ],
         "size": 118489088
     },
+    "70010000033728": {
+        "id": "01008EE012CD4000",
+        "rightsId": null,
+        "name": "Legends of Ethernal",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201030,
+        "nsuId": 70010000033728,
+        "category": [
+            "Piattaforme",
+            "Avventura",
+            "Azione",
+            "Gioco di ruolo (RPG)"
+        ],
+        "ratingContent": [
+            "Paura",
+            "Violenza moderata"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Natsume Inc.",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c72ea2fe26df91d6d7aa4e5ec55dc6c57c7e8b570f9c14884986902765bac4ba.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/219d12d6f2d21d1629a44c74c83c14bc74acafe435546f5831836f624ebad941.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24c504755a0ef2f946da3ee6ff42329f8d42f0d462625a9efda8d764364a8842.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/10551815b61a5a32a0593c91bcd737c9b48b1a187d730dc8e065bc25148a146b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/017d9cbd3750076bfa0dcba65b4fed7f862eab1c25a1f073210bb7a97a1029ea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/85271747b0624bdadb8d7de3488860e55c828d69872fc3395851c67b98aed473.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7db84b9762a319b88531311508b84499c8b1bb16ec826ee36765b39718c6db5d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3623f14574952eb1c22def23a370b4fa929edde29d31688c319661285d7cdc32.jpg",
+        "intro": "Il mondo di Arkanys ti d\u00e0 il benvenuto!",
+        "description": "In un giorno come tanti altri, un ragazzino torna a casa e la trova distrutta. I suoi genitori sono scomparsi. Armato di coraggio e spinto dal dolore per la perdita, parte per un viaggio alla scoperta della verit\u00e0 sulla sparizione dei suoi genitori, ma ci\u00f2 che trover\u00e0 cambier\u00e0 per sempre il mondo di Arkanys...\n\nLegends of Ethernal \u00e8 un'avventura d'azione in 2D per giocatore singolo in cui dovrai esplorare meravigliose ambientazioni curate fin nei minimi dettagli, risolvere enigmi e combattere contro spaventose creature per scoprire la verit\u00e0 sulla sparizione dei tuoi genitori.\n\n\u2022\tUn gameplay in evoluzione - Trova armi e oggetti per sbloccare nuove meccaniche di gioco\n\n\u2022\tDungeon emozionanti - Risolvi gli enigmi e usa tutta la tua abilit\u00e0 per combattere contro i nemici in tantissimi dungeon diversi\n\n\u2022\tSistema di creazione - Durante il tuo viaggio, raccogli unit\u00e0 di etere e crea oggetti che ti aiuteranno ad avanzare nel gioco\n\n\u2022\tDisegni unici e mozzafiato - Ammira i bellissimi disegni 2D fatti a mano, con una risoluzione a 4K sulle piattaforme supportate\n\n\u2022\tEventi enigmatici - Immergiti in una storia avvincente ed emozionante con personaggi indimenticabili\n\n\u2022\tColonna sonora indimenticabile - Ascolta la stupenda colonna sonora prodotta e registrata dal musicista William Gough\n\n\u2022\tTanti livelli di difficolt\u00e0 - Prova la modalit\u00e0 estrema per un'esperienza impegnativa o scegli la modalit\u00e0 relax per avere un aiuto in pi\u00f9",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 3668967424
+    },
     "70010000033742": {
         "id": "01004D0012D28000",
         "rightsId": null,
@@ -28401,7 +28589,7 @@
         "languages": [
             "en"
         ],
-        "size": 2963275776
+        "size": 2980052992
     },
     "70010000034331": {
         "id": "01007FC012FD4000",
@@ -29162,7 +29350,7 @@
             "https://img-eshop.cdn.nintendo.net/i/017f329c969faa907ab943324efe1c755df3c27357c4a5cdff4ff7a0ae687892.jpg",
             "https://img-eshop.cdn.nintendo.net/i/11c5ff4740960e64e3ec6265359fa637019185986adf5f923090fd7aa02ec8f7.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0051ae5c873b08f59b98e93ac243110bbe1869a0835edc987457cf744eb44a35.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dfcb28b05568bfc061a846ec41c5febd33489f5fd0e8fb5d42ff7bb189af6ee7.jpg",
         "intro": "Un gioco d'azione dal fascino ineguagliabile!",
         "description": "Preparati a vedertela con altri Kirby! Scegli la tua abilit\u00e0 preferita e lotta per eliminare tutti gli avversari in Kirby Fighters 2, un nuovo picchiaduro per Nintendo Switch!\n\nAffronta una raffica di avversari da solo o insieme a un massimo di tre amici. Potete divertirvi insieme sulla stessa console o giocando ognuno sulla sua, in wireless locale o online, in una vasta gamma di modalit\u00e0 cooperative e competitive. In alternativa, dirigiti alla Torre partner combattenti e prova a farti strada fino alla cima. Cosa ti aspetter\u00e0 lass\u00f9?",
         "languages": [
@@ -29404,6 +29592,45 @@
             "zh"
         ],
         "size": 4659871744
+    },
+    "70010000034749": {
+        "id": "01009D901321A000",
+        "rightsId": null,
+        "name": "Party Games: 15 in 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201028,
+        "nsuId": 70010000034749,
+        "category": [
+            "Party",
+            "Azione",
+            "Arcade",
+            "Multiplayer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Piotr Skalski",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9cae6347694403d9d631e22216bf93dd3cc4afc6d612f12af3f50d912e2e5224.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a7c94cd552b01d14ce33e75320d27afda14d09b4b368902d1ffc27eced3edcec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f2ebb7bfe5dd036ec1fda44b804ecd3a45cc0634f92bea6e2648003bda9a3957.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e5b36cd92ad698c789eb076029ab4be1827ecb51fbcbed046e99cfbadad7a1f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35163b611d94b0fbcdde60d05334e95ef3b88802abbe0a1a728551edf4896949.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/72ccddcbe29e73aab2f34dc64cde42a2e8125ccbc8ca015dc51a9032dbb1d428.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52899d946dc90c4ab51c6d6819080549669cecffe5503467aa7a98f2a5d7b20e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3754462e6e99e20820de056176f6aef70d01189c11cd82fea11c1d82a5586781.jpg",
+        "intro": "Everything from action, to puzzle, to sports...it\u2019s all here in Party Games!",
+        "description": "Party games features 15 fun-packed party games for up to 4 players! It's the ultimate MUST-HAVE game for family and friends of all ages. \n\n\u2022 Everything from action, to puzzle, to sports...it\u2019s all here in Party Games!\n\u2022 It wouldn\u2019t be a party without friends! Up to 4 players can join in the fun for some friendly competitive play.\n\u2022 Party anytime, anywhere! Enjoy single-player or local multiplayer gaming from just about anywhere on the planet with just one system and one game.",
+        "languages": [
+            "en"
+        ],
+        "size": 218103808
     },
     "70010000034751": {
         "id": "0100451012492000",
@@ -30234,6 +30461,91 @@
             "en"
         ],
         "size": 35651584
+    },
+    "70010000035325": {
+        "id": "01001010134EA000",
+        "rightsId": null,
+        "name": "Zombie Hill Race",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201023,
+        "nsuId": 70010000035325,
+        "category": [
+            "Corse",
+            "Sparatutto",
+            "Azione",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Violenza estrema"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Cool Small Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a449dc18534a8a73c0541cec4443d9488f1d93ef02e257f07a5a6e7ca4c90ff5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f6d9dfb785b4cf5ed6ad26c3d89ce35c6e020245132f57c7fdd2039bd2c78a90.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/838e4d195d10c0792f81675d4fb83f91f751a78e30b2520e0b69bcd1a3d5dc5d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/06773be6a6db957d10d5241da406fcc8e6c3f27089ac39bd067533d6630ee806.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8408b9b0393de05655db1e188a606ac912253e99c91592745afa7c285e9cbf7a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12471d4c66a3a1508903c33557176e3edc2a2c2e591aaac51fc2b038523b6b54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d644c43d63e78ec66b0b855473038bcce634c8ebd8816f6f01953b8bcffd433a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dfa02685e233da2bbc72f306806ff6f825016a39c77f476cd3329cdd3757476f.jpg",
+        "intro": "L'apocalisse \u00e8 arrivata! Gli zombie vagano per il Paese ed \u00e8 praticamente impossibile fuggire!",
+        "description": " L'unico modo sarebbe trovare un'auto e farti strada fra le colline dominate dal caos...\n\nCaratteristiche:\n- Vari veicoli a tua disposizione\n- Orde di zombie da investire\n- Raccogli le monete e modifica il tuo veicolo\n- Tipi diversi di zombie da uccidere\n- Varie ambientazioni da scoprire\n- Gameplay letale\n\nScopri cosa puoi fare nel mondo devastato dall'apocalisse zombie e partecipa alla gara per la sopravvivenza! Allena le tue capacit\u00e0 di corsa in montagna e tenta di sopravvivere nelle prime linee della lotta contro i morti.\n\nRaccogli quante pi\u00f9 monete puoi, costruisci una fantastica macchina stermina-zombie e affronta le orde di non morti che vagano per le montagne. Devi sopravvivere se non vuoi entrare a far parte delle loro fila!\n\nNon farti uccidere, investi le orde di non morti e sali pi\u00f9 in alto che puoi per fuggire! Buona fortuna, uccisore di zombie!",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 229638144
+    },
+    "70010000035395": {
+        "id": "01006050129D2000",
+        "rightsId": null,
+        "name": "PICK ME UP! - Rescue Rangers -",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201104,
+        "nsuId": 70010000035395,
+        "category": [
+            "Puzzle",
+            "Azione"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "R-FORCE ENTERTAINMENT",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/535653d59e1b7747d9d3112ee9ae02e8d6f0da7ac0aa4dc513804b499fe751f7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/397f61439f1478552a6ee9c6bc15285d2e937813002e7be7e9162710d17fc408.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39beb2dc720b89cfc8661a85f4de286a3a204fa52db55cf2fd8e5ca70b2d1c9f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/02ef60c0d856e1634f20eb08452b3f73118da641f7c1f6f1b6064762a44f6874.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f59bc051d5c9c48b064fbb2d52d0411fcce22817e9ab6413dda637bf0e073803.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/efbf4981f697401c5d6f47dd13a84314767731dc832ee3d40f63ac7b3a27a93d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fcb12694047f2f2c2da2072552e5cf194829c28c9d5748e5b1f1b1f0a65f3ece.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00beb1767dc46e3005e01ce53b16316f519f68784dbaba258c60efc730a81293.jpg",
+        "intro": "SOS! Invaders has shown up!\nHurry to the scene and rescue the civilians!",
+        "description": "PICK ME UP! -Rescue Rangers- is a heroic rescue action puzzle game where you drive a rescue car and help people in need on the map.\nPeople are seeking your help in the awaiting 25 stages.\nTo break through the obstacles that block your path, you need to transform into a special vehicle.\n\nWill you be able to rescue them?\nIt all depends on your good judgment and rescue soul!\n\n< How To Rescue >\n\u30fb Transport the people you rescued to the safe area!\n\u30fb Move the rescue car quickly! But don't forget to brake when getting on and off ...\n\u30fb Transport multiple people to improve your score!\n\u30fb If the color of the person you helped matches the color of the safe area, the time limit will be extended!\n\u30fb Activate Super Rescue Mode (SRM)! Your rescuing will be brake-free!\n\n--------------------\nWorld first, implemented with Dirac Panorama Sound\u00ae\nWe recomend playing without headphones to enjoy the experience of full panoramic sound.",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 260046848
     },
     "70030000010781": {
         "id": null,
@@ -31099,6 +31411,32 @@
         "size": 81788928,
         "parentId": "010065000D25C000"
     },
+    "70030000012301": {
+        "id": null,
+        "rightsId": null,
+        "name": "Game Dev Tycoon Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012301,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 165675008,
+        "parentId": "0100E95010F6A000"
+    },
     "70030000012310": {
         "id": null,
         "rightsId": null,
@@ -31179,6 +31517,35 @@
         "languages": null,
         "size": 3079667712,
         "parentId": "0100F4C009322000"
+    },
+    "70030000012495": {
+        "id": null,
+        "rightsId": null,
+        "name": "Kirby Fighters 2 Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012495,
+        "category": null,
+        "ratingContent": [
+            "Violenza moderata",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1196425216,
+        "parentId": "0100227010460000"
     },
     "70050000012254": {
         "id": null,
@@ -41468,12 +41835,12 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/3d0b637b76cca66cbf8cc2052596264a6245cf9c6a31670662d2f1587e79d4c9.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7971dc61153480ea2dcb9bc12997407bc3ac9571ce03a72c7f14aa7a77a72a28.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/0ffd758cf4fbd08980191aa0cf2a214b55934e91b31a72a32a5a8482bd44b6e9.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/c4d94cd76b1ff4d0b3ed18a27b9444d9067d7905087054e5b12c14b61980f65c.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7978e00e46f92be4da68d4b54f7b825cd0d65a80745a8b156c736b35dd6ebd70.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/e6e14265d6c5fa81fc3d3a949a9f2037308507c3f4ccff979b564b932f985e7f.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/58f6c1d244f43646e09a6044cc7b3fea2fd86089d758b2f088f93e3c18d8926c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97afbf6cc05806373a3165f38f0668c3e933ed6c3edf956394aadff2f2d96e85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/464e8c86cfec0f24c3d262a10e676ba68f4248334bbe7579fa421e5ea9077c2e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2f11536a9176c2ee7c5e8375990a85faad6cfa33056cb9dfdd99e58b183de783.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14cb1f59eec0147a248e73c1c729a0582d61dd2c21c4507a5dc39e9d7dd94330.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd9f3a45be70bff8858ef41e3705835a44165959abd3074ac66d896ebedc5095.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b3bc3e67271a55427c22acc44f5e0548b93a3b89d5c32fc36d734247fcb80b49.jpg",
         "intro": null,
@@ -42412,7 +42779,7 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c13206facebe4ceda8ad51e23038a58319d91042b38a89c583ebfd3b5bf87364.jpg",
         "intro": null,
-        "description": "Razmi si annoiava nel regno interiore di Ajna e decise di realizzare una serie di sfide diaboliche con le quali umiliare il suo miglior amico! Queste sfide richiedono una combinazione delle abilit\u00e0 di Ajna, che la spingeranno al limite e metteranno alla prova la sua capacit\u00e0 di collaborare con i suoi compagni per sovvertire i pronostici in battaglia. Alla fine ci sar\u00e0 un premio! O almeno cos\u00ec dice Razmi... Con una nuova storia a fumetti con Ajna, Razmi e il resto del cast, quaranta nuovi livelli di sfida di dimensioni ridotte, due nuove tavolozze per Ajna e una nuova serie di trofei da conquistare. ",
+        "description": "Razmi si annoiava nel regno interiore di Ajna e decise di realizzare una serie di sfide diaboliche con le quali umiliare il suo miglior amico! Queste sfide richiedono una combinazione delle abilit\u00e0 di Ajna, che la spingeranno al limite e metteranno alla prova la sua capacit\u00e0 di collaborare con i suoi compagni per sovvertire i pronostici in battaglia. Alla fine ci sar\u00e0 un premio! ",
         "languages": null,
         "size": 4194304
     },
@@ -45226,12 +45593,12 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/1070e7222d1fd8ac0968dccd884444e88fe216cffb23f972ddfb277e709a08e5.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/4d77706a4ac4fb477696d1d3ba9ad9ead51dad7e754854943f390da0a2e10832.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/d9fd665cc44bc4b7623a8bb81b7b1ec7b2aeed604662a8bedd07b39d1e8024e1.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/f47471ad33fd73d423aae0de8ee0c11b9894e3da9e99d92c1658f8fce315c95d.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7e7476efe6da6c0162ada5d572ed8caf74764c960fc8ca3408fdc90347d58c30.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2ea5ca572a1074e176a7f48de73e11ed8ccf3ce7aa6d7aa8d88da9618171ff6a.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/f2301014bbb82f3529348c86f023225e849480d6d6ce9accc3f388101c8ef11a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b0256f4fb8b4766ed0e19571409eab071286238743367c71313ac526a181f4d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/73a222c81f3d0d01fabaf3de38f7cbc49c289cda48bae2a0b8d29f2faa27a54d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/edf5866de8066aa18c8b1efc9a0ba0362af69814de13dba80edb532b43170b99.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b50704377282c551c57f6526844cd949fd5d68d14e260b2eca698292aa4f6435.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/079471d216689c3370dd562df38c5fef15df845cb12890646b0e9be338a40606.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/16720a987df6cb27ec016c541e852d900e6e57c31d7e759ff444feb267445870.jpg",
         "intro": null,
@@ -45258,12 +45625,12 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/acdb37e6bf56607689a9a5b7a637790f4f9870a6ae0a28b972fe3cedecafda7d.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/db6a8806d11b9501b5cfc7067ef1309b60b9f0b2c5cd4f8feb1f4760585a8dcd.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/a7c6e8a041c254d91216e0347ef5a46523a6c7fbdbbab1d031b9a68c11f40c8e.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/0aae26cac67adad0cde389c054acb938161e242f17b56de53736d39f7958be0a.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/79f0fe4ddcfd3d4618f9d77af35047481348744b6fd8f874c55b0361a33a2623.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7b155866c55fc9b326ea089f1472fe6e6569ee1ac0955df3f4125a694c4e0f93.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/cb36be400ff3e0dcc751b1ec20543820ab5cd373baa12e75ab24a2716c33ced2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5c1e9c1be13dd523a7fe3dfe6c13aeba4127370bf67c40f412621a5d98c25ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7819a35d2d3da23def63e088b004d634f0c610f7887e4971b03aad92b004d376.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bd5d1f481cd35b3e98d34fc1ad6c4bfc2258b4748ddd6cd6749f2788807f895.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd3ee3bd674c1c960a3d013ed094daa45b6bd1eecef0f989c3ebc5d3fa4b91d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/36a42b5b8476cbb638d657c2c333acd31625aac59048a151d6f364a85a13aed7.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/30739c752304caf7d6e6fdff8fc086ec18b03871363932634b323a590a57948b.jpg",
         "intro": null,
@@ -45290,12 +45657,12 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/15bd05b7b7a9d0eb32a9632b3ea84570bb79cc51875f2c89d2fb3e892a5e3a45.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/e1bb46cfbaf574760d8bdfa1376e43acd89f209165117bb5ddbe22b74b27927c.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/b3cd290ec5e5a00d3db8a53c7e6c9a10507c775211db37676cb9ed91ea6b8d97.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/5f998d48e83ac05c19467b6cf3f8d656b0dcd8585e7a41c60cbe31ce4680523f.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/82da8ba5a3e766dd2c7479e567f89cf53d1b1222cbda95438937a237d492f727.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/b27d7081d19dfa896d755720d6f61d1e2272c6b7714866dee02c715c3fa2bd55.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/76cf63024436faac569d49ff67b60691a613ffbcbac35eba79f4e8a2b4ad1260.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4a8e842312c00d3274fa347ad9b7d2bcb8dd47d783ebc297d507af0538b17d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/95d9f49af2a786d78040214ced59d42032b4a12186ec843ff12e2f307277c3c4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f3b7d5b8e6fabbb96b9daed27c8ce4428f770932fcff2218adc62142d1aef2eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2bb3ce7e6ed2b3300e9f6f8e64bcb976ce3fc3c8eae8bd8e696bab4d14d8408e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5c24c4da89ae95c986d8203f1134874d5b1c3c342f347107d23b8a2eba5eff8.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c802f6c78197b21142d7b36cfac206ca297390ec11b46f71a2788d9625a5a1d.jpg",
         "intro": null,
@@ -45322,12 +45689,12 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/a284e032589eb5bbf0a170b5e20a5f84be6ca13067722415352edc6bfdf3652d.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/78fd121aadb025bb19c6dfcf1e213438377dbaa5c09a5ae7ec86e8b339d55b38.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/1e0f5b0c1f63fe94a13bcbe304c3f889984b623bdc2b7d4e20a36f8f95cc3eab.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/4869c89fc2fc530d0733d2d86e73130f2dcd7ef01dea8a20fe9aabb192263a67.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/48a1942145f2acf3944f1df10401ea73e078562cbe58a311060313d4f9477673.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/d76ac9b67bc4649cc6c34e697852bd5e19d19453f116e209d859f34c259dcec8.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/aba3bdd6f9c2c5e39af5add6b52675660895dcea1d0d93006af84b833d0efce0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/348248bb8d3b617002415ce68c2d28205856626bdadc09dc26419e9e91378f81.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bdb7446b0c16941e5505bb6f28a4d6426091241152c0afb370177bc4b10116fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ff9e679967aa652e7ec2ad51804f832f7fee504e9aa85c9c43681d44e02b24b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b435ca9d415ba4596606aced737150b518dc0a68406a01720bab2e18f12efa1f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/576db178816cd4ef8b5fd8093ba125fc45ab9786ec7e83eeb6a77efe99030c3e.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9e28c9a44dfd077c0eef2d55b717539a3531f69855a4b7686c4ced88c576663d.jpg",
         "intro": null,
