@@ -2827,7 +2827,7 @@
             "ja",
             "en"
         ],
-        "size": 4433379328
+        "size": 5249171456
     },
     "70010000018561": {
         "id": "0100CCA00DAE6000",
@@ -7512,6 +7512,49 @@
         ],
         "size": 768606208
     },
+    "70010000025855": {
+        "id": "01006790101A2000",
+        "rightsId": null,
+        "name": "Nine Witches: Family Disruption",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201204,
+        "nsuId": 70010000025855,
+        "category": [
+            "Adventure",
+            "Action",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Horror",
+            "Moderate Violence",
+            "Sexual Innuendo"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Blowfish Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/63a086def892555a72cecb857504efc138dfda834c5ec2c29186a6c2a223f9a7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6c4787f3e032b4da7c71b6315098a183c2992883cd13f24a6a49f37df7ea22b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a02a10a99b281f120752137f31e2fb401f5f986883d67a367b91dea776c72f7a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/005e4198f874acdb4ed7544a8bbda4eccf631debc6c75157e82a4d16aa4afb63.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63403bb13c4c444ef599df0e064e23b1389302ed02909918765c5aea6118fa95.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a3cb03df90a154d25bb8d9a0bc9831eab4dbf3a82cb72178ae45ae1aee60e2f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b169692e4b6312cc65fbccf3f1f80996dc13b5c747a875b78b3b3f788716fb0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff91179df6d05c77caf7d0292ab1b7eef2779f3f11ecb4efb236af4ec98bc878.jpg",
+        "intro": "A small Norweigian town is overcome by a paranormal plot, only an expert quadriplegic professor of occultism and his faithful assistant can put a stop to this terror. ",
+        "description": "October 1944, something strange is happening in Sund\u00e4e, a rustic Norwegian town where a mysterious dark moon hangs over the sky, generating uncertainty among its inhabitants.\n\nAs World War II continues, the Okkulte-55, a secret division of the Third Reich, arrives in Sund\u00e4e to unleash an ancient curse, in a desperate act to twist the course of the war.\n\nAlexei Krakovitz, a quadriplegic professor of occult science and Akiro Kagasawa, his faithful assistant, are sent to Norway on a secret mission to unravel the mystery and save the world from the Okkulte-55 clutches.\n\nAn original story with absurd dark humor, riddled with eccentric characters, diabolical inventions, puzzles, occultism, talking dead, witches, worms, a mysterious party, and an ancient curse that threatens the human race.\n\nAn adventure so delusional that it will make you delirious to the delirium itself!\n\nHa-Ha!\n\nFeatures: \n\n- Unique original story. (99.999999% GUARANTEED)\n- Single player, dual character action-adventure with puzzle-solving elements.\n- Join professor Alexei Krakovitz and his loyal Japanese assistant, Akiro Kagasawa, in their heroic crusade against the Okkulte-55.\n- Retro-pixel style artwork.\n- A quirky cast of characters!\n- Visit Sund\u00e4e, an oppressed village on the northwest coast of Norway.\n- Talk with the dead.",
+        "languages": [
+            "en",
+            "es"
+        ],
+        "size": 289406976
+    },
     "70010000025929": {
         "id": "01005420101DA000",
         "rightsId": null,
@@ -10161,7 +10204,7 @@
             "zh",
             "zh"
         ],
-        "size": 6557794304
+        "size": 6604980224
     },
     "70010000027851": {
         "id": "010083E010AE8000",
@@ -18826,7 +18869,7 @@
             "ko",
             "zh"
         ],
-        "size": 320864256
+        "size": 332398592
     },
     "70010000031735": {
         "id": "010011B0122CA000",
@@ -22597,6 +22640,47 @@
         ],
         "size": 60817408
     },
+    "70010000032507": {
+        "id": "0100B9B011DA4000",
+        "rightsId": null,
+        "name": "Diamond Girl \u2605An Earnest Education in Love\u2605",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70010000032507,
+        "category": [
+            "Adventure",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Sexual Innuendo"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "OperaHouse",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/abb2cc762db04082b4fc52cba86dcd86bdc3b69e2ba1ac568408d027b91879d7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7d73d863b4e3ac288ac5558bd01e53a1e7f0aee4c6031b18dea4bdf91ae1f62e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/64dc256a9fa2fdade16395f1bb9351fb32e747223511a381e612a15ec6e397ad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac41cfea8376007f83c0153f2beed41bcae75438a2404dbd35c026831c103d5a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b0fe4e75801146be4eb470e09a341cb6d0d90e6c895adff9d68e67465bf50fe1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/53452a166919c5ed6d013f7d1281f318bc663678f974a299479290a16f131e9e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/82d726d9b3a178c0f35d97147a91230af6cf9349f98632577e104b7c0b4a89a4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/11c134b78413c0afc816d3d158199e8ee665d03c9e5ec1c116d32419beae2ab0.jpg",
+        "intro": "Doki Doki Harlem Story Love Simulation Game for Women\u266a\nOtogei to send for women who like good-looking guys!",
+        "description": "\u25a0Love story\n\"Proper ladies can do whatever they want!?\"\nYou are a so-called \"love-allergic\" girl who spends her time at home in a track suit.\n\nYou luckily get a job at the famous Misono Trading Company, but it is discovered that you are actually the heiress to the parent company's Misono family!?\n\nYou move into a mansion in order to learn how to be a proper lady,\nbut you just can't manage to get used to your glamorous lifestyle!\n\nYou continue to battle, surrounded by your kind butler,\nhot and cold fianc\u00e9, and ditzy cousin!\n\n\u25a0Here are the handsome guys you can choose from!\nYou can choose whichever guy you prefer.\n\n\u2665Masaki Fujigaya\nSuper! Cocky fianc\u00e9\n\n\u2665Hayato Aisaka\nSuper! Protective butler\n\n\u2665Kyoichi Takayanagi\nSuper! Cool strict brother in law\n\n\u2665Tsubasa Misono\nSuper! Wild boy cousin\n\n\u25a0Diamond Girl is such a game!\n\u2713This is a love story game in which relationships form between the\n\"love-allergic\" heroine who wears track suits around and the handsome men.\n\u2713This is an otome game in which the handsome men surrounding\nyou suddenly go from friend to boyfriend.\n\u2713You can simulate love scenarios you never can in real life, such as dating a butler, cocky boy, younger guy, or mean but loving boyfriend!\n\u2713In this romance simulation game for girls, you can go from a life empty of romance to one in which every day is filled with excitement and happiness.\n\u2713You can enjoy the excitement of marrying the man of your dreams!\n\u2713See that cocky boyfriend get smitten! Behind that cockiness is kindness.\n\u2713The awkward communication of a servant! Love starts with friendship!\n\u2713This is a otome romance novel game for all girls!",
+        "languages": [
+            "en",
+            "fr",
+            "de"
+        ],
+        "size": 622854144
+    },
     "70010000032510": {
         "id": "01009C4012284000",
         "rightsId": null,
@@ -24714,6 +24798,51 @@
             "it"
         ],
         "size": 1173356544
+    },
+    "70010000032953": {
+        "id": "010017E012888000",
+        "rightsId": null,
+        "name": "Wallachia: Reign of Dracula",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70010000032953,
+        "category": [
+            "Platformer",
+            "Action",
+            "Adventure",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "No Gravity Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a0b4f4f3854036fa472331913f57c4d1d619433b93e657dd711480b20ba75a09.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/da8d479940ea7f003c98d10013b0af1e0930c6342dff9c649d654d654f43486f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6b609f55744e77257f95aa2d842795e068222d353d4bc5284386d318673b1b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e5c5ebb9780c4eb32c1b14979e2179725fed9988e5304aab8bb28c8e9d5aec1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0c2e50a7a210b25bf36c89e13d990f89abf6ffaf346ab28bb89301a6a4913868.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/521ca9305d8b59122651de694ae9f7fb3335dea3c90a5f42eda9bae2b25d1131.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/feeab130548798f49281d3ed929692e3bb42f7e09ab74827e066d04ecd1c8d67.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b8b733d30908dd59da59d6562d574dd1ccc19d015c4b6a82eeee53c200d96ed.jpg",
+        "intro": "Fast-paced! Non-stop action! Retro-style! A platform game inspired by great video game classics. Full of shooting and deadly traps that will quench your thirst for blood.",
+        "description": "FEATURES:\n\u25aa 100% of retro,\n\u25aa 100% of action,\n\u25aa 7 action-packed levels,\n\u25aa story based on Vlad the Impaler,\n\u25aa waves of enemies to fight,\n\u25aa bosses that won't give you a chance,\n\u25aa minigames, unlockables and bonuses (e.g. exclusive bonus from Bloodstained Ritual of the Night),\n\u25aa full English voiceover by professional actors (Kira Buckland and Robert Belgrade),\n\u25aa unique & ultra ambient soundtrack!\n\nABOUT THE GAME:\nWallachia: Reign of Dracula is an action & shooter platformer inspired by great video game classics.\nThe game will challenge your reflex, aim and agility skills. \nIt's unparalleled difficulty will satisfy fans of old-school, unforgiving and complex gameplay. \nWatch out for enemies attacking you from every direction, hidden traps and ruthless bosses!\nThe game has a full, professional voice-over by professional actors, Kira Buckland and Robert Belgrade.\nYou will enjoy a unique soundtrack and story revolving around the one and only true vampire - Vlad the Impaler. \n\nThirsty for some blood? \nThen get ready for a brutal, yet satisfying adventure!\nTravel through the land of Wallachia and face the forces of Vlad Dracula!",
+        "languages": [
+            "pt",
+            "en",
+            "es",
+            "fr",
+            "it"
+        ],
+        "size": 154140672
     },
     "70010000032957": {
         "id": "010000E00E612000",
@@ -27653,7 +27782,7 @@
         "languages": [
             "en"
         ],
-        "size": 320864256
+        "size": 360710144
     },
     "70010000033789": {
         "id": "01000CC012D74000",
@@ -29143,7 +29272,7 @@
             "zh",
             "zh"
         ],
-        "size": 680525824
+        "size": 727711744
     },
     "70010000034537": {
         "id": "0100472013142000",
@@ -45966,6 +46095,41 @@
         "description": "This DLC includes a multiplayer mecha \"Thunderbolt Otome\".\nThunderbolt Otome can only be used in Local Multiplayer, Online Multiplayer and Training.\n\nCreated by simulation battle developers in private, according to their preferences. Although it has exactly the same performance as the original Thunderbolt, it unexpectedly increased the pilot\u2019s moral.\n\nPrimary Weapon - Beam Rifle\nFires a semi-automatic beam rifle.\n\nSecondary Weapon - Chest Vulcan\nSmall caliber vulcan gun.\n\nLight Melee - Energy Blade\nSlashes with the arm-mounted Energy Blades. Can perform a three-hit combo.\n\nHeavy Melee - Shield Shock\nBlasts the enemy with an electric shock. Press again to release another pulse.\n\nDefend/Transform\nUses a shield to block attacks from the front.",
         "languages": null,
         "size": 0
+    },
+    "70050000023522": {
+        "id": null,
+        "rightsId": null,
+        "name": "Original Pack 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201022,
+        "nsuId": 70050000023522,
+        "category": null,
+        "ratingContent": [
+            "Implied Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "TAITO",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8e340bbfd042bc853b2516451b9ebfd95c53a41111fbccdc0bb9d21ccaf22b3b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e53ab2705f2aa200a98f5779fe2112e672cf5a059d536a9d9b6a290813680d4b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e8cae75f3033f0554e7f75dd5e0bae17330e0c8d9716252e3946baf2be24fd4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7136dd833615c17c2300486929f13fd01713bad6bc0ae327f2e27b4ce7fd193.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f0281a5cd71972ca9ff023e7cf1169b4662d511e090586e052d5f8e4bbd22f87.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9226e8bbf5d06ee38c7d4625531553f1f259f8e3340fcb09ebe7a0c9317e37c0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1f73da739be7416c5bc92945ea0a9e434cacd7074b3e45f26c66ff7b433b3c18.jpg",
+        "intro": "10 original songs including the new theme song sung by Miko, Fubuki, Matsuri, Marine are now available! With navigators and avatars!",
+        "description": "A DLC pack for GROOVE COASTER WAI WAI PARTY!!!! that includes 10 songs, navigators, and avatars from GROOVE COASTER series!\n\nThis pack includes the following content.\n\n\u25a0Song Pack (10 songs)\n\u30fbGimme gimme virtuaL saikou star!!!!\n\u30fbGROOVE THE HEART\n\u30fbCaramel Mocha\n\u30fbUnder The Moon\n\u30fbZawawa\n\u30fbPUT YOUR HANDS UP\n\u30fbZenjinrui Inuka Keikaku\n\u30fbAurgelmir\n\u30fbFUJIN Rumble\n\u30fb\uff1f\uff1f\uff1f\uff08Secret\uff09\n\n\u25a0Navigator\n\u30fbSakuramiko *with voice\n\u30fbHoushou marine *with voice\n\n\u25a0Avatar\n\u30fbMIKO(2D)\n\u30fbMARINE(2D)\n\u30fbYMIR(2D)\n\u30fbDOG(2D)\n\u30fbBIPLANE(3D)\n\n*Some content will be unlocked via missions after downloading.",
+        "languages": null,
+        "size": 50331648
     },
     "70070000010486": {
         "id": null,
