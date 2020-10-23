@@ -3734,7 +3734,7 @@
             "ja",
             "en"
         ],
-        "size": 5249171456
+        "size": 5250220032
     },
     "70010000018561": {
         "id": "0100CCA00DAE6000",
@@ -4534,7 +4534,7 @@
             "nl",
             "zh"
         ],
-        "size": 665845760
+        "size": 680525824
     },
     "70010000019452": {
         "id": "0100BB800E0D2000",
@@ -4574,6 +4574,54 @@
             "en"
         ],
         "size": 144703488
+    },
+    "70010000019470": {
+        "id": null,
+        "rightsId": null,
+        "name": "Lonely Mountains: Downhill",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200507,
+        "nsuId": 70010000019470,
+        "category": [
+            "Arcada",
+            "Corridas",
+            "Desporto",
+            "Simula\u00e7\u00e3o"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Thunderful",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0107fbd0d21e6ab93dab4692e2c634a3890fd8533ad9f4b238a7dc5e5c074df9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/90f86fc85ccd9b7bc9ee82c4b300443150a87c068b1d144518059d7510a6fbdd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b0a769d1586e0ae7eb3e1eeb9489d3a6940cf9beef961eb63b62387bd9a1f15b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f45fa2cf37893f5fe54842b3323080cf3f26db329fdb7473dd6f39c296bfae4c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9e834b3ba147ad8dcdc2b91b0a5d6d4b6aaee26a67d0d3b6861587eedf8a0d2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dab8bcfbdfca261debf18804c16db5fd3a6e71347c4bdca440f0a74880877aee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61ff0d8d1186d7b9cdb7aeeaf781622dfc9e3dd391ece59f9c871af5bcc14b6e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6eeb51d0bd203bf156514f3898f072d6d38df4b0a279b0e13216a3294dae94a4.jpg",
+        "intro": "Explore e corra at\u00e9 a base em Lonely Mountains!",
+        "description": "S\u00f3 voc\u00ea e sua bicicleta, descendo atrav\u00e9s de um terreno montanhoso. Atravesse florestas densas, trilhas estreitas e rios selvagens. Corra, salte, deslize e tente n\u00e3o bater, sempre seguindo do topo da montanha at\u00e9 o vale!\n\nCaracter\u00edsticas:\n \u2022 Viaje pelas Lonely Mountains! Pedale atrav\u00e9s de lagos das montanhas, florestas majestosas e desfiladeiros \u00edngremes\n \u2022 Um sistema personalizado de f\u00edsica que permite saltar de rocha em rocha, correr sobre abismos e deslizar na lama\n \u2022 Crie sua trilha: siga a rota c\u00eanica ou fa\u00e7a um off-road e encontre o caminho mais r\u00e1pido at\u00e9 a chegada!\n \u2022 Sem p\u00fablico ou barreiras, veja a natureza intocada pelo homem\n \u2022 Encontre a bicicleta perfeita para voc\u00ea e desbloqueie dezenas de pinturas e trajes!\n \u2022 Desafie seus amigos e teste sua habilidade de speed-runner contra o placar",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 931135488
     },
     "70010000019739": {
         "id": "010089D00E28A000",
@@ -5042,7 +5090,7 @@
             "ko",
             "zh"
         ],
-        "size": 3254779904
+        "size": 3684696064
     },
     "70010000020106": {
         "id": "010058600E530000",
@@ -6082,7 +6130,7 @@
             "de",
             "it"
         ],
-        "size": 2356150272
+        "size": 2652897280
     },
     "70010000021241": {
         "id": null,
@@ -9635,7 +9683,7 @@
         "developer": null,
         "publisher": "Hidden Achievement",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8c84a1b56edd976c1c0018a2a356b597d916621b348583609e7113dffbf8c207.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c2047a096162e32db8c69f9456ec2b878948ac6eebb5d84e0be457d10955321e.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/1753c44563418023aef575151f20065b3a0571483aed9f67e0dc502084580269.jpg",
             "https://img-eshop.cdn.nintendo.net/i/257573e1f997d415c71c53b1f1f8a2bcd654785b20eaa7f46607c5174bb65e55.jpg",
@@ -9657,7 +9705,7 @@
             "it",
             "ko"
         ],
-        "size": 300941312
+        "size": 306184192
     },
     "70010000024088": {
         "id": "0100CF900FA3E000",
@@ -12655,7 +12703,7 @@
             "it",
             "nl"
         ],
-        "size": 6488588288
+        "size": 6489636864
     },
     "70010000027150": {
         "id": "0100A16010966000",
@@ -13258,7 +13306,7 @@
             "it",
             "ru"
         ],
-        "size": 1524629504
+        "size": 1601175552
     },
     "70010000027365": {
         "id": "010044A010BB8000",
@@ -13797,7 +13845,7 @@
             "ru",
             "zh"
         ],
-        "size": 654311424
+        "size": 714080256
     },
     "70010000027514": {
         "id": null,
@@ -14753,11 +14801,10 @@
             "Aventura"
         ],
         "ratingContent": [
-            "Viol\u00eancia pesada",
-            "Consumo de \u00c1lcool/Tabaco"
+            "Palavr\u00f5es Ligeiros"
         ],
         "numberOfPlayers": 1,
-        "rating": 16,
+        "rating": 12,
         "developer": null,
         "publisher": "Nova-box",
         "frontBoxArt": null,
@@ -15408,7 +15455,7 @@
             "ko",
             "zh"
         ],
-        "size": 2522873856
+        "size": 2684354560
     },
     "70010000028056": {
         "id": "0100D7C01115E000",
@@ -17017,7 +17064,7 @@
             "zh",
             "zh"
         ],
-        "size": 8838447104
+        "size": 8876195840
     },
     "70010000028544": {
         "id": "0100B7D01147E000",
@@ -17280,7 +17327,7 @@
             "zh",
             "zh"
         ],
-        "size": 2777677824
+        "size": 2778726400
     },
     "70010000028632": {
         "id": "0100BDB01150E000",
@@ -22197,7 +22244,7 @@
             "zh",
             "zh"
         ],
-        "size": 1959788544
+        "size": 1961885696
     },
     "70010000030021": {
         "id": "0100495011B6A000",
@@ -25476,7 +25523,7 @@
             "ja",
             "en"
         ],
-        "size": 871366656
+        "size": 873463808
     },
     "70010000030978": {
         "id": "0100D36011AD4000",
@@ -27975,6 +28022,92 @@
             "ru"
         ],
         "size": 1329594368
+    },
+    "70010000031751": {
+        "id": "01005C70122E0000",
+        "rightsId": null,
+        "name": "Farm Mechanic Simulator",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201023,
+        "nsuId": 70010000031751,
+        "category": [
+            "Simula\u00e7\u00e3o",
+            "Estrat\u00e9gia",
+            "Puzzle",
+            "Educacional"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "SimFabric",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/567ec68512f2a9a886a2c9f70adaa1d22176e3bba6ff8a1c75d19ebde70daaa9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a04fa1e298d5a65c12b04921838e13d8f6c3a4df50713d97920494f6150349e3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b6be32cd99cf6360ed4fb4bdb907016b5b77fa286d0c5d58e3d5009536d20a7b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6cfb80c83a9623aa882df0c15da3e61c424d70c1456c2c1a3a4919d92e773b4f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/193bc44f970338196a0b5e69b501511d545f84014cfa189c80702692a213150f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a99e6fdb72654a9fa5531988ae1d3179432549a1cdf1cb30c741c49989c47126.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e5478a6bc882b5700557b53eed5e2af07b861ba8595bf7da2a373da33a012d4a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/568e759722ab8bfbf1f97286e034656c91d71933d41df84bd456344e9a5eb573.jpg",
+        "intro": null,
+        "description": "Conserte tratores, aprimore habilidades e melhore sua oficina.\nJogo mec\u00e2nico muito popular com ve\u00edculos agr\u00edcolas.\n\nAgora voc\u00ea pode descobrir como \u00e9 o trabalho do mec\u00e2nico na fazenda:\n- Repare o trator e seus componentes\n- Melhorar os equipamentos e ferramentas\n- Escolha pedidos interessantes\n- Substitua ou repare pe\u00e7as danificadas\n- Planeje a compra de pe\u00e7as de reposi\u00e7\u00e3o\n- Desempenhar tarefas especiais e receber pr\u00eamios\n\n   No jogo voc\u00ea encontrar\u00e1:\n- Quase 50 pe\u00e7as diferentes\n- Mais de 50 tipos de falhas a serem removidas\n- N\u00famero ilimitado de pedidos a serem executados\n- N\u00famero ilimitado de tarefas especiais",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru"
+        ],
+        "size": 99614720
+    },
+    "70010000031755": {
+        "id": "01003A00122E2000",
+        "rightsId": null,
+        "name": "Truck Mechanic Simulator",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201023,
+        "nsuId": 70010000031755,
+        "category": [
+            "Simula\u00e7\u00e3o",
+            "Estrat\u00e9gia",
+            "Puzzle",
+            "Educacional"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "SimFabric",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/55fdf98c6f6dc204898f66f84e71b22b463db262ddef9c28b1c934223735e9d5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c0f9b1611e27da92c44805f8c7316360e758c5cbc906f0b857bec2d0ca032dbc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c95318fcc35f4bc2bc00d63e144d1bc61c32428afca0e7cd1a4077fb47bff51d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/edb94be1dd81d5d60dbb0df9747dd12e3fb7f5c901218f50bb17b85615626666.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7409b43c94067945578694273b8b255f5c9428e23da1edfa51a2b01b75542b0a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8370aae12ff8f7e47ab8c68c4f321bcdac2eb75c31447376589dc9173084646d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa1ce8f1fe6bfd6aec5a43bf1950f95826d36223957dc5e0c052b947745002a7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5e0e803310aff2f6aa42d5441d0f086740101ea826550a491e66756103e78a22.jpg",
+        "intro": null,
+        "description": "Conserte caminh\u00f5es, atualize habilidades, melhore sua oficina.\nJogo mec\u00e2nico muito popular com ve\u00edculos de caminh\u00e3o.\n\nAgora voc\u00ea pode ver como \u00e9 o trabalho do mec\u00e2nico de caminh\u00f5es\n- Reparar o caminh\u00e3o e seus componentes\n- Melhorar o equipamento e as ferramentas\n- Escolha pedidos interessantes\n- Substitua ou repare pe\u00e7as danificadas\n- Planeje a compra de pe\u00e7as de reposi\u00e7\u00e3o\n- Desempenhar tarefas especiais e receber pr\u00eamios\n\n  No jogo voc\u00ea encontrar\u00e1:\n- Mais de 70 pe\u00e7as diferentes\n- Mais de 50 defeitos a serem removidos\n- N\u00famero ilimitado de pedidos a serem executados\n- N\u00famero ilimitado de tarefas especiais",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru"
+        ],
+        "size": 80740352
     },
     "70010000031764": {
         "id": "01001F201121E000",
@@ -32168,7 +32301,7 @@
         "languages": [
             "en"
         ],
-        "size": 520093696
+        "size": 640679936
     },
     "70010000032560": {
         "id": "01002C301280E000",
@@ -33351,6 +33484,49 @@
         ],
         "size": 283115520
     },
+    "70010000032776": {
+        "id": "0100DB5012366000",
+        "rightsId": null,
+        "name": "What The Fork",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000032776,
+        "category": [
+            "Festa",
+            "Multijogadores",
+            "Arcada",
+            "A\u00e7\u00e3o"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Bit2Good",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4c9282b9dcf56807d9b948ff765157d166da7a7805843ad83b5f316a19de67be.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e2cb2c4ed6744026a48022aae84ab02693e63736ca9eef3db956c449a65a6af1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a148a75d36930fc44ccadc25c14cc9b8f17a0a276ef9981b3b5a7bb477b3e1b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17587a4c88fb9790acbeeddd6f4144912280d8316dfa32e5ca8fdf264d2fbacb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c759878f18151e672eed1ebca1f4be848654fa4ea62bc268471016e6ca5f8934.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49047bbf98f5575033ac40ac159f7cef7412387c71e735578f42b1c23fbd6cec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f43ed9ce139efb062efc1837df437f050edcdbf5bf240641fbd4d631b1bcf479.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/45c798b48d4af9411d59f844ecf3d6991f73c7695626f5f66154280128b145e4.jpg",
+        "intro": "What The Fork - a chaotic couch coop forklift simulation is the best use of forks since dinner! Face the new challenges alone or with up to four players in story, vs or freeplay mode!",
+        "description": "What The Fork - the best use of forks since dinner - is here! Jump on your forklift and face the new challenges either alone or in a classic couch co-op for up to four players. Let the electric motors roar and hit the forks!\n\nThis game is stacked up ...\n\nYou thought today was a quiet evening when nothing happened? Wrong, because now the dark drones pose a new threat. Visit the different warehouses and show these windy drones how to stack properly.\n\nLOCAL MULTIPLAYER MADNESS\nYou can choose, work together and reach the high score, battle it out in vs-mode, or just collect boxes in freeplay-mode.\nIts the main objective in story mode to collect as many boxes as you can within a three-minute limit in order to reach three golden boxes to unlock further levels. You have to work cooperatively with up to four players to get each box to its designated delivery station efficiently.\n\nDELIVERY TO ALL COUNTRIES\nIn the warehouse, on the prairie, in old medieval castles and even on dizzyingly high skyscrapers. You stack your load no matter where!\nWork your way through 30 colorful stages with increasing levels of difficulty! These stages are grouped into five worlds, Urban, Asia, Scifi, Western, Medieval.\n\nWORKING WITH PROFFESIONALS\nNo access? No problem! Uses the latest technologies and trends in crate transport. Of course, this also includes springs, assembly lines, and, of course, cannons.\nUse these different gameplay elements to navigate your boxes in creative and efficient ways through the different stages in order to beat the clock!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 1685061632
+    },
     "70010000032782": {
         "id": "0100A7701298C000",
         "rightsId": null,
@@ -33466,6 +33642,54 @@
             "en"
         ],
         "size": 93323264
+    },
+    "70010000032844": {
+        "id": "01006550129C6000",
+        "rightsId": null,
+        "name": "If Found...",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201022,
+        "nsuId": 70010000032844,
+        "category": [
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Insinua\u00e7\u00f5es Sexuais"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Annapurna Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a44f90bc483a9111a90909389dfe11577a5a5417dc92d0ba827fe6731dd01f16.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/15d609dee4a263281f31b22282c7c86aaeb6796a62da6938bed9c7ee6f1536a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b49e4d755f398e70ca6ed0d5f1981a9bbfae8841900c5b4c86d3b897c43a6a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23829264484ba02429dcc5029ed4f4afc6ca7b9b9a8fc5f5cdef2bd65ae1a9f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f25d828ffb2905769b274fc2d53ccb24e89762468e70614995afd29a837e5555.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8486daf399039360cb62fdaf180468489e5ad2e78ff3b041843b5666bc2584c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5623c24f5b1d79927f513b322e33e6d7b07b361be61b09f9a1e0b120c62a8322.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/82f55cd7054897f2ddcc5ff46ff971c26b1b59763f49523f95b854eebd76a198.jpg",
+        "intro": "Apague tudo, encontre Kasio",
+        "description": "If Found\u2026 \u00e9 um jogo da DREAMFEEL sobre a busca pela conex\u00e3o.\n\nNo dia 31 de dezembro de 1993, nas ru\u00ednas de uma mans\u00e3o na Ilha Achill, Kasio destr\u00f3i seu di\u00e1rio.\n\nEle conta a hist\u00f3ria de sua volta para casa no oeste da Irlanda, o conflito com sua fam\u00edlia, os amigos que faz e os desafios que enfrenta.\n\nTudo leva \u00e0 noite em que um buraco negro destruir\u00e1 o mundo todo. De onde ele veio? H\u00e1 uma maneira de det\u00ea-lo?\n\nCom mec\u00e2nicas de intera\u00e7\u00e3o totalmente novas, arte desenhada \u00e0 m\u00e3o e uma trilha sonora incr\u00edvel, os jogadores reviver\u00e3o as experi\u00eancias de Kasio e ver\u00e3o momentos felizes e doloridos que comp\u00f5em o m\u00eas de dezembro de 1993.\n\nRecursos incluem: paixonites estranhas, o planeta J\u00fapiter, muitos beijos, um show punk, confus\u00e3o, felicidade, uma cadelinha fofa e uma invas\u00e3o. ",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1454374912
     },
     "70010000032847": {
         "id": "0100AB90129CA000",
@@ -34200,7 +34424,57 @@
         "languages": [
             "en"
         ],
-        "size": 2542796800
+        "size": 2625634304
+    },
+    "70010000032965": {
+        "id": "010075400DDB8000",
+        "rightsId": null,
+        "name": "Torchlight III",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201022,
+        "nsuId": 70010000032965,
+        "category": [
+            "RPG",
+            "A\u00e7\u00e3o",
+            "Multijogadores"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Moderada",
+            "Os Utilizadores Interagem"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Perfect World",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/51914c6917780b148e4f3b34449f1d686f9076c8c45d5704c6cd49133b38536d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9f08cf55ae3f9c36eaf8219ecd29770f840b4b9ef82f74ba8f1518ec78c31d96.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dbc6af2dfa82a6601037216c7f56e94f27660b693f0fbda10bf01b2904e9a0ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aefece38ef96af32eed2fd2ca74a402043add63a404163accf4018269e9b0ffc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/efaf712ff8df897b2b33835e1a6217dba3d68a2752be1235e380db5b37051a2e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2f1e3bf2a91d97d1a3f42b1532ee75868994b8688f72ca10e851ce4a65c31dd4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2cd9693eb954a0c38e5ab30f2660b9962f4d5e118c4fbf83ca1212484ca523cc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5c62e583fdc596dfb2a308a848e4eb819c48f569dfed390bdf1022b2eacd6155.jpg",
+        "intro": "Em Torchlight III, a amea\u00e7a de invas\u00e3o paira uma vez mais sobre Novastraia, cabendo-te a ti defend\u00ea-la dos Netherim e dos seus aliados.",
+        "description": "J\u00e1 passou um s\u00e9culo desde os eventos de Torchlight II e o Imp\u00e9rio de Ember est\u00e1 em decl\u00ednio. Em Torchlight III, a amea\u00e7a de invas\u00e3o paira uma vez mais sobre Novastraia, cabendo-te a ti defend\u00ea-la dos Netherim e dos seus aliados. Prepara-te e enfrenta o desconhecido para encontrares fama, gl\u00f3ria e novas aventuras!\n\n\nExplora a Fronteira - Desbrava a vasta regi\u00e3o selvagem de Novastraia e todos os perigos que ela oferece, sozinho ou com amigos!\u00a0\n\nObt\u00e9m equipamento \u00e9pico - Seja armadura, armas ou at\u00e9 novas mascotes, h\u00e1 sempre mais para encontrar enquanto exploras masmorras e enfrentas inimigos perigosos.\u00a0\n\nCria o teu her\u00f3i - Com quatro classes \u00fanicas para escolher e cinco subclasses Relic dispon\u00edveis, h\u00e1 muitas formas de criar o teu her\u00f3i e maximizar o dano. Tamb\u00e9m vais obter equipamento \u00e9pico na tua jornada, que pode ser personalizado para funcionar especificamente com o teu her\u00f3i.\n\nConstr\u00f3i e melhora o teu forte - \u00c9 hora de reconstruir, e isso inclui-te a ti! Diverte-te com o teu pr\u00f3prio forte, seja fazendo reformas ou melhorando equipamentos que podes mostrar aos teus amigos e ao mundo.\n\nAs mascotes est\u00e3o de volta - Luta para obter fama e gl\u00f3ria com o teu fiel companheiro! D\u00e1-lhe habilidades e equipa-o com itens para que fique ainda mais forte. Cada esp\u00e9cie vem com uma infinidade de cores e estilos. Consegue-os a todos!\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 7089422336
     },
     "70010000032980": {
         "id": "01001F101289A000",
@@ -34284,6 +34558,48 @@
             "en"
         ],
         "size": 244318208
+    },
+    "70010000033016": {
+        "id": "01009C4012336000",
+        "rightsId": null,
+        "name": "TENS!",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000033016,
+        "category": [
+            "Puzzle",
+            "Estrat\u00e9gia",
+            "Educacional"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Kwalee",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7ce31918cdd7a214dfdd5eb1f822740aa902e8ea64dccfadeb7466eb622c7fa3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/763d826ce8a19b30a5b81be8fd4f3e065e78d08fbd197124e75837e3fc31ae4f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77880748347928bb8264f0d5e54cc6ab8216af52661cce561316d3beef101737.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30774c6d4e8d9106880af32bb17c87940ee729c18f73be79de23ec88b4a68310.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f9979849b5ac3d81d5246c927c378cc2f28d200bedfe3aac8eb3881564e79255.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3763ce64d800c5ceff4bd878b3711849a4d0425ec0ae413b6c36c69834cfecbe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39e575ca18b7287df43e2775dfcd2aa14b390a4c251c3fca59229079c9d2aeea.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/86d072a955a8ff10ffad751b302fd93f51b7fe565d13b58fa9df7966ab44450d.jpg",
+        "intro": "The ultimate dice puzzle!",
+        "description": "Combining sudoku-style number puzzles and block-dropping gameplay, the aim of TENS! is simple: place dice on the board, make \u2018tens\u2019 in any row or column and clear the board to win.\n\nTENS! is a relaxing puzzle game which offers tons of gameplay styles for you to choose from including: an immersive single-player Adventure mode, a local Multiplayer mode where you can challenge your friends and family, and an Endless mode which challenges your skill level. \n\n In TENS! there\u2019s something for everyone to enjoy!\n\nTENS! Features:\n- Explore your way through Adventure Mode and experience the world of TENS!\n- Keep beating your high score and learning new skills in Endless Mode\n- Challenge your friends with local multiplayer to see who has the top TENS! talent\n- Add dice skins to your collection by playing through the game your way\n- Battle bosses through your adventure and unlock new characters\n- Relaxing gameplay for everyone to enjoy!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 203423744
     },
     "70010000033018": {
         "id": "0100EB70128E8000",
@@ -36155,11 +36471,11 @@
         "languages": [
             "ja",
             "en",
+            "pt",
             "es",
             "fr",
             "de",
             "it",
-            "pt",
             "ru",
             "zh",
             "zh"
@@ -36494,7 +36810,7 @@
             "de",
             "it"
         ],
-        "size": 4803526656
+        "size": 5218762752
     },
     "70010000033572": {
         "id": "01005F3012748000",
@@ -36897,6 +37213,49 @@
             "zh"
         ],
         "size": 118489088
+    },
+    "70010000033726": {
+        "id": "0100335012D08000",
+        "rightsId": null,
+        "name": "Family Mysteries 2: Echoes of Tomorrow",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201030,
+        "nsuId": 70010000033726,
+        "category": [
+            "Aventura",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Moderada"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Artifex Mundi",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6e4c015b8b83638785ec10de6bf104d8ab3ccaa582c729e75c147c6724fd7ee3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4039c90f0bdc536140ed9f13963dda32e24b590ba6a044b417426e838912457a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f56b2f649139eab9eba00929c7913e264a79a338ea7b37e929e3c88bc010ff4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7ab682cfe89c21cb0a33d08babbd9c50de776d61cf6641c88a8bd3104a36231.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/066b15228a617879517f0fdf0ddbbc19473c0d5936918eed83563c38e08bada9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f1ee9c35ae4726a2c06f1412d23a716b492c172bf1e1c716778eac66bfa14b60.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab6f51b905673093aa1ed489f446f19f857fb9314896089574ffecf35903c75f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ab5cc3cc88fbb2a68bc4ca5479096f0427a2fefda39d1fc598448d36be70de65.jpg",
+        "intro": "O verdadeiro amor \u00e9 eterno?",
+        "description": "Um cientista incriminado viaja no tempo para salvar a mulher que ama e revelar a identidade do sequestrador. Encontra objetos escondidos no mundo p\u00f3s-apocal\u00edptico, resolve quebra-cabe\u00e7as cyberpunk e abra\u00e7a o futuro cheio de aventuras!\n\nPrepara-te para uma emocionante aventura de fic\u00e7\u00e3o cient\u00edfica na metr\u00f3pole, que oferece uma abordagem fascinante e renovadora ao estilo das aventuras de objetos escondidos. \"Family Mysteries 2: Echoes of Tomorrow\" \u00e9 um percurso emocional cyberpunkish com um toque de romance que te conduz a um futuro n\u00e3o muito distante.\n\nQuando um viajante do tempo, ciberneticamente melhorado, sequestra a tua mulher e algu\u00e9m tenta incriminar-te de um crime que n\u00e3o cometeste, de repente o mundo fica \u00e0s avessas. Chegou a hora de agarrares o destino com as tuas pr\u00f3prias m\u00e3os e provares que tens coragem. Enquanto cientista engenhoso, ainda tens alguns trunfos na manga!\n\nA segunda parte da s\u00e9rie Family Mysteries apresenta uma vis\u00e3o p\u00f3s-apocal\u00edptica do futuro dist\u00f3pico, onde a ra\u00e7a humana est\u00e1 \u00e0 beira da extin\u00e7\u00e3o. Vais lidar com software amotinado de alta tecnologia, al\u00e9m de v\u00e1rios enigmas desafiadores e - como sempre - exigentes cen\u00e1rios de objetos ocultos.\n\nResgata a tua inoc\u00eancia, descobre o segredo do misterioso fugitivo do futuro e salve o teu casamento.\n\nO futuro e o passado est\u00e3o nas tuas m\u00e3os!",
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 1054867456
     },
     "70010000033728": {
         "id": "01008EE012CD4000",
@@ -37622,6 +37981,55 @@
         ],
         "size": 1143996416
     },
+    "70010000033982": {
+        "id": "010015B012E0C000",
+        "rightsId": null,
+        "name": "Disc Room",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70010000033982,
+        "category": [
+            "A\u00e7\u00e3o",
+            "Aventura",
+            "Arcada"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia pesada"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Devolver Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7a128b31bf04e1f21c52887375fddb92d5d582397599c9d49eb854dbbc3b72d5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e7c2899f3a0812b03c9f9be0a483f9bd93f6bf6a419e0607e7ba286e69af16f8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5fea900f1f96030405bb30bc75425fa6058eb11124847442d1f78e84562e051f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae455ed1166132b32213230439eb3576d9f4e3458b3a9821b1c93e5fdea2aa85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a847b9f084debc5e520a7b5345cb27e71e8df378ab286898ba5b469fe64ec0ab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5fe8ab264c6fcac8d521f6c2acfd5e2259b98cffac4b36836a795d55650e966a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8605a782c62b8035f694889d0a82ec6b07417e0763ac8543d619458bbaa0722b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/afc8611627561ac58016d9faa3b00c78955e48ebdec962d51d54ef85ea5cb332.jpg",
+        "intro": "Est\u00e1 pronto para ser partido ao meio? ",
+        "description": "O ano \u00e9 2089, e um disco gigante surgiu na \u00f3rbita de J\u00fapiter. Entre na pele de uma valente cientista, vista seu vultoso traje espacial e explore a vastid\u00e3o deste abatedouro intergal\u00e1ctico.\n\nE lembre-se: aqui, morrer te deixa mais forte.\n\nDisc Room \u00e9 um fruto da colabora\u00e7\u00e3o de Kitty Calis, Jan Willem Nijman, Terri Vellmann e Doseone.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 252706816
+    },
     "70010000034070": {
         "id": "0100F15012D36000",
         "rightsId": null,
@@ -37644,7 +38052,7 @@
         "developer": null,
         "publisher": "VivaGames",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d412c23725cad5831441a04fde0d4aea18f3fb3f03e5e5d2614e9bbf3d50df74.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e53670cea756001d93a9260fc68a630f9eee3dd31620e828caa7e6ecbec18e82.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/a61e9b1e3ba270e724301a1392db89cfd936f20ad3b6a3ebe3c9575926717ea6.jpg",
             "https://img-eshop.cdn.nintendo.net/i/07981532cf68829e23c935d7a08eb51ffd2f32525ddbf5721fcfb6c5efc5fa02.jpg",
@@ -37822,6 +38230,47 @@
         ],
         "size": 1179648000
     },
+    "70010000034235": {
+        "id": "01000E2012F6E000",
+        "rightsId": null,
+        "name": "Fantasy Tavern Sextet -Vol.1 New World Days-",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000034235,
+        "category": [
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Insinua\u00e7\u00f5es Sexuais"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "qureate",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/060a6e2e9599d6c5095186643928b8cd277f151ad9c8daf00ee42d4d87aba971.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c348097e9130fa1b1699b036aa4cf5608d17bcc000624ab72e81e5464cf9db75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/880e9bcbbec9301c6bef88def24bd8606ed531b92251750eba9ba1a530f936f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8ff77404ac6587a90c8952ab071f86fa47a7b59208e5e4e1220ba39ff3217aa6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a81e234ca833218c5243a2c265736457773e3f4e8d46b9fade4ef2c686d498b8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f5515fcade723c18b404617da680af3e6e7960c10c76522f0bea906d7127a0ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/abd2bae8c26b89dcb6e6dfcd7b6818280ad9e76a5e969b6028934108036b23de.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b280ff0f6741d5630d859010461663695358887c1ff5b21263757068b664582d.jpg",
+        "intro": "A young cook working behind the scenes at an Akihabara maid cafe is reincarnated in another world?!",
+        "description": "You'll laugh! You'll cry! Set against the backdrop of a fantasy world's tavern, this slightly naughty, slapstick love-harem drama is about to begin!\n\n<STORY>\nOne day without warning, a young cook working behind the scenes at an Akihabara maid cafe suddenly gets spirited away to another world!\nThe new world he finds himself in is one of fantasy, where magic exists and monsters run wild.\n\nWithout a way to return to his own world and at a total loss, a monster appears out of nowhere and is about to attack him when, at the last moment, Lupine, the owner of the tavern \"Stray Sheep\" appears and saves his life.\n\nBrought to \"The Stray Sheep\" by his lifesaver Lupine, he finds nothing but a sad empty tavern with not even a single customer.\n\nWith nowhere to go, the main character decides to aid Lupine in reviving The Stray Sheep, knowing that if enough adventurers come by, one of them may know a way for him to return home.\n\nUtilizing the cooking skills he cultivated during his time in the maid cafe, can he be the one to save the tavern from its precarious management situation?!\nYou'll laugh! You'll cry! Set against the backdrop of a fantasy world's tavern, this slightly naughty, slapstick love-harem drama is about to begin!\n\n<STAFF>\nIllustration:WaonInui\nScenario:Linkedbrain Inc.\nProducer/Planner :Yujiro Usuda",
+        "languages": [
+            "ja",
+            "en",
+            "zh",
+            "zh"
+        ],
+        "size": 673185792
+    },
     "70010000034252": {
         "id": "01003E6012F54000",
         "rightsId": null,
@@ -37973,9 +38422,11 @@
             "Aventura",
             "A\u00e7\u00e3o"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Viol\u00eancia Ligeira"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Vikalb",
         "frontBoxArt": null,
@@ -37995,7 +38446,7 @@
             "en",
             "es"
         ],
-        "size": 134217728
+        "size": 162529280
     },
     "70010000034293": {
         "id": "0100B05012FB2000",
@@ -38372,6 +38823,49 @@
         ],
         "size": 522190848
     },
+    "70010000034429": {
+        "id": "01004B201308A000",
+        "rightsId": null,
+        "name": "Memoranda",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201106,
+        "nsuId": 70010000034429,
+        "category": [
+            "Aventura",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Terror"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "CarbonFire Studio",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2e4b19c35b27191db83150ad19ae0439f92a0155f7b0bb20af206fe4e0d59e5c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f663f581e541ef8f4e19f6a396ec5544180d482d03548203f8171d83078601a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/efa38b0488bec2d24f84865c46ee8c2b5b2be3be08f7ffbc12c22650dad2309d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fe075d00de8f812fa93628568a895d4764077ec3cce2d97fda84163fae279c8c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d53c4bf3b3c15c38db40e4ef8685d6cf6a91ae577d4e7e883520c71913fe8b93.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14cbc00b1a1aad7fd62011627def6a67945fb91b86c567c8f7bbeba3ebd1f23f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e57748c2c1503e1eaccc1f08a374e1351b754b3c3b56f6a000f845b9b3faf8d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/875779a8a6b804e144ac726bd3dec336ef4504f5b96086153a5b0dfe2af23e8d.jpg",
+        "intro": "A point and click adventure game with magic realism elements!",
+        "description": "Memoranda is a game about forgetting and being forgotten!\n\nA point and click adventure game with magic realism elements that tells the story of a young woman who gradually realizes that she is forgetting her own name. But is she really losing her memory, or is there something else that could explain the strange situation?\n\nThe beautiful hand-drawn adventure takes place in a quiet little town where a few ordinary people live together with some more unusual characters. From a World War II veteran to an elephant taking shelter in a man\u2019s cottage hoping to become a human, everyone in Memoranda has one thing in common: they are all on the verge of losing something. It could be a name, a loved one or even their own sanity!\n\nFeatures:\n\n- A classic 2D point-and-click adventure game set in a magical realism setting\n- Unique and beautiful hand-drawn full-HD 2D graphics\n- Original soundtrack with more than 15 tracks\n- Thousands of dialogue lines with English voice over\n- Meet more than 35 characters in 40 different locations\n- Play with buttons or touch screen",
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "zh",
+            "zh"
+        ],
+        "size": 973078528
+    },
     "70010000034440": {
         "id": null,
         "rightsId": null,
@@ -38634,6 +39128,48 @@
             "ru"
         ],
         "size": 267386880
+    },
+    "70010000034560": {
+        "id": "0100EFB01316C000",
+        "rightsId": null,
+        "name": "Arcade Archives SOCCER",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201023,
+        "nsuId": 70010000034560,
+        "category": [
+            "Desporto",
+            "Arcada"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5dabc2a6952604db303e87c3c67e1489b5657dc6b0bee3fc66e5c0b2f4afa9bb.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4ad9817f5a8c50e75100d69e8a1094e27ddec4de9be969bf2960c35b1efe3886.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/73bd70e0cfc1041f1471c026464023816cfebc4b10e02a469b49c9eb0c2e4644.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/89c7aea83343851d0d72cc236cf06a65e47336d620d46aeffa3524b4826afcdf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0c27b77d3c50b4ef59b9e7652ce7b7613de0b43341bbc45b03657f445cee1aa0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/997c316ba3393656a93fcbd0a06ceccef3dbb1edaea013888302dd1d05264231.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fef66d2c40c5e9790a0c4a1412d56c329b00bd1dcab7ab039b059ac08af6924c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c74c730654b806c88d2178cc504bd89e69ff48eeb2259499d8813a1bf17618a.jpg",
+        "intro": "Push up the offence line by dribbling or give passes and go for the goal!",
+        "description": "\"SOCCER\" is a sports game released by Nintendo in 1985. Play matches against the CPU in single player mode or another player in 2-player mode. Try polishing your skills in single player, then take on friends and family! Enjoy simple, but exciting gameplay in the father of all soccer games!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 38797312
     },
     "70010000034569": {
         "id": "0100929013172000",
@@ -39315,6 +39851,46 @@
         ],
         "size": 267386880
     },
+    "70010000034852": {
+        "id": "01006EE013100000",
+        "rightsId": null,
+        "name": "Outbreak The Nightmare Chronicles",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000034852,
+        "category": [
+            "A\u00e7\u00e3o",
+            "Aventura",
+            "RPG",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia pesada"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Dead Drop Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5f73c5829a8470c88b9cffa922bbf20b48605898c4baa82b1ecd70da0c959260.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2e07c95895c86497a63796cbab7d82440fcd1ca7a6fff5a6857ab317143bc6cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e18287a0b1638707dfedac49f229ef7e48ea86200538a930dafd5914283a9840.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d7ff436c3d9c19968f738c31a1ca137fce3b8a8255fe4411c84838904d2b9cc2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ba6c9f7bd655360f52ffb6db9e116e2ac4444d3a2c622105dfe16ff36f1a587.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af9513e2aaa3b9bd4c45f0004d0fd49bd61b6730c2a8a16e98ab2f73a1f711df.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7b1b76eb3d1302502a844b985369e8a4d821660b6a1603cfbde0960671197788.jpg",
+        "intro": "Lydia se encontra sozinha e presa em uma mans\u00e3o deserta durante um apocalipse morto-vivo. Ser\u00e1 que ela vai sobreviver a esse pesadelo retr\u00f4 de terror de sobreviv\u00eancia?",
+        "description": "Enquanto a cidade queima e o campo \u00e9 engolfado pela epidemia, voc\u00ea agora est\u00e1 sozinho e for\u00e7ado a conviver com essa nova realidade. Bestas monstruosas e remanescentes desfigurados vagam livremente e seu n\u00famero aumenta rapidamente. Espalhado e separado de seus companheiros sobreviventes, voc\u00ea fugiu para uma grande propriedade senhorial para escapar da horda implac\u00e1vel. Seu \u00fanico objetivo agora \u00e9 sobreviver. Explore a mans\u00e3o, localize suprimentos e encontre uma maneira de acordar deste pesadelo. Mas de alguma forma ... voc\u00ea sabe que seu destino j\u00e1 est\u00e1 selado.",
+        "languages": [
+            "en"
+        ],
+        "size": 5011144704
+    },
     "70010000034854": {
         "id": "0100C850130FE000",
         "rightsId": null,
@@ -39646,6 +40222,51 @@
             "zh"
         ],
         "size": 191889408
+    },
+    "70010000035085": {
+        "id": "01003F80133CC000",
+        "rightsId": null,
+        "name": "De: Yabatanien",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70010000035085,
+        "category": [
+            "Puzzle",
+            "Aventura",
+            "Outro"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Extrema"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "DICO",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/37dbf64518b167bac6456d3277552d8dc4a3e5fbf40ebc2c2f857c77d70aba3a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bbb22b12fc9c72ae0d5190fef0e2f572803a25cbe29b63d44dc9b601a318f505.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51743e417f161e5a3c25cc59948b68599fee70826a45c6a4d2dde6a2ec236308.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4acd998b9a613c2fc36d1f95cd9daf384786b73341f7168b6440fd06e5fe9e00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b49d1391680727fea004e8db5ff36a7159644ed575c3bdfaec051de95627885.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a88c17c80a016a3a797bb0183944e7f2d8d2b12cec88e5453814f76d0990f661.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aeedb4c27ca83bece44edbb100f52b09f7aef256f139b97f598aa94623bb6226.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a31a9f4d1f29d15b21c2afc4f4b2f515a12f48b01903601f7d2cf00e58339d6e.jpg",
+        "intro": "Mind your step and make it count. You will be surprised as your one wrong step will likely to cost someone's life.\nDe: Yabatanien a puzzle game with heavy consequences",
+        "description": "Try to rescue the girls trapped inside the mansion by solving puzzles and uncovering secrets. But remember, one wrong step, and it might cost their lives. It won't be easy to rescue them all.\n\nDe: Yabatanien contains two chapters, with over 100 rooms to explore, and multiple endings waiting for you to discover the truth behind all these horrifying traps.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 72351744
     },
     "70010000035087": {
         "id": "01009070133D0000",
@@ -39994,6 +40615,46 @@
         ],
         "size": 260046848
     },
+    "70010000035986": {
+        "id": null,
+        "rightsId": null,
+        "name": "Fire Emblem: Shadow Dragon & the Blade of Light",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201204,
+        "nsuId": 70010000035986,
+        "category": [
+            "RPG",
+            "Estrat\u00e9gia"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Ligeira"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8c6ceba7a9758a0aa52d90e7c6b0413fc5884c51a40fd3c3eeb1bd72ad03d623.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d5f20b4e59d0d22758f95b0569911210a383fc63c87bdef90ba751192733008.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/02ef51f0596bddb05b3f40afcde03e463ce0f13ef078a1334a03f9db463c9fab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f882f87e6456e39159b137ac3f3a635b8052479514b974a1a99248b3382280e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dcbf8f9815652142340ea69f3a45003d6b5f8278e18da1bc521fd76461d22ceb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca5d713c4a982bb3c45e4773f1d4ac1221f71e9875a258bca82ce601bc91e01d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0d5feb2fb0bf37222583603af470d8ed06b81e1b44ce06ce736e052b81f72e2f.jpg",
+        "intro": "A s\u00e9rie Fire Emblem assinala o seu 30.\u00ba anivers\u00e1rio!",
+        "description": "DISPON\u00cdVEL AT\u00c9 31/03/2021\n\nConhece o Marth e recruta algumas das personagens mais populares de Fire Emblem em 8-bits em Fire Emblem: Shadow Dragon & the Blade of Light para a Nintendo Switch! Percorre os 25 cap\u00edtulos deste RPG cl\u00e1ssico para a Famicom que deu in\u00edcio ao legado de Fire Emblem, localizado e dispon\u00edvel pela primeira vez na Europa.\n\nCometeste um erro ou perdeste uma unidade? N\u00e3o te preocupes, pois as novas op\u00e7\u00f5es Quick Save, Quick Load e Rewind permitem-te adaptar o desafio ao teu estilo de jogo!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 0
+    },
     "70030000010396": {
         "id": null,
         "rightsId": null,
@@ -40156,7 +40817,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 447741952,
+        "size": 815792128,
         "parentId": "01005F7011950000"
     },
     "70030000010862": {
@@ -42234,7 +42895,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 202011,
+        "releaseDate": 20201023,
         "nsuId": 70050000018765,
         "category": null,
         "ratingContent": [
@@ -42290,7 +42951,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 202011,
+        "releaseDate": 20201023,
         "nsuId": 70050000018767,
         "category": null,
         "ratingContent": [
@@ -46506,7 +47167,7 @@
         "intro": null,
         "description": "O Pacote Biz\u00e2ncio e G\u00e1lia apresenta Bas\u00edlio II como l\u00edder de Biz\u00e2ncio e Ambiorix como l\u00edder da G\u00e1lia. O Imp\u00e9rio Bizantino pode subjugar os inimigos com a sua for\u00e7a religiosa e militar, apoiada pelas suas duas \u00fanicas unidades, o Navio Dr\u00f3mon e a Tagma. A horda gaulesa concentra-se na flexibilidade militar impulsionada por uma estrutura de cultura e produ\u00e7\u00e3o com o seu exclusivo distrito de Oppidum. Tamb\u00e9m est\u00e1 inclu\u00eddo o novo modo de jogo Idade Dram\u00e1tica, um novo tipo de mapa (as Highlands) e duas novas maravilhas do mundo (Biosfera e Est\u00e1tua de Zeus).\n",
         "languages": null,
-        "size": 555745280
+        "size": 559939584
     },
     "70050000020797": {
         "id": null,
@@ -58299,6 +58960,93 @@
         "languages": null,
         "size": 51380224
     },
+    "70050000023316": {
+        "id": null,
+        "rightsId": null,
+        "name": "Mileena",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201124,
+        "nsuId": 70050000023316,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/33f34df877faf96bd25b1e45e76bfa10692729b9bb1f8d83a3f2735b0824b206.jpg",
+        "intro": null,
+        "description": "Mileena \u00e9 o produto das diab\u00f3licas experi\u00eancias de clonagem de Shang Tsung: a mistura perfeita entre a ferocidade dos Tarkatan e a graciosidade atl\u00e9tica de Kitana. Trazida para o futuro por Kronika, Mileena descobriu o seu tr\u00e1gico futuro: o seu breve reino como Imperatriz do Outworld e a sua morte \u00e0s m\u00e3os de D'Vorah e Kotal Kahn. Determinada a retomar o seu trono, Mileena fez renascer a guerra civil no Outworld. Os seus inimigos devem render-se ou morrer.\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023317": {
+        "id": null,
+        "rightsId": null,
+        "name": "Rain",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201124,
+        "nsuId": 70050000023317,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/316d307e6ffb75439824e76d876e0073205ff89aec1068696c78c66e5f22d963.jpg",
+        "intro": null,
+        "description": "Ao crescer como \u00f3rf\u00e3o, os prospetos de Rain eram limitados. Para os ultrapassar, juntou-se ao ex\u00e9rcito de Edenia. O seu g\u00e9nio de estratega depressa lhe trouxe fama e uma r\u00e1pida promo\u00e7\u00e3o. Rain usou a sua nova posi\u00e7\u00e3o para procurar as verdadeiras identidades dos seus pais biol\u00f3gicos. Foi um choque para ele quando descobriu que era o filho bastardo do deus Argus, o Protetor de Edenia. Argus tinha entregue Rain para ado\u00e7\u00e3o e escondido a sua parentalidade, para evitar a vergonha e o esc\u00e2ndalo. Agora, armado com o conhecimento de que \u00e9 um semideus, Rain combate pelo seu lugar no pante\u00e3o de Edenia. Se tal n\u00e3o lhe for concedido, ele ir\u00e1 tom\u00e1-lo pela for\u00e7a.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023318": {
+        "id": null,
+        "rightsId": null,
+        "name": "Rambo",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201124,
+        "nsuId": 70050000023318,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9bae5d089be24441e6a800cac6ead6f0a8dd14882cbed52b6163f1b0094bb1c1.jpg",
+        "intro": null,
+        "description": "John J. Rambo \u00e9 um ex-soldado das for\u00e7as especiais dos Estados Unidos, profundamente assombrado pela sua miss\u00e3o no Vietname. \u00c9 duro, agressivo e conhecido por empreender miss\u00f5es excecionalmente perigosas sozinho. Agora, como ex\u00e9rcito de um homem s\u00f3, Rambo reativou as suas t\u00e9cnicas de luta implac\u00e1veis para infiltrar-se no universo do Mortal Kombat, utilizando viol\u00eancia bruta contra qualquer kombatente que se atreva a atravessar no seu caminho.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000023331": {
         "id": null,
         "rightsId": null,
@@ -58331,6 +59079,37 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3ea88dfde23fbb9028db004b122884e2b188cead7bfd1bb5d3c375acc93e7a68.jpg",
         "intro": null,
         "description": "Quando Dice foi apanhado nos esgotos pela pol\u00edcia da Shine City, viu-se for\u00e7ado a fugir descendo diretamente pelos canos. O problema \u00e9 que os esgotos n\u00e3o cont\u00eam apenas dejetos: est\u00e3o cheios de toxinas inqualific\u00e1veis e bact\u00e9rias experimentais, e Dice logo perdeu a consci\u00eancia. Passado algum tempo, e gra\u00e7as a um golpe de sorte, Latch detectou o corpo dele, quase sem vida, pelo sonar do seu rob\u00f4-submarino. Ainda sob os cuidados e Latch, Dice enfaixou sua pr\u00f3pria pele doentia e fugiu ligeiro pela escurid\u00e3o, como que possu\u00eddo por um instinto primitivo. N\u00e3o muito tempo depois, ele foi visto destruindo seu antigo rival, Doombox, em um combate.\n\n- O esquema de cores Late Stage Illmatic. Um design inspirado no Egito Antigo com um toque da moda de rua atual, pele azul com toques dourados.\n- O esquema de cores Lethal Infection. A vers\u00e3o \"maldita\" alternativa com bandagens acastanhadas e ainda mais dourado.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023338": {
+        "id": null,
+        "rightsId": null,
+        "name": "Lonely Mountains: Downhill - Eldfjall Island",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201022,
+        "nsuId": 70050000023338,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Thunderful",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1d3a2e51852ba9dcf8cb3e2849b5b2f1938dc623c25f75d43f78c9ffea9265bf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9bbfaca1ead64a6126a2d7b3ecaad522aea7e9a4b602d98f121702870c5c7b96.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f151a7b84b99118a1d5565113f36c1e9f80e45c3b5f7ede71847c58ffeb1203.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da730fb4e3d4f0f8f36e7d0809708599c57e990a277d0dbc58380a89db5a25bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c997f7bf6e97bff1c34a2edd009003ad2b6a3be063f48b181c7364c27f9aee0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e73dbfac725e9e14395be242ddd8871dd187928de11d0e65ef217ef521891a09.jpg",
+        "intro": "Eldfjall - uma Montanha Solit\u00e1ria completamente nova para voc\u00ea explorar!",
+        "description": "Prepare a sua capa de chuva e traga a sua amada bicicleta para a ilha vulc\u00e2nica de Eldfjall - a maior Montanha Solit\u00e1ria at\u00e9 o momento.\n\nApresentando:\n \n4 novas trilhas com novos desafios e locais de descanso esperam por voc\u00ea\nNovos efeitos especiais: pedale atrav\u00e9s da tempestade ou abra caminho descendo um vulc\u00e3o em erup\u00e7\u00e3o. \nSa\u00fade o seu viking interior e desbloqueie roupas, capacetes e pinturas \u00fanicas\nMelhore as suas roupas j\u00e1 existentes com o novo capacete profissional\nComplete o seu visual com novas mochilas desbloque\u00e1veis\nFa\u00e7a o seu nome nas tabelas de classifica\u00e7\u00e3o\n \nEldfjall - uma nova Montanha Solit\u00e1ria para voc\u00ea explorar!",
         "languages": null,
         "size": 4194304
     },
@@ -58575,7 +59354,14 @@
         "publisher": "Versus Evil",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f7af93274558a0442136644232a31fe57b1a7fcc7c00349ae02983d20a316cf1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78814f9c6ad3d57df0331b6d49c2bbb257cea9b7715227ce969a50dd5cf220f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ab74e16a47ba6a0535d280ddf249423f1d99de5f3d534f15d542820c5ac4b21.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa55f428aed6f9cd2be9b7756fbd3e686917f144342fe7111e85b2de3beb6e88.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d5d54ec36d6a0fbb55b169a635cedf84f4e1465418df9d6d7d37dac3175719a8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/81a60fcb09b09456e0cfa022380da58c13af5f0cc24572b4df7b25a8c3296591.jpg"
+        ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/77d069d08499a1dbbcbd941796f93fd848791af7de9f7cc1c7ef077d7b29449e.jpg",
         "intro": null,
         "description": "Out of Time \u00e9 uma aventura independente que tem lugar durante o \u00faltimo dia da primeira semana da Jess na sua nova escola. Prestes a salvar o mundo, Jess encontra Tock, o campe\u00e3o de Pipsqueak que viaja no tempo. Tock envia Jess atr\u00e1s no tempo, prendendo-a num ciclo temporal em que \u00e9 for\u00e7ada a reviver o mesmo dia de escola vezes sem conta, como uma marmota gigante. Ainda pior, Jess perde o seu baralho enquanto viaja no tempo. Como que por magia, Jess encontra uma nova carta de campe\u00e3o no bolso. \u00c9 o Bloop! Bloop \u00e9 o \u00fanico campe\u00e3o neutro do jogo, conhecido por ser um fracote no reino dos Mega Mutant Power Pets, mas talvez a Jess possa fazer algo em rela\u00e7\u00e3o a isso? Agora, Jess e Bloop t\u00eam de se unir para derrotar Tock, sair do ciclo temporal e salvar o mundo!\n\n\u2022 Uma nova campanha independente! Constr\u00f3i a tua cole\u00e7\u00e3o e volta a mudar as regras.\n\u2022 Testa as tuas capacidades em jogos de cartas contra uma s\u00e9rie de novos campe\u00f5es inimigos.\n\u2022 Preso num ciclo temporal? Diverte-te um bocado!\n\u2022 Encontra novas combina\u00e7\u00f5es! Bloop, um campe\u00e3o neutro especial, consegue usar cartas de todas as fa\u00e7\u00f5es. \n\u2022 Constr\u00f3i o campe\u00e3o que quiseres. Bloop tem uma \u00e1rvore de atualiza\u00e7\u00f5es \u00fanica para explorar.\n\u2022 Encontra novas cartas de Power Pet!\n\u2022 Bloop e todas as novas cartas tamb\u00e9m est\u00e3o no modo Gauntlet, dando-te possibilidades infinitas!",
@@ -58785,6 +59571,192 @@
         "description": "This DLC includes a multiplayer mecha \"Thunderbolt Otome\".\nThunderbolt Otome can only be used in Local Multiplayer, Online Multiplayer and Training.\n\nCreated by simulation battle developers in private, according to their preferences. Although it has exactly the same performance as the original Thunderbolt, it unexpectedly increased the pilot\u2019s moral.\n\nPrimary Weapon - Beam Rifle\nFires a semi-automatic beam rifle.\n\nSecondary Weapon - Chest Vulcan\nSmall caliber vulcan gun.\n\nLight Melee - Energy Blade\nSlashes with the arm-mounted Energy Blades. Can perform a three-hit combo.\n\nHeavy Melee - Shield Shock\nBlasts the enemy with an electric shock. Press again to release another pulse.\n\nDefend/Transform\nUses a shield to block attacks from the front.",
         "languages": null,
         "size": 0
+    },
+    "70050000023500": {
+        "id": null,
+        "rightsId": null,
+        "name": "Jumping Cats / Kenta Igarashi",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201022,
+        "nsuId": 70050000023500,
+        "category": null,
+        "ratingContent": [
+            "Compras no jogo"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "BottleCube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c97e39724f63ff0a47692e5e8db46fce5941417637eceaee27b9df56adc3c97b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1d73b06d95c3ba0807cf2b173b76822265c16025cc22663ad9e8ffd763ff634d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f56e2efa8a7d32d801eda4e90dbb9fb8257c92e45b987385adc8435595050ae6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1d1b9c6343d407c6650d6daff9edf036ccc3c08097315b981f5603011938d54b.jpg",
+        "intro": null,
+        "description": "This is the additional puzzle pack for \"Jigsaw Masterpieces\". The following 10 puzzle images are included.\n-Jumping Cat 1\n-Cats Taking Selfies\n-Jumping Cat 2\n-Jumping Cat 3\n-Jumping Cat 4\n-Struggle over a Feast\n-Jumping Cat 5\n-Herd of Cats\n-Jumping Cats 6\n-Play Fighting",
+        "languages": null,
+        "size": 7340032
+    },
+    "70050000023501": {
+        "id": null,
+        "rightsId": null,
+        "name": "Station Master Cat in Japan / Kenta Igarashi",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201022,
+        "nsuId": 70050000023501,
+        "category": null,
+        "ratingContent": [
+            "Compras no jogo"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "BottleCube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2d43cc75e5039d333b89c88f68f957ae6245ca8f6bf381f392d9be7ed23fe9b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/012889fab56a7ef09498409ca0e098beacdb6a80bbae5b9a32eafd910322da13.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec33fbd7561d5247bd18242d60ddfc351669cf48a9e9090342d029aa0cdfc124.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7655c9c720fe1bdc43e0c44092429ac3a4c542fb96bd88b280dc41fc04f8d5c0.jpg",
+        "intro": null,
+        "description": "This is the additional puzzle pack for \"Jigsaw Masterpieces\". The following 10 puzzle images are included.\n-Love, the Station Master Cat 1\n-Love, the Station Master Cat 2\n-Love, the Station Master Cat 3\n-Love, the Station Master Cat 4\n-Love and Peach\n-Peach, the Facility Master Cat 1\n-Peach, the Facility Master Cat 2\n-Peach, the Facility Master Cat 3\n-Sakura 1\n-Sakura 2",
+        "languages": null,
+        "size": 8388608
+    },
+    "70050000023502": {
+        "id": null,
+        "rightsId": null,
+        "name": "Fluffy Animals in Hokkaido / Kenta Igarashi",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201022,
+        "nsuId": 70050000023502,
+        "category": null,
+        "ratingContent": [
+            "Compras no jogo"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "BottleCube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/beaeb0aa5c47109385e0dce8471b0c062d4568c2296c5e85b7e56a722c180ae3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78885f7013409ad15b2d23ebdfe1f80dfa4eee9c7baf6fa15f58d7b602459691.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31c2fcc72e127a3c5cb26a8423f2d09d670688264bb49a2b00954cf40db959b2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3dabf09fa8d1cdfc151a2e24eb8639dc6541dfb54bd4b69cf0999443efa6ede6.jpg",
+        "intro": null,
+        "description": "This is the additional puzzle pack for \"Jigsaw Masterpieces\". The following 10 puzzle images are included.\n-Ezo Red Foxes that Get Along Well\n-Ezo Squirrel\n-Pika Rabbit\n-A Mother and her Duckling\n-Ezo Chipmunk\n-Ezo Red Fox \u201cYawn\u201d\n-Ezo Squirrel \u201cCrunchy!\u201d\n-Pika Rabbit 2\n-Baby Ducklings\n-Ezo Chipmunk 2",
+        "languages": null,
+        "size": 8388608
+    },
+    "70050000023503": {
+        "id": null,
+        "rightsId": null,
+        "name": "Beautiful Castles in the World",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201022,
+        "nsuId": 70050000023503,
+        "category": null,
+        "ratingContent": [
+            "Compras no jogo"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "BottleCube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fef12c7a90e006739cceedf8e0ecef5f6a2d846ebe5dba92e971f3f1082b098e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/317cc227fc93aab19b2e6fc04e5120d570d5da4a20b437912f064c9898be691a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6679c09311aed3c7a966335c1aab138b8e7960ca714af2b47b28adb053959dd0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/803fb94088d4d0d8f71d940a5ccd65443b893928a1a35aa1ade1f28a029d13c9.jpg",
+        "intro": null,
+        "description": "This is the additional puzzle pack for \"Jigsaw Masterpieces\". The following 10 puzzle images are included.\n-Neuschwanstein Castle / Germany\n-Lindos Acropolis / Greece\n-Ch\u00e2teau de Chambord / France\n-Bran Castle / Romania\n-Prague Castle / Czech\n-Kronborg Castle / Demark\n-Malbork Castle / Poland\n-Potala Palace / Tibet\n-Uchisar Castle / Turkey\n-Edinburgh Castle / Scotland",
+        "languages": null,
+        "size": 8388608
+    },
+    "70050000023504": {
+        "id": null,
+        "rightsId": null,
+        "name": "Fireworks and Nightscape",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201022,
+        "nsuId": 70050000023504,
+        "category": null,
+        "ratingContent": [
+            "Compras no jogo"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "BottleCube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d329461f08c065cc7452d586af98ac35f21e4011a2ec319d1a6a17477847928a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e36199cb8aa5b740aed56ab2f3fa334dfeb1f77bb59c7470dbcea580dc8eaf9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8284eac06226fddf15d9056949d9b9e251f8721832040acd02c93d07b06fbbdd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8495d0c10513bb8c1d43ce62f03f41b8926dce14214348f622438ef0ad3261a5.jpg",
+        "intro": null,
+        "description": "This is the additional puzzle pack for \"Jigsaw Masterpieces\". The following 10 puzzle images are included.\n-Fireworks filling the Tokyo Night Sky\n-Shirakawa-go, the World Heritage Site in Japan\n-Grand-Place, Belgium in Winter\n-Fireworks in the Sky\n-Starry Sky and Colosseum\n-Fireworks Display\n-Night View of Hong Kong\n-Night View of Jiufen, Taiwan\n-Lantern Festival in Vietnam\n-Sunset at the Tokyo Waterfront",
+        "languages": null,
+        "size": 8388608
+    },
+    "70050000023505": {
+        "id": null,
+        "rightsId": null,
+        "name": "Magical Days  - The Brats' Parade -",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201022,
+        "nsuId": 70050000023505,
+        "category": null,
+        "ratingContent": [
+            "Compras no jogo"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "BottleCube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/31e53e95bd30e43dfa943fa1ecdcf7337abeab9440530497f9b68f07d65c3262.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cec6f0baafe3bc69d4d35b8c2f38894d85154a1094fa1a0a1e8cada8afa1e42c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63f2a4342d4126aa410ea4d58323e83661c6546704242708a43486e466c4568b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b98020fab9291d225f896ae750e8e269895169e3a83fa83355c37606406a5104.jpg",
+        "intro": null,
+        "description": "This is the additional puzzle pack for \"Jigsaw Masterpieces\". The following 10 puzzle images are included.\n-Magical Days  - The Brats' Parade -\n-Leon, Nora and Kaworu\n-Mikage, Masachika and Ciel\n-Touma, Rinat and Iori\n-Aki, Tsubaki and Suou\n-Leon\n-Nora\n-Kaworu\n-Rio\n-Gin",
+        "languages": null,
+        "size": 7340032
     },
     "70050000023522": {
         "id": null,
@@ -60697,7 +61669,7 @@
         "intro": "Golf Got Game!",
         "description": "A Edi\u00e7\u00e3o Digital Deluxe inclui o Golden Touch Pack com um driver e um putter revestidos a ouro e tamb\u00e9m o 2K/adidas CodeChaos MyPLAYER Pack com sapatos de golfe adidas CodeChaos BOA e um polo, cal\u00e7as e chap\u00e9u personalizados adidas / 2K CodeChaos criados pela adidas em exclusivo para o PGA TOUR 2K21. Os jogadores receber\u00e3o tamb\u00e9m 2300 unidades adicionais de dinheiro do jogo para desbloquearem equipamentos adicionais e personalizarem ainda mais a fundo o estilo do seu MyPLAYER!",
         "languages": null,
-        "size": 8846835712
+        "size": 8884584448
     },
     "70070000011006": {
         "id": null,
@@ -61115,7 +62087,7 @@
         "intro": "Lidera o BUMBLEBEE e os Autobots na derradeira batalha pela Terra!",
         "description": "Com a Terra sob invas\u00e3o e o MEGATRON, l\u00edder dos Decepticons, perto de capturar a Allspark, o BUMBLEBEE e os Autobots precisam de um novo comandante para os ajudar a restaurar a paz no universo - precisam de TI!\n\nRe\u00fane o teu esquadr\u00e3o e dirige-te a uma batalha de estrat\u00e9gia por turnos que se ir\u00e1 desenrolar da Central City at\u00e9 Cybertron em si. Precisar\u00e1s de for\u00e7a e estrat\u00e9gia para iludir os diab\u00f3licos Decepticons. Escolhe as personagens dos TRANSFORMERS e as suas habilidades para dominar a batalha que se aproxima, com o OPTIMUS PRIME, o GRIMLOCK e muitos mais, prontos para se juntarem \u00e0 luta. Utiliza as vantagens de cada ambiente, escondendo-te em tempestades do deserto, evitando as tempestades Energon de Cybertron e combatendo os teus advers\u00e1rios nas ruas de cidades. E enche o teu medidor de Energon para detonar poderosas habilidades especiais que arrasam os inimigos mais ferozes. Com controlos intuitivos e tr\u00eas n\u00edveis de dificuldade, cabe-te a ti escolher a dimens\u00e3o do desafio que se aproxima.\n\nForma uma equipa em modo multijogador local e testa as tuas compet\u00eancias estrat\u00e9gicas em jogos como Capturar a Bandeira, Horda, Confronto Final, entre outros. Este \u00e9 o jogo de estrat\u00e9gia e a\u00e7\u00e3o pelo qual os f\u00e3s de TRANSFORMERS esperaram uma eternidade!\n\n\u2022 LIDERA OS AUTOBOTS \u2013 Comanda o BUMBLEBEE, o WINDBLADE, o OPTIMUS PRIME e outros her\u00f3is em emocionantes batalhas estrat\u00e9gicas\n\n\u2022 DA TERRA AT\u00c9 CYBERTRON \u2013 Deixa um rasto de destrui\u00e7\u00e3o ao longo de cidades, florestas, desertos e muito mais em miss\u00f5es explosivas\n\n\u2022 APURA AS TUAS HABILIDADES \u2013 Controlos acess\u00edveis e 3 modos de dificuldade d\u00e3o as boas-vindas a iniciantes e p\u00f5e os estrategas \u00e0 prova\n\n\u2022 MULTIJOGADOR LOCAL \u2013 Forma uma equipa com um amigo ou enfrenta-o sozinho em jogos ao estilo arcade\n\n\nEdi\u00e7\u00e3o Deluxe Digital - \n\n\u2022 Gold Autobot Skin Pack\n\u2022 Energon Autobot Skin Pack\n\u2022 Battle Autobot Skin Pack\n\u2022 Neon Autobot Skin Pack\n\u2022 CUBE Game - Arcade Add-on\n\nB\u00f3nus de pr\u00e9-encomenda -\n\n\u2022 Nemesis Prime & Goldfire Bumblebee Skin Pack\n\n",
         "languages": null,
-        "size": 3275751424
+        "size": 3705667584
     },
     "70070000011110": {
         "id": null,
@@ -61449,6 +62421,35 @@
         "languages": null,
         "size": 3156213760
     },
+    "70070000011192": {
+        "id": null,
+        "rightsId": null,
+        "name": "Mortal Kombat\u00a011 Ultimate",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201022,
+        "nsuId": 70070000011192,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2f9243b193fc536ced9661af1b920d790903be5698561747b17b5c5d7a0f81e7.jpg",
+        "intro": null,
+        "description": "A melhor experi\u00eancia MK11 de sempre! Assume o controlo dos protetores do Earthrealm em 2 campanhas de hist\u00f3ria aclamadas e que atravessam os tempos, numa tentativa de deter Kronika que pretende fazer recuar o tempo e reiniciar a hist\u00f3ria. Inclui o grupo completo de 37 kombatentes, como Rain, Mileena e Rambo.\n\nInclui MK11, Kombat Pack\u00a01, Aftermath Expansion e Kombat Pack\u00a02.\n\n\u2022 Vive 2 campanhas de hist\u00f3ria aclamadas, origin\u00e1rias do MK11 & MK11: Aftermath\n\u2022 Joga com o grupo completo de 37 kombatentes, incluindo os novos guerreiros Mileena, Rain e Rambo \n\u2022 Milhares de skins, armas e equipamentos para um n\u00edvel de personaliza\u00e7\u00e3o sem precedentes\n\u2022 Inclui todos os convidados anteriores: Terminator, Joker, Spawn e RoboCop\n\u2022 Todos os modos, incluindo Towers of Time, Krypt, Online, Klassic Towers, etc.\n\u2022 Todos os Stages, Stage Fatalities, Brutalities, Iconic Fatalities e Friendships",
+        "languages": null,
+        "size": 33826013184
+    },
     "70070000011202": {
         "id": null,
         "rightsId": null,
@@ -61534,8 +62535,14 @@
         "publisher": "Versus Evil",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6e5fa8ab059946fbb201c7577969af8d4118a7813ce738a1c37056477a9e6fc3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/715db69afe17c8a80b10a64fa8469213a7a6f7c9a0946c2eaaade6f51816ae5c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1725c4e40092d64777dda4f3a4ffa8cbc959a7fb85a54676dff5c11bdf373cca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c78a6a424a6a6d62f5fd3a8305e165a20cce02a3764384c79f09a98ce5e91a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70f16c8310c03691f9652906072d97e10e4bf27c17fffec89d95c88e899f83cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/00acb4aa223858bf4bc5b8474bc28239df2e2f3b706db463a865a635099a8f73.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e3d325e090d33d93c715ccd3476ebdfa9a962613357a78b003b716f722a08e81.jpg",
         "intro": null,
         "description": "Fa\u00e7a amigos, jogue cartas, mude as regras, torne-se uma mestre de Mega Mutant Power Pets, e tente salvar o mundo nesse RPG single-player sobre ser uma crian\u00e7a nos anos 90. Em seu primeiro dia na Escola Prim\u00e1ria de Dudsdale, Jess, de 10 anos, acidentalmente faz o jogo de cartas preferido de todo mundo ser banido, for\u00e7ando as crian\u00e7as a jogar cartas clandestinamente. Problemas surgem quando os mutantes do jogo ganham vida, \u00e9 Jess e seus amigos que devem impedi-los.\n\n\u2022 VIRE MEGA: As cartas de Campe\u00e3o evoluem para suas formas MEGA quando sua vida chega \u00e0 metade, causando assim mais dano e ganhando novos poderes.\n\u2022 MUDE O JOGO: As crian\u00e7as muitas vezes usam regras pr\u00f3prias e ningu\u00e9m sabe o que os Mutantes v\u00e3o mudar. Ao decorrer do jogo voc\u00ea ir\u00e1 escolher novas regras e condi\u00e7\u00f5es, assim como renomear suas cartas preferidas e melhor\u00e1-las usando adesivos. Crie cartas totalmente in\u00e9ditas usando a Revista Mega Mutant Power. Mas cuidado, pois essas decis\u00f5es s\u00e3o permanentes.\n\u2022 SEJA DETERMINADO: Aventure-se para investigar os estranhos acontecimentos na Escola Prim\u00e1ria de Dudsdale. Aceite miss\u00f5es para ganhar cartas, adesivos e doces que pode colecionar e trocar com seus colegas. Mas cuidado, porque n\u00e3o d\u00e1 para desfazer as trocas!\n\u2022 N\u00c3O D\u00c1 PARA PEGAR TUDO: No fim das contas, seus decks e regras ser\u00e3o \u00fanicos e s\u00f3 seus. Os adesivos s\u00e3o raros, as escolhas importam, e \u00e0s vezes ser\u00e1 preciso tomar uma decis\u00e3o dif\u00edcil para ganhar as melhores cartas.\n\u2022 ANOS 90: Com sua narrativa totalmente radical e da pesada, movida por escolhas e interativa, o Cardpocalypse traz a experi\u00eancia de ser uma crian\u00e7a nos anos 90. Pode crer!\n\u2022 Agora com o Gauntlet Mode! Um modo roguelike em que cada jogo \u00e9 \u00fanico. Escolhe o teu campe\u00e3o e participa em batalhas cada vez mais dif\u00edceis. Depois de cada vit\u00f3ria obt\u00e9m novas cartas, regras e recompensas para o teu baralho! Consegues construir a derradeira combina\u00e7\u00e3o e vencer o Gauntlet?\n\u2022 Cardpocalypse Out of Time: Uma nova campanha independente! Constr\u00f3i a tua cole\u00e7\u00e3o e volta a mudar as regras.",
         "languages": null,
@@ -61573,7 +62580,7 @@
         "intro": null,
         "description": "G.I. Joe e Cobra est\u00e3o de volta! G.I. Joe: Operation Blackout \u00e9 um jogo de tiro em terceira pessoa em equipe em que voc\u00ea joga como seus personagens favoritos da Equipe G.I. Joe e da Equipe Cobra. Experimente a a\u00e7\u00e3o dos dois lados, ajudando os G.I. Joe a recuperar a ordem e liderando a Cobra rumo \u00e0 domina\u00e7\u00e3o mundial. Continue a luta com nov\u00edssimos personagens e skins de armas, e consiga acesso exclusivo \u00e0 arte e m\u00fasica do jogo!\n\nG.I. JOE X COBRA - Jogue com 12 dos seus personagens preferidos dos dois lados, inclusive Snake Eyes, Duke, Roadblock, Storm Shadow, Cobra Commander, Destro e mais em um JxJ de 4 jogadores em 17 miss\u00f5es de hist\u00f3ria \u00e9picas.\u00a0Cont\u00e9m dublagens de 20 personagens ic\u00f4nicos do universo G.I. Joe.\n\nFERRAMENTAS DE COMBATE - Lute pelo seu lado com 18 armas incr\u00edveis, 36 apar\u00eancias de arma, 12 apar\u00eancias de personagem alternativas e uma s\u00e9rie de habilidades extremas devastadoras.\n\nFRANQUIA LEND\u00c1RIA - Controle os emblem\u00e1ticos tanques G.I. Joe Persuader e Cobra H.I.S.S. na sua batalha em locais cl\u00e1ssicos como o USS Flagg e o Quartel-general Cobra.\n\nMULTIJOGADOR COOPERATIVO E JXJ - Jogue a campanha com um amigo em coopera\u00e7\u00e3o local ou dispute em partidas locais de JxJ com 4 jogadores em 4 modos multijogador: Capture a Bandeira, Assalto, Rei da Montanha e Arena Mata-mata.\n\nDigital Deluxe Edition Inclui:\n\nVers\u00e3o Cl\u00e1ssica de Duke & do Cobra Commander em Pacote de Personagem \nDuas nivas skins de personagens baseadas no desenho animado ic\u00f4nico dos anos 80!\n\nEquipamento de Batalha: Pacote de Armas G.I. Joe e Cobra - Inclui 12 novas skins de armas, em Cobra Ouro e G.I. Joe Cromado.\n\nArt Book Digital Exclusivo - D\u00ea uma olhadas em artes nunca antes vistas, usadas para criar o jogo.\n\nTrilha Sonora Digital - Faixas de m\u00fasica completas do jogo, al\u00e9m de faixas b\u00f4nus do desenho dos anos 80.",
         "languages": null,
-        "size": 6504316928
+        "size": 6505365504
     },
     "70070000011266": {
         "id": null,
