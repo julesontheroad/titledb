@@ -40053,6 +40053,52 @@
         ],
         "size": 6808403968
     },
+    "70010000034940": {
+        "id": "01003C3013300000",
+        "rightsId": null,
+        "name": "The Long Return",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201031,
+        "nsuId": 70010000034940,
+        "category": [
+            "Aventura",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/02066d99709836208aaf027ddd051b737e989afd44cf84619d2a61e6a14b84ce.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/594637a814002f18b08f9ebbb72bb9d9df391798f19df2c3ebaf205d874721e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/166fdb26d2e7320870d009375d3f33a35d9b50c9d8807aab6e717d5d733190cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12e1cc912d566ef5d7845cb91544a862204af8bfe34822021cd05ae003790961.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a6aeb84d3c838bdc34884dc248b00cb33071b1d68eaa8f382d5fd7fe986b8e3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9470375dd3abd126d73b1d47094869f03ba0b7809433a91ef70f483a593861f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df074f016bae503193dea6f6846af2ffdaf4143de71a15d2b8fd9b2db6daa204.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/763b3bd0c82e5f97a082220083ff811f29eff6a10d0d5246e4ee6dbd0d9692ba.jpg",
+        "intro": "A beautiful third-person puzzle adventure game telling the story of an orphaned cub that retraces his steps from the last journey he took with his mother.",
+        "description": "The Long Return is a casual third-person puzzle adventure game telling the story of an orphaned cub that retraces his steps from the last journey he took with his mother. Along the way you will be challenged by fun and unique puzzles, explore beautiful scenery full of life and relive past memories of your mother.\n\nKey Features\n- For fans of casual puzzle games with relaxing gameplay.\n- Unique puzzles with varying range of difficulty.\n- Grow from a pup into an adult through your journey.\n- An amazing Original soundtrack by Dale North.\n- No stressful elements, focus is on relaxing gameplay in beautiful scenery.\n- A short game with satysfying story (roughly 2-3 hours of gameplay).\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 1485832192
+    },
     "70010000034987": {
         "id": "0100B8B013310000",
         "rightsId": null,
