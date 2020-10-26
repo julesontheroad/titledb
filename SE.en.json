@@ -25543,6 +25543,45 @@
         ],
         "size": 130023424
     },
+    "70010000033075": {
+        "id": "0100BDE012928000",
+        "rightsId": null,
+        "name": "Strife: Veteran Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201025,
+        "nsuId": 70010000033075,
+        "category": [
+            "Shooter",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Nightdive Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eb1fa41bb651e210bedaa7a96dc4320a89cd41ef6660ebe46aa83ab13a5c4d3f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/66a36491647000c7a684686b4bb2629eabaf2bc2e14f7aa3e2b376984830cf95.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/88a0304af90f38ad0526fe1ded201d6e10b934d1cda1efe5d9f5a078919f36b8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b39f764d5a799068f782f0f36d3640106949eb3d44de0ff0bf872f8475bd24df.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e19a42256af6f7d11c33b76fe80e7bb718727c5ecbde14f762b6d64e80638e26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca53852742ca71b5bc77830dea0d38a96d562ffe9faed615a42374ba7d242622.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c2089177377995fb90490a504e06a25f2e01cd12ae6aca39c4dbbe6bf679065.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fe12a287367125612ef7c9b8e634b1f91040bc13cbf00fdc0892b049052cc264.jpg",
+        "intro": null,
+        "description": "The Original Strife is back!\n\nHailed as the original FPS-RPG game that spawned countless imitators, Strife: Veteran Edition is a love letter to the classic from 1996.\n\nImmerse yourself in this all-consuming epic quest - now available for the first time on the Nintendo Switch\u2122! \nAn evil presence has implanted itself in the fabric of our world. Play the role of spy, assassin, warrior and thief as you are lured into the darkest and most perilous adventure of your life. You\u00b4ll have Blackbird on your side - a seductive underground agent that will provide you with clues as you encounter progressively more sinister foes. Be strong, and trust no one. \n\nFULLY INTERACTIVE WORLD\nThe elaborate virtual environment offers 28 interconnected levels covering over 200 square miles. Explore medieval towns and industrial complexes filled with pitfalls and perils, ending in a final confrontation that will reveal the planet's darkest secrets.\n\nAN AWESOME ARSENAL\nFrom the silent but lethal crossbow to the breathtaking flame thrower, you'll toast, mince and vaporize your opponents in your search to control the ultimate weapon of mass destruction- the Sigil.\n\nNAIL-BITING NARRATIVE\nIn your role as resistance fighter, you'll conspire with allies to demolish the fanatical ranks of the order from the inside out. Provides an engaging complex storyline and a multitude of dramatic voice-overs.",
+        "languages": [
+            "en"
+        ],
+        "size": 276824064
+    },
     "70010000033079": {
         "id": "010071B012940000",
         "rightsId": null,
@@ -26936,6 +26975,55 @@
             "it"
         ],
         "size": 490733568
+    },
+    "70010000033406": {
+        "id": "010037A00F5E2000",
+        "rightsId": null,
+        "name": "Wonder Blade",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70010000033406,
+        "category": [
+            "Action",
+            "Adventure",
+            "Fighting",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "East2west Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d002237368aff648bc1bfc02508490520f95dcfb24334a75e7df09bc901973f6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d8087df7b63336e976608b88f3af1976d80c1d227d2823ebc5e362cf3265400e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e51e38074c4315c8874287c4aa1e94866fe77ed79518b1d522ded9a337f28d5a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/21ac9014ed73d6384b159d4688f9c13b142a8082f821341e816e6f056d4b76db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb3b6294057bcce3ba1ff06450fe091e9e72f09d05851b89cf89ef2358cf336b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6b452dd5fd98a586bf2c2a57e2c5fd13a7e8bf36e8cda27ace3686db561e19b8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a68ca03a64a5d801e3be0c7a10121b78d940d527b1b4fd0e6d6f17c42005502.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/76b2112fa76f00588e7ea03506f7a44274cf1f828dbfa3cd871b072e0f84b9d8.jpg",
+        "intro": null,
+        "description": "Oh my god! The princess was captured by villainous maniac again! What are you waiting for? Grab your weapon and free the princess, save the world! You really do not know what\u2019s waiting for you!\nWith all those sweet combos, killer finishing moves and devastating magic abilities the bad guys won't know what hit them. Don't forget to wear a costume to make you a one-of-a-kind adventurer. Will you be a sneaky ninja, smacking enemies with a frozen fish? Or a lightsaber-wielding fighter with a score to settle? It's all up to you!\nA variety of designed game scenes, stages and experiences - more than just whacking bad guys with a sword.\nEver rode a pig? A battlebot? A fire-breathing dragon!? Now you can!\nAnd that's just a taste! You'll have to discover the rest for yourself. The only question is, are you ready? Good luck, adventurer.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1814036480
     },
     "70010000033429": {
         "id": "0100DF401249C000",
@@ -29635,6 +29723,45 @@
         ],
         "size": 148897792
     },
+    "70010000034477": {
+        "id": "01008050130EE000",
+        "rightsId": null,
+        "name": "Gunslugs",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201103,
+        "nsuId": 70010000034477,
+        "category": [
+            "Arcade",
+            "Action",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Mild Swearing"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Orange Pixel",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/505602d67510a359430658013d759011d2ea679ef3f3163834a75e53c118bcd7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a436ba2aa14fe0a3e235eda49192ee32b3d6ecbb8b52c4449223c94cd4d7af3b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/57f1d68edc280e93cb2f06338bebde9ef107743a931a5fbb0be53364073bd215.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0bf25bdd93b07011993ac5895cf5a5c9df8318d4fb282c8f6a1fc35578d6dacb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/449d4f4270b7fdf801443abf23d433939a6d5597d273a4bdd0dc85f5a36545a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e12afbcb0a39d5f8a34f6e2c7a3088f6ee541980eb05bf96366a75dcf99d86e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3ade5965220246b3610a59549138e82f769f15fa927b4f6e0ee63c79df79a68c.jpg",
+        "intro": "A fast, and chaotic, action game - can you defeat the Black Duck army?",
+        "description": "Evil army? check! Explosions, chaos, and screen-shakes? check! A group of familiar looking heroes? check!\nWelcome to Gunslugs!\n\nFight the evil Black Duck army as they try to take over the planet using their technology and a huge collection of foot-soldiers.\n\nYou\u2019ll get to fight on plane yards, jungles, Arctica, Egypt and finally the gates of Hell. Drive tanks, fly jetpacks and shoot eggs out of a chicken-gun\u2026 ..!\n\n \nGunslugs is a fast paced run and jump game with procedurally generated levels. You get one live, and the only way\nyou can extend that is by running into the Voodoo priest selling continue statues !\n\nUnlock the roster of Gunslugs heroes as you go, and use them to advance your way to the gates of Hell to defeat the final boss. \n\nEvery Gunslugs starts in a new section of the game, so collect em all!",
+        "languages": [
+            "en"
+        ],
+        "size": 52428800
+    },
     "70010000034500": {
         "id": "0100ABD012EF8000",
         "rightsId": null,
@@ -31342,6 +31469,87 @@
             "en"
         ],
         "size": 260046848
+    },
+    "70010000035423": {
+        "id": "01006DA013562000",
+        "rightsId": null,
+        "name": "Poltergeist Crusader",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201028,
+        "nsuId": 70010000035423,
+        "category": [
+            "First-Person Shooter",
+            "Action",
+            "Fighting"
+        ],
+        "ratingContent": [
+            "Horror",
+            "Moderate Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/523972aac2b3ee1ceecfd768fc631ee2cad4a33706bb8758e9f479b78c444d9a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f2388319f17b7019ebfdf2f04fe2595cfb87d7614ec7234407b1c0784041da64.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7823b8c4ae1a4f92058c022ae10f20a178157ae148662bf6e5391e2843799a86.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0786c3eeb93befeae017f7ebab34f7702e291d31c3037d35e8b854f92584f11b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8e0f94b79fc84edf548b82b6b0a6a65cfd6dbcc6990ce84ddaef56ddcd37c4a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/59fbe3c4bc73e8da03ef262022bd3beb9ad2823402079a180cdded943d943715.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2f9df752c9f532eb11b67eb55ca1994781aa4ea5ce9f228e028859a85da72526.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2d3f3506d7e896d393c13836090831c687f9291f2005f7f4124b5fde9c088e50.jpg",
+        "intro": "FPP horror game in the climates of exorcist. Poltergeist hides in a randomly generated location. Are you able to perform exorcism on an ancient demon?",
+        "description": "Crawl into the endless dungeon filled with ghosts and nightmare creatures. Use the holy cross and samurai sword of your grand father to slay the evil beings. However, remember that every tunnel you encounter will be a totally different maze of darkness. Are you able to survive the almighty power of Poltergeist and reach the final portal? \n\nKey game features:\n- Encounter dozens of various enemies on your way;\n- Traverse and explore hundreds of miles (kilometres) of dark corridors;\n- Slay your opponents with ancient samurai sword;\n- Take part in duels with Poltergeists and use the holy bolt to cast them away;\n- Use potions and consumable items to cure your character;\n- Fantastic arcade game that will provide a lot of entertainment for you and your friends (especially during Halloween!)",
+        "languages": [
+            "en"
+        ],
+        "size": 187695104
+    },
+    "70010000035728": {
+        "id": "01006C8013708000",
+        "rightsId": null,
+        "name": "Detective Puz",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70010000035728,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Action"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/aaa7acd8d6ba1ba9e3e33c3b90591ff44a3f6317d21a25e6fbc161fdccf9ceb4.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c97e99c7f53a790e94530b27ce98d15d599b0434a31b5639e4b7a912b54146da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/081d8869dab4d5b17625538cd5c6f07a8fd67826200e9f9ba8ad4ab2571b0a60.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4824922f4afea72caa2db1f55f63f5def35795ff3292f48d75a264ae0d511dae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e6872421d0f72f37119237e778df4d217096563a01268474efdb7b2c73df29ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8056750e441ae8edb14a48b4f4f3ef216adb54193096a3e93e8d34fa53ea1fee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb41349bce7880eadfa829163d1f38559dd488599d38f48dd1d164aef0ba4140.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/725d892f11202c648901916727d463284d0cf74f17617ee92da714f6f4a3ee16.jpg",
+        "intro": "Detective Puz is a puzzle turn-based game with a twist. Use your wits and logic to pass 40 beautiful levels",
+        "description": "Detective Puz started a long journey to find the truth. In the way of finding clues, he found a strange book and after opening it, he entered the past, and now he should find his way in the middle of enemies that captured in. Detective Puz should found special diamonds to come back to the present and by that open the time portal.\n\nNow you should use your intelligence to help him to reach his goal.\n\nFeatures:\n- More than 40 beautiful levels.\n- Different environments.\n- More than 40 amazing levels: both easy and hard puzzles awaits you.\n- Different enemies mixed into unique types\n- It will challenge your intelligence!",
+        "languages": [
+            "en"
+        ],
+        "size": 814743552
     },
     "70010000035986": {
         "id": null,
@@ -46035,7 +46243,7 @@
     "70050000023233": {
         "id": "01000A001171B004",
         "rightsId": null,
-        "name": "FIFA 21 In-Game Commentary \u00e2\u20ac\u201c Arabic",
+        "name": "FIFA 21 In-Game Commentary \u2013 Arabic",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -46063,7 +46271,7 @@
     "70050000023234": {
         "id": "01000A001171B002",
         "rightsId": null,
-        "name": "FIFA 21 In-Game Commentary \u00e2\u20ac\u201c Polish",
+        "name": "FIFA 21 In-Game Commentary \u2013 Polish",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -46091,7 +46299,7 @@
     "70050000023235": {
         "id": "01000A001171B001",
         "rightsId": null,
-        "name": "FIFA 21 In-Game Commentary \u00e2\u20ac\u201c Russian",
+        "name": "FIFA 21 In-Game Commentary \u2013 Russian",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -46119,7 +46327,7 @@
     "70050000023236": {
         "id": "01000A001171B005",
         "rightsId": null,
-        "name": "FIFA 21 In-Game Commentary \u00e2\u20ac\u201c Portuguese (Brazil)",
+        "name": "FIFA 21 In-Game Commentary \u2013 Portuguese (Brazil)",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -46147,7 +46355,7 @@
     "70050000023237": {
         "id": "01000A001171B003",
         "rightsId": null,
-        "name": "FIFA 21 In-Game Commentary \u00e2\u20ac\u201c Dutch",
+        "name": "FIFA 21 In-Game Commentary \u2013 Dutch",
         "version": null,
         "key": null,
         "isDemo": false,
