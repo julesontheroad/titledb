@@ -9786,6 +9786,45 @@
         ],
         "size": 1459617792
     },
+    "70010000027547": {
+        "id": "010030D010D66000",
+        "rightsId": null,
+        "name": "Chess Minimal",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201106,
+        "nsuId": 70010000027547,
+        "category": [
+            "Board Game",
+            "Puzzle",
+            "Strategy",
+            "Training"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Hook Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1736267465542b4c4a2cad09ab1c9ee02c93e3eb026a0e27c15902f99fa3fe29.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/44dd52f0c4244d594be25dfcbebc94941b020b99fe4850ee328a9cf05010164d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0479adca29e825bc1614335b5120c249fc97d991b4fd148a36c37ac833f4f9e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/68f93453d11cae092cb64760e0a74916f3cbbc52becc928e4819fdfc87515692.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0fbf4baa521b457ab71804c7dc6ea0dc72e8fbd730c3c820c0bf1e5644e8d2e8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31a2453cca9a23b383745a8b76a00dd1d8bdcb2e1a2a540a0f694f530ba2a9d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e787b5ccf07780abf05476087d71c4a26e883ef92fb2c7056cb4b5c3b9cc794a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/82f4f967f321c591e268759b65771c38ed1e0cca6a7eb1f1de2e6691acc21532.jpg",
+        "intro": "Online multiplayer, global leaderboards, play with friend or AI - all you need from a chess game.",
+        "description": "Chess Minimal contains all essential parts of good chess game:\n- Online multiplayer, play Blitz (5m), Rapid (15m) or Classic (30m) match\n- Global leaderboards, Elo rating system\n- Private online games with your friend\n- Local multiplayer on a single device\n- Game vs AI\n- Touch support\n- Beautiful minimal design\n\nChess is the most popular classical game, two-player strategy board game played on a checkered board with 64 squares arranged in an 8\u00d78 square grid. ",
+        "languages": [
+            "en"
+        ],
+        "size": 147849216
+    },
     "70010000027576": {
         "id": "0100D6B010DC0000",
         "rightsId": null,
@@ -21807,7 +21846,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9bb63b2e590e71fd462d1fc6695ceb759feab1a454ac74219e8032b902839ee3.jpg",
         "intro": "Scream like a man! Scream like a goat! Scream together! ",
-        "description": "Join the unlikely duo of man and goat in this unique (shopping) kart racer, as they traverse precarious obstacles and complete deadly challenges inside a range of shops, boutiques and supermarkets. An outlandish solo adventure and a truly one-of-a-kind co-op experience! \n\nScream like a man! Scream like a goat! Scream together! \n\nA Kart Racer Like No Other - Propel our two heroes using their wild incomprehensible screams! Use the screams of both man and goat in perfect harmony to master the mad-cap physics and complete each stage!\n\nA World of Insane Obstacles - Race around shops, boutiques and supermarkets - overcoming a relentless stream of obstacles along the way! From the mundane (tins of beans) to the absurd (fire pits, swinging axes, sumo wrestlers & more!).\n\nAction-Packed Gameplay Modes - The 38 stages include outlandish Obstacle Courses, time-limited Collectathons and not forgetting the mode-where-you-knock-over-the-tins-of-beans. \n\nAn \"\"Epic\"\" Journey - Set in a near-future-dystopian-alternate-reality-universe-world (probably), our heroes must go on a journey to discover something deep within themselves and ultimately save save SAVE! On 3 for 2 items in the canned food isle...\n\nPlay Solo, with Goat (Friend) or with a herd! -  Embark on this adventure solo or enlist the help of a friend for a co-op experience like no other!  There are also 3 chaotic PvP party modes for between 2 and 4 players! \n\nDress to Impress - Customise the appearance of your characters with over 50 customisation options!  Choose from a range of excellent shirt & tie combos, as well as some outlandish headgear! \n",
+        "description": "Join the unlikely duo of man and goat in this unique (shopping) kart racer, as they traverse precarious obstacles and complete deadly challenges inside a range of shops, boutiques and supermarkets. An outlandish solo adventure and a truly one-of-a-kind co-op experience! \n\nScream like a man! Scream like a goat! Scream together! \n\nA Kart Racer Like No Other - Propel our two heroes using their wild incomprehensible screams! Use the screams of both man and goat in perfect harmony to master the mad-cap physics and complete each stage!\n\nA World of Insane Obstacles - Race around shops, boutiques and supermarkets - overcoming a relentless stream of obstacles along the way! From the mundane (tins of beans) to the absurd (fire pits, swinging axes, sumo wrestlers & more!).\n\nAction-Packed Gameplay Modes - The 38 stages include outlandish Obstacle Courses, time-limited Collectathons and not forgetting the mode-where-you-knock-over-the-tins-of-beans. \n\nAn \"Epic\" Journey - Set in a near-future-dystopian-alternate-reality-universe-world (probably), our heroes must go on a journey to discover something deep within themselves and ultimately save save SAVE! On 3 for 2 items in the canned food isle...\n\nPlay Solo, with Goat (Friend) or with a herd! -  Embark on this adventure solo or enlist the help of a friend for a co-op experience like no other!  There are also 3 chaotic PvP party modes for between 2 and 4 players! \n\nDress to Impress - Customise the appearance of your characters with over 50 customisation options!  Choose from a range of excellent shirt & tie combos, as well as some outlandish headgear! \n",
         "languages": [
             "ja",
             "en",
@@ -22491,7 +22530,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20201117,
+        "releaseDate": 20201106,
         "nsuId": 70010000032460,
         "category": [
             "Simulation"
@@ -26307,7 +26346,7 @@
             "zh",
             "zh"
         ],
-        "size": 2937061376
+        "size": 2974810112
     },
     "70010000033246": {
         "id": "0100938012A2E000",
@@ -27625,7 +27664,7 @@
             "ru",
             "ko"
         ],
-        "size": 438304768
+        "size": 448790528
     },
     "70010000033575": {
         "id": "01005C1012C22000",
@@ -30385,6 +30424,46 @@
         ],
         "size": 4659871744
     },
+    "70010000034741": {
+        "id": "01007550131EE000",
+        "rightsId": null,
+        "name": "2URVIVE",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201124,
+        "nsuId": 70010000034741,
+        "category": [
+            "Action",
+            "Shooter",
+            "Strategy",
+            "Other"
+        ],
+        "ratingContent": [
+            "Strong Language"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 16,
+        "developer": null,
+        "publisher": "2BAD GAMES",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fa46dc69382216a4820e38378a70b7b016bb56d26354a6e8cf20328636a66360.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cc78931189680a717df857f800fdefe19861770ec029082ae53c4275c87d5789.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/864460b81599917dd9ca8b16f6b02e41cc2e4a2c5970fba1a21a3c7185dd166d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/997fe7e3a4877ac00c7ac6ffeffb6ad485089d1102d40376cd8d4fec673088ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/89d884682f7e020897ee1ab11f058a731d5b296c78755cee98822ae3e2cf374f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/92cd84f0d4b91997cada07603c6292095bfa07c4fa5a803db3df32d746b4d15c.jpg",
+        "intro": "2URVIVE is a top-down zombie shooter. \nPrepare yourself before every wave and stay alive as long as you can.",
+        "description": "In 2URVIVE, the world is devastated by a virus. \nYour only goal is to defend yourself against hordes of Infected attacking you. \nInfected are too numerous and sooner or later, your time will come ! \nIf you're gonna die, fight till the end!\n\n2URVIVE is a top-down zombie shooter with tactical and strategic elements. \nPrepare yourself before every wave. \nBuy weapons and ammo, set up turrets and stay alive as long as you can. \nEach wave becomes more dangerous than the previous one and \nthe Infected are more and more numerous.\n\n- 3 different game modes (2URVIVE, 28 days before, Mercenaries)\n- 2 player local co-op for all modes\n- 13 narrative episodes (with different areas and objectives) \n- 10 weapons (shotgun, flamethrower, rocket launcher, etc...)\n- 10 enemy types (Walker, Runner, Colossus, Dog, Zero, etc... )\n- Pixel art graphic style ",
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "size": 87031808
+    },
     "70010000034749": {
         "id": "01009D901321A000",
         "rightsId": null,
@@ -31469,6 +31548,47 @@
             "en"
         ],
         "size": 260046848
+    },
+    "70010000035404": {
+        "id": "010064F01354A000",
+        "rightsId": null,
+        "name": "Banana Treasures Island",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201026,
+        "nsuId": 70010000035404,
+        "category": [
+            "Adventure",
+            "Action",
+            "Arcade",
+            "Fighting"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Max Interactive Studio",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/69262cc4dbd0771b48188318297707e6d5b2105f7334b8d9429b28b273bd0c96.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9a04d208e1eebc55551eec6ff760385d92711b006e13e10acc948d9136bda250.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6dde7a8a335ad20494e9a8cde08bcbdf0b6c45ff2386986364c59e8ad878b3a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38a2abd9c0dd78ba8378aa73c84f05df1cebf9ddec7a04d641393c13e4b2f3f4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/068041c051165f1fb19731363aa857f1f39b0ab4f1880c6ee4055f88d1711545.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/66549047684b1f96551e8331a58d8f7c8d262c81e4a9dc0ff60609e0f60373cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bd8b78368c9ef9ab83743db96ff347da65ddb21c698dba6c82c44aa021e949f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/611f6d57343416433c8af66da5bf75c0873f310a5bbcf00221c4e8a1147dad89.jpg",
+        "intro": "Smashing Bananas Time! Run Fly Swim Jump Ride ",
+        "description": "Welcome to the Banana Treasures Island, and begin your journey of funs. \n\nRun, jump, swim, and fly all the way through Banana Islands and fight the angry baboon and his minions. Help the baby monkeys and companion in the jungle quest! Dash through the jungle, smash the enemies and complete the level to unlock more! Collect as many bananas gold coins as possible to unlock more items, get specials, upgrades, and power-ups... find the super golden banana to break the evil spells that possess islands! \n\n\u2730FEATURES\u2730\nA fun jungle adventure with tons of levels!\nCrazy and funny enemies!\nRun, jump, swim, fly, and climb on vines to collect coins!\nRide on beasts to jump higher and run faster!\nShop additional power-ups and enjoy the fun run!\nSeven different monkeys to choose from!\nFive islands Spring, Summer, Autumn, Winter, Skull!\nEnd game bonus coins levels!",
+        "languages": [
+            "en"
+        ],
+        "size": 298844160
     },
     "70010000035423": {
         "id": "01006DA013562000",
@@ -45052,10 +45172,12 @@
         "publisher": "Koch Media",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/76441e897368c3ee8d7c324e82fca9f30aa0df0ddd2ace087354120205d06809.jpg"
+        ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d971dcf360e1534f48b13e017d26cc7b44f5717dc2514da51af3614fe71037c4.jpg",
         "intro": "Brave the Storm",
-        "description": "\u2022 Kara\u2019s Ancestral Attire\n\u2022 Kara\u2019s Ancestral Oar\n\u2022 Kara\u2019s Ancestral Knife",
+        "description": "The Ancestral Equipment contains\n\u2022 Kara\u2019s Ancestral Attire\n\u2022 Kara\u2019s Ancestral Oar\n\u2022 Kara\u2019s Ancestral Knife",
         "languages": null,
         "size": 4194304
     },
