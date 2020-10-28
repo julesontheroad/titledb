@@ -373,7 +373,7 @@
             "ko",
             "zh"
         ],
-        "size": 3279945728
+        "size": 3313500160
     },
     "70010000003581": {
         "id": null,
@@ -1591,7 +1591,7 @@
             "zh",
             "zh"
         ],
-        "size": 1011875840
+        "size": 1056964608
     },
     "70010000012891": {
         "id": "0100D2B00BC54000",
@@ -1952,7 +1952,7 @@
         "languages": [
             "en"
         ],
-        "size": 648019968
+        "size": 853540864
     },
     "70010000014219": {
         "id": "010035E00C1AE000",
@@ -8592,7 +8592,9 @@
         "intro": null,
         "description": "Broken Porcelain traz in\u00fameras novidades \u00e0 s\u00e9rie, como novos elementos narrativos e de jogabilidade que v\u00e3o dar nova vida \u00e0s personagens e um n\u00edvel de imers\u00e3o incompar\u00e1vel. Esta perturbadora aventura \u00e9 ideal tanto para f\u00e3s da s\u00e9rie como para quem a est\u00e1 a conhecer pela primeira vez.\n\nA verdade oculta na Ashmann Inn n\u00e3o ser\u00e1 revelada facilmente. Os seus in\u00fameros mist\u00e9rios est\u00e3o interligados e protegidos pelos amea\u00e7adores Stalkers, poderosos ca\u00e7adores aprisionados no tempo e entre as paredes da pousada. Os reflexos n\u00e3o ser\u00e3o suficientes para sobreviver, ser\u00e1s obrigado a agir de modo estrat\u00e9gico e criativo nesta perturbadora aventura. S\u00ea astuto - descobrir o melhor momento para te esgueirares, fugires ou enfrentares os perigos pode rapidamente tornar os ca\u00e7adores nas presas.\n\nPrincipais carater\u00edsticas\n\n-\tNarrativa psicol\u00f3gica cativante. O premiado cl\u00e1ssico de culto Remothered regressa com Broken Porcelain, o ponto de entrada perfeito para aqueles interessados na s\u00e9rie, assim como para veteranos que queiram conhecer melhor tudo aquilo que rodeia os eventos e personagens dos Tormented Fathers.\n-\tHorror de sobreviv\u00eancia realista. A Ashmann Inn tem tantos recursos quanto perigos. Percorre-a cuidadosamente para encontrar objetos que possam ajudar-te a explorar locais inquietantes que escondem segredos de um passado aterrorizador.\n-\tJogabilidade furtiva intensa. Move-te entre as sombras da Ashmann Inn e usa todos os teus recursos para distra\u00edres os inimigos e escapares. \n-\tInvestiga e escapa. Enigmas desafiantes, hist\u00f3ria mais abrangente e uma banda sonora atmosf\u00e9rica criada por Luca Balboni (Remothered: Tormented Fathers, Mine, Watch Them Fall) transformam a atmosfera negra e opressiva do jogo numa experi\u00eancia que ir\u00e1 continuar a aterrorizar os jogadores at\u00e9 depois de pararem de jogar.\n-\tPersonagens cativantes. O n\u00famero de personagens carism\u00e1ticas \u00e9 ainda maior, \u00e0 medida que personagens populares regressam e interagem com um novo elenco inspirado nos protagonistas de cl\u00e1ssicos do horror.\n-\tV\u00eddeos em tempo real. Pela primeira vez na s\u00e9rie, os v\u00eddeos totalmente animados v\u00e3o dar um novo f\u00f4lego \u00e0s personagens e ao mundo de Remothered para criar uma imers\u00e3o incompar\u00e1vel.",
         "languages": [
+            "ja",
             "en",
+            "pt",
             "es",
             "fr",
             "de",
@@ -22213,7 +22215,7 @@
         "developer": null,
         "publisher": "Microids",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6fd71df996333ec8fe0436d530ce55939b5bb2ffc9faf3c3378d9da004fad2cf.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/abdf89e7c805b03db986e2d1342ba1536958a4db23e33407de2c2bc9b7e047b5.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/63f64bc8ffc6e1ca0f0b95de511e0a31dfb34eec7f040cc6ed931bd141811983.jpg",
             "https://img-eshop.cdn.nintendo.net/i/dad028c9ac3302f9190e5912ec4261a8fd27e5496bb570860051a995f1e6e86b.jpg",
@@ -22232,7 +22234,7 @@
             "de",
             "it"
         ],
-        "size": 2740977664
+        "size": 3051356160
     },
     "70010000030016": {
         "id": "0100681011B56000",
@@ -22803,6 +22805,47 @@
             "zh"
         ],
         "size": 4706009088
+    },
+    "70010000030162": {
+        "id": "0100669011C36000",
+        "rightsId": null,
+        "name": "Chickens Madness",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201027,
+        "nsuId": 70010000030162,
+        "category": [
+            "Festa",
+            "Multijogadores",
+            "Arcada",
+            "Outro"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Moderada"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Vikong",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/18105ee895b2d6621509cceb6a328de61846e802d54867fa72f1a9aabea26716.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8209796c27e372316fa502aae95f482bf604dd6c8760ab18ca5bdf2af5e65c3b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e336250c9fcb3c464d07d7fd3459752ee1aca8174680eb57cf7d9b4f264dc8eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11874d60803e60311b0822f8f60d89823233ed85170b88e087f9043ad6959d5a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/059cdfd22309b31f36c24e915e672221cde18817035cf1c789a8580435af5cb8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ecda4d27d1ffb07e04f159afe3fc97906f73cd83a867605f77f094765efaca1c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d0f2d83e6732b2160a4bb1f4668014848b47767fd332c4f95a5940845af68ed.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/569c93d29a8453205f90b92a48908d2748429068d42c376eec513dacb087d8d1.jpg",
+        "intro": null,
+        "description": "Chickens!\nChickens Madness gives you the ultimate power of being and behaving like a chicken in a very unique set of party games against your friends.\n\nMadness!\nIt's all about being crazy! Run, jump, fly, do a butt pound, lay eggs, kick, punch, and hatch some baby chicks. All the tools you need to help these chickens go mad!\n\nFeatures:\n-Hilariously fun local couch multiplayer experience.\n-Core 30 unique playable party games.\n-More than 30 unique gameplay mechanics & trick to master.\n-Amazing quality art and animation style, inspired by the cartoons we grew up with.\n-Tightly refined player controls, with lots of options for special moves that will satisfy both beginner and expert players. Easy to pick up, NOT easy to master!\n-Achievements (all the local players have to work hard for that).\n-Play with family, friends, kids, and elders. It's a game for everyone. Did I mention our testers are between 3 & 60 years old? \n-Chickens powered by Unreal Engine's tech, so expect an unreal chicken experience!\n-A playground level to master the controllers and mechanics alone or with others.\n-Presence..Who did mention presence?!\n\n\nMore Features\n-Fun Guaranteed.\n-English ONLY. We won't ship with another 20 languages translated on Google.\n-We'll send Eggs to some of our players.\n-Make videos, videos and more videos, we send you more eggs.\n-Footage of people playing with you, we send them eggs too.\n-Executable start every time with few splashes.\n-A game about eggs, must have some Easter Eggs!!! A TON of them!\n-This section is mostly for fun, but who knows, some parts are for real!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 2012217344
     },
     "70010000030176": {
         "id": "0100307011C44000",
@@ -35643,12 +35686,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/95107f095a937f8a4036e0d0851ac3f034080046dda598a4b27e16f0ecb21472.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/8959b14ce5d603a4f7366b28001b403c9d40b4a18a51efb9599795ebfe18abf9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab31b96b172c6dc63c4d45ae09f41235b7eff9ebf8f5447ec08e461bb773b564.jpg",
             "https://img-eshop.cdn.nintendo.net/i/86833c83fc261522492367529b77b298cb77a7f403a92bbb762e933ce123221b.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/de89782a27ebe0a5ba52371162cba5bca5f34018984bcc052f385a0428020649.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/810ee8a4c8b1d93ef38c5d45a48afc0637b5fa036f69e1ca0bb33f4380a3a676.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/380363e7005c51b3163262afe12a6dd72ad21fdb74f15edfbff49b0026199981.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/f596a11b155f77284e1dbf92e27a28e3402048fe69bfe489fd58b913f4f51033.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/ca490a216a3281fad55fc132fc2e1e649f89ff371633694fa1c4dafb1b00f656.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c2d50977ab6081f1ffb0f179f3d1e3ece290da9ec343ccfcadab264d04938149.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1cc09b01a1544612479f4b79c85e68f3ffbc4e854f48c0b4d73b7bb4ae740c45.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ef60a1a92b2c196fe6f5b67aebc9e9cbf86d9dde7e8a7360636affec635b336c.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa6dc526f747c93601b6bf8cc4bbac249ca6e9e04ae8a426a57c9b59fc916774.jpg",
         "intro": "Um jogo de aventura encantador envolto em uma mec\u00e2nica in\u00e9dita de quebra-cabe\u00e7a que altera o mundo.",
@@ -37472,6 +37515,47 @@
         ],
         "size": 40894464
     },
+    "70010000033749": {
+        "id": "010031D012BA4000",
+        "rightsId": null,
+        "name": "Azurebreak Heroes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70010000033749,
+        "category": [
+            "RPG",
+            "A\u00e7\u00e3o",
+            "Aventura",
+            "Arcada"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Ligeira"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5db370dad9a30d6ac2aa2702a1f7e38a58a63a146fb3bb31da91cfc94b6da0d8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6b00c944b8e804972cef0d315467d3e5c3455134f8c6ee3cfa091d215734d3a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f56796fa7e41f8ecc37450c1263e08ed04f99a83baffdfe5533db0e0d20a6129.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25fc9a25261cb262de9b2b13906928838115b4df20f63e5769ee83c26c52e287.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec5a3835d17747974c19bdd49466b61eb113e41c7a1492b8ae1ce0cb8a6cd3d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e047f79043d50c84359f3359565d4443293abc5795f06d50de8884d9b45aacff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ab870fad7cabc4d7402a16fd361a860efd9fde66c6af863d4a891a3892ad1f4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c04879b8ea3520d56ed8101d29cca83bb27cce906d081d52304f8c9b68fe60c5.jpg",
+        "intro": "Delve through dark caves, mystic temples, strange woods and other mysterious areas in a colorful world of Heldia in this 2D RPG with roguelite and permanent progression elements.",
+        "description": "Escape the Prison-World!\nThrough the bizarre, colorful, yet dark areas of Heldia, Heroes look for a way to escape a demonic grasp.\n\nAzurebreak Heroes is a 2D RPG with roguelite elements. Battle otherworldly creatures, enhance your skills, unlock new heroes and choose the upgrades you want while looking for a way to escape a prison-world of Heldia.\n\nFeatures:\n- A responsive, real-time combat system.\n- 6 playable heroes, each with its own skill tree and perks!\n- Create builds by choosing artifacts you want! All of the artifacts synergize with each other.\n- Random level layouts.\n- 3 possible endings to uncover.\n- Secrets!",
+        "languages": [
+            "en"
+        ],
+        "size": 393216000
+    },
     "70010000033751": {
         "id": "0100EC7012D34000",
         "rightsId": null,
@@ -39006,7 +39090,10 @@
         "category": [
             "Plataformas"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
         "numberOfPlayers": 4,
         "rating": 7,
         "developer": null,
@@ -40017,6 +40104,45 @@
         ],
         "size": 2474639360
     },
+    "70010000034817": {
+        "id": "01000440123A6000",
+        "rightsId": null,
+        "name": "Roah",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201103,
+        "nsuId": 70010000034817,
+        "category": [
+            "A\u00e7\u00e3o",
+            "Aventura",
+            "Luta",
+            "Plataformas"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Jesper Erlandsen",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ff117fcfd487e69ef8fc2dca29e404868d7425c676f569ba417c52401f532697.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a46a8430cfe8293c1aace9fe433a755fc6ae777783cdc7571565d4a13f8ab245.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d8c1201586e6746171958648f01c10bceef51d367f9cd23bfd8742969032709e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23e04e26b40f4961e1c8c37e0944d864fd8629a6838e664c93f06ce323e2d6d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d0484685b9660637ff03f82be1d6986039d95df80d3cb7bce72ebaf759aa0709.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5cdf5b071f58e95b55b2dbf64cdf38a67795313be31caee484066856fa3446f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/90776148f6f63af57d6981014182448f2c12650f065b3e27cd0f5c082a7851f1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/55901f0339bc64103e4ff8b727d779196495f93ae5f52172daa2b0c80a072291.jpg",
+        "intro": "Combate \u00fanico inspirado em jogos de luta, toneladas de habilidades e bugigangas que ir\u00e3o te fortalecer enquanto voc\u00ea destr\u00f3i duras lutas contra chefes.",
+        "description": "Um grande perigo desconhecido est\u00e1 se aproximando do planeta natal de Roah. Siga Roah enquanto ela explora o mundo e encontra todas as suas diferentes fac\u00e7\u00f5es, descobrindo o mist\u00e9rio do que est\u00e1 drenando a for\u00e7a de vida do planeta.\n\nRoah tem um grande mundo aberto com novas habilidades, habilidades e movimentos para obter e dominar. Ele apresenta um combate inspirado em jogos de luta \u00fanicos com toneladas de movimentos diferentes para executar.\n\nCaracter\u00edsticas incluem:\n- Sistema de combate expressivo e flex\u00edvel.\n- Caminho de aventura n\u00e3o linear.\n- Batalhas de chefes \u00fanicas e desafiadoras.\n- Ambientes diversos.\n- Obtenha novas formas de resolver quebra-cabe\u00e7as e superar o ambiente.\n- Modo casual para um jogo mais f\u00e1cil.",
+        "languages": [
+            "en"
+        ],
+        "size": 1137704960
+    },
     "70010000034832": {
         "id": "0100C5A01327E000",
         "rightsId": null,
@@ -40209,6 +40335,47 @@
         ],
         "size": 273678336
     },
+    "70010000034904": {
+        "id": "01000D60132D0000",
+        "rightsId": null,
+        "name": "Max Reloaded II",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201027,
+        "nsuId": 70010000034904,
+        "category": [
+            "Arcada",
+            "A\u00e7\u00e3o",
+            "Aventura",
+            "Luta"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Extrema"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Max Interactive Studio",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/349e6488441f72740cb8b3ac85e1d5543da52eeacd1aee0ca3d4f3ab43866838.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fc1e281e749675d43d4dbb3d4a7c2cb6d1886df96c4733a0a963fabb9e5b0904.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4544d869a22f49c848e0dbd92bd9f9acbb327d1954809875f1ca1c3b6c885dd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c91f3b3838de46f6d5279ef006eecb11117d61a43eb86f74e69b42f43249e16.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/564495fd4241d163c30984c4a63b391068657b6019e0cefa9b16bd0c5374c1d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7929fca0d85b770853b09507a1440708c4f0e484e118cb79fdab6a7985b79e2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6548c337d5e7b58f148fc8a8d06fa32101bac3b969031eb3c8915f129943a72e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/48f2cf58fdde591cb5ba02d5933de8c3ed7813af4b28c449b7eed618774fb3ba.jpg",
+        "intro": "When your city in big trouble, who you gonna call ?",
+        "description": "The city is under siege as the full force of enemy combatant ravaging what remains of a broken and beaten law enforcements.\nResponding to S.O.S, Max travels through time to confront all of them... In a world where Bionic man meets fantasy-fiction and advanced technology is mixed with psycho-powers.\n\nFeatures\n\u272a Frantic Arcade-Style Action - Fight your way through 30 nightmarish missions and finally challenge the boss!\n\u272a Various Environments and Secrets - Unleash mayhem in the city. Discover secrets cache of treasures hidden in the fray!\n\u272a Special Weapons and Power-Ups - Lay waste and Wreak havoc with a huge arsenal of weapons including Grenades, Shotgun, Rocket Launcher, Miniguns!\n\u272a Vehicle controls - Unlock jump-jets. Drive cars, tanks, helicopters, and planes in the game!\n\u272a Destructions - destructible buildings and cars!\n\u272a Manipulate time - slow time to fight the army of minions in style!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 291504128
+    },
     "70010000034922": {
         "id": "0100C4C0132F8000",
         "rightsId": null,
@@ -40345,7 +40512,7 @@
         "size": 61865984
     },
     "70010000034993": {
-        "id": null,
+        "id": "0100073011382000",
         "rightsId": null,
         "name": "Fitness Boxing 2: Rhythm & Exercise",
         "version": null,
@@ -40366,7 +40533,7 @@
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
-        "iconUrl": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/12ed2f8f08584ef9cd999490ef60e42137931848bf996de1a83005473e530af1.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/238c438cbd91d3e68e718396730cc6853c0dfe5d537cc5d4bbfd0d1ef3e7e20c.jpg",
             "https://img-eshop.cdn.nintendo.net/i/cf1be73f1948d4d614bbacf16c83eb5df715b7181998eac0be5ff9d4040b1202.jpg",
@@ -40389,7 +40556,7 @@
             "zh",
             "zh"
         ],
-        "size": 0
+        "size": 2506096640
     },
     "70010000035000": {
         "id": "010066D013354000",
@@ -40908,6 +41075,48 @@
         ],
         "size": 298844160
     },
+    "70010000035421": {
+        "id": "0100618013560000",
+        "rightsId": null,
+        "name": "Santa's Xmas Adventure",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201112,
+        "nsuId": 70010000035421,
+        "category": [
+            "Puzzle",
+            "Aventura",
+            "Educacional",
+            "Training"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Funbox Media",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fcc104e620374124ab68b2856e08e55d10e48dbee65c9b0f6f06ac21f45b1535.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/52f5c9b158a6aa7f01450b18d63b65f7c1719e0f69b57e44335a5a1a1e4625e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/75a0968e840c92d5a55b68a2ef40d57f40ff92e841b3ce060e003c99a7d6acc1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/800cbe08a058aadccc5200ba058bf325912087c7ba7318d9d7511ceacf2600c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e9c276b332c7e5c5310e5dc917b51979640d5c0281a4a0878ca0d04dd8f460d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7aef2f5425125b96fd75a5e5a5fb695c73eeab6933c83769a6d416f72fa88996.jpg",
+        "intro": "Divers\u00e3o de Natal para toda a fam\u00edlia!",
+        "description": "Papai Noel teve um acidente! Ele perdeu o caminho e todos os presentes. Ajude-o a alcan\u00e7ar seu objetivo deslizando as pe\u00e7as para formar um caminho.\n\nUm jogo de puzzle cl\u00e1ssico mais dif\u00edcil do que parece! 720 n\u00edveis em tr\u00eas modos para dominar.\n\nTeste suas habilidades e junte-se \u00e0 aventura do Papai Noel! Quando voc\u00ea estiver preso, use uma dica. O jogo \u00e9 acess\u00edvel a jogadores de todas as idades e habilidades atrav\u00e9s do sistema de dicas.\n\nVoc\u00ea est\u00e1 pronto para o desafio?",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt"
+        ],
+        "size": 109051904
+    },
     "70010000035423": {
         "id": "01006DA013562000",
         "rightsId": null,
@@ -40948,6 +41157,47 @@
             "en"
         ],
         "size": 187695104
+    },
+    "70010000035425": {
+        "id": "0100AB9013564000",
+        "rightsId": null,
+        "name": "Boss Rush: Mythology",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201031,
+        "nsuId": 70010000035425,
+        "category": [
+            "Arcada",
+            "A\u00e7\u00e3o",
+            "Luta",
+            "Plataformas"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Moderada"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/70a38c3be8676a3494e5c67e416468e86cd8e4824e5d1f65d5b259cfc99ff517.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d199553704a44ef9ed0a986f923cf8fc2701c105511217da47e5ace1991664ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3de8df768495c011c7cbad09c1d97fe66baf6d54d9bfe118f85c4664cd96d4e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ac1df72961744173ecf5f79da582d20c4f50d0c96387c934a265dafbbaae66d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c6b47d5526ab2eaf0c57a20b560c8b58cc536f36b7620339d9c7995a125a178e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23e6e1e9b92fb6701dc86b225c8499e7a46f3b90dbbd93034429fb09d78ae430.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1ece1d503b1481567c560fb4dcd4e03b5084138db5d5afca2738b051e668ed22.jpg",
+        "intro": "Boss Rush: Mythology - This is an action game in which you have to fight various creatures and gods from Greek, Scandinavian, Slavic and Egyptian mythologies.",
+        "description": "In Boss Rush: Mythology you take on the role of a mysterious knight who travels across different worlds in search of the most difficult opponents.  Players will fight with unique bosses one after another. \nSeal them all. Each boss has different attack patterns, unique skills and various powers!\n\nGame features:\n- Souls-like style combat system. Hard, but really rewarding! \n- 20 bosses. Unique and challenging fights! \n- 6 types of weapons and 6 types of items to choose from.\n- \"Easy\" difficulty included if you wish to fight bosses with an extra help. \n",
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "size": 303038464
     },
     "70010000035728": {
         "id": "01006C8013708000",
@@ -41247,6 +41497,34 @@
         "languages": null,
         "size": 557842432,
         "parentId": "0100FC300F4A4000"
+    },
+    "70030000011008": {
+        "id": null,
+        "rightsId": null,
+        "name": "Chickens Madness DEMO",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000011008,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00c3\u00aancia Moderada"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1347420160,
+        "parentId": "0100669011C36000"
     },
     "70030000011106": {
         "id": null,
