@@ -787,6 +787,47 @@
         ],
         "size": 10909384704
     },
+    "70010000008270": {
+        "id": "0100EFE00A3C2000",
+        "rightsId": null,
+        "name": "Eyes: The Horror Game",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201031,
+        "nsuId": 70010000008270,
+        "category": [
+            "Avventura",
+            "Azione",
+            "Puzzle",
+            "Simulazione"
+        ],
+        "ratingContent": [
+            "Orrore"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "QubicGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a2c9de230f087cdb4e7b1abf07d29f0f70552fb137f924c56a2ab3a12f902f9f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/14572f4953fd5b8301b47218c5350fe4e7ad399a332b945ee310540dbb340ddc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed67ac9ca2834c36995458371a6bc5f1a175b6fe5c2e95ba1ae02af8249a3f46.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8db1c94943637a4296d9df7db08dbfba91ea9774ce63e93f55a000990c49f160.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d86c8d55a2d81e68d0e756295b487ffe91a7a7ee9295c0db00240f5e1af9de57.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/189b487851e82bf9004837467238d64e6f89a00220330c14788f094d0b3852c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aff8ef96b937222d291c7167a269ea9908a4c231e22d0c22c283795512a3287a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9879aa273de69f7e915daaeacad6b871caf2221f4638288f654ae015cbb99497.jpg",
+        "intro": "You\u2019re alone. No one will save you and what\u2019s worse, it was your choice\u2026\n",
+        "description": " All you need to know about that this place is that it was a really bad idea. You have to be brave and determined to learn all the secrets hidden in dark corners. Good luck, you will need it.\n\n Do you dare to face the revenge-seeking, bloodthirsty Krasue or the haunting demon Charles? This is just the beginning, more monsters are waiting for you.\n\n Collect as many bags of money as possible and escape from creatures. If by some miracle, you manage to find out where the threat came from and what is lurking around the corner, you will have a chance to solve this puzzle!\n\n Discover the secrets of an abandoned homestead, try to survive in a haunted hospital and walk the corridors of the possessed school. There are traps at every side, you can't feel safe anywhere. Collect runes - eyes - painted on the walls. Thanks to them, you gain the ability to see through the eyes of your opponent and you can try to predict his movements. \n\n- Unique designed and dynamically changing levels\n- Mechanics referring to the beloved old games\n- You can hide or run away from threats, your choice\n- Use your map and Eye to survive\n- Collect all the hidden notes to discover the mysterious history on each level\n- A lot of gameplay modes and levels, The Mansion was just the beginning\n- Try your hand at endless mode, where the monsters get stronger and your courage will be put to the test. You will be caught, you will die, but keep trying!\n- Hunting Krasue, dangerous Charles and more\n- Halloween mode, catch the pumpkins to collect extra money\n",
+        "languages": [
+            "en"
+        ],
+        "size": 696254464
+    },
     "70010000008534": {
         "id": null,
         "rightsId": null,
@@ -2602,6 +2643,51 @@
         ],
         "size": 339738624
     },
+    "70010000017525": {
+        "id": "010018400C24E000",
+        "rightsId": null,
+        "name": "Seven Knights -Time Wanderer-",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000017525,
+        "category": [
+            "Gioco di ruolo (RPG)",
+            "Avventura"
+        ],
+        "ratingContent": [
+            "Orrore",
+            "Violenza contenuta"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Netmarble Corporation",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d3f48781e19d73dd1b6356a76a11e985a72418f3c0b500cecdd159db87375981.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a2c05af791de885c018224957d48558e31d7193caedc70a36d4034e97a14599e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/094f077e07ba36ff5a6aa2bb8827a88c8993ab1ca8e26bc5df6475e024aefa37.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f104622ff6996385333cce896b16f2bb11001f20e1f8743a3bfce4150274f2ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f25b9bc9d5e157a6dd338b706e8931fc1173f169c423bda51c392e846d8e727.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9831c33f0e70f6c2e45a69fe97e465900d91bea076de9120e14edbee5fb954c8.jpg",
+        "intro": "The hugely popular mobile RPG with 60 million downloads worldwide, \n\"Seven Knights\" is coming to the Nintendo Switch\u2122!",
+        "description": "Seven Knights, a game beloved around the world thanks to its gripping story and unique characters\nis reborn as a traditional RPG for home console\nbased on the original's universe and gaming system.\n\n\u25a1Game Characteristics\nTraditional RPG with a Gripping Story\nVanessa, the descendant of a long line of mages, accidentally ends up wandering an unknown dimension.\nThere she meets Sandy, the guide of time who was in deep sleep for ages.\nA traditional RPG that takes the pair to various different dimensions to meet new allies and help them along the way to find their way home.\n\nCollection of Unique Characters\nA total of 15 playable characters including the protagonist Vanessa.\n\nStrategic Turn-based Combat\nA strategic turn-based combat system in real-time with opposing elements.\nThe core of battle revolves around making a well-balanced party of 5 with different elements and using skills that fit the situation.\n\nPlenty of Sub Content\nEgonyx is a story-telling mechanic that gives players a glimpse into the hidden stories if your allies.\nYou can meet each dimension's allies again and even get access to character enhancement items.\nLunanyx is a dungeon system for those who wish to take on a challenge.\nTest yourself and craft the best equipment with the rewards!\n\n\u25a1Plot\nVanessa falls into a mysterious void and opens her eyes in the darkness.\nShe encounters the legendary magic tool Sandy that has awakened from its seal and discovers she\u2019s grown into an adult by leaping through time.\n\nDetermined to find her way back to her rightful time and place, Vanessa ventures through different times and spaces with Sandy.\nShe meets new friends along the way and faces new challenges with them, not knowing she\u2019ll stumble into a vile plot that might forever upturn her world.\n\nVanessa needs to find the Time Crystal in each dimension\nto keep herself from being trapped and lost in time forever.\nTo find her way home and save her friends, Vanessa embarks on a grand adventure through time.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 8286896128
+    },
     "70010000017654": {
         "id": "0100C2C00D74E000",
         "rightsId": null,
@@ -2652,6 +2738,45 @@
             "zh"
         ],
         "size": 932184064
+    },
+    "70010000017834": {
+        "id": "01001AA00BADC000",
+        "rightsId": null,
+        "name": "Esports Life Tycoon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70010000017834,
+        "category": [
+            "Simulazione",
+            "Sport"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "U-PLAY Online",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/258cea0bbebe5577ec709100ef361be93a148e6d7d9bd7b2a43c709768f9c9c7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2de0b527ed4aad53b49862a004c39799781557f160d3180dc693d17c83c2a076.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/44dcd1393845e535e4de0b03bdc254300912f430cdd9ea2624b9b89dd004f3b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a06dcd3a17bd71095891b25edb2ad51a2f755bb0813797a62ed4178eeea4db8d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/193238facb007f082b1245bfe4e294f70dbef06ef3c827f1de744bc12db3d065.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d41191c05bab40097753dcb166cec6f35ab5649a889d440c21bc311da9ff422a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5a07cc7cb04f5dd499e5f01530cfeb0f717dad1ee9601d89875c5a751e6a46c0.jpg",
+        "intro": "Il manager degli e-sport con licenza ufficiale! Gestisci la tua brigata, amplia la casa di gioco e sconfiggi le squadre leggendarie per diventare il numero uno!",
+        "description": "\"CREA LA TUA SQUADRA DI E-SPORT\nPersonalizza ogni aspetto della tua brigata di professionisti: realizza lo stemma, progetta l'attrezzatura, crea il tuo avatar e i tuoi giocatori sin dall'inizio. Metti insieme la squadra di e-sport dei tuoi sogni e raggiungi la vetta del campionato!\n\nSCIOCCA IL MERCATO INGAGGIANDO LE STELLE MIGLIORI\nLe squadre migliori necessitano dei giocatori migliori, e se vuoi davvero diventare il pi\u00f9 grande manager al mondo, allora avrai bisogno di molte stelle al tuo fianco. Assumi giocatori promettenti e convinci i campioni a unirsi alla tua squadra. E se uno di essi ti rallenta, affronta la difficile decisione di tenerlo in squadra o di augurargli buon viaggio! Diventare un campione non \u00e8 mai stato un compito facile.\n\nALLENA I GIOCATORI E PRENDITI CURA DEL LORO BENESSERE\nLe superstar non escono dal nulla: perfino il giocatore di maggior talento ha bisogno di lavorare sodo per migliorare le proprie abilit\u00e0! Crea dei campioni, lavora sull'affiatamento della squadra, analizza gli avversari... e non saltare la colazione! Dopo tutto, la squadra migliore \u00e8 qualcosa di pi\u00f9 che la semplice somma delle sue parti, e il gioco di squadra (e una dieta adeguata) \u00e8 ci\u00f2 che separa una buona squadra da una eccellente.\n\nDALLA CAMERETTA AI MILIARDI...\nVincere le partite attrarr\u00e0 sempre pi\u00f9 fan, guadagni e nuove opportunit\u00e0! Migliora la tua casa di gioco man mano che scali le divisioni e inizia a vivere come una superstar. Psicologi, allenatori, manager del marketing e ogni altro tipo di professionisti ti accompagneranno nel tuo cammino verso la gloria!\n\n... PER DIVENTARE UNA LEGGENDA DEGLI E-SPORT!\nMetti alla prova i tuoi lunghi allenamenti sfidando le altre squadre di e-sport. Decidi se constatare solo il risultato dello scontro o se guidare la tua brigata durante le partite simulate, scegliendo i campioni e prendendo le decisioni in tempo reale. E quando affronterai la folla di fan, ricorda: il successo appartiene ai giocatori, le sconfitte all'allenatore.\"",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de"
+        ],
+        "size": 1214251008
     },
     "70010000017890": {
         "id": "010061000D82C000",
@@ -2788,6 +2913,45 @@
             "zh"
         ],
         "size": 1011875840
+    },
+    "70010000018541": {
+        "id": null,
+        "rightsId": null,
+        "name": "Later Daters",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200416,
+        "nsuId": 70010000018541,
+        "category": [
+            "Gioco di ruolo (RPG)",
+            "Simulazione",
+            "Avventura"
+        ],
+        "ratingContent": [
+            "Allusioni sessuali"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Bloom Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/60b40bef045f38c7be077daa544ab1a1594f8e712884198cb18af859cc7ee80b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ed2280cbd5a91d1bc306d8bcc00f681e13c2de7ca176c5df097d7addf6849092.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5914e851d476cbf12478bd1db52dcbb513861ea3769812675936c3c3c4d93b21.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/92872723631af93c007adf0361134c32f99c0c5cedeaf99e2ec608981f18ffe9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1df5ac1721b913166f21310de206ef1f506ca753946d78887c94b2d3e1bcbd26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6750135ad6fca8a8a0b6adcadc0f864c4b3179a73818fef67cd8750e8401d8f3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2a93af2893ab7a7c6ee360229d26dd826fc432530351c6cbc2d4a84979974e9b.jpg",
+        "intro": "Play as an octogenarian and find somebody to love, or just get your kicks in while the getting is good. If the chairs are rockin', don\u2019t come a-knockin'. Part One out now!",
+        "description": "You\u2019re the newest resident at Ye OLDE retirement community, where you\u2019ll meet a cast of sexy seniors who are all dying (not literally) to meet you. It\u2019s a lot like summer camp, but with orthopedic shoes, bridge clubs, and more jell-o. It\u2019s an adjustment as you settle in, but who knows: maybe these will turn out to be the best years of your life!\n\nAdventure, passion, and transformation are not experiences reserved for the young. Later Daters portrays the aging process as a rollicking romp and reminds us of what the elderly can teach us about our capacity for love.\n\nGameplay Features:\nPlay as a sexy senior! Customize your look, name, romance history, and gender.\nHave some intimate adventures that deal with mortality, vulnerability, and getting some action.\nEnjoy LGBTQ inclusive romance and poly relationship options.\nPick your favorite companion creature : A cat, a dog... Or a robot?\nDate and flirt with eight fetching residents of Ye OLDE...\n\nPart One\n\nEp 1 - Welcome to Ye OLDE New Home\n\nMoving into Ye OLDE retirement community is a huge change -- it\u2019s full of strangers, the walls are thin, and privacy seems impossible. Even if you want to meet people, getting out there is daunting. But when your faithful pet escapes, you have no choice! \n\nEp 2 - Join the Club\n\nOn your second day at Ye OLDE, it\u2019s time to join a social club! If clubs aren\u2019t your thing and you refuse to join, you\u2019ll discover how hard it is to get alone time at Ye OLDE. And if social clubs do interest you, you\u2019ll have a chance to develop some special connections. \n\nEp 3 - Movie Night!\n\nTonight\u2019s film is a sci-fi classic starring Ye OLDE\u2019s resident rockstar, Jax Argo! But who you\u2019re going to the movie with turns out to be a bigger issue than you thought. The rules of dating are different in your golden years. Are you ready for the dating scene at Ye OLDE? ",
+        "languages": [
+            "en"
+        ],
+        "size": 406847488
     },
     "70010000018543": {
         "id": "0100C6800D9D0000",
@@ -4888,6 +5052,48 @@
         ],
         "size": 59768832
     },
+    "70010000021694": {
+        "id": "01008E500EDE0000",
+        "rightsId": null,
+        "name": "8-Bit Farm",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000021694,
+        "category": [
+            "Simulazione",
+            "Strategia",
+            "Puzzle",
+            "Study"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Kairosoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4c327f83a646798b3cd8c57a67ee5fe1348002f1411212a0039259f1eabeaf04.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/96b189c34b62da0f696bcc8a92fb3ea168366a1404e86d44697e85a66eabef05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f27d9ccc3a712b2a3b3c965fd28ba2ca95dda3217d638d8745ab322f296f900.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b5e29ab0949bd48d45672f52467fcb13e4e7cabc20968381d7c80cc3096e2645.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77a1fef616c8b6f49845e4862220693cfe88097b133029cd401f800b8267b357.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0eab9f3fc131d1aef96c376d68e745a478fe4b960b8e661f01f7ccca7d27c65c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6ae035dc7fdb1a237cd92ec2e7de94ed5e5ab9c3feda52cda063a28256b9aeb8.jpg",
+        "intro": "Farm management simulation game!\nCreate the most awesome farm!",
+        "description": "This humble little farm desperately needs a new manager, such as you! Start out by getting some livestock, grow flowers, fruit and vegetables, gradually expanding your fields and increasing the number of staff until you're ready to open for agritourism.\n\nAs your farm's Appeal grows, you will be able to enter a variety of contests. The key to winning is raising the levels of your produce and skillful placement of farm facilities so that they work together as combos. A prize-winning farm is certain to attract even more visitors!\n\nReceive photos as gifts from happy visitors or for completing achievements, and exchange them at the FarmMart to obtain a wide range of installations for your farm. Photos can also be traded at the Odds&Ends Shop for handy items such as gadgets which influence the weather.\n\nMore fun awaits at festivals, where you can try your skill in minigames like Tug of War, Outdoor Sports or puzzles. Apart from getting monetary prizes for winning these, you can also get cool hats for your staff.\n\nThe end of each year is a thrilling time, as that's when the National Farm Ranking is announced! Challenge yourself and see if you can top all rankings for sales, number of visitors, visitors satisfaction and number of staff!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 204472320
+    },
     "70010000021706": {
         "id": "010081700EDF4000",
         "rightsId": null,
@@ -5147,6 +5353,53 @@
             "zh"
         ],
         "size": 606076928
+    },
+    "70010000021931": {
+        "id": "01004A600EC0A000",
+        "rightsId": null,
+        "name": "IMMORTALS FENYX RISING",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000021931,
+        "category": [
+            "Avventura"
+        ],
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "Violence",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/60064f20bd80b9938eb2bb375a3d4477d5e91ad1c5c186d926c0bbd3305b6831.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8c51a38319ca2b9c7012843c1d56160cd2a9315e899c86cc7f8a33779a5ad454.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a82aca74d6f4bdc800fd71cab87e301178f8a6089cfabf645f7baaa2d409335f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce5f03c15a9f906cd801f862498832840c76d5e3df0ecd1c94fd14e51976e8e8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/794b2bb5cef67c85d917faa7acaa397e45ed058cda4a54d00e42b0d90c2c11a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58d4ad554aa4ef64f32f067f119477d3587bc85e60d7665c485daf179ff3def0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c53ad2b39a5911e89fc48cadb879c81b6f959e9058d3d063404e8b29657d3ec.jpg",
+        "intro": null,
+        "description": "SEI L'ULTIMA SPERANZA DEGLI DEI.\n\nNei panni di Fenyx, affronta una missione per salvare gli dei della Grecia da un'oscura maledizione. \nCombatti contro mostri mitologici, padroneggia i leggendari poteri degli dei e sconfiggi Tifone, il pi\u00f9 terribile Titano della mitologia Greca, in uno scontro epico.\n\n* SFIDA NEMICI MITOLOGICI\nAffronta mostri leggendari come il Ciclope, Medusa o il Minotauro in frenetici combattimenti aerei e corpo a corpo, utilizzando le armi e le abilit\u00e0 che ti hanno donato gli dei.\n\n* SPRIGIONA LA POTENZA DEGLI DEI\nGli dei dell'Olimpo ti hanno fatto dei doni. Usali per affrontare mostri mitologici, risolvere antichi enigmi ed esplorare un vasto mondo aperto.",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru"
+        ],
+        "size": 14134804480
     },
     "70010000021939": {
         "id": "0100B1500EF32000",
@@ -5829,6 +6082,98 @@
             "zh"
         ],
         "size": 622854144
+    },
+    "70010000022433": {
+        "id": "0100F0400F202000",
+        "rightsId": null,
+        "name": "No More Heroes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201028,
+        "nsuId": 70010000022433,
+        "category": [
+            "Azione"
+        ],
+        "ratingContent": [
+            "Violenza estrema",
+            "Linguaggio volgare"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Marvelous Europe",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9ee812b6392babb4f39dfd637c721815d6a95c0ef1d0fa778428abbff62be6f2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/718a50bc07154de031f054f2bfa037f79cd3a7f52671aff8ebb950a54cf0f9f8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7ba79076b00ca34b128b55f024944ae1e40bb839de7d20f7c7663d0b4ca3337.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3f11e4fec8e4787bdbe29ff4c0f82167342f2951bfd548b62b992b853e3f4d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/608f7442f9136bd745e217256414a4dce9ed978f96c5a91b53fbc3bf3125c159.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf9615af07e685fd0f87e504a86b93aae5be54e3f0e3362da483f3be071b4829.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5d550d686530263e9e2cc01e727515ddc5fcfae4c7469d24b4aa6639b183d50b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ffd58e667cad903bdec4e013d76e2704c7b30140cbe8bb0f215a6118606ab581.jpg",
+        "intro": "Combatti per diventare il numero uno nella versione rimasterizzata in HD del gioco di azione e assassini pi\u00f9 amato!",
+        "description": "Ottenuto l'11\u00b0 posto nella classifica della United Assassins Association, Travis Touchdown impugna la sua fida beam katana per sfidare i 10 migliori assassini al mondo in combattimenti all'ultimo sangue.\n\nNon sar\u00e0 facile, ma questo otaku americano non si arrender\u00e0 finch\u00e9 non avr\u00e0 conquistato il titolo di assassino n. 1 al mondo!\n\n\u2022 Sfreccia per le strade della citt\u00e0 costiera di Santa Destroy in sella alla moto di Travis: Schpeltiger!\n\n\u2022 Sblocca un devastante arsenale di mosse del wrestling professionistico, dalle Power Bomb ai Brain Buster.\n\n\u2022 Scatena la potente modalit\u00e0 Dark Side per sbarazzarti della concorrenza e mostrare ai nemici chi \u00e8 che comanda!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh",
+            "zh"
+        ],
+        "size": 2335178752
+    },
+    "70010000022437": {
+        "id": "010071400F204000",
+        "rightsId": null,
+        "name": "No More Heroes 2: Desperate Struggle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201028,
+        "nsuId": 70010000022437,
+        "category": [
+            "Azione"
+        ],
+        "ratingContent": [
+            "Violenza estrema",
+            "Linguaggio volgare"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Marvelous Europe",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a4d88957537964663b3682a07dd896261a48a1d07ea5b89ecc92c41d22620be0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ebc4e7062847cfe38fc7fa15ed360e6a539829339b479cdb5e36438f545aff05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/478948704e0f9e0da8fc233ec2ab582ef4547bbefdd677f6f0b038e96e057962.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4f08bf6b5ed449fe86764cd577b0cbfcdd107a1a4136db107bc9b4c3108ef814.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11221d7487b1d7d88f36ddfb3fc7283d1f0ec89a2cda12d793fab835fd53621b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7c2404f7357cffeff792a180695015dbe6f9be18b372a7347d17fd3802724fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15a8d05c1254ba8e3d3955c1ee0f574113257976be028411ed5648f85daaaa2a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2dbf3253a8b19c579432545ef20c47f3202bdbff1284302e79b62b9e1d539a99.jpg",
+        "intro": "Continua a combattere nella versione rimasterizzata in HD del sequel del gioco di azione e assassini originale!",
+        "description": "Tre anni dopo aver conquistato la vetta della United Assassins Association, Travis Touchdown inizia a perdere posizioni in classifica, precipitando al 51\u00b0 posto. Come se non bastasse, un assassino di nome Skelter Helter ha giurato di vendicare la morte del fratello per mano di Travis.\n\nSpinto dalle proprie ambizioni e da un desiderio di rivalsa, l'assassino otaku definitivo sfodera ancora una volta la sua beam katana per gettarsi a capofitto in una nuova sfida!\n\n\u2022 Dai libero sfogo alla tua furia omicida brandendo due beam katana contemporaneamente nei panni di Travis Touchdown!\n\n\u2022 Combatti nei panni dell'agile Shinobu o surclassa i nemici in quelli di Henry, il fratello di Travis.\n\n\u2022 Fai un salto nel passato, affrontando minigiochi a 8 bit per guadagnare soldi e potenziamenti!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh",
+            "zh"
+        ],
+        "size": 3713007616
     },
     "70010000022653": {
         "id": "010017900F414000",
@@ -7202,6 +7547,50 @@
         ],
         "size": 112197632
     },
+    "70010000024552": {
+        "id": "010042A00FBF0000",
+        "rightsId": null,
+        "name": "La mia scuderia 2: Una nuova avventura",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000024552,
+        "category": [
+            "Simulazione",
+            "Sport",
+            "Lifestyle",
+            "Avventura"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "TREVA",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b0d7e96a4001cbe3b175a6074f241da81706f5b6894aa4261312ddb93b3433ad.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2348fbbc69146a7105548fa63e7319361bc0ceda28c52750dc35876ea16a9ac2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a32b051dcecb0d408c6388657a8c8345b92d6e10aa52a657d1ba3018e3dbf71.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/464d1a5219e1c531ef505e6d877ee21e3e7210b09839aed27408f410dfad6aa9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ec839a7d12e65422c76cf963263010990c9e230ce0d5e0c8849f98797ed4dc4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e5c6f304238724decdf29078bc62dc1dbe2caedda0763a81e2072534267853d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa3dca517930ce2003826a36befb0061b95ac7b61fecc4716c0f87332bb74b66.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c0418186c1f97bb19defb1c299897f92b6d346311ad7abeba5197ad9d96dd099.jpg",
+        "intro": "Divertiti a cavalcare, a partecipare alle gare e tanto altro!",
+        "description": "Gestisci la tua scuderia e prenditi cura degli animali e degli ospiti. Cavalca in libert\u00e0 in questo open world, attraversando svariati paesaggi. I comandi di cavalcata sono intuitivi. Velocit\u00e0, abilit\u00e0 e coraggio sono indispensabili nei mounted games - giochi di equitazione emozionanti e divertenti! Allenati duramente e vinci nel torneo! \n\n\u2022 Scegli tra differenti razze di cavalli\n\u2022 Divertiti a cavalcare nell'open world\n\u2022 Affronta l'esaltante modalit\u00e0 Storia\n\u2022 Prendi parte a gare adrenaliniche per quattro discipline (orientamento, ostacoli, checkpoint, slalom)\n\u2022 Completa i tornei con quattro frenetici giochi di equitazione\n\u2022 Trova e ottieni forzieri del tesoro per sbloccare nuovi abiti\n\u2022 Divertiti con cinque minigiochi\n\u2022 Impara di pi\u00f9 sui cavalli e sull'ospitalit\u00e0\n\u2022 Gioca contro i tuoi amici in modalit\u00e0 multiplayer\n\u2022 Adatto ai bambini! Nessun acquisto o pubblicit\u00e0 nel gioco.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl"
+        ],
+        "size": 1568669696
+    },
     "70010000024622": {
         "id": null,
         "rightsId": null,
@@ -7562,6 +7951,46 @@
         ],
         "size": 768606208
     },
+    "70010000025853": {
+        "id": "010076B0101A0000",
+        "rightsId": null,
+        "name": "YesterMorrow",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000025853,
+        "category": [
+            "Piattaforme",
+            "Avventura",
+            "Azione"
+        ],
+        "ratingContent": [
+            "Paura"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Blowfish Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/376e111e51490998e240d7045a3540e1737b53f1f813117b653389e46a917243.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/19570e2b18533d31253ea2d84df3533f3b91bb17d55df628f222bc7d6b489468.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a953e66af2c9720902c91d80d8f982003aca1c86e4dbd8dd40bee8907e99450.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a748b6f175adef50a85f7a55a44e68d92612a6cbb9e9d3c2b6953ca7d0b9b1a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b47b9e373366a761309eb8f7e5f391ec400596bf5fb5bd9d4edc5c693048a34e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b3da548b8decb85946c21a9491866ffccd34ca137274036a226d339660d51aa0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a54ab241874d48039db5a61a0b6adeeb91f6bb03c2b3c5aaa4c482c85253e2b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/700198e6d206e935c1b7a58084f27ac092867f6ae89b4039b6955ca0ad7e3234.jpg",
+        "intro": "Segui il viaggio di Yui nel passato, tra linee temporali parallele, per salvare la sua famiglia e un mondo intrappolato nella Notte Infinita.",
+        "description": "Il suo mondo: distrutto. La sua famiglia: rapita. Unisciti alla nostra eroina Yui nel disperato tentativo di salvare tutto ci\u00f2 che ama! YesterMorrow \u00e8 un videogioco platform 2D con viaggi nel tempo a giocatore singolo che fonde azione e rompicapi. Segui l'avventura di Yui nel passato, tra ostacoli e luoghi nascosti, per recuperare quel che resta di un mondo intrappolato nella Notte Infinita. Intenta ad aiutare i sopravvissuti rimasti e a liberare la sua famiglia dalle grinfie delle Ombre, ci\u00f2 che scoprir\u00e0 strada facendo la lascer\u00e0 in balia di un'ardua scelta e il destino del suo mondo e dell'Ordine dei Guardiani del Tempo sar\u00e0 riposto nelle sue mani.\n\nDurante il viaggio, Yui:\n- Apprender\u00e0 i misteri della Luce Eterna, che le conferiranno abilit\u00e0 speciali e il potere di purificare il mondo dalle Ombre.\n- Attraverser\u00e0 due diverse linee temporali caratterizzate dalla placida calma del passato e dalle lotte del mondo corrotto del futuro.\n- Esplorer\u00e0 il vasto mondo di YesterMorrow che si estende lungo quattro isole diverse, caratterizzate da foreste lussureggianti, deserti abbandonati, tundre ghiacciate e, infine, l'Isola del Tempo, in cui combatter\u00e0 per cambiare il destino del suo mondo!\n- Incontrer\u00e0 tante creature pittoresche e affronter\u00e0 boss complessi.\n- Risolver\u00e0 rompicapi e trover\u00e0 modi per sfruttare l'ambiente a proprio vantaggio.\n- Individuer\u00e0 luoghi nascosti, otterr\u00e0 potenziamenti e informazioni sul mondo e i suoi abitanti.\n- Accarezzer\u00e0 tutti gli animali!",
+        "languages": [
+            "en"
+        ],
+        "size": 1067450368
+    },
     "70010000025855": {
         "id": "01006790101A2000",
         "rightsId": null,
@@ -7601,7 +8030,13 @@
         "description": "Ottobre 1944. Sta accadendo qualcosa di strano nella rustica cittadina norvegese di Sund\u00e4e: una misteriosa luna oscura sovrasta il cielo e crea incertezze tra i suoi abitanti.\n\nMentre la Seconda guerra mondiale continua, una divisione segreta del Terzo Reich, l'Okkulte-SS, arriva a Sund\u00e4e con lo scopo di lanciare un'antica maledizione, un atto disperato per cambiare le sorti della guerra.\n\nAlexei Krakovitz, un professore quadriplegico di scienze occulte e Akiro Kagasawa, il suo fedele assistente, vengono inviati in missione segreta in Norvegia per svelare il mistero e salvare il mondo dalle grinfie dell'Okkulte-55.\n\nUna storia originale con umorismo nero, piena di personaggi eccentrici, invenzioni diaboliche, indovinelli, occultismo, morti che parlano, streghe, vermi, una festa misteriosa e un'antica maledizione.\n\nUn'avventura da delirio che ti far\u00e0 delirare!\n\nFunzionalit\u00e0: \n\n- Storia unica e originale (GARANTITO AL 99,999999%).\n- Giocatore singolo, avventura piena di azione con doppio personaggio e risoluzione di enigmi.\n- Intraprendi questa eroica crociata contro l'Okkulte-55 con il professor Alexei Krakovitz e il suo fedele assistente giapponese, Akiro Kagasawa.\n- Grafica con pixel in stile retr\u00f2.\n- Un cast di personaggi bizzarri!\n- Visita Sund\u00e4e, un villaggio oppresso situato sulla costa nord-occidentale della Norvegia.\n- Parla con i morti.",
         "languages": [
             "en",
-            "es"
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "zh",
+            "zh"
         ],
         "size": 289406976
     },
@@ -7875,7 +8310,7 @@
             "zh",
             "zh"
         ],
-        "size": 898629632
+        "size": 1030750208
     },
     "70010000026193": {
         "id": "010058F010296000",
@@ -8099,6 +8534,52 @@
             "zh"
         ],
         "size": 4265607168
+    },
+    "70010000026434": {
+        "id": "0100D4600D0E4000",
+        "rightsId": null,
+        "name": "Descenders",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201106,
+        "nsuId": 70010000026434,
+        "category": [
+            "Sport",
+            "Corse",
+            "Simulazione",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "No More Robots",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6b3720db368aa41abf582da15c30bd87fdf462ad2c8a7a7ba44510c233b84373.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/72ecc8e91ef4a9ab7c562317071e5e8734518eb2dfb2cf7356ffb95777d8441d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f0bef83f47c97ab8c4d3c6f88021ea6b5268e9f83c95c00be44e7e1f0b170b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fc59483674b538078544694ea0c6092a0e9dfb559ea7f39785aac0fa6625890e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5441854accb4815eb72a43b1d9f8e63b57105bb8ff5e6146ef16143e5936edd8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/83870275b78812bd1b8ca729e9611512b5c4ffb93f3a220d465669f18881bcc1.jpg",
+        "intro": "Descenders is extreme downhill freeriding for the modern era, with procedurally generated worlds. Will you lead your team to glory and become the next legendary Descender?",
+        "description": "Descenders is a fast-paced extreme downhill biking game that's easy to pick up, but difficult to master.\n\n- Procedurally generated worlds: Take on different jumps, slopes and hillbombs every time you play\n\n-Freestyle bike controls: Control every subtle movement of your rider, with an in-depth physics system made for slick whips and scrubs\n\n- Rogue-Bike: Earn special mutators each time you play, and work out which abilities work best for your riding style\n\n- Build your Rep: A fully-featured online Rep system lets you show off your worth, and earn new bikes and threads\n\n- Fully licensed soundtrack: We've partnered up with drum & bass label Liquicity to bring you the perfect soundtrack for hitting the mountains\n- Become the next Descender: Can you survive the game in a single run, and reach the ranks of the legendary Descenders?\n\nGrab your bike, pick your team, and attempt to live up to the legend of your Descender. Will you join the die-hard, trick-frenzy ranks of Team Enemy, the proficient, off-road stylings of Team Arboreal, or the high-octane, speed-is-everything Team Kinetic?\n\nWear your team's colours and apparel with pride, and receive exclusive team gear!\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "zh",
+            "zh"
+        ],
+        "size": 2183135232
     },
     "70010000026474": {
         "id": "010063E0104BE000",
@@ -11499,6 +11980,51 @@
         ],
         "size": 1660944384
     },
+    "70010000028440": {
+        "id": "0100FBE0113CC000",
+        "rightsId": null,
+        "name": "Tropico 6 - Nintendo Switch\u2122 Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201106,
+        "nsuId": 70010000028440,
+        "category": [
+            "Simulazione",
+            "Strategia"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "KalypsoMediaGroup",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/603e531fd62fbc1ccfc2b99a8b58679850cbc19dd0c1044a25223a550b6ef8d5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dae8ee0e003901f7216b99c04d0493def76643133e03742b7f0830e44e2c87b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4edc5c3990e7858429f61dcbe83c2c4697ff477bc20fb61b9c564594b9fd04a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e44380411238a9fb913bddb9101a6c11c822bcb2c205c1ef931a23c5728d6f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ab5692d7b81a77f88c6c8295307ac1146c0cab00128fdb244234b1b962da12e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/32f33ebf31b8c392fb2ba969b4448db7133d510416e6db860ddf85a9857cbf84.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77650498a59f490282be5f014b058917381a91f8e1f9ee96311f3ae533512c6c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/35f2b324e9f41c9dcf891c43c7b0acfed78e0f93605495a90c8ee37fd6b1e47a.jpg",
+        "intro": null,
+        "description": "La Tropico 6 - Nintendo Switch\u2122 Edition include un modello esclusivo per il palazzo, lo stagno dei fenicotteri, ideale per far colpo sugli stati vicini, e un costume da turista per le calde notti caraibiche del Presidente.\n\nCaratteristiche:\n\u2022 Per la prima volta nella serie, giocherai su grandi arcipelaghi. Gestirai pi\u00f9 isole contemporaneamente e affronterai varie nuove sfide.\n\u2022 Invia i tuoi agenti all'assalto di terre straniere per saccheggiare le meraviglie del mondo e i monumenti da aggiungere alla tua collezione. \n\u2022 Costruisci ponti, scava tunnel e offri ai tuoi cittadini e ai turisti mezzi come taxi, autobus e funivie. Tropico 6 offre possibilit\u00e0 completamente nuove a livello di mezzi di trasporto e infrastrutture.\n\u2022 Personalizza l'aspetto del tuo palazzo come meglio preferisci e scegli tra i diversi elementi extra a disposizione.\n\u2022 Tropico 6 presenta un sistema di ricerca aggiornato incentrato sugli aspetti politici dell'essere il pi\u00f9 grande dittatore del mondo. \n\u2022 I comizi elettorali sono tornati! Rivolgiti alla gente e falle promesse che non potrai mantenere!\n\nIn tempi di trambusto politico e instabilit\u00e0 sociale, la gente invoca dei leader visionari, in grado di guidare il destino del Paese con lungimiranza e ingegno. Mettiti alla prova ancora una volta come dittatore temibile o come uno statista pacifista della nazione insulare di Tropico e plasma il destino della tua nazione attraverso quattro epoche distinte. Affronta nuove sfide sul piano internazionale e tieni sempre a mente i bisogni della tua gente. \n\nPer la prima volta nella serie, gestirai vasti arcipelaghi, costruirai ponti per collegare le tue isole e userai nuovi mezzi di trasporto e infrastrutture. Invia gli abitanti di Tropico in spedizioni per saccheggiare le meraviglie del mondo, comprese la Statua della Libert\u00e0 e la Torre Eiffel. Personalizza a piacimento il tuo palazzo e tieni comizi elettorali dal balcone per conquistare il favore dei tuoi sudditi.\n",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 4842323968
+    },
     "70010000028461": {
         "id": "01002AC0113DE000",
         "rightsId": null,
@@ -11912,24 +12438,42 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 2020,
+        "releaseDate": 20210226,
         "nsuId": 70010000028618,
         "category": [
             "Gioco di ruolo (RPG)"
         ],
-        "ratingContent": [],
-        "numberOfPlayers": null,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
         "rating": 12,
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5a2f67fe7011f6d57e88a8c503102f362b82c751057de9e80f2020b71f886d79.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2ea9b92005403c4456f8a778b453c794ce84481ad5a497efbfc2dc5f7706e81d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b99b5447fd9a4c1ea776bfbac921e57a27eec4b5eaa4ab8fee6a4616d71d723d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/92add87a4deaf8cf0e3cbba0c703b85c63fe1db8c024573e790eecea4a27847d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/93147243151cf5a5a9567db836980993425e943cbdaa9eaab41907bfe8d42390.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f2222a2097018f9ee23d6d043f70ba11d39ac56d6b4595131073fbe47e44cf5a.jpg"
+        ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5eaa3e063dc362a172f61db0f8693330354318754a965c4d76beb16dcede0222.jpg",
         "intro": null,
-        "description": "I creatori della serie Bravely e di OCTOPATH TRAVELER presentano Bravely Default II, in arrivo in esclusiva su Nintendo Switch nel 2020!\n\nQuesto seguito di Bravely Default offrir\u00e0 una nuova storia, un nuovo mondo e nuovi eroi, oltre a nuove musiche di Revo (Sound Horizon/Linked Horizon).",
+        "description": "Questo seguito di Bravely Default offrir\u00e0 una nuova storia, un nuovo mondo e nuovi eroi, oltre a nuove musiche di Revo (Sound Horizon/Linked Horizon).",
         "languages": [
-            "en"
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
         ],
         "size": 0
     },
@@ -12651,6 +13195,45 @@
             "zh"
         ],
         "size": 790626304
+    },
+    "70010000028991": {
+        "id": null,
+        "rightsId": null,
+        "name": "Our Two Bedroom Story",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200507,
+        "nsuId": 70010000028991,
+        "category": [
+            "Avventura"
+        ],
+        "ratingContent": [
+            "Sesso"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Voltage",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eb7ed3cb3d484ea3debe699399aa1abb980ebdb8f88cd1130f2bcfe179dd5f10.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/64bc2cedea8ff757b0c0ca37d1fcb605c679e585a0c2630dc51451697f3b9409.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e00058fb40c425a8c9742f39d7a830b17d12b3de9903d38072e5ffcc49dd048f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8a4f4596f5c9a51f2741d6dde90aa22806ffb34f36b933edbf5625c774d5e4aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f3060fd28659f1d00788dc3485ba29992b645aa2cf66fbbfe3791e2d2455f7eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f80438ec9d064c7fde3e3bc1049be71d8db1125ca889d7c646ec25b786c409ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d83d9d79254af9ea19e65c4d3df4b2737e81c7bc9e79757803f8250a2fdea71.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cb574a9171d67fef19ac724f3cd7025f22314828a4b0d4303c10e0a3ce6ac8bc.jpg",
+        "intro": "You could live with me.",
+        "description": "The Story:\nYou work for a publishing house and decide to start living on your own.\nBut a coworker's in your new home!\n\u201cThis is my house... but you could live with me.\u201d\nWhen your new roommate hands you the key, your secret life together begins...\n\nCharacters:\nMinato Okouchi   \"Bossy\"\nKaoru Kirishima   \"Cool\"\nShusei Hayakawa \"The Nice Guy\"\nChiaki Yuasa       \"Crafty\"\nAkiyoshi Zaizen   \"The Growler\"\n\nContents\nIncludes \"Main Stories\" in the App \"Love 365: Find Your Story.\"\nCollection of Main Stories spanning the series up until the Proposal Epilogue for Minato Okouchi, Kaoru Kirishima, Shusei Hayakawa, Chiaki Yuasa, and Akiyoshi Zaizen.\n\nNotice:\n\"The Proposal: His PoV\" is only available in Japanese.",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 652214272
     },
     "70010000028999": {
         "id": "0100707011722000",
@@ -15315,7 +15898,7 @@
         "developer": null,
         "publisher": "Another Indie Studio",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9038cc6134bbc3cc5823c198bf730b2b728848f3669af51a56f321bcb2284f76.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/16ad65ec356e84fa628595fbd9e5663411ec743743fe5535d6759ed75b4fde21.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/97c486829145d2c5bac7ec2419c318faedd5c5ad24e8740779c80b96fd99d129.jpg",
             "https://img-eshop.cdn.nintendo.net/i/52c94bd2ad83542938232393c175b4440407bd923ba87a915a2926a4e8d85048.jpg",
@@ -16122,6 +16705,50 @@
             "zh"
         ],
         "size": 6869221376
+    },
+    "70010000030523": {
+        "id": "010004901194A000",
+        "rightsId": null,
+        "name": "Trail Boss BMX",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201106,
+        "nsuId": 70010000030523,
+        "category": [
+            "Sport",
+            "Corse",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Yeah Us",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fd1c05bd6ef8fafbe38ddc9e75c27a62a5b4657073812b366d0bceda616f4b35.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d43016e99d21670966feb195324bdd5ca0f4c54a3b6b3bade01a47dd173e4fe4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed186d871f1f1a35e9cc9a2c310ff6eb50aeabba7b076ed771f2679c57d1cf7e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e946d61716c2158281a1507098476a5b92ba22f9abe841198ad1c66f0167a759.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b6ae0f49ace40800584b6235744068480cf8ee77770080b33ebde57a8f2e40f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/960be87c4a368f998f4d8e0b49c4544563f9a6f032ab7d445335c19b856cea63.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/49707fdbcb61819db0c435b5f2220510821dcf78fd031eca8117fb2d2ca0bdd5.jpg",
+        "intro": "Grandi salti, grandi acrobazie",
+        "description": "Supera livelli sempre pi\u00f9 complicati con la tua bici, eseguendo audaci acrobazie, mega-combo e prove di precisione e abilit\u00e0!\n\nContiene:\n- 40 LIVELLI\nTrail Boss presenta 40 livelli, realizzati a mano. Scolpisci il tuo percorso fino al traguardo, con una creativit\u00e0 senza limiti!\n\n- 360 SFIDE\nDalle sfide di evoluzioni a quelle a punti, dalle esercitazioni coi bersagli allo spaventare la fauna locale... L'enorme variet\u00e0 di sfide non ti far\u00e0 passare mai la voglia!\n\n- PERSONALIZZAZIONE BICI\nUna bici tosta come le tue abilit\u00e0, grazie alle vernici personalizzate!\n\nGrazie al suo esteso tutorial, sar\u00e0 facilissimo imparare a giocare a Trail Boss, ma le sue sfide basteranno a tenere impegnati anche i pi\u00f9 esperti rider. In sella!",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 976224256
     },
     "70010000030534": {
         "id": "0100B9400FA38000",
@@ -24128,7 +24755,7 @@
             "ko",
             "zh"
         ],
-        "size": 1318060032
+        "size": 2369781760
     },
     "70010000032767": {
         "id": "0100993012968000",
@@ -25182,7 +25809,7 @@
             "https://img-eshop.cdn.nintendo.net/i/2a7e7f7a7a16db0771c4274695b9b69ca85511d936ff1779a058ad4d843a6cab.jpg",
             "https://img-eshop.cdn.nintendo.net/i/9152bcb8156a61b122e224865f41729fa042d7cfc5507f0ca06a81761ba7ada1.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8c762be3b050de8d8586cc42d0cef09d106816741b871a2e25da4688b3d332b0.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7566ff48a9140ef08490729f4e7e6b7a23ad8096d8c9e7733e617e2ca0829c69.jpg",
         "intro": "Solve pixel puzzles, date superheroes, and save the day! Dating sim meets puzzle game in this romantic comedy adventure.",
         "description": "You are Pixel Girl, a superhero with the power of \"pixel puzzle-solving.\" Turn your problems into nonograms, then solve 'em to save the day!\n\nJoin the Puzzle League and date up to four of your fellow puzzle-themed superheroes, before the Villain third-wheels you with his doomsday plot!\n\nFEATURES\n\u2022 Dating sim meets puzzle game in this heartfelt superhero adventure\n\u2022 Join and date the Puzzle League: a group of 4 superheroes based on crossword, sudoku, chess and jigsaw puzzles\n\u2022 Over 250 pixel puzzles to solve: your superpowers make puzzles a part of the narrative\n\u2022 A supernatural plot weaving in multiple dates with each character\n\u2022 Exotic date locations: a caf\u00e9, the library, mountain climbing, and the center of the earth?!\n\u2022 Twists, turns, thrills, chills, puzzle fun, and puzzle puns! It's not over until the ending!\n\u2022 D A T E A G I A N T P U Z Z L E P I E C E\n\nMEET THE LEAGUE\n\u2022 Sudoku: the most logical of the group, magical girl outfit was made by a friend\n\u2022 Chess: careful planner, but tends to think in black-and-white\n\u2022 Pixel Girl (that's you!): surrounded by cuties and blessed with the power of attraction\n\u2022 Crossword: rarely gets cross, always has a way with words\n\u2022 Piecea: an alien from the Puzzle Planet who wants to get handsy with you... wait...\n",
         "languages": [
@@ -25441,6 +26068,43 @@
             "zh"
         ],
         "size": 443547648
+    },
+    "70010000033040": {
+        "id": "0100A35012908000",
+        "rightsId": null,
+        "name": "THE LAST BLADE: Beyond the Destiny",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70010000033040,
+        "category": [
+            "Picchiaduro"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "SNK",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d73bd4e2fce137688d823a5d62f96c2f8757ad95df71b5dafa879e9d73ee4488.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0dcd360c25f289a2975c10be7f0258e416bfb3cc11e64bdf39d944765791d21c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8c4dfaaa7ef154551abdc42d012bfe5cfde38b2351b3fb9df4005eee5e78a259.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd4158506f794977fb01804a9b2bc7d0d46a19b79666aab2f16257a2d0065973.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b3e3f8081fd84194421adc710fa5c9c444ff35d010c21ae206a9cf319113e9f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/457590ee67a08154f558183ced2d2bce938a915904e5b6aa3b44bdc7b87f8d03.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f3edb610cb12a7474431212e7208304ca023ec8d5d32d08ef8ff54ffc847a7e9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4c7009ca66afc408c472134321d50bac763282cbd2aed62545c0024ede68ab5a.jpg",
+        "intro": "Originally released on the NEOGEO POCKET in 2000, \"THE LAST BLADE\" is coming to Nintendo Switch\u2122!",
+        "description": "The popular weapons-based fighting game: THE LAST BLADE, is now available in a special version!\nEnjoy intense battles, an epic story, mini-games, and more!\n\n- The game features a variety of modes, including STORY MODE, SURVIVAL, and TRAINING, in which you can enjoy the story of this series.\n\n- The game includes two mini-games and power-up scrolls unique to the main game. Play the game to unlock them.\n\n- You can also play VS battles against other players in tabletop mode or handheld mode. Play epic battles against your friends!\n\n*The manual included in the game it is from the NEOGEO POCKET Color edition. Therefore, some of the controls may vary on the Nintendo Switch.",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 136314880
     },
     "70010000033045": {
         "id": "010045C011DF6000",
@@ -26525,6 +27189,43 @@
             "ko"
         ],
         "size": 199229440
+    },
+    "70010000033265": {
+        "id": "0100D73012850000",
+        "rightsId": null,
+        "name": "THE KNIGHT OF QUEEN",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70010000033265,
+        "category": [
+            "Gioco di ruolo (RPG)"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "VR RPG",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3a507dbea9a3dc1181fd95f77f76c1b48eb06451b7707f6e1b9091364d5e2adc.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/91e7044fee62f25a0561b81ac7659e0fd1854278edb261a70c43c67c142dd724.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/777a8289be60eb110b4ce64195f5bfd1b4ae47746f557fd54d1c4d91c9c334e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e0df280599f9747c485177300fdb2536ef3a2fc2929b830239f8c430ecd7698.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb1837efa9fd704414e0e82c854410ff25d802240f02548926895ee39711d851.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a3915b89fa0c78a961075cf8a11debd223d3a6e9d17d09cd55e48858b2fd792.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8e660238a27acc03086b71b07d62eaae660454f87bf65e56ed38be3fd05683b6.jpg",
+        "intro": "Dive into the world of an old-school RPG in VR !! Become the Hero of his majesty the Queen, by exploring the world to defeat the vicious Devil King !!",
+        "description": "\u201cTHE KNIGHT OF QUEEN\u201d is a Role-Playing Game which a player can experience the world of the RPGs played around 1990 which is fully playable in VR. The game has a medieval world and a nostalgic one-on-one turn-based command input battle system. \n\nYou play as a knight of a medieval queen and explore a world ruled by\u00a0the Devil King\u00a0who threatens peace by defeating various monsters and collecting various information and items.",
+        "languages": [
+            "ja",
+            "en",
+            "zh"
+        ],
+        "size": 239075328
     },
     "70010000033270": {
         "id": "0100C20012A54000",
@@ -28826,7 +29527,7 @@
             "https://img-eshop.cdn.nintendo.net/i/16313fb68e88a6761f5fb8f60e7db3f3f4cfc5340eb61d3fee2906d200dcf51d.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5322b7ff7d3580d7076c51ba28ab46a6778b31292629e91156d73dc5440ef1d6.jpg",
-        "intro": "Mentre studia per gli esami di ammissione all'universit\u00e0, Mitsuki si avvicina molto pi\u00f9 di quanto avesse mai immaginato.",
+        "intro": "Mentre studia per gli esami di ammissione all'universit\u00e0, Mitsuki impara molto pi\u00f9 di quanto avesse mai immaginato.",
         "description": "Mitsuki si trasferisce dal paese a Tokyo per frequentare una rigorosa scuola di preparazione agli esami, con la speranza di superare gli esami di ammissione all'universit\u00e0 la prossima primavera. Ben presto per\u00f2 scopre che gli altri suoi compagni di classe lo trattano come un emarginato sociale, essendo di gran lunga il pi\u00f9 grande d'et\u00e0 della sua scuola. Sembra impossibile fare amicizia, e Mitsuki si condanna a un'esistenza isolata e solitaria...\n\nFino a quando non incontra Himuro Kyouko, una madre single che si trova a vivere nel suo stesso complesso di appartamenti. Mitsuki si offre di aiutare Kyouko a fare da babysitter a sua figlia Tama. Kyouko, a sua volta, aiuta Mitsuki a studiare per i suoi prossimi esami. Nel corso di un anno, i due legano - prima come amici e poi come qualcosa di pi\u00f9.\n\nCaratteristiche:\n* Circa 80.000 parole di storia cinetica (circa 5-6 ore di lettura)\n* Sfondo dettagliato e arte del personaggio\n* Una OST personalizzata\n* Messaggi giornalieri da Kyouko, l'eroina della storia\n* Una madre single carina!",
         "languages": [
             "en",
@@ -29971,6 +30672,53 @@
         ],
         "size": 100663296
     },
+    "70010000034529": {
+        "id": "010000401313A000",
+        "rightsId": null,
+        "name": "Demong Hunter",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70010000034529,
+        "category": [
+            "Azione",
+            "Arcade",
+            "Gioco di ruolo (RPG)",
+            "Avventura"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "TROOOZE",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ac2a2ac9d9bfafd0dc4c8b38689979b32be5b250ce418f03f387b5b140fb93d1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/03d7ae7f5cfcf9c9d2452f9d03e26f4d8ab96b2dea1ee0a5aa1d447f4c053063.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3df03e3c9b9574ab4ce33481df8b5d883a57180b38bd5eae3d99aa701a704e43.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e8e61a281b1c03a424cfd8d566bd479ee7917a1f143292c83da3f2e70a47daa6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b633d4473543ac9512d5784d4780e028cb51abbb1e8dc5009716a6ca7a1a9815.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d7351d757f9335f25ce955b2c9ace247b01b9f2098db4f9c4d8c2bf7bbff050.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/286530c0d67465fd87e170de97dc4d04cb841e3d90326948f3b54a94b94e48e2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/39752cdacf79a8d184bb0526114eab3156bff0982664c01ce48a099a57d8fbdc.jpg",
+        "intro": "Stunning 3D Graphics using Toon Rendering Techniques! Experience a Unique Attack Style with Different Characters. Attack! Avoid! SD action to Enjoy Control!",
+        "description": "Demong Hunter is the story of a Hunter trying to Regain Peace by defeating the bug \u2018Demong\u2019created by the whole brain in the virtual world.\nEnjoy the Battle with Different Special Skills and Unique Attack Style for each Character.\n\nEnjoy Fantasy RPG elements by\nCollecting Gold to increase your Stats\nAnd Defeating the Boss to Collect Artifacts for Special Effects.\nAfter the Ending, Many Volume Stages will lead you to the True Ending.\n\nHighly Recommend this game to those who Love Fast-Paced Battles with Adorable Characters,\nand those who Love Continuous Stages with Various Attack Actions with a Sword and a Bow.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 244318208
+    },
     "70010000034531": {
         "id": "010076001311E000",
         "rightsId": null,
@@ -30355,7 +31103,7 @@
             "https://img-eshop.cdn.nintendo.net/i/760cfb7bdb69d01a35d125b75c4378e61e0181c1e5b925e54696fd96e022e45a.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ad455f8756b26fdbd38f6aa67d88010782c988ea7d9da34ef5b98aa952fc7de7.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/442b79c9a45f0748ec791ededd40ffb5605f9ea94927d1e8362a8011e131b6c9.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ecb6c67b4a74a2a9506b5b4ea2f39f91696c2ae8823fe71bcc5426fb0c105592.jpg",
         "intro": "Ottieni il mestolo fortunato come bonus se preordini il gioco sul Nintendo eShop!",
         "description": "Viaggia nel passato e combatti per impedire la distruzione del regno di Hyrule in Hyrule Warriors: L'era della calamit\u00e0 per Nintendo Switch!\n\nHyrule Warriors: L'era della calamit\u00e0 combina un gameplay all'insegna dell'azione e gli incantevoli paesaggi di The Legend of Zelda: Breath of the Wild per dare vita a una nuova e appassionante esperienza.\n\nUn secolo prima degli eventi di The Legend of Zelda: Breath of the Wild, il fato di Hyrule \u00e8 in bilico. Guida le tue forze sul campo di battaglia e affronta la temibile calamit\u00e0 Ganon. La sopravvivenza del regno dipende da te...\n\nIl bonus per il preordine, il mestolo fortunato, potrebbe essere disponibile per l'acquisto in una data successiva.",
         "languages": [
@@ -31108,6 +31856,48 @@
         ],
         "size": 6808403968
     },
+    "70010000034925": {
+        "id": "0100E9D00D6C2000",
+        "rightsId": null,
+        "name": "Touhou spell bubble",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70010000034925,
+        "category": [
+            "Puzzle",
+            "Musica",
+            "Party",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "TAITO",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/16f229e98133cff46332d2a2e13fd769f09efc05f57a1bdff2895ad88877eb1d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9709b480cd214434f7af3cb035a81f185c3309ded56c6ae052c126021af1c8a8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/86e853d4cccceceb2aaed83e361d8f132732cdbdce36ccd47b185a3801d2e352.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9eb2a850cf8d2ea29e35cccf6370a44d24a4261a2f13493deeafe541f212ec5a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/913a2e21b377529c5bf55e8552d790bdb7bed64dc47d404ba0eeefd77edbc02c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12fca92ecbace87b5f35593c108c34049d9232853b02e01e101bbb56ae19245d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca559ee468200cad427ac8a52145e9bc76111438ae804648a78ff68fe786aa27.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e3b0c0c9e769542626b7b50476f1bdbbf1f01d30f34a813eb0e8dcf5b156917d.jpg",
+        "intro": "Rythmic puzzle action meets arranged Touhou beats!",
+        "description": "A fusion of rhythm and puzzle in a simple to pick up action puzzle game! 20 characters and 48 arranged tracks from Touhou to do battle with!\n\n\u25a0Puzzle action with a new, rythmic beat!\nA simple to control puzzle game with an added layer of rhythm-action combine to produce a whole new puzzle experience played to a catchy beat!\n\n\u25a0Play with Touhou Project characters!\nMake use of all 20 characters from Touhou Project, including Reimu and Marisa, and a total of 60 different spell cards to aim for victory!\n\n\u25a0Story mode!\nThe game also includes a story mode that you can play by yourself. Travel through the world of Gensoukyo and enjoy an original story, only available here!\n\n\u25a0Challenge mode!\nYou will fight against strong enemies with designated characters and spells in the challenge mode.\nThere are also stages with higher difficulty level. Let's challenge it!\n\n\u25a0A collection of 48 arranged tracks from Touhou Project!\nA total of 48 tracks including, of course, many fan favourites along with 12 exclusive, new tracks only available in Spell Bubble!\n\nMusic Highlights:\nBad Apple!! feat. Nomico\nGrip \uff06 Break down !!\nNight of Knights / Knight of Nights\nCirno's Perfect Math Class\nEven the Blossoming Flowers Will Eventually Scatter \nYukemuri TamaOnSen II\nShinkirou\nDance in the Blue Sky, Ink-Black Cherry Blossom\nTouhouYouyoumu \uff5ethe maximum moving about\uff5e\nGensou no sateraito\nAnd many other famous songs!\n\n\u3010Artist\u3011\nAmateras Records\nA-One\nDemetori\nEastNewSound\nFELT\nIOSYS\nLiz Triangle\nMasayoshi Minoshima \nShibayanRecords\nSilver Forest\nSOUND HOLIC\nSYNC.ART'S feat. Misato\nTaNaBaTa\nAkatsuki Records\nKishida Kyoudan & The Akeboshi Rockets\nShinra-Bansho\nSekkenya\nRD-Sounds\nTamaOnSen\nbeatMARIO\nBUTAOTOME\nYuuhei Satellite\nZUNTATA\n\n\u25a0Additional song packs are now available!\nAdditional song packs with plenty more famous tracks are now available!\nIf you want to get even more out of Spell Bubble, check them out.",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 1188036608
+    },
     "70010000034940": {
         "id": "01003C3013300000",
         "rightsId": null,
@@ -31278,6 +32068,55 @@
             "en"
         ],
         "size": 762314752
+    },
+    "70010000035012": {
+        "id": "0100041013360000",
+        "rightsId": null,
+        "name": "Control Ultimate Edition - Cloud Version",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201028,
+        "nsuId": 70010000035012,
+        "category": [
+            "Azione"
+        ],
+        "ratingContent": [
+            "Violenza intensa",
+            "Uso di alcol/tabacco"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "505 Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ec5d01e7990ac9760ad08da76b4a798bc53d6678faaa3abbc2871ca96e771711.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b3b57dc95fd6686e52df6a00ddcf7cab4cb8a80d7ecfc4869fa7f8c78e29492b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62cbd094cc5b29fa7ccfebbbff40529d3cd0f9d047112f50162d4ff72e5d0a31.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c2eb8aaab74ca100032534665db2f58c160de54c9dc0dd7a3353a5b5e4c3e73.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3415bb7054f52c1da278bc3f0cb7da5f8948424c8152e1fd4cec9fb563ffe8d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/149c046d0c28a40a17e20cd01ab53a06e1760767c5fa28a6482ee80938593cbb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e22338a89fd9a23443eb71db0ba660c2334a38d95f6367422dee80f4f23cc49.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3ea5af3bcd46e4aa2a5d33de61f7c87da915c79c4860e7926fc90942529cee39.jpg",
+        "intro": null,
+        "description": "Control Ultimate Edition include il gioco principale e tutte le Espansioni gi\u00e0 disponibili (\"\"Le Fondamenta\"\" ed \"\"EMA\"\") in un unico pacchetto davvero conveniente. \n\nUna presenza invasiva ha occupato il Federal Bureau of Control... e solo tu puoi fermarla. Lo scenario circostante sar\u00e0 la tua arma migliore in un epico scontro con un nemico minaccioso in una serie di ambientazioni profonde e imprevedibili. Il contenimento \u00e8 stato violato e ora l\u2019intera umanit\u00e0 \u00e8 in pericolo. Riuscirai a riprendere il controllo?\n\nVincitore di oltre 80 riconoscimenti, Control \u00e8 uno spettacolare gioco d\u2019azione e avventura in terza persona che ti terr\u00e0 col fiato sospeso. Combinando alcuni scenari aperti con la capacit\u00e0 di creare mondi e la narrazione del premiato sviluppatore Remedy Entertainment, Control offre una vasta esperienza di gioco davvero intensa e gratificante.\n\nCARATTERISTICHE PRINCIPALI\n\nSvela i misteri.\nRiuscirai a gestire i segreti pi\u00f9 oscuri dell\u2019Agenzia? Svela una lotta epica e sovrannaturale, ricca di personaggi inattesi ed eventi bizzarri mentre cerchi tuo fratello scomparso e scopri la verit\u00e0 che ti ha condotta qui.\n\nOgni oggetto \u00e8 la tua arma.\nScatena la distruzione trasformando la tua arma e sfruttando poteri telecinetici. Scopri nuovi modi per eliminare i nemici controllando potenti abilit\u00e0 per trasformare ogni cosa che ti circonda in un\u2019arma letale.\n\nEsplora un mondo misterioso.\nImmergiti nelle aree minacciose di un\u2019agenzia governativa segreta. Esplora gli ambienti in costante mutamento dell\u2019Agenzia solo per scoprire che l\u2019apparenza spesso inganna...\n\nCombatti per il controllo.\nAffronta un nemico spietato attraverso missioni emozionanti e boss impegnativi per guadagnare utili potenziamenti, in grado di massimizzare le tue abilit\u00e0 e personalizzare la tua arma.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 102760448
     },
     "70010000035078": {
         "id": "0100F7E01308C000",
@@ -31960,6 +32799,43 @@
             "en"
         ],
         "size": 0
+    },
+    "70010000036179": {
+        "id": "01006B5012B32000",
+        "rightsId": null,
+        "name": "Part Time UFO",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201028,
+        "nsuId": 70010000036179,
+        "category": [
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/268563c083ddb5f636521b56c2d52d274f41d692f8af10a95467e360862911f0.jpg",
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/298ac5eda5cbdbf2da9fa4c5c43f1dd2e374e201136ab3a39613ac460556ba77.jpg",
+        "intro": "Lavoratore part-time, UFO a tempo pieno!",
+        "description": "In Part Time UFO piloti l'UFO Jobski per completare una serie di lavoretti. Dai una mano in una fattoria, aiuta le cheerleader, crea un dessert da sogno al ristorante, costruisci castelli, e molto altro ancora! Dovunque vada, Jobski trover\u00e0 degli incarichi ad attenderlo e per portarli a termine pu\u00f2 contare sul suo futuristico e avanzatissimo artiglio! Usalo per afferrare, spostare e impilare gli oggetti, completando cos\u00ec i tuoi obiettivi.\n\nLavoro finito? Non proprio! Completando tutti gli incarichi part-time sblocchi l'isola del tesoro, un vero e proprio paradiso per gli amanti dei rompicapi che pu\u00f2 essere esplorato anche in cooperativa. Supera sfide ancora pi\u00f9 difficili per passare da una stanza all'altra in questa mini avventura!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 204472320
     },
     "70030000010781": {
         "id": null,
@@ -32934,6 +33810,62 @@
         "size": 319815680,
         "parentId": "0100FE10127F4000"
     },
+    "70030000012360": {
+        "id": null,
+        "rightsId": null,
+        "name": "Pixel Puzzle Makeout League Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012360,
+        "category": null,
+        "ratingContent": [
+            "Allusioni sessuali"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1107296256,
+        "parentId": "010000E00E612000"
+    },
+    "70030000012438": {
+        "id": null,
+        "rightsId": null,
+        "name": "TOUHOU Spell Bubble Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012438,
+        "category": null,
+        "ratingContent": [
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 261095424,
+        "parentId": "0100E9D00D6C2000"
+    },
     "70030000012458": {
         "id": null,
         "rightsId": null,
@@ -32988,6 +33920,34 @@
         "languages": null,
         "size": 1196425216,
         "parentId": "0100227010460000"
+    },
+    "70030000012507": {
+        "id": null,
+        "rightsId": null,
+        "name": "Hyrule Warriors: L'era della calamit\u00e0 Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012507,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1431306240,
+        "parentId": "01002B00111A2000"
     },
     "70050000012254": {
         "id": null,
@@ -47106,6 +48066,40 @@
         "languages": null,
         "size": 5242880
     },
+    "70050000023351": {
+        "id": null,
+        "rightsId": null,
+        "name": "Edahi & Dohai",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201106,
+        "nsuId": 70050000023351,
+        "category": null,
+        "ratingContent": [
+            "Violenza moderata"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Wild Sphere",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/19ec7258840bbce725adbafb81b2d3635784988b397fbd9d9e8576de86bfac89.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9eead3d9660bebe2d11ca6f5ed6eae58698362b3edcc3c8bf5eca1e72771b4bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38e171cdecd1cd039d761fe2edc495b5941f6c263966a5db10cdc633e22a6c49.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6467e1a0db4e2f397558b7413d48b4ba565c8277f7d32d01162ef317d8fdf72a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b60447a6178f9d29f3f8a9f4cd7e8fbd42ebbb90badf0256fc2b50e634490fed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf2e183fb66760d2c81e73c71ce85d63c8586d03357304b16a62038290c7b43e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a91c8e8831b9e739a16b1f44df371e37e4267efe394e0ce6fb2b7ac7f12367ee.jpg",
+        "intro": "20 nuovi livelli alla ricerca dei primi due guardiani.",
+        "description": "La prigione in cui sono recluse le ombre \u00e8 diventata debole e le ombre stanno cercando di scappare. Solo i Tre Guardiani possono ripararla, ma sono stati contaminati dal male che fuoriesce dalle crepe del Sigillo.\n\nTrova i primi due guardiani, Edahi e Dohai, e liberali dalle ombre in 20 livelli con nuovi nemici, meccaniche di gioco e sfide, oltre a due potenti boss nemici.\n",
+        "languages": null,
+        "size": 0
+    },
     "70050000023356": {
         "id": "0100EB10108EB001",
         "rightsId": null,
@@ -47536,6 +48530,259 @@
         "languages": null,
         "size": 0
     },
+    "70050000023415": {
+        "id": null,
+        "rightsId": null,
+        "name": "Pacchetto storia Ninjala: Capitolo 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70050000023415,
+        "category": null,
+        "ratingContent": [
+            "Violenza moderata",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "GUNGHOONLINE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ce7361ba6558fc0ded802054cc4f5ac513b8209e79f72864e6a334e9baecb2a9.jpg",
+        "intro": "Una nuova offerta che ti permette di giocare offline alla modalit\u00e0 storia di Ninjala!",
+        "description": "Completa le missioni Ninja per guadagnare tanti oggetti speciali!\nLa modalit\u00e0 storia \u00e8 giocabile offline.\nGioca alla misteriosa storia ninja, narrata attraverso racconti grafici, filmati e appassionanti sequenze di combattimento. Durante le sequenze di combattimento, tra le tante missioni, dovrai trovare e sconfiggere i malvagi Ninja Spaziali. La missione finale consister\u00e0 nello sconfiggere un robot gigante che metter\u00e0 a dura prova le tue abilit\u00e0.\n\u25a0 Oggetti speciali\nPacchetto storia Ninjala: il Volume 2 ti dar\u00e0 l'opportunit\u00e0 di ricevere ricompense speciali esclusive.\n\u25a0 La storia\nBerecca viene inviata nella citt\u00e0 di Oedo dal Maestro Genryusai in una missione ninja top-secret.\nL\u00ec, incontra Leonard, un uomo ritenuto morto in un incidente anni fa insieme a suo padre.\n\"Questo significa che ... anche pap\u00e0 potrebbe essere vivo !?\"\nBerecca insegue Leonard, non rendendosi conto che sta per coinvolgersi in un'oscura cospirazione ...",
+        "languages": null,
+        "size": 198180864
+    },
+    "70050000023466": {
+        "id": "010018400C24F001",
+        "rightsId": null,
+        "name": "(Free) Wanderer of Time Costume Set (15 Total)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70050000023466,
+        "category": null,
+        "ratingContent": [
+            "Orrore",
+            "Violenza contenuta"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Netmarble Corporation",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0279d4832b70377ddf2432095437917fd48cfefefdec981e80b9baf90937732f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4ded4c20c08c12a1ec567c62b508ac81a2165bc88e395a75054c20c78b06d3b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f59d17cdcc5f683ec9c8db4daf40d76043d5ba7d52d6db3a7b623135068c0376.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ebfd2e1da06d8cd3fac8cc10f6c8c1e0bffa88fce039450c049468590ceae3ee.jpg",
+        "intro": null,
+        "description": "Seven Knights - Time Wanderer -  (Free) Wanderer of Time Costume Set (15 Total)\n Claim free costumes for released characters!\n \n <Set Contents>\n - Vanessa's Costume \"Descendant of Magic\"\n - Hayoung's Costume \"Spirit Lamp's Owner\"\n - Shane's Costume \"Test Subject\"\n - Orly's Costume \"Realized Potential\"\n - Karl Heron's Costume \"Daybreak Mercenary\"\n - Aquila's Costume \"Slayer\"\n - Ace's Costume \"Young Lord\"\n - Kagura's Costume \"Chosen One\"\n - Lina's Costume \"Onmyoji\"\n - Teo's Costume \"Wind Blade\"\n - Rudy's Costume \"Guardian\"\n - Elysia's Costume \"Baron's Daughter\"\n - Karma's Costume \"Four Lord\"\n - Rin's Costume \"Emperor's Daughter\"\n - Kris's Costume \"Dark Rival\"\n 15 Total\n \n <Warning>\n - You can only purchase the costume set once. (This item is free)\n - You can equip in-game after purchasing.\n - Please claim from \"May\" in the Room of Sand.\n - Hero portraits don't change.\n - Costumes only change hero appearance - they don't increase stats.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023467": {
+        "id": "010018400C24F002",
+        "rightsId": null,
+        "name": "Casual Costume Set (15 Total)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70050000023467,
+        "category": null,
+        "ratingContent": [
+            "Orrore",
+            "Violenza contenuta"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Netmarble Corporation",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2724613325d0acde43b04317c0c090e1c90882ceb3879622590aeead3c49802d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24c1e3ba65c1dd3c35733fb2811e212e8ac62ab036d3bc46b1bcd35992020fbd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16a28c21c452e27224634e02d966a65664b5d24497a5809ce75a594f2928c933.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/827186c67b195b6a17c399d3edb141390f1a8f1a3bb68356935b23d86294b039.jpg",
+        "intro": null,
+        "description": "Seven Knights - Time Wanderer -  Casual Costume Set\n You can't always be on the battlefield - Don't you want to see characters' casual sides?\n \n <Set Contents>\n - Vanessa's Costume \"Time Traveler\"\n - Hayoung's Costume \"Seer\"\n - Shane's Costume \"Special Agent\"\n - Orly's Costume \"Battlefield White Mage\"\n - Karl Heron's Costume \"Wandering Mercenary\"\n - Aquila's Costume \"Crusader Captain\"\n - Ace's Costume \"Great General\"\n - Kagura's Costume \"Priestess\"\n - Lina's Costume \"Onmyoji of Music\"\n - Teo's Costume \"Black Bird\"\n - Rudy's Costume \"Light Guardian\"\n - Elysia's Costume \"Apprentice Knight\"\n - Kris's Costume \"Dark Conqueror\"\n - Karma's Costume \"Sage of Sorrow\"\n - Rin's Costume \"Mir's Master\"\n 15 Total\n \n <Warning>\n - You can only purchase the costume set once.\n - You can equip in-game after purchasing.\n - Please claim from \"May\" in the Room of Sand.\n - Hero portraits don't change.\n - Costumes only change hero appearance - they don't increase stats.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023468": {
+        "id": "010018400C24F003",
+        "rightsId": null,
+        "name": "Cosplay Costume Set (15 Total)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70050000023468,
+        "category": null,
+        "ratingContent": [
+            "Orrore",
+            "Violenza contenuta"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Netmarble Corporation",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a893581869ecb493c86043443e3ea9ce8da6fa45c69402c4289c66b8da48ab5b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e0233f9d7582b01f7bb7f0d80e89181d3b0d1a32e894b1767ea887a90695f859.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/32ea134e66f3eb3988d6419638c73ee74f0042c25193b83668f672c0202c05be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b8e5cef0c78ab6628c69cab9246d42e326e08394b8d0a4c0731502e2be65eb2b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e0dc087c34590dfe101f16875b054b085bdc702efeb35e7378ffe85121be0ad9.jpg",
+        "intro": null,
+        "description": "Seven Knights - Time Wanderer -  Cosplay Costume Set\n Time to dress up the characters in what suits them best! The Cosplay Set brings out their personalities!\n \n <Set Contents>\n - Vanessa's Costume \"Desert Garnet\"\n - Hayoung's Costume \"Snowflake Rhapsody\"\n - Shane's Costume - \"Kendo Captain\"\n Orly's Costume \"Owl Maid\"\n - Karl Heron's Costume \"Prince of Blood\"\n - Aquila's Costume \"Shepherd of Battle\"\n - Ace's Costume \"Moonlight Warrior\"\n - Kagura's Costume \"Festival of Flowers\"\n - Lina's Costume \"Pink Diamond\"\n - Teo's Costume \"Crow High Steward\"\n - Rudy's Costume \"Ethereal Guardian\"\n - Elysia's Costume \"Starlight Guide\"\n - Kris's Costume \"Azure Executor\"\n - Karma's Costume \"Night Goblin\"\n - Rin's Costume \"Shepherd of Souls\"\n 15 Total\n \n <Warning>\n - You can only purchase the costume set once.\n - You can use equip in-game after purchasing.\n - Please claim from \"May\" in the Room of Sand.\n - Hero portraits don't change.\n - Costumes only change hero appearance - they don't increase stats.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023469": {
+        "id": "010018400C24F004",
+        "rightsId": null,
+        "name": "Guardian Costume Set (12 Total)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70050000023469,
+        "category": null,
+        "ratingContent": [
+            "Orrore",
+            "Violenza contenuta"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Netmarble Corporation",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/97d1e84fbe611c5d795f3fe77abfd2a147d0144fc369ffa2b76a2390ad9019a4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fadd06cbe926fa4bd30d78a1ce168979cac5a39cb48d976db8ef41307c3e8c9e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7adbb33244fcd059ac6c7372f715cffffa2bce8e808efeda08ab9ddf7e1d9e5c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/864858868f9e4a4977715eaf06f4f30de90de32892ac0d36f905910fe9778e24.jpg",
+        "intro": null,
+        "description": "Seven Knights - Time Wanderer -  Guardian Costume Set\n Honorable costumes of the guardians that saved the world in the past - a must-have for a hero!\n \n <Set Contents>\n - Vanessa's Costume \"Guild Guardian\"\n - Orly's Costume \"Guild Guardian\"\n - Karl Heron's Costume \"Guild Guardian\"\n - Aquila's Costume \"Guild Guardian\"\n - Ace's Costume \"Guild Guardian\"\n - Kagura's Costume \"Guild Guardian\"\n - Teo's Costume \"Guild Guardian\"\n - Rudy's Costume \"Guild Guardian\"\n - Elysia's Costume \"Guild Guardian\"\n - Kris's Costume \"Guild Guardian\"\n - Karma's Costume \"Guild Guardian\"\n - Rin's Costume \"Guild Guardian\"\n 12 Total\n \n <Warning>\n - You can only purchase the costume set once.\n - You can equip in-game after purchasing.\n - Please claim from \"May\" in the Room of Sand.\n - Hero portraits don't change.\n - Costumes only change hero appearance - they don't increase stats.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023470": {
+        "id": "010018400C24F005",
+        "rightsId": null,
+        "name": "Swimsuit Costume Set (13 Total)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70050000023470,
+        "category": null,
+        "ratingContent": [
+            "Orrore",
+            "Violenza contenuta"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Netmarble Corporation",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/395c69695157952588f597071c1eed703a1e86c73f4f26053549108139bd48a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad8c3d876bd389719237dc49a93fd3bc89f1bc369d3dc6cdaea0790b56ab274b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b24d7413774e139da805c9215710085e4f1898b8b44a25c5dadff1a55f8ee724.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b0aaa8c778a1abc7c20e33f3df683d9a89bb93ec13f41fc2b61b85e06c34cff9.jpg",
+        "intro": null,
+        "description": "Seven Knights - Time Wanderer -  Swimsuit Costume Set\n Characters get hot in the summertime! Swimsuit Costume Set that makes you feel refreshed!\n \n <Set Contents>\n - Vanessa's Costume \"Southern Garden\"\n - Hayoung's Costume \"Seaside Shopper\"\n - Shane's Costume \"Varsity Swimmer\"\n - Orly's Costume \"Blue Butterfly\"\n - Karl Heron's Costume \"Spear of Waves\"\n Aquila's Costume \"Marine Fortress\"\n - Ace's Costume \"Wave Cutter\"\n - Kagura's Costume \"Marine Girl\"\n - Lina's Costume \"Southern Waterfront\"\n - Teo's Costume \"Evening Waves\"\n - Elysia's Costume \"Indigo Queen\"\n - Karma's Costume \"Waterspout\"\n - Rin's Costume \"Master of Sea Dragon\"\n 13 Total\n \n <Warning>\n - You can only purchase the costume set once.\n - You can equip in-game after purchasing.\n - Please claim from \"May\" in the Room of Sand.\n - Hero portraits don't change.\n - Costumes only change hero appearance - they don't increase stats.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023471": {
+        "id": "010018400C24F006",
+        "rightsId": null,
+        "name": "Four Seasons Costume Set (10 Total)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70050000023471,
+        "category": null,
+        "ratingContent": [
+            "Orrore",
+            "Violenza contenuta"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Netmarble Corporation",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7ed673dce6da59955abd411006ca136ddfe6a31f79b0c557bf1f89c7609f84d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e13191effd15d5ac823d2911aa5cd879ad4fd0baf9898d622cc5c38a54af7ccb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/083f05b0ca47be650b9df7d01f744056298f23c11ea234c87b14c105954bf454.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a13c3919b734e2f0f65a53dd7f26a623803c9db8d6bca845fbfdabd9264d575f.jpg",
+        "intro": null,
+        "description": "Seven Knights - Time Wanderer -  Four Seasons Costume Set\n Tired of wearing costumes for only one season? Get costumes for all four seasons! Everything from Spring, Summer, Fall, and Winter!\n \n <Set Contents>\n - Vanessa's Costume \"Messenger of Love\"\n - Orly's Costume \"Waltz of Frost Flowers\"\n - Kagura's Costume \"Cherry Blossom Priestess\"\n - Lina's Costume \"Chantress of Camellia\"\n Teo's Costume \"Blueberry Ganache\"\n - Rudy's Costume \"Absolute Order\"\n - Elysia's Costume \"Whiskey Bonbon\"\n - Kris's Costume \"Ice Prince\"\n - Karma's Costume \"Vengeful Blades\"\n - Rin's Costume \"Mint Chocolate\"\n 10 Total\n \n <Warning>\n - You can only purchase the costume set once.\n - You can equip in-game after purchasing.\n - Please claim from \"May\" in the Room of Sand.\n - Hero portraits don't change.\n - Costumes only change hero appearance - they don't increase stats.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023472": {
+        "id": "010018400C24F007",
+        "rightsId": null,
+        "name": "Splendid Union Costume Set (9 Total)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70050000023472,
+        "category": null,
+        "ratingContent": [
+            "Orrore",
+            "Violenza contenuta"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Netmarble Corporation",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/01f75184d270bdef6886ab5516367c42dc8a3ffb96f09964ed4bf02b4c4595d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a4f024ddfb3adc95920604dc52f2da5e452a66c3dfb0cf62db1449adb1678505.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aeb5ba14ed90972a6861426038a4a98bc9433bcaf243da4284110a20e07adc5d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a5e5d5702486ea938928368c1e9dc13e05c37b23fdda1a1ed566b5a55ab689cf.jpg",
+        "intro": null,
+        "description": "Seven Knights - Time Wanderer -  Splendid Union Outfit Set\n Fancy in battles - Feel the charm of characters with both strength and appearance.\n \n <Set Contents>\n - Vanessa's Costume \"Order of the Hawk\"\n - Shane's Costume \"Follower of Destruction\"\n - Ace's Costume \"Destroyer of the Abyss\"\n - Lina's Costume \"Follower of Destruction\"\n - Teo's Costume \"Destroyer of the Abyss\"\n - Rudy's Costume \"Order of the Hawk\"\n - Kris's Costume \"Order of the Hawk\"\n - Karma's Costume \"Destroyer of the Abyss\"\n - Rin's Costume \"Destroyer of the Abyss\"\n 9 Total\n \n <Warning>\n - You can only purchase the costume once.\n - You can equip in the game after purchasing the costume.\n - Please claim from \"May\" in the Room of Sand.\n - Hero portraits don't change.\n - Costumes only change hero appearance - they don't increase stats.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000023500": {
         "id": null,
         "rightsId": null,
@@ -47756,6 +49003,322 @@
         "description": "A DLC pack for GROOVE COASTER WAI WAI PARTY!!!! that includes 10 songs, navigators, and avatars from GROOVE COASTER series!\n\nThis pack includes the following content.\n\n\u25a0Song Pack (10 songs)\n\u30fbGimme gimme virtuaL saikou star!!!!\n\u30fbGROOVE THE HEART\n\u30fbCaramel Mocha\n\u30fbUnder The Moon\n\u30fbZawawa\n\u30fbPUT YOUR HANDS UP\n\u30fbZenjinrui Inuka Keikaku\n\u30fbAurgelmir\n\u30fbFUJIN Rumble\n\u30fb\uff1f\uff1f\uff1f\uff08Secret\uff09\n\n\u25a0Navigator\n\u30fbSakuramiko *with voice\n\u30fbHoushou marine *with voice\n\n\u25a0Avatar\n\u30fbMIKO(2D)\n\u30fbMARINE(2D)\n\u30fbYMIR(2D)\n\u30fbDOG(2D)\n\u30fbBIPLANE(3D)\n\n*Some content will be unlocked via missions after downloading.",
         "languages": null,
         "size": 50331648
+    },
+    "70050000023569": {
+        "id": null,
+        "rightsId": null,
+        "name": "Here's to the Birthday Boy!: Minato",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70050000023569,
+        "category": null,
+        "ratingContent": [
+            "Sesso"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Voltage",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2e89a53f12c8e62bc8028425a0802d5eb2946d216c68d035b044896a5516b168.jpg",
+        "intro": null,
+        "description": "Minato's birthday is the 1st of August! What will you do to make him say, \"This was the best birthday ever, but I want one more thing: you.\"?",
+        "languages": null,
+        "size": 15728640
+    },
+    "70050000023570": {
+        "id": null,
+        "rightsId": null,
+        "name": "Here's to the Birthday Boy! Kaoru",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70050000023570,
+        "category": null,
+        "ratingContent": [
+            "Sesso"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Voltage",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/46fcbdf206c4e2d153020fdcec1c18f2f24fc26366a6bcb78136e69660b8a927.jpg",
+        "intro": null,
+        "description": "Kaoru's birthday is the 12th of November! You're preparing a surprise for your beloved when he says, \"Make those expressions only for me.\" Kaoru showers you with affection in return! It's sure to be a wonderful day for both!",
+        "languages": null,
+        "size": 12582912
+    },
+    "70050000023571": {
+        "id": null,
+        "rightsId": null,
+        "name": "Here's to the Birthday Boy!: Shusei",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70050000023571,
+        "category": null,
+        "ratingContent": [
+            "Sesso"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Voltage",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2745cf9e8bea34d43282baa9ac14b7aeae59948535b71da99ee3d92bcf3a6f97.jpg",
+        "intro": null,
+        "description": "Shusei's birthday is the 1st of September! But will a sudden business trip ruin your plans, or make this the best birthday ever? Special birthday image included!",
+        "languages": null,
+        "size": 11534336
+    },
+    "70050000023572": {
+        "id": null,
+        "rightsId": null,
+        "name": "Here's to the Birthday Boy!: Akiyoshi",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70050000023572,
+        "category": null,
+        "ratingContent": [
+            "Sesso"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Voltage",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c14a0130db7383c6a6a0ac80e6f8a804793cfec632967e233374ea2254587abb.jpg",
+        "intro": null,
+        "description": "It's Akiyoshi's birthday on the 20th of May! You have it all planned out until he says... \"Let's have fun all night long.\" The birthday boy knows EXACTLY what he wants!",
+        "languages": null,
+        "size": 12582912
+    },
+    "70050000023573": {
+        "id": null,
+        "rightsId": null,
+        "name": "Don't Tell Him I'm Popular!: Minato",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70050000023573,
+        "category": null,
+        "ratingContent": [
+            "Sesso"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Voltage",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cb97e5b0c4be6a60fff6857160a5e368f979330e0d46f2c629bf42850b8f78cb.jpg",
+        "intro": null,
+        "description": "You're living with all of Seasonelle now, and finding time to be with Minato is harder than ever! Then one day, Minato sees you with Tsumugu... Will you be able to resist Tsumugu's charms and keep Minato as your one and only?",
+        "languages": null,
+        "size": 29360128
+    },
+    "70050000023574": {
+        "id": null,
+        "rightsId": null,
+        "name": "After the Crisis: Minato",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70050000023574,
+        "category": null,
+        "ratingContent": [
+            "Sesso"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Voltage",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9aae4ed69681e83b1bb79e80920894fb670286a59f520ac91589f5a5d40416c9.jpg",
+        "intro": null,
+        "description": "Living with all these blokes never bothered you much, but Minato sees them for who they are! How will he show you he's the only one worthy of your love?",
+        "languages": null,
+        "size": 9437184
+    },
+    "70050000023592": {
+        "id": "0100E9D00D6C3001",
+        "rightsId": null,
+        "name": "Special Song Pack Vol. 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70050000023592,
+        "category": null,
+        "ratingContent": [
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "TAITO",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/44701a94bb50c1f423c0513410664660a6752b4555276b505ea58f8df5c49b41.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad9a7e03641cb3d7382acbc6bf38f88d53c6d24f5b4ea42ff322da3e566f226b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74612c4983a3525f6178f333659b9122967f28472feb97e71ff937fea2bb5bb8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2d625382c5fc90170a006d31d687f38ad79be7e966fe2ce1ef17e6adf6fcb125.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e0f99efd0d0a8cfc4aa7f1be8796eb50a5feeba8cedfc883915aec5b801c8b7b.jpg",
+        "intro": "All the popular songs from famous circles!",
+        "description": "It's a special song pack including 6 popular arrangements of Touhou songs, plus 6 challenges to go with each song!! This pack includes new artists, GET IN THE RING and TUMENECO!\nThis pack includes the following content.\n\n\u25a06Songs (sample by pressing Y)\n\u30fbLast Devil's Little Sister Flandre S. / Beat Mario\n\u30fbGame is Over (feat. ytr, Matsu, Rapbit) / TamaOnSen\n\u30fbPRESERVED VAMPIRE / SOUND HOLIC feat. Nana Takahashi\n\u30fbNecromantic / Akatsuki Records\n\u30fbFestival Flame / GET IN THE RING\n\u30fbSend Stars Round the Sky Faster than the Moon / TUMENECO\"\n\n\u25a06 Challenge stages\n\u30fbLv4 Shall We Play Together? (Send Stars Round the Sky Faster than the Moon)\n\u30fbLv5 Remi's Request (Festival Flame)\n\u30fbLv6 Me?! A Training Partner?! (Necromantic)\n\u30fbLv6 Bestow Everything Unto Me (PRESERVED VAMPIRE)\n\u30fbLv8 Last Devil's Little Sister?! (Last Devil's Little Sister Flandre S.)\n\u30fbLv10 I Can't Believe I'm Taking This Game So Seriously! (Game is Over (feat. ytr, Matsu, Rapbit))\n\n*In order to play purchased songs, you need to restart the game after purchase.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023595": {
+        "id": "0100E9D00D6C3002",
+        "rightsId": null,
+        "name": "Scarlet Devil Land Song Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70050000023595,
+        "category": null,
+        "ratingContent": [
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "TAITO",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/df02e652f68cb3bac8b045b7695c3e660a855dd2d5c255cacf790690c660d50e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9edb38d48fed7dac69360ec53444c40d20d29cbc2c87a44f768cdd163c96dd62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/36083411d6aa1f646f4deaa188f24650fd8da0d0398d9b335b1150273a908395.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad78c798bb267b853e9253634ffe1ef7241dec98c29db682e802e90367e7e9ad.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ae8abf7908a511017045e169ec0201756e56ee8040f5f2721200bda754634a01.jpg",
+        "intro": "New music pack, Phase 2: \"Scarlet Devil Land Song Pack\"!",
+        "description": "This new music pack, \"Scarlet Devil Land Song Pack\"contains 6 songs and challenges!\nNew artists have been added to this set:\nAbso\u042fute Zero & Girls Logic Observatory!\"\n\nThis pack includes the following content.\n\u25a06Songs\n\u30fbHitorishizuka / Yuuhei Satellite / Music: Apparitions Stalk the Night\n\u30fb\u2468Till you know / Abso\u042fute Zero / Music: Beloved Tomboyish Daughter\n\u30fbSham / ShinRa-Bansho / Music: Voile, Magic Library\n\u30fbBloody Devotion / Akatsuki Records / Music: The Maid and the Pocket Watch of Blood, Lunar Clock ~ Luna Dial\n\u30fbA Seeping Bloodline, the Prison of Lunacy / EastNewSound / Music: Septette for a Dead Princess\n\u30fbBroken Doll March / Girls Logic Observatory / Music: U.N. Owen Was Her?\n\n\u25a06 Challenge stages\n\u30fbLv4 Annoying Tenshi (Hitorishizuka)\n\u30fbLv5 I\u2019m the best! Right?! (\u2468Till you know)\n\u30fbLv6 Update Development (Sham)\n\u30fbLv8 Scarlet Devil Mansion Hot Scoop! (Bloody Devotion)\n\u30fbLv9 The basement is dark, narrow and boring! (A Seeping Bloodline, the Prison of Lunacy)\n\u30fbLv10 Broken with the Slightest Touch (Broken Doll March)\n\n*In order to play purchased songs, you need to restart the game after purchase.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023596": {
+        "id": "0100E9D00D6C3003",
+        "rightsId": null,
+        "name": "Shinra-Bansho Music Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70050000023596,
+        "category": null,
+        "ratingContent": [
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "TAITO",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f19e912fda0e920cc1b7ac5437f9f7e6f2f8f15d688853a4b6d211a015c1896d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08f8cd14909a3f212acfcda700513919b1455ba049daf228d3dbbacb7450f65c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/893a35629b2c66f3e9d6c90f1c248579100568e43126d7cadf4fe18b883bcc3d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30550a068d90e86cdfd51a2f21bdd8bb9d2b750c8b7edbb14279899009d5e71a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4cbe1566a6259a38800b4dbae2f6d03fc78a9c1d66dd09bb49d32b8fa6aecbed.jpg",
+        "intro": "Phase 1 Artist Pack includes Shinra-Bansho!",
+        "description": "Phase 1 pack includes the twin vocals of Ayaponzu* & Ayo and popular artist Shinra-Bansho!\nThis pack includes 6 songs, each with their own challenges.\n\nThe popular Mischief Sensation and Happy Egoist, as well as\nDendera Party Night are included in this pack!\n\nThis pack includes the following content.\n\n\u25a06Songs \n\u30fbMischief Sensation\n\u30fbHappy Egoist\n\u30fbMaid\u2019s Heart is a Puppet\n\u30fbMY Heart Rate\n\u30fbCharismatic Purgatory Goddess\n\u30fbDendera Party Night\n\n\u25a06 Challenge stages\n\u30fbLv4 Id & Ego (Happy Egoist)\n\u30fbLv5 Youkai! Monster! Ghost! (Dendera Party Night)\n\u30fbLv6 Scarlet Sister Squabble (Mischief Sensation)\n\u30fbLv7 My Hakurei (MY Heart Rate)\n\u30fbLv8 Puppet & Puppet Master (Maid\u2019s Heart is a Puppet)\n\u30fbLv10 Youmu Konpaku, still needs training \u2460(Charismatic Purgatory Goddess)\n\n*In order to play purchased songs, you need to restart the game after purchase.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023602": {
+        "id": null,
+        "rightsId": null,
+        "name": "Later Daters Part 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70050000023602,
+        "category": null,
+        "ratingContent": [
+            "Allusioni sessuali"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Bloom Digital",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fcc0909462f492066828b1c24fd41e8dbc7fef6340856b01b99155f481cb1f85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e0b483c18563288d8e11f29cb30a5e97efbaa343f25ce5ff51ef312797fa1f14.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20d325c3a94cf239e70b2b13476af06bfa13170d218c68e8f96b4092e6a6d399.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/22cdc81ef018e72cd3fa6b7ce4d29643626e9817dcbcc6f283338d410550fbe8.jpg",
+        "intro": "Choose what happens next at the Oceanview Living Domicile for the Elderly, and smooch some sexy seniors.",
+        "description": "Something is brewing at Ye OLDE\u2026 is the happy family of friends you\u2019ve made headed for splitsville? It\u2019s up to you to keep everyone together or bring on the drama. Whatever you choose, you\u2019re in for a helluva ride.\n\nIncludes Episodes 4-7!",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023895": {
+        "id": "01002B00111A3001",
+        "rightsId": null,
+        "name": "Bonus per il preordine della versione digitale",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70050000023895,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/30af6919961c083b1ef852c4f5e8f02e3c237414b5bc48c3e1ba3cb5c9a45bac.jpg",
+        "intro": "Strumento per il gioco: mestolo fortunato",
+        "description": "Una delle armi che Link pu\u00f2 usare nel gioco. Puoi equipaggiarlo per combattere (abbinato a un coperchio) o lo puoi fondere con altre armi per avere un potenziamento delle statistiche.",
+        "languages": null,
+        "size": 4194304
     },
     "70070000010486": {
         "id": null,
@@ -49886,6 +51449,73 @@
         "languages": null,
         "size": 6505365504
     },
+    "70070000011252": {
+        "id": null,
+        "rightsId": null,
+        "name": "Costume Set Bundle Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70070000011252,
+        "category": null,
+        "ratingContent": [
+            "Orrore",
+            "Violenza contenuta"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Netmarble Corporation",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e1380b0a9bf1bfe7c3fb8a3bd919fccb30db0500a4391a7fdb67369402d3e0f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d45b8344f2cd7c7de69e5e3d6c3ce8cea47d54880ff0c7fefb74194a05788460.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35962e953a65816abd68ed892e543e84bd9077b0bb8caaada096ba8c36ea6864.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e64d6c85c08ca176798e54ff4e70cacf363a6b2a48c9f33babc55eba9a0c79fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9cb0eab934818ae9f3762d7fe56b0ed475ef0c4349101f044b55bcd8f86ef624.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7f7b1c28628bd08be7ae674ae76331240e0a930ad5b2f1c7463e3509e460ca72.jpg",
+        "intro": null,
+        "description": "Get the Costume Set Bundle Pack at a reasonable price that includes\n every costume set from Seven Knights - Time Wanderer - !\n \n <Contents>\n 1. (Free) Wanderer of Time Costume Set (15 Total)\n 2. Casual Costume Set (15 Total)\n 3. Cosplay Costume Set (15 Total)\n 4. Guardian Costume Set (12 Total)\n 5. Swimsuit Costume Set (13 Total)\n 6. Four Seasons Costume Set (10 Total)\n 7. Splendid Union Costume Set (9 Total)\n \n <Warning>\n - You can only purchase the costume set once.\n - You can equip in-game after purchasing.\n - Please claim from \"May\" in the Room of Sand.\n - Hero portraits don't change.\n - Costumes only change hero appearance - they don't increase stats.",
+        "languages": null,
+        "size": 29360128
+    },
+    "70070000011253": {
+        "id": null,
+        "rightsId": null,
+        "name": "Seven Knights -Time Wanderer - Special Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70070000011253,
+        "category": null,
+        "ratingContent": [
+            "Orrore",
+            "Violenza contenuta"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Netmarble Corporation",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a2c05af791de885c018224957d48558e31d7193caedc70a36d4034e97a14599e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/094f077e07ba36ff5a6aa2bb8827a88c8993ab1ca8e26bc5df6475e024aefa37.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f104622ff6996385333cce896b16f2bb11001f20e1f8743a3bfce4150274f2ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f25b9bc9d5e157a6dd338b706e8931fc1173f169c423bda51c392e846d8e727.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d60c8e5e7c8307fa5375bc08451e94a88fa6dba17d553bdbf342c22d7e7b890f.jpg",
+        "intro": null,
+        "description": "The special edition is a costume set bundle pack\n that includes every costume set and the main game.\n \n <Contents>\n 1. Main Game\n 2. Costume Set Bundle Pack\n Every costume - 89 total (includes 15 free costumes)\n \n Experience all of Seven Knights - Time Wanderer -  at a reasonable price!\n \n <Warning>\n - You can only purchase the costume set once.\n - You can equip in-game after purchasing.\n - Please claim from \"May\" in the Room of Sand.\n - Hero portraits don't change.\n - Costumes only change hero appearance - they don't increase stats.",
+        "languages": null,
+        "size": 8316256256
+    },
     "70070000011266": {
         "id": null,
         "rightsId": null,
@@ -49918,5 +51548,90 @@
         "description": "This DLC Pack includes:\n\n\u25a0 Mecha Painting Set 1\n\u25a0 Graeme & Vulphaes\n\u25a0 Shepherd J\u00e4ger & Morris\n\u25a0 Round Hammer Particle Cannon\n\u25a0 Pilot Pack 1",
         "languages": null,
         "size": 20971520
+    },
+    "70070000011277": {
+        "id": null,
+        "rightsId": null,
+        "name": "Birthday Story DLC Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70070000011277,
+        "category": null,
+        "ratingContent": [
+            "Sesso"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Voltage",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/40ca54bbfbce55ec75c221253605d580039b720f8f4b0c3d7eae982d6ce64854.jpg",
+        "intro": null,
+        "description": "Birthday Story DLC Pack\n\nHere's to the Birthday Boy!: Minato\nHere's to the Birthday Boy! Kaoru\nHere's to the Birthday Boy!: Shusei\nHere's to the Birthday Boy!: Akiyoshi",
+        "languages": null,
+        "size": 52428800
+    },
+    "70070000011278": {
+        "id": null,
+        "rightsId": null,
+        "name": "Don't Tell Him I'm Popular!: Minato DLC Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70070000011278,
+        "category": null,
+        "ratingContent": [
+            "Sesso"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Voltage",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a70d5699ba6cdecd6384a71986ed87fa2653834283d01fe9f9b906664554876a.jpg",
+        "intro": null,
+        "description": "Don't Tell Him I'm Popular!: Minato DLC Pack\n\nDon't Tell Him I'm Popular!: Minato\nAfter the Crisis: Minato",
+        "languages": null,
+        "size": 38797312
+    },
+    "70070000011280": {
+        "id": null,
+        "rightsId": null,
+        "name": "Later Daters Part 1 and 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70070000011280,
+        "category": null,
+        "ratingContent": [
+            "Allusioni sessuali"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Bloom Digital",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fcc0909462f492066828b1c24fd41e8dbc7fef6340856b01b99155f481cb1f85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e0b483c18563288d8e11f29cb30a5e97efbaa343f25ce5ff51ef312797fa1f14.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20d325c3a94cf239e70b2b13476af06bfa13170d218c68e8f96b4092e6a6d399.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f6af824572755652222de1beab68276e5199026191d9c801905a5f401012d91a.jpg",
+        "intro": "Play as an octogenarian and find somebody to love, or just get your kicks in while the getting is good. If the chairs are rockin', don\u2019t come a-knockin'. ",
+        "description": "You\u2019re the newest resident at Ye OLDE retirement community, where you\u2019ll meet a cast of sexy seniors who are all dying (not literally) to meet you. It\u2019s a lot like summer camp, but with orthopedic shoes, bridge clubs, and more jell-o. It\u2019s an adjustment as you settle in, but who knows: maybe these will turn out to be the best years of your life!\n\nAdventure, passion, and transformation are not experiences reserved for the young. Later Daters portrays the aging process as a rollicking romp and reminds us of what the elderly can teach us about our capacity for love.\n\nGameplay Features:\nPlay as a sexy senior! Customize your look, name, romance history, and gender.\nHave some intimate adventures that deal with mortality, vulnerability, and getting some action.\nEnjoy LGBTQ inclusive romance and poly relationship options.\nPick your favorite companion creature: A cat, a dog... Or a robot?\nDate and flirt with eight fetching residents of Ye OLDE...",
+        "languages": null,
+        "size": 856686592
     }
 }
