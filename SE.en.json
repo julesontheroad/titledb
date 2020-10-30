@@ -6712,7 +6712,7 @@
             "zh",
             "zh"
         ],
-        "size": 1310720000
+        "size": 1380974592
     },
     "70010000023331": {
         "id": "010084600F7FE000",
@@ -7676,6 +7676,51 @@
         ],
         "size": 150994944
     },
+    "70010000024866": {
+        "id": "01003E700FD66000",
+        "rightsId": null,
+        "name": "Alt-Frequencies",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201210,
+        "nsuId": 70010000024866,
+        "category": [
+            "Puzzle",
+            "Adventure",
+            "Strategy",
+            "Board Game"
+        ],
+        "ratingContent": [
+            "Mild Swearing"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Plug In Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dd0108537b67a3de8b1fd4bfcd9d72190eebda867c98f8d46bebb339bc595c63.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/36b5df5a10734babfc8c119b2f55fc32d462b3120312e91847f99cbe1c6f2900.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/097f7c9cdda0f58baebce7b9ed09a681745c327106e5955b95600dd0f3f41d54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e8ba78aab1dbb0409a6c644d1c23ce854d9a6853ad1deebb36d00055cd818d2f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c6b1c6af7ec160a0814360098bca82c7889bdb8f3c9d8bca2bf9758d370ecb2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b42d4645462a36fe2497e5091dd95b530926b145613df9f3d0526779665a75c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a188570befce253db0000caa84187fe2785eddbb6851ee35df5bbc78c500761.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d57719576f9d5a956585f57caaf84f1bf449202cb59ff8b0debfdd2eb8752297.jpg",
+        "intro": "What happens when everyone is stuck in the same time loop, without knowing?",
+        "description": "Alt-Frequencies is an audio mystery game where you use the airwaves to open the world\u2019s eyes to the truth. Record, rewind time and broadcast snippets of radio shows to expose radio hosts, conspiracy theorists, politicians, underground activists - and a dog.\n\nBy redistributing information, you change what happens in the next 3 minute time loop and impact both news cycles and the lives of the people behind them.\n\nListen as their personal stories evolve, in a world that seems to stand still.\n\n\nFeatures:\n- A new kind of narrative game that blurs the lines between the fantastical and the everyday while examining our relationship with mainstream media through the prism of radio stations.\n- Built-in accessibility features that make the game available to a wide range of people - including blind and visually impaired players.\n- Brought to life by a diverse cast of 20+ amazing voice performers, including TV, podcasts and YouTube personalities such as Jasika Nicole (Fringe, Welcome to Night Vale) & Mike Rugnetta (Reasonably Sound, CrashCourse).\n- By the studio behind the critically acclaimed A Normal Lost Phone and Another Lost Phone: Laura\u2019s Story.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 534773760
+    },
     "70010000025151": {
         "id": "0100E9000FE70000",
         "rightsId": null,
@@ -7768,7 +7813,7 @@
             "it",
             "nl"
         ],
-        "size": 2204106752
+        "size": 2225078272
     },
     "70010000025487": {
         "id": "01007D8010018000",
@@ -8260,7 +8305,7 @@
             "it",
             "ko"
         ],
-        "size": 3377463296
+        "size": 4723834880
     },
     "70010000026183": {
         "id": "0100ED2010292000",
@@ -8534,6 +8579,51 @@
             "zh"
         ],
         "size": 4265607168
+    },
+    "70010000026374": {
+        "id": "01009D50103E8000",
+        "rightsId": null,
+        "name": "World Of Solitaire",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201106,
+        "nsuId": 70010000026374,
+        "category": [
+            "Board Game",
+            "Strategy",
+            "Puzzle",
+            "Adventure"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/413133654ccd37505292eced6c96ae47b7cc38c807503cd6bfe79b703078ec47.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/02440764681c2e1d5c8171d5a242a77f30112bda9d112312b6e513797567c790.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9506ef2f7125fdabdaa4cb9f3bfd08906739dd6ff893fd87e5c50611c2fdbde.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5367a25a16b98b7add3633d6fe14dc62b47bc9b2d0af34ce742a005367c6f6ea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/439833d55c2f234872d4139481c6202b04abe9084a168d259db812349ec3b435.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/41d0ba1f863859165f09af41cd92521addbc487890b36fc297ab2cbb0e6f606a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c86bc2276937a67dde95a4bdf28779718e01fdc3cfe2a8c7386bbaa903839e40.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/60f46e36b615d0475f6b67269f32f2a9590c62e8a4345a1e84667c2922d6a1e0.jpg",
+        "intro": null,
+        "description": "A classic collection of Solitaire games featuring stunning 3D graphics, now on Nintendo Switch\u2122!\n\nFind the secret behind the cards and uncover a mysterious quest in World of Solitaire, featuring 5 classic versions: Klondike, Spider, FreeCell, Tri-Peaks and Pyramid.\nProgress through the game to unlock unique card sets and backgrounds. Customise the game\u2019s appearance with beautiful card designs, while stunning animations offer a unique and immersive playing experience.  \n\nEnjoy the most popular card game ever with hours of endless entertainment in the palm of your hand!\n\nFEATURES:\n* Playable with touch screen, Joy-Con\u2122 or Nintendo Switch Pro Controller\n* 20 beautifully designed 3D themes\n* Play in 3D mode or in classic 2D top-down view\n* Detailed statistics \n* Quest Mode with a mysterious story\n* 25+ awesome music tracks\n* 15+ handcrafted card designs \u2013 front and back\n* 2 different intuitive control setups\n* Undo & hints provide help if you get stuck\n* Game tutorial for new players\n* Classic Solitaire games \u2013 Klondike, Spider, FreeCell, Tri-Peaks and Pyramid",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 460324864
     },
     "70010000026434": {
         "id": "0100D4600D0E4000",
@@ -15076,7 +15166,7 @@
             "it",
             "nl"
         ],
-        "size": 836763648
+        "size": 1439694848
     },
     "70010000029760": {
         "id": "01006C301199C000",
@@ -15225,11 +15315,9 @@
             "Fighting",
             "Adventure"
         ],
-        "ratingContent": [
-            "Fear"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 2,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "7 Raven Studios",
         "frontBoxArt": null,
@@ -16796,7 +16884,7 @@
             "ru",
             "zh"
         ],
-        "size": 6705643520
+        "size": 7079985152
     },
     "70010000030539": {
         "id": "010075601150A000",
@@ -17354,6 +17442,7 @@
             "Shooter"
         ],
         "ratingContent": [
+            "Mild Swearing",
             "Moderate Violence"
         ],
         "numberOfPlayers": 1,
@@ -19582,6 +19671,53 @@
         ],
         "size": 229638144
     },
+    "70010000031730": {
+        "id": "0100EE50122BC000",
+        "rightsId": null,
+        "name": "The Pew Pew Bundle Vol. 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000031730,
+        "category": [
+            "Action",
+            "Shooter",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Digerati",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/555dc3663e82c34297eb3e831ca6fca8a250e8502536e622953fcce0ce93c5c1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e41069d08aa2a473efc0482268f02e668139c63206c1afe6355b995d16f4a6c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6851eb6f4aa6b64e919760a92b32b985837389df54cac338800640ad45a66cac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40392987067cefab6bf854ed413eb42063e3e1f2ebafa6f78da22c278b848eff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8c8073d09dd87b8a21e8c59b6268ac5d8cd0d3203f70dcc83e022fc2ecb2938c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61e0e44e10fc061e789a1ebeef55807b5e4ec6a27fb95475513cd66bc7945869.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e8758034edfc11fc346ce63d29a6b37379c19cd6edb19f80a0e2a26752a9ce1b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/437dc57f4bd149b638acb85b0da48c1cfe59d43288deb32c959b9d8021b66b0f.jpg",
+        "intro": "Three firepowered favourites in one super-shooty bundle!\n",
+        "description": "Prepare to fire! Three incredible shooter-focused favourites in one explosive bundle:\n\nBlack Paradox: Unleash an arsenal of weapons, power-ups, drones, and other upgrades to defeat the galaxy\u2019s most dangerous criminal organization in this fast-paced roguelite shoot 'em up.\n\nBleed 2: A furiously fun and fast-paced run-and-gun arcade action game. Pink-haired heroine Wryn, the world\u2019s greatest \u2013 and only remaining \u2013 hero, returns to defend the globe from an invading force of villains. \n\nXenoRaptor: Take on heavily-armed space dragons in this frantic twin-stick shooter. Strip defeated foes of their parts to assemble the ultimate weapon. \nHarness the power of railguns, tractor beams, mind control, and much more. ",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 1333788672
+    },
     "70010000031733": {
         "id": "01007800122C8000",
         "rightsId": null,
@@ -20261,7 +20397,7 @@
             "de",
             "ru"
         ],
-        "size": 564133888
+        "size": 563085312
     },
     "70010000031855": {
         "id": "0100B7E01234E000",
@@ -20430,6 +20566,49 @@
             "it"
         ],
         "size": 146800640
+    },
+    "70010000031916": {
+        "id": "01008780123A0000",
+        "rightsId": null,
+        "name": "Iris and the Giant",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000031916,
+        "category": [
+            "Strategy",
+            "RPG",
+            "Adventure",
+            "Board Game"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Plug In Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/388e0e213ff57a229351914a7509872d33333dac9bebd340d9465be0dbe53dac.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/983fdf2cdd346b27ee9794750ccd01f89eb4e9a64006d55ba0db990733e0b21f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/530a6cb67af29ce78a6700717447794f2db66551e4466b751bf5ec9d592c222d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d5b2a951a61372eb8c2a5d14f6fb4e52a99001b4113bf327158caa30c3865a7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e8e2b39a09d36e6dcaa5de821e5ab23c00e3f962da938761adea44b8da496b6a.jpg",
+        "intro": "Ready to face your inner demons?",
+        "description": "Iris and the Giant is a fusion of a collectible card game with RPG and roguelike elements. You play as Iris, who must brave her fears in her imaginary world. Behind the game's unique minimalist art style players will explore a touching story of a young woman facing her inner demons and soothing the raging giant inside.\n\nBuild your deck \nWith every encounter, unlock new cards and earn points to boost Iris. Each attempt makes you stronger, and lets you go further!\n\nA poetic, melancholic story \nThroughout the game, you can uncover fragments of Iris' memories, giving you new insight into the reasons behind your adventure in her mind.\n\nFEATURES\n- Tactical battles: Face monsters in fights mixing CCG mechanics with RPG and roguelike elements\n- Deckbuilding: build a deck as you progress. Choose the best options for your long-term strategy out of a wide variety of cards\n- Deep customisation: The game is packed with 51 cards and choices in how to specialise your character, your deck, and your playstyle\n- A touching adventure: A lot of care was put into adding a compelling and emotive story to a genre traditionally light on narrative\n- A progressive difficulty curve: Makes the game accessible to all, but offers a challenge to even the most hardened of players",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 224395264
     },
     "70010000031918": {
         "id": "0100E66010ADE000",
@@ -20604,6 +20783,50 @@
             "zh"
         ],
         "size": 2425356288
+    },
+    "70010000031956": {
+        "id": "01008CE0123CC000",
+        "rightsId": null,
+        "name": "Arcade Archives 64th. STREET",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70010000031956,
+        "category": [
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Moderate Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 12,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9dd78f0e79ec82c79289bfff0201a75951ebc7b87756846528d955af0b82df29.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/167ee5238ef12f5bf84547baebbad53eb4a4d1636500f2b79511473b36a71170.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e4a24388234775eecceb9767617b183b8f744bcc6a20c1f4f8f6280f7884c2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/affdb875ea0796907216ecac22926da355d51def33ed91d517f2b17dd8d67433.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58cdf64a04f5704274086af238d4aa584340eb7beccc26600377449a5d64bf07.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5bd76cc03b29a400bc2607f133eefab128f8f6c50aa7452291f9bd79b57c5afd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d346116c6f87a3cadfceda22b26e222abfcf0f752b336d2c5139f65c4e75ea04.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dfd0fed3185e0d9400254a287b250fe57754f94dc9f4208abf03c0bb1df0ab9b.jpg",
+        "intro": "Slam evil against the wall!",
+        "description": "\"64th. STREET\" is an action game released by JALECO in 1991.\nDetective RICK and his partner ALLEN follow the kidnapping of a company president's daughter and fight the many thugs that attack them.\nIt's a game full of thrills, with the duo's satisfying combo moves and powerful attacks that slam enemies against walls!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 49283072
     },
     "70010000031959": {
         "id": "01005960123CE000",
@@ -22462,10 +22685,10 @@
             "Platformer"
         ],
         "ratingContent": [
-            "Mild Violence"
+            "Mild Swearing"
         ],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 12,
         "developer": null,
         "publisher": "Restless Corp",
         "frontBoxArt": null,
@@ -22508,11 +22731,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5d951b3a391c3f47ed01ce750de6d7d57b3c57a346142ae75ca154dda8706b58.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/4732e1a93d20e04d5c8e4148972c2a433d7e057a7e80de0546d2aa6540c6fc55.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/25479e49ba158a5214afa557054658ad418bfdfcb2b26df07d1d5bf61bfe807e.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/cb0910d622c5de06b76b22013df98ae8703b2582881a8164b1ce5644f5e497f4.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/47b2819c2b76dd3d047342322ec124be5efd2308c432111bf0a45e4c2bb9e103.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/c28621fc8629f5a53d9d5b68cc032bc02cdb72b349c6cd5d545416f96d4bf67e.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/d0bb5c285b4a301fe3f6248a59dca31b1f1d27357fc2b57964e97c8040a5850b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17ea9bc2ad8c7043e48e66c4a21c4cbff8e87849163fc4aaa69137dfaf0e0b84.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/85fc72021448ccb33e6b494d7a851160aceb36eb7e5616eabb6883436ae03dc2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3fb0c61b4a9ce8bc3e4b610f28d2c2362ff642dd84e8e88650ebd0849533e34e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a91ca9c77e5214d7b76a209e3c24b2d396e882846aae6c7beb411f01c044f96b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e3e2ad87ae806a05a4bddc11765e9fb8f1cf15af559007fdd7cfa360163888a.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9bb63b2e590e71fd462d1fc6695ceb759feab1a454ac74219e8032b902839ee3.jpg",
         "intro": "Scream like a man! Scream like a goat! Scream together! ",
@@ -24791,7 +25015,7 @@
             "en",
             "zh"
         ],
-        "size": 228589568
+        "size": 303038464
     },
     "70010000032772": {
         "id": "0100254012184000",
@@ -25865,7 +26089,7 @@
             "zh",
             "zh"
         ],
-        "size": 7089422336
+        "size": 7099908096
     },
     "70010000032980": {
         "id": "01001F101289A000",
@@ -28195,6 +28419,47 @@
         ],
         "size": 411041792
     },
+    "70010000033533": {
+        "id": "01005CC012BFE000",
+        "rightsId": null,
+        "name": "Crazy BMX World",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000033533,
+        "category": [
+            "Sports",
+            "Arcade",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Shinyuden",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e6f1617fdf6ef0484d3a54ae05abfb4a34e2d34c631dd5d092cf448255d50f1a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/10e5cb7a0b1a77fccc0f9c0b1fcd4426f2766c05921f97ff466f4c76f5a61a05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1522a7e563ceb7d12cc9d14b42348a2cfe69fe6f44f27e9411152fa4cb6cae59.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/140eb83fa970f36c4aa4b8e63262555f3dc3410d20b65301b770c91faa5d27aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0c8966240555f4e67db3480b93ac3367f3d1d817e99808701d9d7a0c19969bc6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/90c60b558d6fcfa677496bce3a250a4e6ff912970a57405b3ef7a9d4e4facd91.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08925ae889f6cd1489ee2e61290e9d949527f74e30a37c32c3880a9224a3d233.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8881085303b458d6eff7f8d3b3534432fa0deb2483168e32461dd2c1398c7f8a.jpg",
+        "intro": "Soar through the air on your bike as you travel to the ends of the earth!",
+        "description": "Tour the world, travel through space, and go back in time all on your crazy bike!\n\n- Tons of content: Try to clear all 295 stages!\nVisit major cities around the globe in the World Tour, the stars and planets of the Milky Way in the Galaxy Tour, and time periods inhabited by dinosaurs, pirates, and samurai in Time Rider!\n\n- 40 different bike collectibles!\nThe more you play, the more bikes you\u2019ll unlock! Each one shares a common trait: they\u2019re absolutely absurd. Tired of the same old bike? Then try jumping over obstacles with a pizza or cup of coffee on your head! Collect them all to show everyone just how crazy of a rider you are!\n\n- When the going gets tough, the tough use resurrection capsules!\nAs you get further into the game, the difficulty will grow more and more demanding, but don\u2019t raise the white flag just yet! There are several bikes with resurrection capsules, which allow you to retry from a previous point in the course, hopefully far from danger! Use them wisely to overcome whatever may lie ahead!\n\n- Compete with friends for the best score in Grand Prix mode!\nChallenge other players from your country using the account linked to your Nintendo Network ID. Use your favorite bikes from your collection to seize the high score and show everyone who\u2019s boss!\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de"
+        ],
+        "size": 408944640
+    },
     "70010000033535": {
         "id": "0100BF8012A30000",
         "rightsId": null,
@@ -28720,6 +28985,49 @@
             "en"
         ],
         "size": 526385152
+    },
+    "70010000033709": {
+        "id": "010076F012CD8000",
+        "rightsId": null,
+        "name": "Dragon Lapis",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000033709,
+        "category": [
+            "RPG",
+            "Adventure",
+            "Simulation",
+            "Strategy"
+        ],
+        "ratingContent": [
+            "Mild Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "KEMCO",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fffd55954627c8e23f192bf0c6059650fead47f96082166d52e7748a5e6c5544.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7ec494eeee3a6050f7cceabde2c4df54f03261092819c98cea6c9874cf782325.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a3dadbfd13a0886d0363eae69b6aae554a01e87f86a674e20358497a2a86a256.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0aba7de8452d1658cc29a9994be19e71e7514fa31182bbdba87a7b82adf8d764.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e413db62011622c2ed3651448ad5c08dbdefc5d5587bd414a245180a9970f25.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/55b37d8205bd5f003920d7e6ffca98f65b9956496c589a6636dffb0d6ed272ab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/889cb7a4a0964c1b068b60d6dff4c4e83c70a58549345158cafb516f42b0368d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8faf282552be89a061868944070b706ace481688d401867b0d374aae2e9f5d50.jpg",
+        "intro": "The dawn of a new hero! A tale spanning a thousand years now begins to unfold!",
+        "description": "A thousand years ago, a great battle ensued between two dragons, one gold and the other silver, where they were sealed away. Many centuries later, the Silver Dragon reawakens, and launches an assault on a frontier village.\nLucas, a royal knight serving as a guard, little does he know he is, in fact, a descendant of the hero who once sealed the Gold and Silver Dragons in human form. Nonetheless, when the tragedy strikes, he soon sets out on an adventure to save the world!\n\nMake a return to the golden age of RPGs with 8-bit graphics and chiptunes. By unlocking growth plates, characters are able to strengthen parameters, learn skills, and increase job rank! Master multiple jobs and live an adventure full of challenges and dungeons to explore!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 98566144
     },
     "70010000033718": {
         "id": "0100CA7012CD6000",
@@ -29666,6 +29974,43 @@
         ],
         "size": 2506096640
     },
+    "70010000034124": {
+        "id": "0100C10012EFC000",
+        "rightsId": null,
+        "name": "War Titans",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201029,
+        "nsuId": 70010000034124,
+        "category": [
+            "Action",
+            "Fighting"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "SC Ovilex Soft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7b893a60d5e770cd5c5ab686f2254b2a57ef5678d0f1830f0fdad277fcb6c999.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ab8b472519157ce50f87976f91a113991bdbf20508955d7b4e809471f71e5766.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d674edeaaefcff489683597f8cc4f2b5d45613678957bf1917f379bb303640d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16ebcf107cf2e455f407511394ea1f3eb4df11da9f1d5d9859de6fb90671249d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/141b70b64f0aa4294a52dbd047aad29fe9d847b9e95d14313ef19602d111b95c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16aa6ea1b6af3010566a1d09e7431e5e62e8e0cbeb1404ec7278bd5770832eee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d61a8f3b2abf07dfb69ad5926f14a37fc328679969c8464c9f47b19342fb42e4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4b13f6e3331104bee57ce5a6a37dd0c40e3fc61143146ec60551982278757e6f.jpg",
+        "intro": "Become the ultimate War Titan!",
+        "description": "In a hundred-year long battle with the alien hordes the humans finally have a game changing weapon system at their disposal: the War Titans. These are some extraordinary battle machines that transform in order to be more effective against the enemy. Each War Titan comes as a combination of a mechanized war robot and an armored vehicle, and they each serve different roles on the battlefield. It's up to your skills and your strategic mind to decide when is the best time to play as a Mech and when the situation demands an armored vehicle on the field.\n\nThe Mech - a powerful robot that packs an explosive punch with it's twin machine guns and shoulder-mounted rocket launcher. The Mech is most effective against heavy enemies such as tanks, turrets and enemy mechs. However, the light attacks from the droids will damage the mech more, since thy often hit between the armored plating. The Mech has 3 upgrades: Machineguns, Rockets and Armor.\n\nThe Vehicle - your armored vehicle is perfect for running down hordes of droids, It is unarmored so it's not effective against heavy enemies. You can upgrade the vehicle's armor and Nitro which gives you a short but powerful boost in speed and acceleration.\n\nAs you progress in the level you will reach certain areas where the enemies will overwhelm you - fear not! Each attempt earns you coins from the distance you cover and the enemies you eliminate. You will also win different types of prize chests which give you more gold and Parts. Collect enough parts and unlock stronger Mechs and Vehicles.\n\nGet ready soldier and who everyone what you're made of. Transform into the Mech and the Vehicle as the situation demands it and make your way through desert bases, alien jungles and remote lunar facilities and become the ultimate War Titan!",
+        "languages": [
+            "en"
+        ],
+        "size": 923795456
+    },
     "70010000034149": {
         "id": "01006980127F0000",
         "rightsId": null,
@@ -29998,7 +30343,7 @@
             "ru",
             "zh"
         ],
-        "size": 2855272448
+        "size": 2856321024
     },
     "70010000034265": {
         "id": "0100C13012F8E000",
@@ -30756,7 +31101,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1181481a918d90d863f5cebcaafcbae9ed36b20b7a657e46e71f544e9c4b18c7.jpg",
         "intro": null,
-        "description": "Trapped inside an ancient labyrinth, chased by the mythical Minotaur. Will you reach the center? And if so, what will you discover about yourself there, in the dark?\n\nThere is but one enemy...\nBut it is the unbeatable Minotaur. Only by exploring the maze of the Labyrinth can you hope to discover how to defeat this immortal monster. The great maze has many tools, many rewards, and many secrets just waiting for you to find them. But you can\u2019t waste your precious time, for the Minotaur is getting ever closer.\n\nDark Flavour\nThe game is inspired by the Greek myth of the labyrinth and the fight between Theseus and the Minotaur. The dark theme is visually expressed by retro pixel art, enriched by voice acting and metaphorical storytelling, creating (we hope) a thrilling atmosphere.\n\nThe Labyrinth\nThe journey has 6 chapters - each with its own specific challenges, patterns, and rewards. A total of 42 stages, 5 skill upgrades - each with 3 levels, 3 hidden upgrades, 2 unique upgrades, secret passages and Easter eggs. And, why not ? a custom map editor that will challenge your creativity (and patience), where you can unlock more content based on your progress in the main story.\n\nFair Warning\nThis game is not a rogue-like dungeon crawler, but rather an experience which will ultimately give you the answer to the question: dare you know yourself? Of course, you can simply see it as a guilty pleasure arcade game, just take note: permadeath is unforgiving.",
+        "description": "Trapped inside an ancient labyrinth, chased by the mythical Minotaur. Will you reach the center? And if so, what will you discover about yourself there, in the dark?\n\nThere is but one enemy...\nBut it is the unbeatable Minotaur. Only by exploring the maze of the Labyrinth can you hope to discover how to defeat this immortal monster. The great maze has many tools, many rewards, and many secrets just waiting for you to find them. But you can\u2019t waste your precious time, for the Minotaur is getting ever closer.\n\nDark Flavour\nThe game is inspired by the Greek myth of the labyrinth and the fight between Theseus and the Minotaur. The dark theme is visually expressed by retro pixel art, enriched by voice acting and metaphorical storytelling, creating (we hope) a thrilling atmosphere.\n\nThe Labyrinth\nThe journey has 6 chapters - each with its own specific challenges, patterns, and rewards. A total of 42 stages, 5 skill upgrades - each with 3 levels, 3 hidden upgrades, 2 unique upgrades, secret passages and Easter eggs. \n\nFair Warning\nThis game is not a rogue-like dungeon crawler, but rather an experience which will ultimately give you the answer to the question: dare you know yourself? Of course, you can simply see it as a guilty pleasure arcade game, just take note: permadeath is unforgiving.",
         "languages": [
             "ja",
             "en",
@@ -31534,6 +31879,48 @@
         ],
         "size": 2474639360
     },
+    "70010000034812": {
+        "id": "0100463013246000",
+        "rightsId": null,
+        "name": "Oneiros",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201106,
+        "nsuId": 70010000034812,
+        "category": [
+            "Puzzle",
+            "Adventure",
+            "Arcade",
+            "Action"
+        ],
+        "ratingContent": [
+            "Mild Swearing"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d98a1119d07f5a1a92d9c05c496871c3478dfe4d229d85705f13296277b833f0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ae1a92f86f356f7cc15bd6022f696608d6d02933db9a7a3e18afcd60cffceb9e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0383a6d8a532c8d1b07864c76e9aba813caea730fe381e65af440c1fd6b451aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b1fe4dd4b75de3fe86ce39492d7ad94f25d3acbcd8f40f38dc966acc278c310.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/43642fcdeb918993161d158640bd9874caa9a86b2523f8024e6e6df17412cd55.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11bf0aae4dc8910b8822d407cdfa05dbbf82db1eca47a7d42f05f25d7f22a4fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a1f5a614a2c9778cc2d5dd66b6e88f995d0e461b487d7f7afff8aacfcb4a0700.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/082b6d82afb557eeaf17a0af43a18e71fe9c289ffb55fb934d8219e3a96e0b5b.jpg",
+        "intro": "Oneiros is a first-person, surreal puzzle adventure game that combines escape-room, classic adventure and crafting/building mechanics into a single narrative-based, surreal experience.",
+        "description": "Liam wakes up late just like any other day, but something just feels different. Doors to his room are locked, laptop's hacked, phone's broken and something just doesn't feel right.\nThe place definitely looks like his room, but at the same time it just doesn't feel like it is, anymore.\nHe just had a weirdest dream ever, feels like his head is about to explode and he doesn't remember what he did yesterday.\nFind out what's going on and help Liam escape.\n\nFeatures:\n- immersive, story-based gameplay\n- beautiful surreal world filled with details\n- hundreds of interactive items waiting for you to discover\n- fully voiced characters\n- interactive laptop with 2 mini-games embedded\n- amazing graphics with advanced lighting and effects\n- psychedelic, dreamy visions\n- many puzzles to solve\n- escape room mechanics\n- many interactive, fully physics-based items\n- crafting/building mechanics",
+        "languages": [
+            "en",
+            "zh"
+        ],
+        "size": 2349858816
+    },
     "70010000034817": {
         "id": "01000440123A6000",
         "rightsId": null,
@@ -32084,7 +32471,8 @@
         ],
         "ratingContent": [
             "Strong Violence",
-            "Use of Alcohol/Tobacco"
+            "Use of Alcohol/Tobacco",
+            "In-game purchases"
         ],
         "numberOfPlayers": 1,
         "rating": 16,
@@ -32487,10 +32875,10 @@
             "Arcade"
         ],
         "ratingContent": [
-            "Extreme Violence"
+            "Strong Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 18,
+        "rating": 16,
         "developer": null,
         "publisher": "Cool Small Games",
         "frontBoxArt": null,
@@ -32719,6 +33107,52 @@
             "ru"
         ],
         "size": 303038464
+    },
+    "70010000035446": {
+        "id": "010053601357E000",
+        "rightsId": null,
+        "name": "Accidental Queens Collection",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201210,
+        "nsuId": 70010000035446,
+        "category": [
+            "Puzzle",
+            "Strategy",
+            "Other",
+            "Communication"
+        ],
+        "ratingContent": [
+            "Strong Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Plug In Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b2a300ec8285de22b5d0bcecb22674ccbc1480ea30ccbe4f4c0754dbb1f5a43f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/36b5df5a10734babfc8c119b2f55fc32d462b3120312e91847f99cbe1c6f2900.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/097f7c9cdda0f58baebce7b9ed09a681745c327106e5955b95600dd0f3f41d54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fc2528918f128cbe0f5dc9ec97d7552e1181eac3954867206bb8ca3797959781.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24309c48edd3e5eceb32498e9fe1fac8d2fea4019ad51cd2d5e9c5b9b17f171e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f46e727ccb8a9d44690c827845f3d887e70c4c95b19be7ca38017fda1fd17e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/509a61daa027a9fe39e12ae7ef3d46ed8554b0cc208156ef507111fe49da2fdc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f17f066559615d9340bb34fc5152e1f0c5dece1e4f7108ab9ebcf4e439e51e02.jpg",
+        "intro": "Accidental Queens Collection contains Alt-Frequencies, A Normal Lost Phone and Another Lost Phone: Laura's Story.",
+        "description": "Alt-Frequencies is an audio mystery game where you use the airwaves to open the world\u2019s eyes to the truth. Record, rewind time and broadcast snippets of radio shows to expose radio hosts, conspiracy theorists, politicians, underground activists - and a dog.\n\nThe Lost Phone games are about exploring the intimacy of an unknown person whose phone you've found. \n\nThey are designed as narrative investigations where you must piece together elements from the different applications, messages and pictures to progress. Through the interface of a mobile phone, you must discover what happened to their owner. \n\nExperience relatable stories which help build empathy with the characters, allowing to explore difficult topics and social issues. ",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt"
+        ],
+        "size": 811597824
     },
     "70010000035728": {
         "id": "01006C8013708000",
@@ -49292,6 +49726,818 @@
         "description": "Something is brewing at Ye OLDE\u2026 is the happy family of friends you\u2019ve made headed for splitsville? It\u2019s up to you to keep everyone together or bring on the drama. Whatever you choose, you\u2019re in for a helluva ride.\n\nIncludes Episodes 4-7!",
         "languages": null,
         "size": 4194304
+    },
+    "70050000023694": {
+        "id": null,
+        "rightsId": null,
+        "name": "Gilded Rabbit Helmet",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023694,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ebf80961d025dfa2f3882b85d79fbf47abfb0b7d651cf817ef1300a9c66985a5.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023696": {
+        "id": null,
+        "rightsId": null,
+        "name": "Remix Runner Outfit",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023696,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/98e81241953fd55de718c2cc06068af6a3ceafdb28d0b75e54a669c58f2d6d6d.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023697": {
+        "id": null,
+        "rightsId": null,
+        "name": "Fuser Fest Outfit",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023697,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/29089fbf8e364a54f03728c5ac4a342fbedc6875f30efb14fc71f315bd656c0b.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023698": {
+        "id": null,
+        "rightsId": null,
+        "name": "Shatterfall Video Wall",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023698,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1089bcdfd60bb876394832c6f35679bf1ad6162a2c02a630590ba9fff5989ea0.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023703": {
+        "id": null,
+        "rightsId": null,
+        "name": "21 Savage - \"a lot\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023703,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3283b6b4220c9925359de215332905ec53d573cdc84feaaa8fb6a47341cb001c.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023704": {
+        "id": null,
+        "rightsId": null,
+        "name": "Afrojack ft. Eva Simons - \"Take Over Control\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023704,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/52d00b2a3cdda2b22fad88b4f8815574eb0de88f1dd0285654dd52f3ad1c0aec.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023705": {
+        "id": null,
+        "rightsId": null,
+        "name": "Alanis Morissette - \"Ironic\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023705,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6a2aa68a46a5ce102dc8c87c94838f6a20d802cfc5016458027b309bd96eafff.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023706": {
+        "id": null,
+        "rightsId": null,
+        "name": "Amerie - \"1 Thing\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023706,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fc5365ca095c5c3b6473a51c11b964f03fd5a1946f945921e39524feb116c0b3.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023708": {
+        "id": null,
+        "rightsId": null,
+        "name": "Ava Max - \"Kings & Queens\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023708,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a4a96d796b8430f492cc6da17fb2f3fd7438a5c3570b078e4d689d36cbb8b7bf.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023710": {
+        "id": null,
+        "rightsId": null,
+        "name": "Bananarama - \"Venus\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023710,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/88c88e16ef0d9f18dad2cd325e0ef1d1668285bbb1e919f23d4b8897e0aa39e1.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023711": {
+        "id": null,
+        "rightsId": null,
+        "name": "The Cranberries - \"Linger\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023711,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b00755661121ca4a8202744a5c2a229050323dadf41e5dc7e9721f97f37b99c6.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023712": {
+        "id": null,
+        "rightsId": null,
+        "name": "DJ Snake, J. Balvin & Tyga - \"Loco Contigo\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023712,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1615211c3358168e5c2382e39c3cf1c97c9e78ed15d7bea94c798d1ac03ea5d8.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023714": {
+        "id": null,
+        "rightsId": null,
+        "name": "Echo & The Bunnymen - \"Lips Like Sugar\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023714,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a992bc8a2952e9caa193243769168cabb95c1227525fa9f880d4bc81d921e155.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023720": {
+        "id": null,
+        "rightsId": null,
+        "name": "Erasure - \"A Little Respect\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023720,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/34c0fda9c1da1d447f887cd1fa745e30c987c3ff68771882366bf1e58ac0b13b.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023721": {
+        "id": null,
+        "rightsId": null,
+        "name": "Evanescence - \"Bring Me To Life\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023721,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/080e0944d7bc6f3b8943e0a43f5bb9a1ae3286e672cb06f046c6098ec8593e3b.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023723": {
+        "id": null,
+        "rightsId": null,
+        "name": "Fetty Wap - \"Trap Queen\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023723,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3b722379b041a88cbc25b2e5fc320af47c978e8565e4e6336387a3caf8be9a70.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023724": {
+        "id": null,
+        "rightsId": null,
+        "name": "French Montana ft. Swae Lee - \"Unforgettable\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023724,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3f009a8a0764e8bdac82d2cd7d62398097e8abdaa21815af6614d33ee68a63eb.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023725": {
+        "id": null,
+        "rightsId": null,
+        "name": "Glen Campbell - \"Gentle On My Mind\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023725,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a5c6ed9c6f5ef3fa809d9daf6de98fbcb43908df331a54167fbb52c88612fb9d.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023727": {
+        "id": null,
+        "rightsId": null,
+        "name": "Ini Kamoze - \"Here Comes The Hotstepper (Heartical Mix)\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023727,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6623e29b993b6798382fa182fb5b188865e9e1a654541e948bf84302d05b3fee.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023728": {
+        "id": null,
+        "rightsId": null,
+        "name": "Justin Timberlake - \"Rock Your Body\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023728,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/010609c3243a533b75f176d39fbaa1ab9620c7046f0661b6af6764cfac253be4.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023729": {
+        "id": null,
+        "rightsId": null,
+        "name": "Kane Brown ft. Lauren Alaina - \"What Ifs\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023729,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/62cc153e4f84626478406547ce9083c7511a2ffd32572cdb0f6e9e3d7a045674.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023731": {
+        "id": null,
+        "rightsId": null,
+        "name": "Kelly Clarkson - \"Stronger (What Doesn't Kill You)\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023731,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8d13c825426f2555272aca6c9263f0a068fbb9931da4efedf7c3df34b3c1415d.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023732": {
+        "id": null,
+        "rightsId": null,
+        "name": "Mark Ronson ft. Miley Cyrus - \"Nothing Breaks Like a Heart\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023732,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ac6ec88f0c39293b6de2df56988665db949d59e008b84ba1d5322ae6536d1033.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023733": {
+        "id": null,
+        "rightsId": null,
+        "name": "Nicki Minaj - \"Starships\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023733,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6b9763a13dad571a4bcf3c88b7d3e2e02bec708195eb55b4358dec6f6dcf800c.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023734": {
+        "id": null,
+        "rightsId": null,
+        "name": "Sean Paul - \"Get Busy\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023734,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/245c6ead4c3b5594a6a9886944a694021027835197a7aa57266ab01412d2605a.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023735": {
+        "id": null,
+        "rightsId": null,
+        "name": "Soulja Boy Tell 'Em - \"Crank That (Soulja Boy)\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023735,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/46add5e85bbcbcb12ce62cdac51e6f23d418e0e73099f698476ef31bb861c50b.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023737": {
+        "id": null,
+        "rightsId": null,
+        "name": "Tone-Loc - \"Funky Cold Medina\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023737,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f26120533810972862ee7190e5b5e161c16a9ac30f8ae530fab1b2e429ab1ad6.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023738": {
+        "id": null,
+        "rightsId": null,
+        "name": "Topic with A7S - \"Breaking Me\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023738,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b3df205900d6956308004940444d22e41e5d0c9eba33e084ecf25344868f50e7.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023740": {
+        "id": null,
+        "rightsId": null,
+        "name": "Usher ft. Pitbull - \"DJ Got Us Fallin' in Love\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023740,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c5cb42e54bd6c51c7145ed6c8d7a40cf3827d72971d8dfedc944cbba467782c9.jpg",
+        "intro": null,
+        "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 0
     },
     "70050000023895": {
         "id": "01002B00111A3001",

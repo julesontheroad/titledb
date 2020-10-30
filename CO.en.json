@@ -7388,7 +7388,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1123ea0e4079a8aaa32187dcaa94b8ef407e028f9b6b8d5ff944bd750f1ce347.jpg",
         "intro": "See Hyrule 100 years before the Legend of Zelda: Breath of the Wild game and experience the events of the Great Calamity",
-        "description": "Join the struggle that brought Hyrule to its knees. Learn more about Zelda, the four Champions, the King of Hyrule and more through dramatic cutscenes as they try to save the kingdom from Calamity. The Hyrule Warriors: Age of Calamity game is the only way to see firsthand what happened 100 years ago.\n\n- Battle hordes of Hyrule\u2019s most formidable foes -\n\nFrom barbaric Bokoblins to towering Lynels, menacing monsters have emerged in droves. In addition to Link and Zelda, take control of characters like the four Champions and a young Impa must use their distinct abilities to carve through hundreds of enemies to save Hyrule from the impending Calamity.\n\n- Purchase Bonuses -\n\nPurchase the digital version of Hyrule Warriors: Age of Calamity to receive the in-game bonus weapon, Lucky Ladle*! Equip this sword-like spoon (paired with a Pot Lid) and use it in battle or fuse it with other weapons for a stats boost.\n\nIf you have save data for the Legend of Zelda: Breath of the wild game, you can get the in-game Training Sword bonus item. Equip this weapon and you\u2019ll automatically hold a Pot Lid as a shield. This combo may also trigger the occasional Perfect Guard!\n\n*This item does not come with the physical version of the game. This item my become available as paid DLC at a later time.",
+        "description": "Join the struggle that brought Hyrule to its knees. Learn more about Zelda, the four Champions, the King of Hyrule and more through dramatic cutscenes as they try to save the kingdom from Calamity. The Hyrule Warriors: Age of Calamity game is the only way to see firsthand what happened 100 years ago.\n\n- Battle hordes of Hyrule\u2019s most formidable foes -\n\nFrom barbaric Bokoblins to towering Lynels, menacing monsters have emerged in droves. In addition to Link and Zelda, take control of characters like the four Champions and a young Impa must use their distinct abilities to carve through hundreds of enemies to save Hyrule from the impending Calamity.\n\n- Purchase Bonuses -\n\nPurchase the digital version of Hyrule Warriors: Age of Calamity to receive the in-game bonus weapon, Lucky Ladle*! Equip this sword-like spoon (paired with a Pot Lid) and use it in battle or fuse it with other weapons for a stats boost.\n\nIf you have save data for the Legend of Zelda: Breath of the wild game, you can get the in-game Training Sword bonus item. Equip this weapon and you\u2019ll automatically hold a Pot Lid as a shield. This combo may also trigger the occasional Perfect Guard!\n\n*This item does not come with the physical version of the game. This item may become available as paid DLC at a later time.",
         "languages": [
             "ja",
             "en",
@@ -16855,12 +16855,12 @@
     "70050000020786": {
         "id": "010044500C183006",
         "rightsId": null,
-        "name": "Civilization VI - New Frontier Pass",
+        "name": "Sid Meier's Civilization VI - Babylon Pack",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20221201,
+        "releaseDate": 20201119,
         "nsuId": 70050000020786,
         "category": null,
         "ratingContent": [
@@ -16877,9 +16877,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ce29d7e5227b6e1ffd8eb931fc98d94705872b41614f54d92297d30b594a4b73.jpg",
         "intro": null,
-        "description": "Continue your quest to build your greatest empire with the Civilization VI - New Frontier Pass, featuring eight new civilizations and nine new leaders, and a variety of new gameplay content, including six new game modes. Delivering six DLC packs on a bimonthly basis from May 2020 to March 2021, the New Frontier Pass includes:\n\n\u2022 Pack #1: Maya & Gran Colombia Pack. Adds two new civilizations and leaders, one new game mode*, new City States, Resources, and Natural Wonders. Available May 2020.\n\u2022 Pack #2: Ethiopia Pack. Adds one new civilization and leader, one new game mode*, one new District and two new Buildings. Available July 2020.\n\u2022 Pack #3: Adds two new civilizations and leaders, one new game mode*, new World Wonders, and one new map. Available September 2020.\n\u2022 Pack #4: Adds one new civilization and leader, one new game mode, new City States, and numerous new Great People. Available November 2020.\n\u2022 Pack #5: Adds one new civilization and two new leaders**, one new game mode, a new District, and two new Buildings. Available January 2021.\n\u2022 Pack #6: Adds one new civilization and leader, one new game mode, new World Wonders, and one new map. Available March 2021. \n\n*New game mode requires the Civilization VI Expansion Bundle to play.\n**New leader requires the Civilization VI Expansion Bundle to play.\n\nGame modes can include additional content such as new units, buildings, or improvements and can be turned on or off during game setup to apply significant and dramatic changes to the rules of the game.\n\nExclusive bonus: Teddy Roosevelt and Catherine De Medici Persona Packs.  Each Persona Pack contains a brand-new take on a favorite leader, with a new leader model and background, new gameplay bonuses, and an updated agenda that reflect the changes to the leader\u2019s personality. The Persona Packs are available exclusively to owners of the New Frontier Pass and will be delivered with the second add-on pack. ",
+        "description": "The Babylon Pack introduces Hammurabi as the leader of Babylon. The Babylon civilization excels at Science, as well as Government and Infrastructure. Also included is the new Heroes and Legends game mode, two Unique Improvements (The Mahavihara and The Trading Dome), six new City-States, and 24 New Great People.",
         "languages": null,
         "size": 6291456
     },
