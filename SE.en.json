@@ -5013,7 +5013,7 @@
         "languages": [
             "en"
         ],
-        "size": 407896064
+        "size": 394264576
     },
     "70010000021663": {
         "id": "010097000EDB4000",
@@ -5139,7 +5139,7 @@
             "zh",
             "zh"
         ],
-        "size": 9079619584
+        "size": 9366929408
     },
     "70010000021735": {
         "id": "0100D2700DE7C000",
@@ -9413,7 +9413,7 @@
             "zh",
             "zh"
         ],
-        "size": 397410304
+        "size": 706740224
     },
     "70010000027093": {
         "id": "0100F90010882000",
@@ -11412,6 +11412,45 @@
         ],
         "size": 1319108608
     },
+    "70010000028067": {
+        "id": "0100DA3011174000",
+        "rightsId": null,
+        "name": "AXES",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201030,
+        "nsuId": 70010000028067,
+        "category": [
+            "Action"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Azur Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6bcfcc3ea18a5a3dba46cdec7e29f4652e051f73d0c3d733ad53b0f134fcaa1e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/aab3473526bcbb0be132d8ba4647cdbe1fbe1e85c97bbf7e14c8e6a39471ba46.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c574a50611190738d70ee529ee9b5f68f90f0108a98cdfeb924f38eb3ebc1e75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/911b3991b04e40921b1b1325172af88501c6c83263ee74209e25e18bb8f121ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d7c37cd85b294a2fd644c8c41f56e8fe967f85d342f6f83f436905b480b4d245.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1a4d2d0448856824ed78ad6582b39e124c7f29bc62f6a57284ef5ecd961e5d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52b1585195d396b3798aa058098c46a23f3cd332d0690278e4a402549012843b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2465b6c46b38e5e8c7677e3d0aca2535d875b6f06af6dc0a14aae9e6794f9701.jpg",
+        "intro": "Let the great scuffle begin!",
+        "description": "Ready to take down all your enemies? Prepare your weapons and join AXES \u2014 an epic battle royale! It's an action-packed game where you prove that you can really rumble on the battlefield! Enter the arena and try to be the last one standing. Battle to survive using different weapons: axes, swords, shurikens and many more. Let the great scuffle begin!\n\nAXES is a fantasy world where mighty well-armed enemies clash in quick battles on the battlefield. Every game session has a limited time span. Choose a perfect combination of armor and melee weapons to pass all arenas and survive. Master your skills to enter the League Mode and combat with the strongest players.\n\nRemember about the main battle royale feature \u2014 the red circle. Once it appears, the battle will be over soon! Try to stay inside the circle, otherwise you'll lose your points.\n\nJust a quick overview of AXES top features:\n\u2022 60+ new items: armor, robes, rings, and dozens of weapons \u2014 all this has its own characteristics and features\n\u2022 40+ weapon types\n\u2022 20+ unique heroes with special abilities\n\u2022 Quick & action-packed sessions\n\u2022 Lots of maps with unique gameplay\n\u2022 Super easy controls",
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "size": 288358400
+    },
     "70010000028094": {
         "id": "01005AB01119C000",
         "rightsId": null,
@@ -12068,7 +12107,7 @@
         "languages": [
             "en"
         ],
-        "size": 1660944384
+        "size": 2226126848
     },
     "70010000028440": {
         "id": "0100FBE0113CC000",
@@ -12965,6 +13004,51 @@
         ],
         "size": 0
     },
+    "70010000028836": {
+        "id": "0100F03011616000",
+        "rightsId": null,
+        "name": "Re:Turn - One Way Trip",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201109,
+        "nsuId": 70010000028836,
+        "category": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Extreme Violence",
+            "Strong Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "GMG Publishing",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/26877cb4d95b272325b5e7cbb1d56fae8741cd1e500c506cc551da9623237105.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ac006cbbcc4c3ef2d387ab5c6010cadf49e0ffc4681267fb3b5e1e61b053eb47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be9214a9dd146b8807bbdee5a3dcf68a9960b17889ac466f0f81e3c72cf996ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b19efb42882bda628d59a18d6324e9d8e48b1db7bd0da48f82af99a44e56e60.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/523885e0682b958b8e71f2d934008a0e08c4e87c57d675664bdf1c3cc995059a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77b9233ee4059a367dc891c0aca8d8204123a5cc3453d16b008dae2a40540b9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de160112e60215c11944316e1887da844df11994a163352e568da009b32f5acc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e571cce12244bd10a0ecd60a986d286a3363f70e90e641540e7b0812b34cbc31.jpg",
+        "intro": "Re:Turn - One Way Trip a 2D side-scrolling puzzle-adventure horror game.",
+        "description": "Re:Turn \u2013 One Way Trip tells the terrifying story of five college friends on a post-graduation vacation. This might be their last trip together before adulthood swallows them whole. Unfortunately for them, a far more sinister force has found them and hungers for their souls.\n\nWhen Saki awakens in the middle of the night to find that her friends have disappeared from their campsite, she is soon lured to an abandoned train. It stands silent, as if it has been waiting for its final passenger to board. Waiting for her.\n\nAs Saki searches the train for her friends, the barrier between the past and the present starts to dissolve. Otherworldly horrors confront Saki as she begins to learn the trains deadly secrets.\n\nRe:Turn - One Way Trip is a tale of unrequited love\u2014and unrelenting terror!\n\nFEATURES:\n* Intricate horror story\n* 2 Playable Characters\n* Side-scrolling 2D with unique pixel art\n* Original Art and Assets\n* Carefully composed music specifically for each situation of the game\n* Original Sound Track\n* Minimalist interface so your focus never wavers from the experience\n* Supernatural elements\n* Challenging puzzles\n* Past & Present world immersive storytelling",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "zh"
+        ],
+        "size": 1073741824
+    },
     "70010000028838": {
         "id": "0100867011618000",
         "rightsId": null,
@@ -13581,7 +13665,7 @@
         "languages": [
             "en"
         ],
-        "size": 1149239296
+        "size": 1258291200
     },
     "70010000029066": {
         "id": "0100AB700AF14000",
@@ -13951,6 +14035,45 @@
             "en"
         ],
         "size": 6063915008
+    },
+    "70010000029203": {
+        "id": null,
+        "rightsId": null,
+        "name": "Depixtion",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200410,
+        "nsuId": 70010000029203,
+        "category": [
+            "Puzzle",
+            "Strategy",
+            "Education",
+            "Lifestyle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "DevHour Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/162ffc8e4700c929a74fb38509b24533800e5e49b50ad403d18de47a811e0b18.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/65a0b4f9aaf359a519399821311536a60d93dfb2dde1e3a2e1f7006001791d68.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31b2f31efcb158ac8da6b3cda9ec01251934117e9cd4446ff3c4796cb71675e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/962a8ebc4dd32c33751abe790b67e1610c69cab4116692ed6dc23b8d7d41ace1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/107b414c6585e3e163603c55807a92d3a16255df044c56532d7ed1fd6bda4b88.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8fd4bb2da69be9772b202acc44a7d79c84f19f1426a8f58ace1b68673e4e1ea9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4600e3dac61b851ea65d70dcdf534a6764103a260fb100b624c32321fb8e1819.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9a15c4b14b822c2fd668fd06fa5cbc5fbacf50aa6d11e1e7dab8b66791a381a4.jpg",
+        "intro": "Welcome to Depixtion, a relaxing puzzle game where you create beautiful works of art using logic.",
+        "description": "Depixtion blends color mixing mechanics with the rules of nonograms to create a uniquely colorful experience.\n\nFeatures:\n- 96 Depixtion Images - 288 Nonogram Puzzles\n- Sizes range from 4x4, 8x8, 12x12, 16x16, 20x20, and 24x24\n- Largest color palette in a Nonogram game to date\n- Hand-crafted puzzles, truly solvable with logic\n- Beginners and Advanced Tutorial. Easy to learn, hard to master!\n- Autosaving. Don't worry about any losing any progress\n\nNonogram?\nNonogram are picture logic puzzles in which cells in a grid are filled in by following the number hints provided on the top and side of the grid. Once all the hints are filled in, a secret image reveals itself!\n\nHaven't I seen this before? \nYou may have! Nonograms have been around for quite some time. You may also know them as Hanjie, Pic-a-Pix, Paint by Numbers, or Griddlers. However, we have a secret twist to our puzzles! Unlike traditional games which limit your puzzle to one grid, our puzzles consist of 3 layers. As a portion of each layer is colored in, the final image will begin to form based on how all 3 layers blend together. Ensure each layer is correct, and you'll reveal the final image and solve the puzzle!",
+        "languages": [
+            "en"
+        ],
+        "size": 111149056
     },
     "70010000029206": {
         "id": "01007A0011878000",
@@ -17961,7 +18084,6 @@
             "Puzzle"
         ],
         "ratingContent": [
-            "Fear",
             "Mild Violence"
         ],
         "numberOfPlayers": 1,
@@ -18614,7 +18736,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/989f68dbada32a068ce695ce3b1560faea3a0060ca1add5f553dc96444b1324a.jpg",
         "intro": null,
-        "description": "Fusing gameplay with light & shadow. The concept of light and shadow runs throughout the design of the game\u00e2\u20ac\u2122s story, art and puzzles. Switch between light and shadow and pass through the two realities as you experience unique interlacing of black and white, as well as both 2D and 3D.",
+        "description": "Fusing gameplay with light & shadow. The concept of light and shadow runs throughout the design of the game\u2019s story, art and puzzles. Switch between light and shadow and pass through the two realities as you experience unique interlacing of black and white, as well as both 2D and 3D.",
         "languages": [
             "ja",
             "en",
@@ -19761,7 +19883,7 @@
             "ko",
             "zh"
         ],
-        "size": 332398592
+        "size": 337641472
     },
     "70010000031735": {
         "id": "010011B0122CA000",
@@ -22979,11 +23101,9 @@
             "Platformer",
             "Action"
         ],
-        "ratingContent": [
-            "Mild Violence"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "Ratalaika Games",
         "frontBoxArt": null,
@@ -24208,6 +24328,50 @@
             "ru"
         ],
         "size": 171966464
+    },
+    "70010000032637": {
+        "id": "0100F9A012892000",
+        "rightsId": null,
+        "name": "Ord.",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201106,
+        "nsuId": 70010000032637,
+        "category": [
+            "Adventure",
+            "Strategy",
+            "RPG",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/513c11989e3637f0b2c770bd6063886260ba7a748395f1a96e0ffba8c1e6fee8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/52371c21848779922626bd7058abf7edf6d5d88ba8d69667374a9b1e6921eda1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/024bb4271bcd2faf4350cf87357bcf2ebe5dc55b6729df8223254bb319777189.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18ab697cab8172b3fd89e2aacdf61e98d558318060d668500ee0e30886140628.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad0d5cb9ac21f9cd4ae6c2db675f00e604ae73ffcda0bd45a4e31777d4151f93.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e8418f24f2bbf1a970c0e4c6eb2804f29106472baeda8f34d4365510746fcb0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9dc38ca4416b4b0c3c5b7704c8c9ead7869e681dacf0a90ac6d547ad7e3572f8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e922efc4bc40e0e4ade0de182123b815760f8aa8a9a0d98d8ed0f67929e68c84.jpg",
+        "intro": "Ord. tells stories three words at a time.",
+        "description": "Ord. is a unique take on text adventure games with a minimalist use of words, visuals and sound. Play unique stories with 3 words only! Ord. will make you laugh and cry through its original approach to narrative and game design. You have to experience Ord. to see for yourself!\n\nOrd. has captured numerous critical awards and industry honors due to its innovative approach to storytelling. The game was an official selection for AdventureX Narrative Games Convention in 2019, a finalist in the TIGA Games Industry Awards, as well as the FutureZone Award Winner for 2019.\nPlay Ord. and see what everyone is raving about!\n\nFeatures\n* Five unique stories to play\n* Minimalist art, text and sound",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru"
+        ],
+        "size": 100663296
     },
     "70010000032639": {
         "id": "0100BCE012894000",
@@ -28166,6 +28330,51 @@
         ],
         "size": 2020605952
     },
+    "70010000033455": {
+        "id": "0100EDE012B58000",
+        "rightsId": null,
+        "name": "Linelight",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201112,
+        "nsuId": 70010000033455,
+        "category": [
+            "Puzzle",
+            "Adventure",
+            "Strategy",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Plug In Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c19b524f08a9d955a6663a17b8809d4c4e85346c302b84f2e3a4003abcf3acfd.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9e7bf49996fc64ad6ee90198f3c9922acfac69b976a7037b4ab93639005f831c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6571ecc5e8a82e7410daa49d62b529d79094490a3b040f197c5639e9129084df.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38b7a6e0599053d9424d2c4bf3057611e4a42aa93278016edafd3b56ce5646bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6abeb39579d79ed5bdc8b7309c1b5d52aebeff1847f6e4fbf84f696c71ffb315.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2331032007aa641eb43a53dae6f2040de359dd6a36f6b18fb8e0fce71d883238.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51e6278f34898dc8c910b6cdf29cfa2e98b7d10bfd0f6aba7e59c0fbc257d976.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a8b7c457c142ccf151633fcaaa2c0c41394e03db76c4e36e916da51342cd08e4.jpg",
+        "intro": "A world of 1D puzzles awaits",
+        "description": "Linelight is an elegant, minimalist puzzle game set in a universe of lines. Its puzzles will awake your mind as the music flows through your body, gifting you a soft, relaxing euphoria. Linelight is for players of any age or level of experience.\n\nANYONE CAN PLAY\nMovement is your only interaction. Whether you\u2019ve played hundreds of games or this is your first, Linelight will provide you an intuitive and rewarding experience.\n\nRICH CONTENT\nTraverse through 6 worlds and over 200 unique puzzles, each new world loaded with variety and depth, a curious series of discoveries and surprise. A feast awaits players looking for secrets and greater challenges.\n\nSOOTHING MUSIC\nPrepare to be soothed and energized, wrapped in a blanket of calm and focus, whisked away by a soundtrack that will open your eyes and relax your entire body.\n\nUNPREDICTABLE STORY\nYou\u2019ll make unexpected friends along your journey. You\u2019ll learn how to cooperate and overcome obstacles together. You will develop a relationship with bars of light without exchanging a word.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 157286400
+    },
     "70010000033469": {
         "id": "01007F4012B84000",
         "rightsId": null,
@@ -28628,7 +28837,7 @@
             "de",
             "it"
         ],
-        "size": 5218762752
+        "size": 5241831424
     },
     "70010000033572": {
         "id": "01005F3012748000",
@@ -28923,7 +29132,7 @@
         "developer": null,
         "publisher": "Inconspicuous",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e2c7c3cda10d377fe70b3427d03501f36ddb47e77bc072e68c9433c41cea4c6b.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/326ae54f3ed8bfe96c6803baf70de82b5d953afa65308948ec1b8604077ef3d2.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/ff90128782cf1b0fc1eb02736b99689ac9b3fc030e9767d43513b6fc3f5f0975.jpg",
             "https://img-eshop.cdn.nintendo.net/i/dea20307fdd616c02322a63761ba88279bccdd6c7b6e4de77ff03b0de140ecca.jpg",
@@ -28947,7 +29156,7 @@
             "ko",
             "zh"
         ],
-        "size": 187695104
+        "size": 268435456
     },
     "70010000033692": {
         "id": "0100487012CC6000",
@@ -30319,7 +30528,7 @@
         "numberOfPlayers": 1,
         "rating": 3,
         "developer": null,
-        "publisher": "THQ Nordic",
+        "publisher": "HandyGames",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bf2ec1326741a6833145203c4e2e84b579b6de85315ec6d567dd9f295e3dfbbb.jpg",
         "screenshots": [
@@ -30724,6 +30933,43 @@
         ],
         "size": 162529280
     },
+    "70010000034358": {
+        "id": "010030D012FF6000",
+        "rightsId": null,
+        "name": "Bus Driver Simulator",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70010000034358,
+        "category": [
+            "Racing",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d0687d96cebeea9b73e7e094688c7bc6977f8eac647a441105488c589b765af1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/807e35d684044b56f14e19b0275feec911d8b273cd3984fde483bb2e47f7cc37.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f5cddd5419fbfb225b35383f02b1e2c3497e3d4fc1bc1f514738dd0227678c73.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fab05610788f910b8ceadcf69bdfdda7d0c48238734bfceb9bf4f95a5e75621f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40d7dfadee2f8e438c34fd2e4c7f7322f1edc4c73460730c95fbb7c54e15c991.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ebb3dccf792fd4a3409d4b906bd4654a2f7636f945991a2a9a5edda028945bf0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3c64f9fe3d442b7e1c120f986d48a38b4d3be8535edecabf8012fb6be350646.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/237263f813b79b6b58bc77c586a6172a906d08fac421572539c6f963ef3cd81a.jpg",
+        "intro": "Try on the role of a driver of a passenger bus. Take a ride in a real city, strictly following the schedule.",
+        "description": "Complete journeys around the city and its suburbs, strictly following the schedule. Earn money by successfully delivering passengers and following the traffic laws. Complete various scenarios with pre-set conditions or build your own career in Free Mode. You have a unique chance to drive buses from different eras and countries. You can drive both old Soviet city buses and European long-distance giants.\n\nWe took photos of a big part of these cities and their suburbs to recreate buildings and streets as close to real objects as possible. Virtual cities are recreated in a very accurate way, with every detail preserved. Buildings, bus stops and other objects are situated exactly on their places.\n\nChoose routes at your look to drive around the city districts you are interested in. It does not matter whether you like high-speed passenger transportation or slow and relaxed driving. If you do not like pre-set schedule, you can customize it for your driving style. Earn money, buy new buses and upgrade them. Decorate your bus as you want. \n\nGame features:\n- Vast number of high-detailed buses from different countries and eras.\n- Complete edition with all dlc's included. \n- Recreated cities and their suburbs with area of more than 20 km\u00b2.\n- Possibility of upgrading your buses, adding and replacing decoration elements.\n- Different weather conditions, dynamic day time change.\n- Various traffic situations: traffic jams, accidents, speed bumps, driving at night, long-distance travels.\n- Wide functionality on driving a bus.\n- Necessity to visit gas stations and garages.",
+        "languages": [
+            "en"
+        ],
+        "size": 3251634176
+    },
     "70010000034367": {
         "id": "0100E8B012FBC000",
         "rightsId": null,
@@ -30979,6 +31225,90 @@
             "ru"
         ],
         "size": 998244352
+    },
+    "70010000034513": {
+        "id": "0100085012A0E000",
+        "rightsId": null,
+        "name": "Squeakers",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201106,
+        "nsuId": 70010000034513,
+        "category": [
+            "Arcade",
+            "Adventure",
+            "Puzzle",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Marcin Skierski",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/56534a6fb72e54123747aba4ca4d3db1389fb78aa68a703163e7786836fb7e4e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4bde5f328454c90d7b43a07a6d1b22a909e6eefc52d565431e0c2747944560e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db9d6ac6214f19f2379e62621440f8ec988cfe2719b7104ad912c51e02a7302d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f9848ab3523a7dc9657a4d90c11cdde4693b328760aefea64cf4d554a515ecc3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5bf82e6e7cee88331e0b15704b78fce435ded3b42ad483972caab03726556ba2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/60b377f31aa672385c805cf16edd51e53f1e7986c492abb1a9c9c4cce21e930c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/186274188fee3dd8368eccd7fd93abf6839dffd26605752ca5a045641bbfc865.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6ecd89f041ab3cbbe17912f5741637e8586277d79f05f62f6f9412b9f1eaf505.jpg",
+        "intro": null,
+        "description": "Have you ever faced forthcoming death?\n\nOr have you ever imagine how it is to rush yourself just to get another minute of your life? Forge ahead, against all odds, not knowing what\u2019s waiting there for you and if you are strong enough to bear the suspens.\n\nThe end is getting closer. Will you manage to survive?\n\nStartling originality, firing imagination, engaging and amazing chain of events. The simplicity of this pixel-art game entails players to unite and cooperate in order to get higher and escape chasing them water. Gripping and full of humor. It will definitely won\u2019t let you sit and bore.\n\nWater is flooding the world. Build your own way to climb higher and higher. Maybe there is a chance of survival after all. Give yourself a try! Help those boars reach the highest level.\n\n***\n\nSqueakers is a multiplayer, cooperative game. It can provide fun up to four players. You can either decide to work altogether or choose to compete with each other. No matter the way, the goal is to build the tower as fast as you can to escape rising water. And oh! Don\u2019t forget your cement mixer! It gives you bricks essential for your construction.\n\nTo make the gameplay trickier, the higher you get the more diversified bricks will get. Some of them simplify your work, another ones can ruin your well-cared for masterpiece.\n\n- look after your building buddy. Try to rescue him whenever he felt into the water. You might need his help to create bigger tower\n\n- collect achievements along the way\n\n- you can choose your character from six different types just to differentiate each other during playing\n\n- define your own method of building, experiment and get better and faster. The faster you get, the more points you receive",
+        "languages": [
+            "en"
+        ],
+        "size": 81788928
+    },
+    "70010000034521": {
+        "id": "010014B0130F2000",
+        "rightsId": null,
+        "name": "Adventure Llama",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201101,
+        "nsuId": 70010000034521,
+        "category": [
+            "Platformer",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Mild Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Orube Game Studio",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7138bac42b3275febedd7f5b01f8afd81a818782695c7ae8606fbf373cdf7ab1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c814e67aa996ea3f953f48f9b27f3416b3e709d888419ee9c44f49888f713ef1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db36ef5acf8aa894bd7c86cd76f1a5a2d511224514f6823f1ae47afe04694921.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d72535bba05d395815178a8249c68583e05de702dca34e21e9e60a770aae0450.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f1c0e2728c02d35db296d8f593fa4bbfce78bcd6573f4188083031dc24f009a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/85398c4592435f2dc511abed2510ce2a78e54f88065d8b2e1aae4b92b22a07d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ccb6d497dac94c0973b6f35ce38e206c87c8b17aa202445dda6a2d192c002a17.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a48f14cef2cccba51539fc259e28f34fc44d324d4a989399f26ec4e5d32032f5.jpg",
+        "intro": "Solve puzzles, avoid traps, and gallop madly to uncover ancient llama treasures!",
+        "description": "When other Llamas spit at people and eat grass all day, Pablo is different: \nHe explores ancient ruins built by the Inca Llamas of the past! \n\nRunning madly inside the temple, Pablo will find the truth about the native Llamas of a lost time - and get lots of shiny gold artifacts! \n\nFinish levels to get Llama-moneys - then use them to unlock new worlds or get loads of cool costumes! ",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 337641472
     },
     "70010000034523": {
         "id": "0100DD6013126000",
@@ -47530,6 +47860,36 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023103": {
+        "id": "0100A5A00B2AB001",
+        "rightsId": null,
+        "name": "Digital Deluxe Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70050000023103,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Microids",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e975f026da3861c45cd0a5156ffe62dc03c9fa8b4624119b888f6062a52d3bce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db1a69d8adf9c989853c7dd1ef0d8585cd81b7866d898c0758d2741b29175d42.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4867bafebecc4f66025aa5854844b951f520b9e7ba495f395c22e18370053b9b.jpg",
+        "intro": null,
+        "description": "For the first 3 weeks following the release of the game, get the Digital Deluxe Edition for free!\nThe Bluecoats: North & South Digital Deluxe Edition pack contains alternative content for the main game:\n- golden rifle skin for your weapon during FPS sequences\n- alternative music playing on the strategic map",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000023117": {
         "id": null,
         "rightsId": null,
@@ -49727,6 +50087,38 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023632": {
+        "id": null,
+        "rightsId": null,
+        "name": "Depixtion: Halloween",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201031,
+        "nsuId": 70050000023632,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "DevHour Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/87334d67d8207e746085e22e21ff33f0d7fd4b2cbdeb937bdef1188b0240cae9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/957dba07ad00aa7fb2b3bcca36f352928996a80c7c41171c399bd55143ed6d91.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69a5e385587b049ae21565a0828ac046eff6b5ffa6ede8ce0824053642615e66.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b6a6052c5e95c7ce079e5be809dc74efa3d3a05228769694cdbbede08ba5280.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1d0336ec1a983baf8a8ee132b58d609a1f878f7241cdf961e29de56077967d70.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2875c7a44fdaa14e874ebe30713d7d43cb1747afec0afa6c2a8f57a99018bdef.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6dca9015b3f20789a7969ad347e8ce622e73aae4756dcb6046fa4ce11efab93a.jpg",
+        "intro": "Depixtion: Halloween is a chilling expansion for the puzzle game Depixtion, in which you create grotesque works of art using logic.",
+        "description": "By blending color mixing mechanics with the rules of nonograms, Depixtion: Halloween is a uniquely colorful, and horrifying experience.\n\nFeatures:\n- 50 Cursed Depixtion Images - 150 Haunted Nonogram Puzzles\n- Horrifying puzzles of all sizes: 4x4, 8x8, 12x12, 16x16, 20x20, and 24x24\n- Spookier color palette. Now with 100% more Grey!\n- Accessibility Options. Every Ghoul deserves a chance to play!",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000023694": {
         "id": null,
         "rightsId": null,
@@ -49753,7 +50145,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 4194304
     },
     "70050000023696": {
         "id": null,
@@ -49781,7 +50173,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 4194304
     },
     "70050000023697": {
         "id": null,
@@ -49809,7 +50201,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 4194304
     },
     "70050000023698": {
         "id": null,
@@ -49837,7 +50229,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 4194304
     },
     "70050000023703": {
         "id": null,
@@ -49865,7 +50257,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 7340032
     },
     "70050000023704": {
         "id": null,
@@ -49893,7 +50285,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 9437184
     },
     "70050000023705": {
         "id": null,
@@ -49921,7 +50313,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 12582912
     },
     "70050000023706": {
         "id": null,
@@ -49949,7 +50341,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 8388608
     },
     "70050000023708": {
         "id": null,
@@ -49977,7 +50369,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 9437184
     },
     "70050000023710": {
         "id": null,
@@ -50005,7 +50397,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 8388608
     },
     "70050000023711": {
         "id": null,
@@ -50033,7 +50425,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 11534336
     },
     "70050000023712": {
         "id": null,
@@ -50061,7 +50453,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 7340032
     },
     "70050000023714": {
         "id": null,
@@ -50089,7 +50481,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 10485760
     },
     "70050000023720": {
         "id": null,
@@ -50117,7 +50509,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 10485760
     },
     "70050000023721": {
         "id": null,
@@ -50145,7 +50537,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 11534336
     },
     "70050000023723": {
         "id": null,
@@ -50173,7 +50565,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 9437184
     },
     "70050000023724": {
         "id": null,
@@ -50201,7 +50593,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 11534336
     },
     "70050000023725": {
         "id": null,
@@ -50229,7 +50621,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 10485760
     },
     "70050000023727": {
         "id": null,
@@ -50257,7 +50649,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 9437184
     },
     "70050000023728": {
         "id": null,
@@ -50285,7 +50677,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 9437184
     },
     "70050000023729": {
         "id": null,
@@ -50313,7 +50705,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 10485760
     },
     "70050000023731": {
         "id": null,
@@ -50341,7 +50733,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 10485760
     },
     "70050000023732": {
         "id": null,
@@ -50369,7 +50761,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 9437184
     },
     "70050000023733": {
         "id": null,
@@ -50397,7 +50789,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 9437184
     },
     "70050000023734": {
         "id": null,
@@ -50425,7 +50817,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 9437184
     },
     "70050000023735": {
         "id": null,
@@ -50453,7 +50845,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 6291456
     },
     "70050000023737": {
         "id": null,
@@ -50481,7 +50873,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 5242880
     },
     "70050000023738": {
         "id": null,
@@ -50509,7 +50901,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 10485760
     },
     "70050000023740": {
         "id": null,
@@ -50537,7 +50929,7 @@
         "intro": null,
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 0
+        "size": 9437184
     },
     "70050000023895": {
         "id": "01002B00111A3001",
@@ -50630,7 +51022,7 @@
         "intro": "Brawl Without Limits!",
         "description": "The world of WWE is your battleground with all-new, over the top, in-your-face arcade action as your favorite WWE Superstars and Legends battle it out in outlandish environments with an arsenal of moves, special abilities, and power-ups. Compete in your favorite match types including Steel Cage, Royal Rumble, Fatal Four Way and more, as Mauro Ranallo and Jerry \u201cThe King\u201d Lawler call the mayhem!\nRaise some hell with Stone Cold Steve Austin, lay the SmackDown with the Attitude Era version of The Rock and get rowdy with Ronda Rousey. The WWE 2K Battlegrounds Digital Deluxe Edition includes three versions of each Superstar along with the pre-order bonus, Edge. Also includes additional 1100 Golden Bucks to unlock additional WWE Superstars and legends.",
         "languages": null,
-        "size": 9079619584
+        "size": 9366929408
     },
     "70070000010767": {
         "id": null,
@@ -52593,6 +52985,38 @@
         "description": "Explore, build, craft and even train monkeys with up to three friends in a desperate bid to survive. Be prepared for your trek into the unknown and pack The Survivalists Deluxe Edition for the journey ahead.\n\nThe Deluxe Edition includes:\n\nThe Survivalists Game\n\nMonkey Business Pack: Be the envy of the island with the latest in castaway fashion. Includes 3 player hats and 6 monkey hats as part of the Box-Ex side quest\n\nBuild Together, Survive Together \n\nFinding the perils of island life too much or just looking to share your building expertise with friends? The Survivalists has you covered! Complete joint adventures, gain loot, trade and ultimately survive together and as you and up to three fellow castaways explore an island paradise.\n\nMonkey See, Monkey Do! \n\nIf you\u2019re in need of a builder, a lumberjack or even a soldier, the monkeys on the island can be tamed and trained to help you with everyday tasks or back you up on raids to a fanatic camp! The Mimic System means a wide variety of functions can be performed by your banana loving friends, with monkey management becoming key to surviving the island\u2019s challenges.\n\nGet Crafty \n\nThe secret to survival is to make the most of the resources around you. Whether that\u2019s piecing together a primitive axe to chop wood or mixing up a refreshing fruit smoothie to keep the hunger at bay, you can discover recipes and expand your options across food, item or structure crafting trees. \n\nRun the Gauntlet \n\nLooking for an epic sword to hang on your hut wall or want to lay waste to encroaching hostiles? What you seek could be in one of the many labyrinths scattered around the island. However, getting your hands on the loot won\u2019t be easy so any would-be raiders will need to prepare for their treasure hunting escapades.\n\nDo you have what it takes to be a Survivalist? ",
         "languages": null,
         "size": 1016070144
+    },
+    "70070000011233": {
+        "id": null,
+        "rightsId": null,
+        "name": "HyperBrawl Tournament Ultimate Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201031,
+        "nsuId": 70070000011233,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Milky Tea",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/10c3b1c752ec43de51a20940aba28a265872b676d727061deaa48a9f75b43e92.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31eb5df907c3d238c4f91bdcfb669ef9b190f9f62f24fa4d20a092e2755095e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6b4cfe74af90eeaed60074e878272a4a7ecd7b722ecfd43db79bc28901da186.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9eced30249b77a3e3a8537bf25d65e53985edbe4125fe87f864cc6939dad9a90.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/60b82099bce4cf5b6cb035d77cf56bb48df698db688cd1939f9638ab31c88a50.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/213732290b18ad58e90251521a8a309f2294f24c1e47869133197c137a60b202.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0cd91855b0848855d970f99db3b102b46ef587cd2c5348e09a09a0f490d98aa0.jpg",
+        "intro": "Smash. Brawl. Score!",
+        "description": "HyperBrawl Tournament Ultimate Edition includes:\n-        HyperBrawl Tournament full game\n-        Homestars Founder Pack\n-        Cosmic Founder Pack\n-        Warrior Founder Pack\n-        Celebration Pack 1\n-        Celebration Pack 2\n\nBECOME A HYPERBRAWL LEGEND\nThe universe\u2019s greatest heroes have been summoned to compete in a showdown for the ages; the legendary HyperBrawl Tournament! Armed with unique weapons and a thirst for glory, take to battle-tested arenas in this 1-4 player arcade-style sports brawler played locally or online.\n\nMASTER THE HYPERCURVE\nOnly the universe\u2019s elite champions can summon this incredible skill. The HyperCurve lets you seize control of the ball mid-flight to \u2018magically' manoeuvre it around the opposition and obstacles to score legendary goals that could only happen in HyperBrawl.  \n\nCHANNEL THE HYPERFORCE\nThe fabled HyperForce runs through your very DNA, channel it to launch game changing attacks that can literally see your enemies shot out of the arena with its devastating power.\n\nHEROES ASSEMBLE\nAlready fabled heroes of their own worlds, competitors are drawn across the furthest realms to compete in the HyperBrawl Tournament. Choose from 12 heroes in three classes and load them out with lethal weaponry combos and paint their armour for victory. \n\nMALEVOLENT ARENAS\nTravel the vast expanse of time and space to HyperBrawl arenas from the home planets of the heroes themselves. Take in Chrome City\u2019s elevated stadium with its Cyberpunk stylings, the ancient stadium of Steelhenge or the demonic Court of Azdritch. Each arena is laden with perilous obstacles and traps that layer more challenge and unpredictability into every game.\n\nLET BATTLE COMMENCE\nTake on the Campaign Mode and begin your ascent to becoming a legend in the Galaxy League where you will face off every hero in the Tournament. Then go for more accolades in the Cosmic Cup. Or plunge into the multiplayer madness that is Blitz mode - competing with players from around the world to become the ultimate HyperBrawl Champion and forge your legend across the stars! ",
+        "languages": null,
+        "size": 1125122048
     },
     "70070000011236": {
         "id": null,
