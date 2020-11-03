@@ -2914,6 +2914,53 @@
         ],
         "size": 1011875840
     },
+    "70010000018421": {
+        "id": "0100A0F00DA68000",
+        "rightsId": null,
+        "name": "Monster Sanctuary",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201208,
+        "nsuId": 70010000018421,
+        "category": [
+            "RPG",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Implied Violence",
+            "Mild Violence",
+            "Users Interact"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Team17",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7920755d3d074e86efcf38a5a5924ca1ee0e2ec43a1c35033807fcbdfbfb03ec.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/34a1161a1b2046e6e62d19b0ea0c476ad6049a3611047fe1bf4fd679a51a7eef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bf7d76a4f50fff35bf1c59a5ff99e51b2a843632ec63039707c31e676f060fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/037683b3c96987be9f2d99eb7ff731fd6569d809d038cb7f68df3fac6f1e6e3d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94a4202585bb63f556a86171487fd9b22ed68ce160f81fa0aa131331ff546c78.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/800b43cab824d61f2bfea457aea84d9aefa64b006cd21c4b3148749869bd8ceb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f2cc5addd27b18e41e44fc924153399f45f5043eff6807fc6b605013a563179d.jpg",
+        "intro": "Monster taming meets metroidvania. Collect, train and battle monsters in a lovely side-view pixel world.",
+        "description": "Choose your spectral familiar and follow in your ancestors\u2019 footsteps to become a Monster keeper and save the Monster Sanctuary.\n\nEmbark on an epic adventure using the powers of the monsters you collect, and the team you build, to unlock an ever-expanding world. On your quest to become the ultimate Monster Keeper you\u2019ll unravel the cause of a mystery that threatens the peace between humans and monsters.\n\nExplore a Metroidvania inspired world.\n\nThe powers of your monsters will allow you to explore and expand the world. Cut down vines, smash down walls and glide over gaps- all with the help of your monsters.\n\nAssemble your team.\n\nHatch collect and train monsters from across the world and build your team. Every monster has a unique skill tree to allow you to customize and tailor your party.\n\nClash in tactical 3V3 combat.\n\nStrategically order your attacks for maximum efficiency, stacking your blows to create combos. Grind and find the best combo to earn the rarest monster eggs!\n\nBattle Monster Keepers across the world!\n\nGo head to head in a test of skill and ability in online player vs player! Gather and train monsters, max out their skill trees and take on friends and foes in an epic battle until your monsters are the last standing.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 417333248
+    },
     "70010000018541": {
         "id": null,
         "rightsId": null,
@@ -6097,11 +6144,11 @@
             "Action"
         ],
         "ratingContent": [
-            "Extreme Violence",
-            "Strong Language"
+            "Strong Language",
+            "Strong Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 18,
+        "rating": 16,
         "developer": null,
         "publisher": "Marvelous Europe",
         "frontBoxArt": null,
@@ -6828,9 +6875,11 @@
             "Party",
             "Action"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Belka",
         "frontBoxArt": null,
@@ -6842,13 +6891,13 @@
             "https://img-eshop.cdn.nintendo.net/i/7d9a77b9095af2c109f9ad025cb9fb609d70b9538713afead454117f842f8f9f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e85e519b333e86eded0a389401acd658c81970c69cae6843397e300f8b5e841e.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4459cc86ff30b84164b250ea27f5a11f74e7e2dbe0bff4dca254bd26415368ec.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4dfcf3861455f0bbf9ece8b6f68e345a651c45fcb0ec805ca15663e6fc6b3a04.jpg",
         "intro": "Use your belly to your advantage! Challenge players all over the world and climb the leaderboards. Fight into the arena: charge, hit, dodge and defeat the opponents!",
         "description": "THE FUNNIEST PHYSICS-BASED SUMO ARENA EVER\nWith Circle of Sumo: Online Rumble! you will play as a Sumotori, a sumo wrestler. After selecting your Sumotori you will be catapulted into one of the crazy arenas of the game, but be careful don't be fooled! They look harmless but they hide more pitfalls than you think.\n\nCircle of Sumo: Online Rumble! is based on physics and the variety of levels creates a wide range of challenges. Magma, sand, and hatches are just some of the elements that will stand on your way to victory, besides the other huge Sumotoris of course!\n\nWill you try to bring down your opponents with all your strength, will you choose to use your skills to dodge at the last moment or will you try to leave the other opponents to eliminate themselves?\n\nONLINE MULTIPLAYER UP TO 4 PLAYERS\nChallenge up to 3 more Sumotoris online, the last to stand in the circle wins the round! Whoever wins five rounds will be the champion of the match. Invite up to 3 other friends to your place and enjoy hilarious battles together.\n\nTHE FUNNIEST SUMO ARENAS EVER\nThanks to the importance given to physics it will not be just a matter of power to win, in addition to hitting and dodging you will have to do your best to survive in the arena. Use the environment at your advantage!\n\nRANKED MODE!\nChallenge yourself, fight other players online and climb the world rankings.\nIt will take some practice but the first step of the podium could be yours!\n\nFIVE ARENAS\nFight in five different arenas, each with its pitfalls and characteristics that make them deeply different from one another. \nMaster them all, don't be unprepared!\n\nEIGHT DIFFERENT SUMOTORIS\nChoose from eight different sumotoris, they have different abilities! Everyone has a different sprint, strength or acceleration rating.  It is not the Sumotori that chooses the arena but the arena chooses the Sumotori!",
         "languages": [
             "en"
         ],
-        "size": 415236096
+        "size": 635437056
     },
     "70010000023418": {
         "id": "010011300F74C000",
@@ -7852,6 +7901,54 @@
         ],
         "size": 90177536
     },
+    "70010000025511": {
+        "id": null,
+        "rightsId": null,
+        "name": "Borderlands: The Handsome Collection",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200529,
+        "nsuId": 70010000025511,
+        "category": [
+            "First-Person Shooter",
+            "RPG",
+            "Shooter",
+            "Action"
+        ],
+        "ratingContent": [
+            "Bad Language",
+            "Gambling",
+            "Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 18,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eed91f1c578b6de3a69ba6567a311d6c497455d8efb8e1768bd6c62333e4eab6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1872ab4acc876aa604d6040844493029a13e664e1e9f8c2b1ce2e2fe4d289060.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2168f04704dde10d6641bb7ab5075380d0f5e398130c522d59c4faedfd2bb754.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d532c9feb7685d667227acde29e4e76a5c08620bb37bd3ac678e8a7ead9795d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9994d124d9f817ea040598240305474e5d9ada7efa73176be8d6a063b3f072aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/64acd14c2c724a4567b0b4ea7ce9188d02eb8ebb8228c0b7985de83e9839178a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa2cf668f070ecb106ff95dbb1f7e08026cef6495c2bd2576532025fd9f6f219.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f328c265399afabfada8ece7e071fe1a9745980076964a928e95e92f97e2072d.jpg",
+        "intro": null,
+        "description": "Shoot and loot as you explore the mayhem-filled world of Pandora in Borderlands 2 and the lunar madness of Borderlands: The Pre-Sequel in Borderlands: The Handsome Collection. Experience the award-winning FPS-RPG series, including its bazillions of guns, trademark cooperative gameplay, and piles of bonus add-on content.\nBorderlands: The Handsome Collection includes:\n\u2022 The critically acclaimed BORDERLANDS 2 and BORDERLANDS: THE PRE-SEQUEL games in one package.\n\n\u2022 Piles of bonus add-on content for both games, adding 100+ hours of gameplay at an incredible value*\n\n\u2022 Cooperative gameplay for up to four players online.\n*Borderlands 2: Commander Lilith & the Fight for Sanctuary add-content not included.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 23122149376
+    },
     "70010000025543": {
         "id": "010041501005E000",
         "rightsId": null,
@@ -8083,7 +8180,7 @@
             "zh",
             "zh"
         ],
-        "size": 289406976
+        "size": 291504128
     },
     "70010000025929": {
         "id": "01005420101DA000",
@@ -11542,7 +11639,7 @@
             "zh",
             "zh"
         ],
-        "size": 3634364416
+        "size": 3653238784
     },
     "70010000028165": {
         "id": "010093F00F894000",
@@ -15943,7 +16040,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c4da71189405af50c721d60aa8e092c0ae7cec200c6aa177f1053c438f269c8d.jpg",
         "intro": null,
-        "description": "Action Role-Playing game with a story based on the hit TV show. The adventure takes players on the ultimate brawl as they befriend Bakugan, gear up and customize their teams for intense battles, and master their skills to become the Champion of Vestroia. Battle solo or online.",
+        "description": "All-new action Role-Playing game with an original story that expands on the hit TV show. The adventure takes players on the ultimate brawl journey as they befriend powerful creatures known as Bakugan. Gear up, customise and master your Bakugan teams for strategic battles to become the Champion of Vestroia. \nFeaturing a highly competitive Action Battle System, players will build their best Bakugan teams to become Bakugan Brawling heroes. Players can collect Bakugan by befriending them while exploring and completing quests.\nFully explorable 3D world divided into districts each with dedicated battle environments. Players can interact with other characters, go on quests, and explore with their Bakugan team. Players can also play online in head-to-head multiplayer.",
         "languages": [
             "ja",
             "en",
@@ -16894,7 +16991,7 @@
         "developer": null,
         "publisher": "Lightning Games",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bc301a639b99dc154c035a8d68e8e31dfcd4382645929b976e25230c8107d711.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5573b036bce07b08a5c005172d5181608e17e9335584e75b3e44edb8a49d9628.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/922203da59b7266f59c32bb06655b57ce06daeb2cf54c379317296fa4ff7d0d6.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e42d1f87af370278babf5e984dec71d5b0ba38d2570bcaa191e23d8b327b26b8.jpg",
@@ -16915,7 +17012,7 @@
             "zh",
             "zh"
         ],
-        "size": 6869221376
+        "size": 10120855552
     },
     "70010000030523": {
         "id": "010004901194A000",
@@ -17546,7 +17643,7 @@
             "ja",
             "en"
         ],
-        "size": 1157627904
+        "size": 1161822208
     },
     "70010000030789": {
         "id": "0100A24011F52000",
@@ -18736,7 +18833,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/989f68dbada32a068ce695ce3b1560faea3a0060ca1add5f553dc96444b1324a.jpg",
         "intro": null,
-        "description": "Fusing gameplay with light & shadow. The concept of light and shadow runs throughout the design of the game\u2019s story, art and puzzles. Switch between light and shadow and pass through the two realities as you experience unique interlacing of black and white, as well as both 2D and 3D.",
+        "description": "Fusing gameplay with light & shadow. The concept of light and shadow runs throughout the design of the game\u00e2\u20ac\u2122s story, art and puzzles. Switch between light and shadow and pass through the two realities as you experience unique interlacing of black and white, as well as both 2D and 3D.",
         "languages": [
             "ja",
             "en",
@@ -20904,7 +21001,7 @@
             "en",
             "zh"
         ],
-        "size": 2425356288
+        "size": 2444230656
     },
     "70010000031956": {
         "id": "01008CE0123CC000",
@@ -22829,7 +22926,7 @@
         "languages": [
             "en"
         ],
-        "size": 210763776
+        "size": 212860928
     },
     "70010000032309": {
         "id": "0100C01012654000",
@@ -26163,7 +26260,7 @@
             "fr",
             "it"
         ],
-        "size": 154140672
+        "size": 186646528
     },
     "70010000032957": {
         "id": "010000E00E612000",
@@ -28929,6 +29026,45 @@
         ],
         "size": 68157440
     },
+    "70010000033619": {
+        "id": "01005BC012C66000",
+        "rightsId": null,
+        "name": "Duck Life Adventure",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201109,
+        "nsuId": 70010000033619,
+        "category": [
+            "Adventure",
+            "Racing",
+            "Fighting",
+            "RPG"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Wix Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e85c09bd1ca90f68af4e424c3b7b48039dfcef5e558ebefe17f1480855dff17a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5af2298dab5f0caa443a57ece8c839027641fd66759a1b5dcaae22b950100175.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d8076871006c4db7147ea80829fc9f14fe8fcaba8646a1c342d63a2294376b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed72d645cfb386fa9d553eef309f135ad1dce74684b1cec8ba579a01687205d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/68fc444367842d06dfc3da5f71612fca9821c4fe644e12abcef04e5ac376b76e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4d57fb0df1ef77eeb656c6cbd475882954ef4d897ebde8b9a4d0598176b42c59.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9959d6e840f585c159aaaa7b20e555f761410fe430e6580dca3659a9eb6e02e8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/044a96471cb13d1d58bdb4810ecb2936c3030b2d91d6d1a78426df0ea39eeefc.jpg",
+        "intro": "Duck Life is back and bigger than ever. Create your own duck and embark on an epic adventure!",
+        "description": "Explore an enormous new area to find training dojos, shops and ducks to race and battle. Play 16 new training games to level up your duck in 8 skills and become the greatest duck adventurer ever!\n\n\nCREATE YOUR OWN DUCK\n\nDesign your duck to look exactly how you want, from its hair down to its eye colour. There have never been so many customisation options to choose from!\n\n\nEXPLORE A HUGE NEW WORLD\n\nWhat would an adventure be without an enormous area to explore?! Discover new places, new ducks to compete with and new shops across an expansive overworld. In fact, this is the biggest world in any Duck Life game yet!\n\n\nTRAIN YOUR DUCK IN 8 SKILLS\n\nThis time, your duck can both race AND battle other ducks. If you want any hope of winning, you'll need to do some training! Play 16 training mini games, each with 5 different modes. This means there are 80 different training games to play!\n\n\nUPGRADE YOUR EQUIPMENT\n\nSpend all of your battle and race winnings on over 75 brand new hats, costumes and weapons. Dress for the stats, or for the style. It's up to you!\n\n\nBE THE FASTEST IN RACES\n\nRaces are the time to see if your training is paying off! Face off against other ducks on 60 brand new race tracks. Run, climb, jump, swim and fly your way to victory. Not fast enough to win? Try using a power up to give yourself that winning edge!\n\n\nBE THE STRONGEST IN BATTLES\n\nSome ducks are not interested in racing, all they want to do is battle! Take them on with 25 new weapons, new power ups and new abilities. Train strength to improve your attack power, health to increase your hitpoints and jumping to gain the ability to dodge attacks!\n\n\nCOMPLETE ALL 25 QUESTS\n\nThere are ducks in need, and only you can help them! From clam collecting to diamond stealing, you never know what crazy things they'll want you to do.\n\n\nBECOME THE DUCK CHAMPION\n\nFind and win every tournament, and beat their champion to become the ultimate duck champion. This is what it's all about after all!",
+        "languages": [
+            "en"
+        ],
+        "size": 1275068416
+    },
     "70010000033625": {
         "id": "0100E4401139C000",
         "rightsId": null,
@@ -29413,7 +29549,7 @@
             "de",
             "it"
         ],
-        "size": 40894464
+        "size": 72351744
     },
     "70010000033749": {
         "id": "010031D012BA4000",
@@ -30182,6 +30318,51 @@
             "zh"
         ],
         "size": 2506096640
+    },
+    "70010000034100": {
+        "id": "0100708012ECC000",
+        "rightsId": null,
+        "name": "Salad Bar Tycoon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201106,
+        "nsuId": 70010000034100,
+        "category": [
+            "Simulation",
+            "Strategy",
+            "Puzzle",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c5361e25e2ed3b4ca5294126224d9316f1a0eb62ee328845f63779e7125fc863.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/71525a2c32b266d3bcfc099056b727c0b547c46504c79f17b2d17f1c0ed01f79.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ab777e9dd7356f6e1a298260a034293675b8c129c6cb7e35e115ee98e60d159.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa28166a7f93925207169e87ab77f4b6039fb456ad92c42288719acc02c7dbca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08323962f9f4af62966ced9675d14c56b2aac43e800c60cdaeab47ab6d3c30cf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20d49d13b8b196c43286593830b3c58dfd9d15b900e8ebad48b4886779c45fcd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/743f7cf375b80dadb4ce6639e54ddc96d2a501aa10d00120c47f00b7c74c5dfc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/188699370ddd5136d627ee61dde171f172bad6b1e5f067f893ac895546b6f094.jpg",
+        "intro": "Become the manager of a salad bar and learn for yourself just how hard it can be!",
+        "description": "Look out, this awesome salad bar will soon become the best one in town! \n\nBe careful not to mix up your recipes!\n\nUpgrade your bar and make it beautiful! Find ingredients of the best quality!\n\nThen create the best salad bar in town!\n\nCustomers are waiting in line, and you have to serve them as fast as you can.\n\nGive it your best and you might just make it!\n\nFeatures:\n\n* More than 70 dishes to serve\n* 3 unique locations\n* 60+ levels to explore\n* Countless upgrades\n* Unlock new items to upgrade your kitchen appliances, interiors and ingredients\n* 40+ achievements to gain\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 255852544
     },
     "70010000034124": {
         "id": "0100C10012EFC000",
@@ -30964,7 +31145,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/237263f813b79b6b58bc77c586a6172a906d08fac421572539c6f963ef3cd81a.jpg",
         "intro": "Try on the role of a driver of a passenger bus. Take a ride in a real city, strictly following the schedule.",
-        "description": "Complete journeys around the city and its suburbs, strictly following the schedule. Earn money by successfully delivering passengers and following the traffic laws. Complete various scenarios with pre-set conditions or build your own career in Free Mode. You have a unique chance to drive buses from different eras and countries. You can drive both old Soviet city buses and European long-distance giants.\n\nWe took photos of a big part of these cities and their suburbs to recreate buildings and streets as close to real objects as possible. Virtual cities are recreated in a very accurate way, with every detail preserved. Buildings, bus stops and other objects are situated exactly on their places.\n\nChoose routes at your look to drive around the city districts you are interested in. It does not matter whether you like high-speed passenger transportation or slow and relaxed driving. If you do not like pre-set schedule, you can customize it for your driving style. Earn money, buy new buses and upgrade them. Decorate your bus as you want. \n\nGame features:\n- Vast number of high-detailed buses from different countries and eras.\n- Complete edition with all dlc's included. \n- Recreated cities and their suburbs with area of more than 20 km\u00b2.\n- Possibility of upgrading your buses, adding and replacing decoration elements.\n- Different weather conditions, dynamic day time change.\n- Various traffic situations: traffic jams, accidents, speed bumps, driving at night, long-distance travels.\n- Wide functionality on driving a bus.\n- Necessity to visit gas stations and garages.",
+        "description": "Complete journeys around the city and its suburbs, strictly following the schedule. Earn money by successfully delivering passengers and following the traffic laws. Complete various scenarios with pre-set conditions or build your own career in Free Mode. You have a unique chance to drive buses from different eras and countries. You can drive both old Soviet city buses and European long-distance giants.\n\nWe took photos of a big part of these cities and their suburbs to recreate buildings and streets as close to real objects as possible. Virtual cities are recreated in a very accurate way, with every detail preserved. Buildings, bus stops and other objects are situated exactly on their places.\n\nChoose routes at your look to drive around the city districts you are interested in. It does not matter whether you like high-speed passenger transportation or slow and relaxed driving. If you do not like pre-set schedule, you can customize it for your driving style. Earn money, buy new buses and upgrade them. Decorate your bus as you want. \n\nGame features:\n- Vast number of high-detailed buses from different countries and eras.\n- Complete edition with all dlc's included. \n- Recreated cities and their suburbs with area of more than 20 km\u00c2\u00b2.\n- Possibility of upgrading your buses, adding and replacing decoration elements.\n- Different weather conditions, dynamic day time change.\n- Various traffic situations: traffic jams, accidents, speed bumps, driving at night, long-distance travels.\n- Wide functionality on driving a bus.\n- Necessity to visit gas stations and garages.",
         "languages": [
             "en"
         ],
@@ -33083,6 +33264,46 @@
         ],
         "size": 158334976
     },
+    "70010000035271": {
+        "id": "0100C850134A0000",
+        "rightsId": null,
+        "name": "Vera Blanc: Full Moon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70010000035271,
+        "category": [
+            "Adventure",
+            "Simulation",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Moderate Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3e25d940344fec930886df73a0eaf1e30c943c82f4ea0a82b6d8678722c762a7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/43446a8434228a8e0f33fa746519ea1959b234731d30370f05932ffc9362cabd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a154b9f9171c9a808ed9934511ffe872d0561b241d9c9d4f3df3b1866e589d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b56deacf25a24220da17c43f55679fe30871aa7313579a697ba58ddb69a28a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b29175800ab5302fb77bef5b8f90e6f80abc53cda83f44cacda0191891c20b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bce761cc1b8d3b103b47670636e3e2a8e6e398b06fdf32d62fd25cc4b04ffb81.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c34dbc1452a55e9f9b35cbc89ed65c0a5af5edae988be7010a3e0feb8ced01fd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d9d342848f63ef710b224d6ea96384be90b44ffcc07922a24959bf30e7a16da4.jpg",
+        "intro": "Use your wits to crack this baffling case.",
+        "description": "Vera Blanc is a mystery / detective game. Take on the role of Vera Blanc, a young and beautiful woman with an extraordinary power: the ability to read other people's minds! The game plays like a visual novel / adventure game with two endings for the mystery and a collection of challenging minigames.\nIn this episode, our heroine travels to a mysterious town in Germany deep in the Black Forest.\nA serial killer is on the loose, and all leads point to a werewolf as the culprit!\nFeatures:\n* Visual novel with multiple endings\n* Solve a mystery\n* Variety of minigames\n* You can play with or without minigames\n* Comic book inspired art style",
+        "languages": [
+            "en"
+        ],
+        "size": 66060288
+    },
     "70010000035284": {
         "id": "01000E50134A4000",
         "rightsId": null,
@@ -33483,6 +33704,138 @@
             "pt"
         ],
         "size": 811597824
+    },
+    "70010000035598": {
+        "id": "01004DA012976000",
+        "rightsId": null,
+        "name": "Area 86",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201111,
+        "nsuId": 70010000035598,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "Simulation",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "SimDevs",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e6c68c6a782634182db02a166e5714ecf59f614d57838d1bce553d86e78d0e8d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/65457f7e0cc8f68e7676cca12a8c975e1cb9aa2e48356a15dd601dad1fa26ab9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f9a375b7bb27df944e2eed2f5617f1f38f7ddbbc502fc730879eaf6ae1a5380.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/772918d2e767ae9edc73984300f0e80db4e253d226d007bc38764d9af957a3c5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ef14e78a289c3ff6e6f9217bb31fda2c0d6b46a6b8213bff7bc18d9cf57b9781.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7643c2accdb8cafa54b8881586725f792e6edb68bfa072815290a087ce98b29d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0e95a335a88ba4d956150dd1e5fa767dfc8e2de3bfdf1c94c3489a82a4e3ff94.jpg",
+        "intro": "Welcome to Area 86, a physics-based escape room puzzle game. The secret space station AI has gone rogue, and it's your task to stop it!",
+        "description": "You are a fast-moving robot that can also do some stylish parkour tricks. Use the laws of physics to literally push your way through the station! Pick up items, activate switches, destroy the environment around you to escape. If you are looking for an extra challenge - you can also find secret items and clues to what happened.\n\nBut there is more! The space station AI has trapped other robots. Save them and form an all-powerful robot squad! Together you are powerful!\n\nEach level has multiple ways to complete it, and it's up to your imagination on how to escape. Don't worry if you get stuck - you can always request a hint, just like in any escape room!\n\nHave fun escaping and defeating the rogue AI!\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 244318208
+    },
+    "70010000035600": {
+        "id": "01005EB01363C000",
+        "rightsId": null,
+        "name": "Super Star Panda",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70010000035600,
+        "category": [
+            "Arcade",
+            "Action",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ab1a0fdc5f9434229ab97f251aa1e5829812405d564ba7f686c47fb9e459d99b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b082f504d28541fabfa0aadfb6117c4c245819dadb61e998562c47f15dfb2bc5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/405b1bdf1a0b9bd1c0b63eec31b902e9ee26ba7f2fd26abc8c17a90acb1c9759.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7265013500437da7aae40631283ff55ee8a27b03f87d5ccaa4e3db6581969bd4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a3675f98682bd00b0752dd2435e2fecef2c76e0925bc66b59116819a1015fc2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/001cd885f824f5a51ef84c6b7a42e268b19b8db0fd070aec989b9214dc4f9206.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fcdfbe747c69c7695aa8465dccb8a8a06ef9fac1732812462063aaa2bba27d12.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ae7a2d770ec2795a2152a84ca3631bb459051c67f77316722171fb998ac69499.jpg",
+        "intro": "A classic arcade game, from young and old - for old and young.",
+        "description": "FEATURES:\n- evil rockets\n- evil meteors\n- evil satellites\n- evil spacecrafts\n- evil UFOs\n- evil (not really) power-ups\n- non-evil, ultra great and helpful SHIELD\n- supersonic space-time breakdown SLO-MO",
+        "languages": [
+            "en"
+        ],
+        "size": 91226112
+    },
+    "70010000035642": {
+        "id": "0100E1F013674000",
+        "rightsId": null,
+        "name": "FUSER\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70010000035642,
+        "category": [
+            "Music",
+            "Party",
+            "Multiplayer",
+            "Lifestyle"
+        ],
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0f4628c9de3b23a315b3912aae0b7d5030c1a2cb1b87cd4f84b6c68b653e4012.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0c3d4ab705c62026b0df34c329f401fe5371de3258aaf03a28a758efb79e7f82.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7bc0caa9ef555f8d7502f19c45b13e5657835323047aad51421daab1d20f9ecc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a85287ade2533577a7cb9a8695a7e95e5f088f4470fbd80187aad840f4deba43.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df91c9978a97f255f6c96f7b304e9ea8970a54cb64c3082cef6e0bcde4e2d4d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb678e144d3619538deca6f8187eb0f6f4fbaa0b484ddc27ae0f19b31ed0cb1e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5412afe720e213ab8b1ef85f15af31f6e803af52b79fa614fcb79a256e3f50bf.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": "From the creators of Rock Band\u2122 & Dance Central\u2122 comes FUSER\u2122 - a nonstop virtual music festival where you control the music! ",
+        "description": "From the creators of Rock Band\u2122 & Dance Central\u2122 comes FUSER\u2122 - a nonstop virtual music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world!\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customization options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 6121586688
     },
     "70010000035728": {
         "id": "01006C8013708000",
@@ -49086,6 +49439,42 @@
         "languages": null,
         "size": 5242880
     },
+    "70050000023375": {
+        "id": null,
+        "rightsId": null,
+        "name": "Borderlands 2: Commander Lilith & the Fight for Sanctuary",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201103,
+        "nsuId": 70050000023375,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Gambling",
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/def113c53153c7f3c7e8ff6af0a2d8d5647b80d2b6e314daf9874067e8eb50b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39d49c8dc35b1ed2445735136994c4c0b3543ed27bed641ff659dba9f77a0bb2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf77edc32a5c03dece4e147508681368953ff8c54bad04f3f128e2f81d8c59d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61e2b64e5ecd3fb15f86e7c164311d243ceda6d7f503c76bf9f90b6189a67754.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e55f93877c0305f4738ab278d1bae8ddedbe53c5d24be301df8889841f728cca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fdcb869fbb30333574ec80497c2bc1f68dc04338ff6104eb83094df30ad2ba15.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5ef808a6217b682c6f15b0f5c7ee2578c89c4db50e8033efac20b42af70f5f55.jpg",
+        "intro": null,
+        "description": "Return to the award-winning shooter-looter for an all-new adventure that sets the stage for Borderlands 3. Sanctuary is under siege, the Vault Map has been stolen, and a toxic gas is poisoning Pandora. Battle new bosses, explore new areas, collect new loot (including an entirely new tier beyond Legendary), and join up with Lilith and the Crimson Raiders to take on a deranged villain hell-bent on ruling the planet. ",
+        "languages": null,
+        "size": 5187305472
+    },
     "70050000023400": {
         "id": null,
         "rightsId": null,
@@ -50087,6 +50476,34 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023631": {
+        "id": "0100E1F013675004",
+        "rightsId": null,
+        "name": "Crystal Void Theme Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023631,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b1fc1558021f25669d42ababa1d4bd288dadfb9bc1c0c58731283c48a5dd83c9.jpg",
+        "intro": null,
+        "description": "From the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000023632": {
         "id": null,
         "rightsId": null,
@@ -50120,7 +50537,7 @@
         "size": 4194304
     },
     "70050000023694": {
-        "id": null,
+        "id": "0100E1F013675005",
         "rightsId": null,
         "name": "Gilded Rabbit Helmet",
         "version": null,
@@ -50148,7 +50565,7 @@
         "size": 4194304
     },
     "70050000023696": {
-        "id": null,
+        "id": "0100E1F013675006",
         "rightsId": null,
         "name": "Remix Runner Outfit",
         "version": null,
@@ -50176,7 +50593,7 @@
         "size": 4194304
     },
     "70050000023697": {
-        "id": null,
+        "id": "0100E1F013675007",
         "rightsId": null,
         "name": "Fuser Fest Outfit",
         "version": null,
@@ -50204,7 +50621,7 @@
         "size": 4194304
     },
     "70050000023698": {
-        "id": null,
+        "id": "0100E1F013675008",
         "rightsId": null,
         "name": "Shatterfall Video Wall",
         "version": null,
@@ -50231,8 +50648,92 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023700": {
+        "id": "0100E1F013675001",
+        "rightsId": null,
+        "name": "Dua Lipa - \"New Rules\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023700,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/add886c033fc0a47fc606f1d4876576a4329360bf83cf631d4840cecedc40714.jpg",
+        "intro": null,
+        "description": "From the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 10485760
+    },
+    "70050000023701": {
+        "id": "0100E1F013675002",
+        "rightsId": null,
+        "name": "The Killers - \"Mr. Brightside\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023701,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d2a19d97659fff592247f7bccca0d7e655933829390e8d8e85bc7cc8b924a8ef.jpg",
+        "intro": null,
+        "description": "From the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 8388608
+    },
+    "70050000023702": {
+        "id": "0100E1F013675003",
+        "rightsId": null,
+        "name": "Khalid - \"Young Dumb & Broke\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023702,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd6f2d70791c6a2a14ecea5a8ff664461df21653470a2c0e0897e56a38107ef4.jpg",
+        "intro": null,
+        "description": "From the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 9437184
+    },
     "70050000023703": {
-        "id": null,
+        "id": "0100E1F013675009",
         "rightsId": null,
         "name": "21 Savage - \"a lot\"",
         "version": null,
@@ -50260,7 +50761,7 @@
         "size": 7340032
     },
     "70050000023704": {
-        "id": null,
+        "id": "0100E1F01367500A",
         "rightsId": null,
         "name": "Afrojack ft. Eva Simons - \"Take Over Control\"",
         "version": null,
@@ -50288,7 +50789,7 @@
         "size": 9437184
     },
     "70050000023705": {
-        "id": null,
+        "id": "0100E1F01367500B",
         "rightsId": null,
         "name": "Alanis Morissette - \"Ironic\"",
         "version": null,
@@ -50316,7 +50817,7 @@
         "size": 12582912
     },
     "70050000023706": {
-        "id": null,
+        "id": "0100E1F01367500C",
         "rightsId": null,
         "name": "Amerie - \"1 Thing\"",
         "version": null,
@@ -50344,7 +50845,7 @@
         "size": 8388608
     },
     "70050000023708": {
-        "id": null,
+        "id": "0100E1F01367500D",
         "rightsId": null,
         "name": "Ava Max - \"Kings & Queens\"",
         "version": null,
@@ -50372,7 +50873,7 @@
         "size": 9437184
     },
     "70050000023710": {
-        "id": null,
+        "id": "0100E1F01367500E",
         "rightsId": null,
         "name": "Bananarama - \"Venus\"",
         "version": null,
@@ -50400,7 +50901,7 @@
         "size": 8388608
     },
     "70050000023711": {
-        "id": null,
+        "id": "0100E1F01367500F",
         "rightsId": null,
         "name": "The Cranberries - \"Linger\"",
         "version": null,
@@ -50428,7 +50929,7 @@
         "size": 11534336
     },
     "70050000023712": {
-        "id": null,
+        "id": "0100E1F013675010",
         "rightsId": null,
         "name": "DJ Snake, J. Balvin & Tyga - \"Loco Contigo\"",
         "version": null,
@@ -50456,7 +50957,7 @@
         "size": 7340032
     },
     "70050000023714": {
-        "id": null,
+        "id": "0100E1F013675011",
         "rightsId": null,
         "name": "Echo & The Bunnymen - \"Lips Like Sugar\"",
         "version": null,
@@ -50484,7 +50985,7 @@
         "size": 10485760
     },
     "70050000023720": {
-        "id": null,
+        "id": "0100E1F013675012",
         "rightsId": null,
         "name": "Erasure - \"A Little Respect\"",
         "version": null,
@@ -50512,7 +51013,7 @@
         "size": 10485760
     },
     "70050000023721": {
-        "id": null,
+        "id": "0100E1F013675013",
         "rightsId": null,
         "name": "Evanescence - \"Bring Me To Life\"",
         "version": null,
@@ -50540,7 +51041,7 @@
         "size": 11534336
     },
     "70050000023723": {
-        "id": null,
+        "id": "0100E1F013675014",
         "rightsId": null,
         "name": "Fetty Wap - \"Trap Queen\"",
         "version": null,
@@ -50568,7 +51069,7 @@
         "size": 9437184
     },
     "70050000023724": {
-        "id": null,
+        "id": "0100E1F013675015",
         "rightsId": null,
         "name": "French Montana ft. Swae Lee - \"Unforgettable\"",
         "version": null,
@@ -50596,7 +51097,7 @@
         "size": 11534336
     },
     "70050000023725": {
-        "id": null,
+        "id": "0100E1F013675016",
         "rightsId": null,
         "name": "Glen Campbell - \"Gentle On My Mind\"",
         "version": null,
@@ -50624,7 +51125,7 @@
         "size": 10485760
     },
     "70050000023727": {
-        "id": null,
+        "id": "0100E1F013675017",
         "rightsId": null,
         "name": "Ini Kamoze - \"Here Comes The Hotstepper (Heartical Mix)\"",
         "version": null,
@@ -50652,7 +51153,7 @@
         "size": 9437184
     },
     "70050000023728": {
-        "id": null,
+        "id": "0100E1F013675018",
         "rightsId": null,
         "name": "Justin Timberlake - \"Rock Your Body\"",
         "version": null,
@@ -50680,7 +51181,7 @@
         "size": 9437184
     },
     "70050000023729": {
-        "id": null,
+        "id": "0100E1F013675019",
         "rightsId": null,
         "name": "Kane Brown ft. Lauren Alaina - \"What Ifs\"",
         "version": null,
@@ -50708,7 +51209,7 @@
         "size": 10485760
     },
     "70050000023731": {
-        "id": null,
+        "id": "0100E1F01367501A",
         "rightsId": null,
         "name": "Kelly Clarkson - \"Stronger (What Doesn't Kill You)\"",
         "version": null,
@@ -50736,7 +51237,7 @@
         "size": 10485760
     },
     "70050000023732": {
-        "id": null,
+        "id": "0100E1F01367501B",
         "rightsId": null,
         "name": "Mark Ronson ft. Miley Cyrus - \"Nothing Breaks Like a Heart\"",
         "version": null,
@@ -50764,7 +51265,7 @@
         "size": 9437184
     },
     "70050000023733": {
-        "id": null,
+        "id": "0100E1F01367501C",
         "rightsId": null,
         "name": "Nicki Minaj - \"Starships\"",
         "version": null,
@@ -50792,7 +51293,7 @@
         "size": 9437184
     },
     "70050000023734": {
-        "id": null,
+        "id": "0100E1F01367501D",
         "rightsId": null,
         "name": "Sean Paul - \"Get Busy\"",
         "version": null,
@@ -50820,7 +51321,7 @@
         "size": 9437184
     },
     "70050000023735": {
-        "id": null,
+        "id": "0100E1F01367501E",
         "rightsId": null,
         "name": "Soulja Boy Tell 'Em - \"Crank That (Soulja Boy)\"",
         "version": null,
@@ -50848,7 +51349,7 @@
         "size": 6291456
     },
     "70050000023737": {
-        "id": null,
+        "id": "0100E1F01367501F",
         "rightsId": null,
         "name": "Tone-Loc - \"Funky Cold Medina\"",
         "version": null,
@@ -50876,7 +51377,7 @@
         "size": 5242880
     },
     "70050000023738": {
-        "id": null,
+        "id": "0100E1F013675020",
         "rightsId": null,
         "name": "Topic with A7S - \"Breaking Me\"",
         "version": null,
@@ -50904,7 +51405,7 @@
         "size": 10485760
     },
     "70050000023740": {
-        "id": null,
+        "id": "0100E1F013675021",
         "rightsId": null,
         "name": "Usher ft. Pitbull - \"DJ Got Us Fallin' in Love\"",
         "version": null,
@@ -50930,6 +51431,69 @@
         "description": "Included in VIP Edition (digital)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover, and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customisation options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
         "size": 9437184
+    },
+    "70050000023821": {
+        "id": null,
+        "rightsId": null,
+        "name": "Salad Bar Tycoon Expansion Pack 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201106,
+        "nsuId": 70050000023821,
+        "category": null,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/71525a2c32b266d3bcfc099056b727c0b547c46504c79f17b2d17f1c0ed01f79.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/793bd197752dd820aea6bbb5602826a7c19a3164ee2c9e7ea42cbd46d4a79ed1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9946a3630bc193ca61bfc557df4e32f709984d5d226c3ef701126f6918e29fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/444883de192959421247565b1aeaab8de8d4c4dedffccde59b3a6362bcefa0c7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c385596ec9ae060afb1c0068c3d3326f83ff152d0a2055a5727e4c61848166d7.jpg",
+        "intro": "New challanges are waiting for you!",
+        "description": "IN THIS EXPANSION PACK FOR SALAD BAR TYCOON YOU WILL FIND:\n\n\u2022 30 new levels to explore\n\u2022 6 new Achievements to complete\n\nGo ahead, test your skill!",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023824": {
+        "id": null,
+        "rightsId": null,
+        "name": "Salad Bar Tycoon Expansion Pack 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201106,
+        "nsuId": 70050000023824,
+        "category": null,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/444883de192959421247565b1aeaab8de8d4c4dedffccde59b3a6362bcefa0c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b76795b7797389b9c04f6eec0a2bad974eacbd562184ba265c12d84ad3cbc55a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31e7f0548322da4a019766fa46b0433308e28e220a7544dff906c39955cf0f88.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e5fa6db572360aa0a336314bd991733f885359a03768a23a0bbf155a329c68f6.jpg",
+        "intro": "New challanges are waiting for you!",
+        "description": "IN THIS EXPANSION PACK FOR SALAD BAR TYCOON YOU WILL FIND:\n\n\u2022 30 new levels to explore\n\u2022 6 new Achievements to complete\n\nGo ahead, test your skill!",
+        "languages": null,
+        "size": 0
     },
     "70050000023895": {
         "id": "01002B00111A3001",
@@ -53269,5 +53833,40 @@
         "description": "You\u2019re the newest resident at Ye OLDE retirement community, where you\u2019ll meet a cast of sexy seniors who are all dying (not literally) to meet you. It\u2019s a lot like summer camp, but with orthopedic shoes, bridge clubs, and more jell-o. It\u2019s an adjustment as you settle in, but who knows: maybe these will turn out to be the best years of your life!\n\nAdventure, passion, and transformation are not experiences reserved for the young. Later Daters portrays the aging process as a rollicking romp and reminds us of what the elderly can teach us about our capacity for love.\n\nGameplay Features:\nPlay as a sexy senior! Customize your look, name, romance history, and gender.\nHave some intimate adventures that deal with mortality, vulnerability, and getting some action.\nEnjoy LGBTQ inclusive romance and poly relationship options.\nPick your favorite companion creature: A cat, a dog... Or a robot?\nDate and flirt with eight fetching residents of Ye OLDE...",
         "languages": null,
         "size": 856686592
+    },
+    "70070000011303": {
+        "id": null,
+        "rightsId": null,
+        "name": "FUSER\u2122 VIP Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70070000011303,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0c3d4ab705c62026b0df34c329f401fe5371de3258aaf03a28a758efb79e7f82.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7bc0caa9ef555f8d7502f19c45b13e5657835323047aad51421daab1d20f9ecc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a85287ade2533577a7cb9a8695a7e95e5f088f4470fbd80187aad840f4deba43.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df91c9978a97f255f6c96f7b304e9ea8970a54cb64c3082cef6e0bcde4e2d4d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb678e144d3619538deca6f8187eb0f6f4fbaa0b484ddc27ae0f19b31ed0cb1e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5412afe720e213ab8b1ef85f15af31f6e803af52b79fa614fcb79a256e3f50bf.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "From the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nVIP Edition (Digital) includes:\n\n- FUSER game\n- 25 additional launch DLC songs\n- Gilded Rabbit Helmet\n- FUSER Fest Outfit\n- Remix Runner Outfit\n- Shatterfall Video Wall Pack\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customization options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
+        "languages": null,
+        "size": 6376390656
     }
 }
