@@ -2707,7 +2707,7 @@
             "ru",
             "ko"
         ],
-        "size": 13230931968
+        "size": 13364101120
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -18452,6 +18452,45 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023336": {
+        "id": "010096F00FF23002",
+        "rightsId": null,
+        "name": "Borderlands 2: La comandante Lilith y la lucha por Sanctuary",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201103,
+        "nsuId": 70050000023336,
+        "category": null,
+        "ratingContent": [
+            "Derramamiento de sangre",
+            "Violencia intensa",
+            "Lenguaje",
+            "Temas sexuales",
+            "Uso de alcohol",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/def113c53153c7f3c7e8ff6af0a2d8d5647b80d2b6e314daf9874067e8eb50b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39d49c8dc35b1ed2445735136994c4c0b3543ed27bed641ff659dba9f77a0bb2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf77edc32a5c03dece4e147508681368953ff8c54bad04f3f128e2f81d8c59d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61e2b64e5ecd3fb15f86e7c164311d243ceda6d7f503c76bf9f90b6189a67754.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e55f93877c0305f4738ab278d1bae8ddedbe53c5d24be301df8889841f728cca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fdcb869fbb30333574ec80497c2bc1f68dc04338ff6104eb83094df30ad2ba15.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5ef808a6217b682c6f15b0f5c7ee2578c89c4db50e8033efac20b42af70f5f55.jpg",
+        "intro": null,
+        "description": "Regresa al galardonado shooter-looter para una nueva aventura que prepara el terreno para Borderlands 3. Han asediado Sanctuary, robado el mapa de la C\u00e1mara y un gas t\u00f3xico est\u00e1 envenenando Pandora. Enfr\u00e9ntate a nuevos jefes, explora nuevas zonas, consigue nuevo bot\u00edn (incluido un nuevo nivel m\u00e1s all\u00e1 del Legendario) y \u00fanete a Lilith y los Crimson Raiders para enfrentarse a un villano trastornado decidido a tomar el control del planeta. ",
+        "languages": null,
+        "size": 5187305472
+    },
     "70070000000041": {
         "id": null,
         "rightsId": null,
@@ -20432,6 +20471,31 @@
         "description": "La Digital Deluxe Edition incluye el Golden Touch Pack, que contiene un driver y un putter chapados en oro, adem\u00e1s del 2K/adidas CodeChaos MyPLAYER Pack, que contiene los zapatos de golf adidas CodeChaos BOA y la camiseta de polo, los pantalones y el sombrero adidas/2K CodeChaos personalizados, que dise\u00f1\u00f3 adidas exclusivamente para PGA TOUR 2K21. \u00a1Los jugadores tambi\u00e9n recibir\u00e1n 2300 monedas adicionales para desbloquear equipo de MyPLAYER adicional para jugar con estilo!",
         "languages": null,
         "size": 8884584448
+    },
+    "70070000010935": {
+        "id": null,
+        "rightsId": null,
+        "name": "Captain Tsubasa: RoNC (con compra anticipada) - Paquete DLC",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200828,
+        "nsuId": 70070000010935,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b0fc4096332e89447b346e13266750aeb94b653348a4b7427ac3a68ef193c6e2.jpg",
+        "intro": null,
+        "description": "Un set de uniformes, balones, tacos y actuaciones de gol que se pueden utilizar en los partidos en Captain Tsubasa: Rise of New Champions.\n\nIncluye lo siguiente:\n- Uniforme del Shutetsu\n- Uniforme del Meiwa F\u00fatbol Club\n- Uniforme de Jap\u00f3n juvenil\n- Set de uniforme de Open Sky (uniforme/tacos/bal\u00f3n)\n- Set de uniforme del Halc\u00f3n (uniforme/tacos/bal\u00f3n)\n- Bal\u00f3n de desaf\u00edo entre Tsubasa y Wakabayashi\n- 2 actuaciones de gol (acercamiento acrob\u00e1tico/uniforme)\n\n*El contenido descargable se puede utilizar en los partidos en los modos Versus y Versus en l\u00ednea.",
+        "languages": null,
+        "size": 0
     },
     "70070000010944": {
         "id": null,

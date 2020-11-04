@@ -2767,9 +2767,9 @@
             "https://img-eshop.cdn.nintendo.net/i/193238facb007f082b1245bfe4e294f70dbef06ef3c827f1de744bc12db3d065.jpg",
             "https://img-eshop.cdn.nintendo.net/i/d41191c05bab40097753dcb166cec6f35ab5649a889d440c21bc311da9ff422a.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5a07cc7cb04f5dd499e5f01530cfeb0f717dad1ee9601d89875c5a751e6a46c0.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0e567e7187dbdf0daf5ecf8faca86bc059ea959fe3898d9d6b3ffbb3d7bd869b.jpg",
         "intro": "Il manager degli e-sport con licenza ufficiale! Gestisci la tua brigata, amplia la casa di gioco e sconfiggi le squadre leggendarie per diventare il numero uno!",
-        "description": "\"CREA LA TUA SQUADRA DI E-SPORT\nPersonalizza ogni aspetto della tua brigata di professionisti: realizza lo stemma, progetta l'attrezzatura, crea il tuo avatar e i tuoi giocatori sin dall'inizio. Metti insieme la squadra di e-sport dei tuoi sogni e raggiungi la vetta del campionato!\n\nSCIOCCA IL MERCATO INGAGGIANDO LE STELLE MIGLIORI\nLe squadre migliori necessitano dei giocatori migliori, e se vuoi davvero diventare il pi\u00f9 grande manager al mondo, allora avrai bisogno di molte stelle al tuo fianco. Assumi giocatori promettenti e convinci i campioni a unirsi alla tua squadra. E se uno di essi ti rallenta, affronta la difficile decisione di tenerlo in squadra o di augurargli buon viaggio! Diventare un campione non \u00e8 mai stato un compito facile.\n\nALLENA I GIOCATORI E PRENDITI CURA DEL LORO BENESSERE\nLe superstar non escono dal nulla: perfino il giocatore di maggior talento ha bisogno di lavorare sodo per migliorare le proprie abilit\u00e0! Crea dei campioni, lavora sull'affiatamento della squadra, analizza gli avversari... e non saltare la colazione! Dopo tutto, la squadra migliore \u00e8 qualcosa di pi\u00f9 che la semplice somma delle sue parti, e il gioco di squadra (e una dieta adeguata) \u00e8 ci\u00f2 che separa una buona squadra da una eccellente.\n\nDALLA CAMERETTA AI MILIARDI...\nVincere le partite attrarr\u00e0 sempre pi\u00f9 fan, guadagni e nuove opportunit\u00e0! Migliora la tua casa di gioco man mano che scali le divisioni e inizia a vivere come una superstar. Psicologi, allenatori, manager del marketing e ogni altro tipo di professionisti ti accompagneranno nel tuo cammino verso la gloria!\n\n... PER DIVENTARE UNA LEGGENDA DEGLI E-SPORT!\nMetti alla prova i tuoi lunghi allenamenti sfidando le altre squadre di e-sport. Decidi se constatare solo il risultato dello scontro o se guidare la tua brigata durante le partite simulate, scegliendo i campioni e prendendo le decisioni in tempo reale. E quando affronterai la folla di fan, ricorda: il successo appartiene ai giocatori, le sconfitte all'allenatore.\"",
+        "description": "CREA LA TUA SQUADRA DI E-SPORT\nPersonalizza ogni aspetto della tua brigata di professionisti: realizza lo stemma, progetta l'attrezzatura, crea il tuo avatar e i tuoi giocatori sin dall'inizio. Metti insieme la squadra di e-sport dei tuoi sogni e raggiungi la vetta del campionato!\n\nSCIOCCA IL MERCATO INGAGGIANDO LE STELLE MIGLIORI\nLe squadre migliori necessitano dei giocatori migliori, e se vuoi davvero diventare il pi\u00f9 grande manager al mondo, allora avrai bisogno di molte stelle al tuo fianco. Assumi giocatori promettenti e convinci i campioni a unirsi alla tua squadra. E se uno di essi ti rallenta, affronta la difficile decisione di tenerlo in squadra o di augurargli buon viaggio! Diventare un campione non \u00e8 mai stato un compito facile.\n\nALLENA I GIOCATORI E PRENDITI CURA DEL LORO BENESSERE\nLe superstar non escono dal nulla: perfino il giocatore di maggior talento ha bisogno di lavorare sodo per migliorare le proprie abilit\u00e0! Crea dei campioni, lavora sull'affiatamento della squadra, analizza gli avversari... e non saltare la colazione! Dopo tutto, la squadra migliore \u00e8 qualcosa di pi\u00f9 che la semplice somma delle sue parti, e il gioco di squadra (e una dieta adeguata) \u00e8 ci\u00f2 che separa una buona squadra da una eccellente.\n\nDALLA CAMERETTA AI MILIARDI...\nVincere le partite attrarr\u00e0 sempre pi\u00f9 fan, guadagni e nuove opportunit\u00e0! Migliora la tua casa di gioco man mano che scali le divisioni e inizia a vivere come una superstar. Psicologi, allenatori, manager del marketing e ogni altro tipo di professionisti ti accompagneranno nel tuo cammino verso la gloria!\n\n... PER DIVENTARE UNA LEGGENDA DEGLI E-SPORT!\nMetti alla prova i tuoi lunghi allenamenti sfidando le altre squadre di e-sport. Decidi se constatare solo il risultato dello scontro o se guidare la tua brigata durante le partite simulate, scegliendo i campioni e prendendo le decisioni in tempo reale. E quando affronterai la folla di fan, ricorda: il successo appartiene ai giocatori, le sconfitte all'allenatore.",
         "languages": [
             "en",
             "es",
@@ -10752,6 +10752,51 @@
         ],
         "size": 300941312
     },
+    "70010000027667": {
+        "id": "0100713010E7A000",
+        "rightsId": null,
+        "name": "Chicken Police \u2013 Paint it RED!",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000027667,
+        "category": [
+            "Avventura",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Linguaggio volgare"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "HandyGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6ae7901a4d8f9b6e8d1d87879678ec943bf2c2a1c197b1d5539e101102904b8d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/75926bdc45cfc6c3988c44f226542d964b9c880c194d930e86f90ab80669a861.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd5dc9c49fe5a6b4a7ad554441b33afc3eb6254b0c14d315b018b58a7f8b73be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8880b4566f7ef0de1eb9fabbe7442ec6838c01ecf0a1f05a1c5496ff9f00327d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e84cfb209bd35e2d07d833d380a5d79a7ba7a9caf0232e37a99849463439eb47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df36e6e13bc427fcc3d7cf6b4d7049626da6d089363d7c5a270d4b25fb5e8d89.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d051330d35769cec6734c9c71c0a43e2b2833dc6c1873e85ec6b590947823ee2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/231356dd33a30f69511c33abea38d4bed5b1d6693ff739b6378b9c2b4eb480fe.jpg",
+        "intro": "Una selvaggia storia di amore, polli, e redenzione! Chicken Police \u00e8 un\u2019avventura \u201cbuddy cop\u201d noir, ambientato in un mondo elaborato, una storia cruda e colma di umore assurdo.",
+        "description": "\"INCONTRA CHICKEN POLICE\nSonny Feather e Marty MacChicken erano un tempo un leggendario duo di detective chiamati Chicken Police. Tuttavia tutto ci\u00f2 ebbe fine pi\u00f9 di dieci anni fa, e il corso del tempo non li ha certo aiutati. Ora Sonny e Marty sono costretti a collaborare di nuovo al di fronte di un nuovo caso, pi\u00f9 bizzarro di qualunque altro che abbiano mai affrontato!\n\nCENTRATO DULLA NARRATIVA, GAMEPLAY DETECTIVE\nChicken Police \u00e9 un videgioco con una fitta trama e colmo di dialoghi che combina elementi di narrativa visuale e dei classichi giochi di avventura. Il gioco possiede pi\u00f9 di 30 personaggi con cui parlare, alcuni dei quali devono essere seriamente interrogati. Raccogli numerosi indizi, prove e informazioni altamente personali dai loschi individui di Clawville e sfruttali senza piet\u00e0 contro di loro.\n\nESPLORA LA CITT\u00c0 DI CLAWVILLE (ancora e ancora...)\nCi sono pi\u00f9 di 30 luoghi da visitare e alcuni cambieranno nel corso della storia. Puoi ritornare nei luoghi precedenti in pi\u00f9 occasioni per scoprire segreti nascosti, incontrare nuovi personaggi e raccogliere informazioni riguardo il mondo e i suoi abitanti.\n\nUN'ESPERIENZA CINEMATICA\nChicken Police possiede uno stile visuale stranamente affascinante ottenuto tramite l'uso di vere foto e sfondi 3D fotorealistici, ispirati dai classici film-noir e influenzato dai film d'animazione. L'atmosfera noir viene rafforzata tramite un'originale colonna sonora, accompagnata da un doppiaggio professionale per tutti i personaggi con oltre 8 ore di dialogo!\n\nChicken Police \u00e9 una satira, che richiama l'atmosfera e l'aria dei film-noir degli anni '40, e come tutti i migliori noir e storie detective hardboiled, \u00e9 talmente crudo e senza speranza, che l'unico modo per essere servito \u00e9 tramite abbondante umorismo cinico.\n\nCARATTERISTICHE CHIAVE\n- Un'entusiasmante ricca trama con una classica svolta stile film noir\n- Doppiaggio professionale con oltre 8 ore di dialogo!\n- Un mondo \"\"colorato\"\" meticolosamente creato\n- Un complesso sistema di interrogazione\n- Oltre 30 unici personaggi completamente doppiati\n- Un'esperienza cinematica stile film noir con oltre 20 cutscene!\n- Numerosi indizi, informazioni e collezionabili da trovare\n- Una magnifica e originale colonna sonora\"",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "es",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 2821718016
+    },
     "70010000027671": {
         "id": "0100FF7010E7E000",
         "rightsId": null,
@@ -15166,7 +15211,7 @@
             "de",
             "it"
         ],
-        "size": 3373268992
+        "size": 3380609024
     },
     "70010000029672": {
         "id": "010099A011A46000",
@@ -15766,12 +15811,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ab037206074e99f1f383258cc0bbc7366394de02182fddfa464a923105c03c34.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/1ab7a5da3af8f503a7e51e9a2911e3ebe7f31a7fcf1ef32a6726916f7e525d97.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/43633624efd091c88e8b8aa051106ca68bd5a3661299012ce4a3809e70e0ff1b.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/81bac0ffdeca6d1b96b2b065db4ff5b58f40962688e65ab348bd130bc0cab5e2.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/9608e886735c411809be2031635a5d4c086fe6f96d73f6ff3bd6dbad4bb89bb4.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/e81398ff3625bcfcbe674be6d303ae7b2791f389a924803d1aac607c54ea7af2.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/dce2262a35844d5d026ff6dd715e2b51d8e54f6605b76bd60a683c372b6d33bf.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/2f0290e4566904dadd596e28262736e3e705b763ba8f8f7a9c13fe1f5f79a1c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f1212ce484c716a18cf5c627db3776bca5aa1edaf1a7306d821b31923c88d098.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7112038631a32acadb44a4f6f1754c5645fe5f44db4c81a04f49f8dccdc2fcc4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0d0fd05a4d07ada813670dc5eef6bebbd56aab063535f03c8052b3134e1e293f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0974d83852d7ffa59f46eab07b1e87108238173584a273e015b5636c3f430eb3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d62e1e73c7d4ea3a6c3a2aa471f89ab650395ada5ada8f80ea76cca11588d61b.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7c13cb724555b21296e8c233c8368d03d4a8d2214cdf4f36da4320bc47d8b87c.jpg",
         "intro": null,
@@ -15789,7 +15834,7 @@
             "zh",
             "zh"
         ],
-        "size": 6078595072
+        "size": 6140461056
     },
     "70010000030010": {
         "id": "0100F46011B50000",
@@ -16663,6 +16708,51 @@
             "zh"
         ],
         "size": 78643200
+    },
+    "70010000030401": {
+        "id": "0100E0C011D52000",
+        "rightsId": null,
+        "name": "Lunch A Palooza",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201103,
+        "nsuId": 70010000030401,
+        "category": [
+            "Party",
+            "Azione",
+            "Picchiaduro",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Paura"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 7,
+        "developer": null,
+        "publisher": "AlternativeSoftware",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/76983fb6562927a6315a766f604fbe8ea9bed392756bbaa5899db8a533a61348.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/78bef9d6a861bade1ea6faa6e31547c6a3e508fbacf286832f3ff3ab08335a74.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb431055b2a0d865ac984e5ab1fbfa959f68ecf7129a3940a1bdf9977f81c8de.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6574cea4ed78fbd9c92c41a95bb753f41e3ff62cbc8e6b98694ee25761b0d5e9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e36cb6e5af1f38d82d6c0d1ad5efc6b1366a14d92871f4eb39757d779e82715.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/698f1041df5e148dff88012fb0ec1c6c1f0a02e15add47fdda800fdaa00aa6a4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/75a26dea09e210a0f458931bd55786c209d80a1ea79258bb6cf25584dce160ed.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/09b5fc0e23ce6453304ba09929644d167cd176f10b3801782a34944e71b34c02.jpg",
+        "intro": "Lunch A Palooza \u00e8 un gioco per tutti! L'obiettivo \u00e8 quello di essere l'ultimo cibo in piedi! Devi usare attacchi speciali e prodotti alimentari per dominare l'opposizione.",
+        "description": "In Lunch A Palooza i giocatori si scontreranno in battaglie frenetiche impersonando uno degli otto piatti disponibili, nel tentativo di spingere le altre prelibatezze gi\u00f9 dal tavolo, in singolo o multiplayer fino a quattro giocatori. Spezia i tuoi attacchi esclusivi con piccanti power-ups. Quando si tratta di dare il ben servito ai tuoi avversari tutto vale, dal servire un contorno per spazzare via la concorrenza, fino al piazzare trappole per fare spazio alle cene successive. Ricordati, il tavolo della cena \u00e8 un posto pericoloso, con forchette e coltelli volanti sempre alla ricerca del prossimo boccone.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 655360000
     },
     "70010000030407": {
         "id": "010025F011DB4000",
@@ -28003,7 +28093,7 @@
             "en",
             "ru"
         ],
-        "size": 80740352
+        "size": 114294784
     },
     "70010000033344": {
         "id": "0100A7F01283C000",
@@ -30320,6 +30410,94 @@
         ],
         "size": 2506096640
     },
+    "70010000034075": {
+        "id": "0100AEC012DEE000",
+        "rightsId": null,
+        "name": "Pure Pool",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70010000034075,
+        "category": [
+            "Simulazione",
+            "Sport",
+            "Multiplayer",
+            "Lifestyle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Ripstone Publishing",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/14ad557040a75c14132240a7ec5e1229030ef39d0b1bb13bd033b790c094800e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0010b0dff130f4602966acd723ba33ddf5ff045821d6fe825bb931596d5a5d50.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/66f3551b2964332a0b3f3b99fdad2480cf8116995400aae8b2d5a83513ade350.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb56b644a92b2614927096bae9e6a3b3522cd3df7c79521862bbd5f0f8964d3f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63ca6ffc1f3e991b32c667746b965c02f81eb2bc91aaec288adfd71bf5850291.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e6387e18f46696fdcbcde5ef8389c8ea121eb5f4a4cc658d8b94a322f87b1b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3222b1355c668f5d457e901f7a06591ab52dc1e2a977aff630ce839751bf0302.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5ad2ba950a81a6738b2fa3d4e38ec3eae1cbe9cb59ac710e2026147c3af893e2.jpg",
+        "intro": "Il biliardo non \u00e8 mai stato cos\u00ec bello su Nintendo Switch\u2122, sia che giochi sulla base o in movimento!",
+        "description": "Goditi la simulazione pi\u00f9 realistica e immersiva del biliardo mai vista su Nintendo Switch\u2122, con grafica a 1080p, fisica ultrarealistica, controlli intelligenti e tantissimi modi mai visti prima per giocare a biliardo e a snooker!\n\nIMMERSIONE DEFINITIVA\nImmergiti nel mondo di Pure Pool, incredibilmente realistico e sempre divertente, e porta con te i tuoi giochi di biliardo e snooker dove vuoi, senza alcun tempo di caricamento a ostacolarti.\n\nTANTI MODI PER GIOCARE\nGioca a centinaia di eventi di biliardo e snooker in tante differenti modalit\u00e0 competitive, tra cui American 8-Ball, 9-Ball, Blackball e Killer. Mettiti poi alla prova nelle velocissime modalit\u00e0 come Speed Pot, Checkpoint e Royal Rumble per raggiungere la cima delle classifiche e sbloccare nuove ricompense!\n\nGIOCA ASSIEME\nDivertiti con i tuoi amici in modalit\u00e0 multigiocatore locale o online con la community di Pure Pool e sfida giocatori di tutto il mondo in partite multigiocatore su ogni rete! Anche dopo che i tuoi amici avranno lasciato la partita, potrai giocare con una copia del loro DNA offline!\n\nDIVENTA UN PROFESSIONISTA\nAffronta la modalit\u00e0 Campagna e gioca fino a diventare il campione nelle modalit\u00e0 8-Ball, 9-Ball, Blackball e Snooker. Metti le tue abilit\u00e0 alla prova in oltre 480 eventi, mentre duelli con una serie di avversari IA amatoriali, professionisti e maestri, raccogliendo stelle per il completamento di sfide extra, cercando di raggiungere la vetta!\n\nCOMANDI DI PRECISIONE\nGioca rapidamente tirando al meglio e con facilit\u00e0, godendo di tantissime opzioni di comando tutte le volte che ti avvicini al tavolo. Scegli tra: nuovissimi comandi touch-screen, classici comandi con Joy-Con\u2122 a doppio stick, Nintendo Switch Pro Controller, e anche supporto per doppio Joy-Con\u2122 per le partite multigiocatore!",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru"
+        ],
+        "size": 441450496
+    },
+    "70010000034084": {
+        "id": "0100B69012EC6000",
+        "rightsId": null,
+        "name": "Nexoria: Dungeon Rogue Heroes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201118,
+        "nsuId": 70010000034084,
+        "category": [
+            "Gioco di ruolo (RPG)",
+            "Da tavolo",
+            "Strategia",
+            "Altro"
+        ],
+        "ratingContent": [
+            "Orrore"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "TERNOX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c27835f52f5318f4608ed13d96d5f1d4b6fcb508b6ff139854fbaa1b4378bcc8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ccbf0e1f1831d218ed3c9d88f84eaa5be32ba1a1ea20f67b48b9e8fff535c488.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f8266d094e1d74642a02d5f51f1dab69a034b5760a320f9ada0c27452e16fd1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/57d19816be42a72598700ed6a0eac2629be962dd56794de59e6052119cada801.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b76f0f7a4efcd3944d662284e0c9c3e76b755c5d28f3c426acbf3ee1f7ae7ab0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b441cf0aa8cd5e9acad0d4938b75ffd87aa516eccb19932871950b2ca047c380.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bbc6f4a33c9a50c0ec9a0da98791a3b3876d0ebd59e9c81c2ba97b18ec9e8f7a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8c7b38c39fc2dc4c4d2220846151030f1d3e4cd14e51838ad7bac719447d4f7e.jpg",
+        "intro": "Hardcore roguelike about dungeons with hybrid battles, combining classical turn based combat system and a collectible card game. Collect the best spells and conquer the dungeons!",
+        "description": "Battles\nThis game is a unique mix of rogue-like with dungeon exploration, RPG, turn-based tactics and collectible card game. At the base of the turn-based system are not turns, but time. Find and improve new heroes and get coins to buy new spells. But remember, a hero\u2019s death will be fatal.\n\nHeroes\nEvery hero has a special perk and a spell, in addition to the three stats (strength, dexterity, endurance). Gather your team of heroes, come up with unique tactics for battles. Traditional Tank, Healer and Warrior? Or would you only use brute force?\nDuring battles, the pre-selected 20 cards with spells are mixed into the deck. Every 6 seconds of combat you take a new card into your hand. During the normal turn, you will have a choice of actions:\n- Normal attack;\n- Defense;\n- Position change;\n- Casting a hero's spell (one for each);\n- Casting spells from hand\n\nEach spell, be it heroic or from a deck has its own mana cost. \n\nMana is shared by all heroes and accumulates during battle. The player will have to choose which spell to use now, because there may not be enough mana for the next one.\n\nDungeons\nSend your heroes to the most dangerous adventure \u2014 Dungeons of Nexoria. Randomly generated floors with a boss at the end of each. Not everyone will be able to return, but those who can will gain great glory!\n\nEvents\nExploration of dungeons is fraught not only with crowds of enemies that need to be destroyed, but also random events and traps, the outcome of which could be fatal.",
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "size": 90177536
+    },
     "70010000034100": {
         "id": "0100708012ECC000",
         "rightsId": null,
@@ -30401,6 +30579,47 @@
             "en"
         ],
         "size": 923795456
+    },
+    "70010000034130": {
+        "id": "01003AB012F00000",
+        "rightsId": null,
+        "name": "Life of Boris: Super Slav",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201112,
+        "nsuId": 70010000034130,
+        "category": [
+            "Puzzle",
+            "Avventura",
+            "Arcade",
+            "Azione"
+        ],
+        "ratingContent": [
+            "Imprecazioni moderate"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "SneakyBox",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/01a61577fddee8cfbe7b52e1c77002f786b90796a935ea471793ad70f0003b92.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/81b433b10452cd47cd8e970624ca83d3dafa631d90060af7203bcb8cd8d33a80.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d321cf6a6118ca034aa4df0b0a45621fb0b188733e773b1cab1d4f32e78780ad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04a50245ac4f0f725c05ca503558e81208856f8568dc1ab4e2e68738592365f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab534904fdf11e9af85ff48ace8123fae7be7bb3de4d1d89063df64f37411679.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/085852361781dc57a8d6443939788553e543a05fafd2926fd47b6f6a27b97467.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/568b0f3b1094f85cda12e2d33d425a544d462147627ded6512dc8244db4c7720.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d6a633292d21b4cd0a328689df0621740bc2286a8d2e23ae9c2f90aa04a56e0c.jpg",
+        "intro": null,
+        "description": "Crazy adventures of YouTube legend Boris await!\n\nJump into the hilarious world of YouTube personality Boris the Slav King in the official game of Life of Boris! In Super Slav you will learn about the life of the Slav phenomenon Boris and his adventures. Meet his unique family such as cousin Anatoli and babushka, or his neighbour Vadim, and find out what it means to be Cheeki Breeki!\n\nFeatures\n\n\u2022 EXPERIENCE a true Slav life with one and only Boris. He will show you the true way!\n\u2022 COMPETE with other Slavs in SlavOlympics. Show the gopniks how much mayonez you can intake.\n\u2022 COLLECT all of the Boris\u2019 favorite HardBass hits from Uamee, Gopnik McBlyat and DJ Blyatman.\n\u2022 LEARN special recipes from Boris\u2019 babushka\u2019s kitchen.\n\u2022 CUSTOMIZE Boris\u2019 appearance with specially made balaclavas.\n\u2022 DISCOVER all the possible endings of Boris\u2019 adventures. Some may let you continue, some will leave you scratching your head.",
+        "languages": [
+            "en"
+        ],
+        "size": 135266304
     },
     "70010000034149": {
         "id": "01006980127F0000",
@@ -31146,7 +31365,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/237263f813b79b6b58bc77c586a6172a906d08fac421572539c6f963ef3cd81a.jpg",
         "intro": "Try on the role of a driver of a passenger bus. Take a ride in a real city, strictly following the schedule.",
-        "description": "Complete journeys around the city and its suburbs, strictly following the schedule. Earn money by successfully delivering passengers and following the traffic laws. Complete various scenarios with pre-set conditions or build your own career in Free Mode. You have a unique chance to drive buses from different eras and countries. You can drive both old Soviet city buses and European long-distance giants.\n\nWe took photos of a big part of these cities and their suburbs to recreate buildings and streets as close to real objects as possible. Virtual cities are recreated in a very accurate way, with every detail preserved. Buildings, bus stops and other objects are situated exactly on their places.\n\nChoose routes at your look to drive around the city districts you are interested in. It does not matter whether you like high-speed passenger transportation or slow and relaxed driving. If you do not like pre-set schedule, you can customize it for your driving style. Earn money, buy new buses and upgrade them. Decorate your bus as you want. \n\nGame features:\n- Vast number of high-detailed buses from different countries and eras.\n- Complete edition with all dlc's included. \n- Recreated cities and their suburbs with area of more than 20 km\u00c2\u00b2.\n- Possibility of upgrading your buses, adding and replacing decoration elements.\n- Different weather conditions, dynamic day time change.\n- Various traffic situations: traffic jams, accidents, speed bumps, driving at night, long-distance travels.\n- Wide functionality on driving a bus.\n- Necessity to visit gas stations and garages.",
+        "description": "Complete journeys around the city and its suburbs, strictly following the schedule. Earn money by successfully delivering passengers and following the traffic laws. Complete various scenarios with pre-set conditions or build your own career in Free Mode. You have a unique chance to drive buses from different eras and countries. You can drive both old Soviet city buses and European long-distance giants.\n\nWe took photos of a big part of these cities and their suburbs to recreate buildings and streets as close to real objects as possible. Virtual cities are recreated in a very accurate way, with every detail preserved. Buildings, bus stops and other objects are situated exactly on their places.\n\nChoose routes at your look to drive around the city districts you are interested in. It does not matter whether you like high-speed passenger transportation or slow and relaxed driving. If you do not like pre-set schedule, you can customize it for your driving style. Earn money, buy new buses and upgrade them. Decorate your bus as you want. \n\nGame features:\n- Vast number of high-detailed buses from different countries and eras.\n- Complete edition with all dlc's included. \n- Recreated cities and their suburbs with area of more than 20 km\u00b2.\n- Possibility of upgrading your buses, adding and replacing decoration elements.\n- Different weather conditions, dynamic day time change.\n- Various traffic situations: traffic jams, accidents, speed bumps, driving at night, long-distance travels.\n- Wide functionality on driving a bus.\n- Necessity to visit gas stations and garages.",
         "languages": [
             "en"
         ],
@@ -33017,6 +33236,45 @@
             "zh"
         ],
         "size": 102760448
+    },
+    "70010000035057": {
+        "id": "01000BA0132EA000",
+        "rightsId": null,
+        "name": "Choices That Matter: And The Sun Went Out",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000035057,
+        "category": [
+            "Avventura",
+            "Strategia",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Allusioni sessuali"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Tin Man Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2808e3533b335d79c4bb35c5fd3e83f62457f0aa835f08e4853f79fefd4ee11f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/388a7e991ba9164c00fcbad70eaeee7c75580c91cfd62216ccac9505d457855f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d95624dddfcdd7d35eb20b3daa10a2d57229eb7c9fd0027bb8ac50a65ca5c54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a52b048770b5057617dd25f973f786384e4c545943c3d63e8d61b800aa81a78d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/668c1bbc23b3610f3a7be6f8f2d23e9785f1f15c0b7593cd07eeb1e655417b04.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/93e14dec9b2834133f4b0a30d6b5743f445ca279c45df76fe73e94061960d1b0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d23978ff34046dff9edd70f9f0b02f06e3ab218726bdeac132c8223fd36a7fa6.jpg",
+        "intro": "Uncover conspiracies. \nDiscover ancient religions. \nTravel the globe. ",
+        "description": "And The Sun Went Out \n\nWhat if the sun inexplicably vanished only to return hours later? Investigate with your AI companion, Moti. Uncover conspiracies. Discover ancient religions. Travel the globe. \n\nFind out who is murdering scientists and what this has to do with the random disappearances of the sun. This is your journey, and only your choices can expose the truth. \n\nApproximately 600,000 words and 2,400 choices in total! \n\nSee how many other players visited the same place as you, each time you conclude a story arc.\n\nCHOICES THAT MATTER is a collection of epic text adventure games similar to the classic Choose Your Path Adventure books. Our interactive stories are some of the most complex in the this category. No one player can discover the entire story in a single play through!",
+        "languages": [
+            "en"
+        ],
+        "size": 72351744
     },
     "70010000035078": {
         "id": "0100F7E01308C000",
@@ -35580,6 +35838,39 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7f98507f419d3c7f287bc6226790d1329e4fc5c27c03f58148741b9e7adc3387.jpg",
         "intro": null,
         "description": "Questo sblocca Robert James - Il Ranger Jungle Fury, un personaggio completo, da giocare in Power Rangers: Battle for the Grid",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018807": {
+        "id": "010007B010FCD00A",
+        "rightsId": null,
+        "name": "Sniper Elite 4 - Camouflage Rifles Skin Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70050000018807,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d88b4469f88f68aeade89720126d6e8d7fbb236d0280f8a90bf99fae474321a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d84c8f4dc73d3c17f5e186c9b15d5efc8e3e3124b4dbadd4b5f36cf0890c08c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4fcac832e385ebf2f8182ceb29e2c9727cb982fcfb20a8d4a9e0e1c882587ef2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d290ae98e4ff6891f9d1ca7d3e5dfa41e200441695789f060130154bb0dd23c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/478e235e3011b78a203e5179932fb9603c5d67c6f6753cb7eeca7ecd8b08957a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1d63b8952ed057d563224472fc9a80aa261fef2b40cd756c4534fbe850c939d5.jpg",
+        "intro": null,
+        "description": "In un mortale duello tra cecchini, ogni minimo vantaggio pu\u00f2 fare la differenza tra vittoria e sconfitta. Applica dettagliatissime mimetizzazioni ai tuoi fucili, in modo da camuffarne la forma e farli scomparire nei rigogliosi ambienti di combattimento dell'Italia degli anni Quaranta. Puoi usare queste skin per personalizzare tutti e sette i fucili da principiante di Sniper Elite 4 e usarli in modalit\u00e0 giocatore singolo, co-op o multigiocatore.",
         "languages": null,
         "size": 4194304
     },
@@ -38548,6 +38839,69 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/38b26adf7bd6e67a859ad3fee455d1ff124a324dba100ac2fb7e77a8ec7505a4.jpg",
         "intro": null,
         "description": "Un set per Guerrieri Mii basato su Heihachi della serie Tekken \u00e8 ora disponibile per l'acquisto. I capelli a punta e la tigre ricamata sul kimono nero sono davvero minacciosi! \"Re del Pugno di Ferro\" non \u00e8 un titolo che possono vantare tutti: sconfiggi gli avversari e prova il tuo valore!\n\nContenuti\n\nSet per Guerrieri Mii\n\u30fb Parrucca da Heihachi\n\u30fb Costume da Heihachi (per Lottatori Mii)\n\nUtilizzabile dopo l'acquisto accedendo a Giochi e altro \u2192 Guerrieri Mii.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000020882": {
+        "id": "010007B010FCD001",
+        "rightsId": null,
+        "name": "Sniper Elite 4 - Target F\u00fchrer",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70050000020882,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/895970f0a5d07fa95c1ce59aa5688355fec8ddad8b6312849c05a70cea75198a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/559f0ac6f5511a8439055fd5da97d498b3445f0e2e975b41486db38362639b0e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16a1540aa4943ee2dd6e84aba0487cb83c6532790e2bbda9734de4369657703a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db5fa7a4b95e12b24fabca6ae815e6993d3fb8951afed184b7b44cbdb0ff1e68.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3ac770563d0c8ad1a66c7ec9123052377cc2843013ef9f860cf36969e65e9c87.jpg",
+        "intro": null,
+        "description": "Nascosta in un angolo dimenticato del Mediterraneo, una base segreta di U-Boot nazisti minaccia le comunicazioni Alleate. Quando l'agente Karl Fairburne tenta di assassinare il comandante della base, scopre che il suo bersaglio \u00e8 gi\u00e0 morto, ucciso da un misterioso visitatore. La missione di Karl \u00e8 cambiata: Obiettivo F\u00fchrer!\nDistruggi la base degli U-Boot ed elimina Hitler in tutti i modi possibili grazie a questa campagna rigiocabile per 1-2 giocatori.",
+        "languages": null,
+        "size": 407896064
+    },
+    "70050000020884": {
+        "id": "010007B010FCD007",
+        "rightsId": null,
+        "name": "Sniper Elite 4 - Covert Heroes Character Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70050000020884,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bc94b702869a9289a4db73d08d678a199036aeaf21f11618726a8a3d06540351.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/924f01dc6df26c186623d64c6c8eb4fee153661f1e5b20ece907c18b891060cf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9cdc7488608da82012e97319cb649a61ccca437c7a4e620643ff5d94b7bb66c8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4e563698d900da08aa574b884c34b4f0bc2a1ff60e4086691bda385f6d1a632e.jpg",
+        "intro": null,
+        "description": "Amplia il tuo esercito con questi tre guerrieri formidabili: una donna cecchino, un commando e un soldato con tuta mimetica.",
         "languages": null,
         "size": 4194304
     },
@@ -46138,6 +46492,312 @@
         "languages": null,
         "size": 8388608
     },
+    "70050000022477": {
+        "id": "010007B010FCD00C",
+        "rightsId": null,
+        "name": "Sniper Elite 4 - Silent Warfare Weapons Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70050000022477,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/292e515fe8fa54f1d2f7e2ec05fe5c7fa0fbbc844ae897daf1601a881fa861f8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/860e8160396f5b883d126c31f5508b7b6f520932ced2bbfc073eecff423ac808.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aaa13f70f6e0838efae5041cf9feb1b42f3f275304513c823099116e940b5c8b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c8a1c22fa5a492cd03430341dea0d9b1f039a72a7ce2d0cdb30d6b84b81deebe.jpg",
+        "intro": null,
+        "description": "Per le operazioni segrete, una scelta di tre armi: Carabina (con silenziatore), HDM e Grease Gun per quando decidi di farti sentire",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022478": {
+        "id": "010007B010FCD009",
+        "rightsId": null,
+        "name": "Sniper Elite 4 - Allied Forces Rifle Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70050000022478,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4e29039082cb195c7659d146758ef6d003c9278fff7da444fcb54c6cf3460a9f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9ea2b229faae2d02e38fc9abec77e30d3318ccd50d2ba86f9dd361a1108c80e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/10d076569dce37527fe234ed8e9e97e200925bbe1acb776e4b828aec42c28f47.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42c87b8f63f5eeced3d79b8adf014edc23cdbd4a8777b6abc776738f5170d9d4.jpg",
+        "intro": null,
+        "description": "Affronta i fascisti con queste armi degli Alleati: M1 Garand, Carabina M1 e Ross Mark III. Si possono usare in tutte le modalit\u00e0.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022479": {
+        "id": "010007B010FCD002",
+        "rightsId": null,
+        "name": "Sniper Elite 4 - Deathstorm Part 1: Inception",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70050000022479,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0c9c13ede58786e8c8786330efcf457547a412cc931cfb26b54d8afe3bc546b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad112f2c536cf3801810be3bb33cc5a53845681424b07282e7416e3a654e7165.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e33b19474ff5f6374a7f0b5dac50d3738125eba745bce9401c067d64a072232.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b9f2eba338352b30d8658645bbb30b4950c66df2153453c8e58dab1df1ddf0c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1305235601c6fda85b4ad666451e7c319918e83b2dec6abc25af15d74ae62c1b.jpg",
+        "intro": null,
+        "description": "Mentre la guerra in Italia infuria, a Karl Fairburne \u00e8 stata assegnata una nuova missione. L'operazione Alsos, per scoprire i segreti atomici nazisti, ha le prove che i tedeschi stanno cercando di contrabbandare un pacchetto importantissimo nel Nord Italia. Tempesta Mortale: Principio \u00e8 la prima missione di una campagna in tre parti per 1-2 giocatori e continua a seguire le imprese di Karl, che dovr\u00e0 infiltrarsi in una base segreta della Kriegsmarine e scoprire i nuovi piani diabolici nazisti...",
+        "languages": null,
+        "size": 330301440
+    },
+    "70050000022480": {
+        "id": "010007B010FCD006",
+        "rightsId": null,
+        "name": "Sniper Elite 4 - Night Fighter Expansion Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70050000022480,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b9ad0d76210022681c32afcd208a62c1cca817bfc941ebaa0b674435b1a12bf0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f21c648cb0da843fc1987279f117d70a2bac2cc30e245a2573ed514fd1993dc6.jpg",
+        "intro": null,
+        "description": "Una selezione di armi, skin mimetiche per il fucile e abbigliamento mimetico dal tema notturno. Le armi comprendono  Mauser, OVP M1918 e Nagant (con silenziatore). Per tutte le modalit\u00e0.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022481": {
+        "id": "010007B010FCD003",
+        "rightsId": null,
+        "name": "Sniper Elite 4 - Deathstorm Part 2: Infiltration",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70050000022481,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b9426b85e60ae62cc29b5757ba3d58b9599fc43112f290cb91c1e4afb0f65837.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4afffb677f592ae7de3146322cf8726a79e72fb8c24aed324856b72ffc72903.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a4ec00d84d20c79d1e09d8e97b321e3f78d6d720284c0f905aa3f640198433db.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c526b2488241c8605bd4dd490b9e6f0edb56ca889de4bb011c3ba6e1d2101e36.jpg",
+        "intro": null,
+        "description": "Grazie agli sforzi di Karl, gli Alleati sono vicinissimi a scoprire la natura della \"Tempesta Mortale\", progetto atomico nazista top-secret. Inviato nella sorvegliatissima Universit\u00e0 di Niroli, nel Nord Italia fascista, Karl deve trovare uno scienziato italiano che \u00e8 stato costretto a lavorare per i nazisti. Tempesta Mortale: Infiltrazione \u00e8 la seconda missione in un'avvincente campagna in tre parti per 1-2 giocatori e vedr\u00e0 Karl in una missione rischiosa che va ben oltre le linee nemiche...",
+        "languages": null,
+        "size": 418381824
+    },
+    "70050000022482": {
+        "id": "010007B010FCD008",
+        "rightsId": null,
+        "name": "Sniper Elite 4 - Urban Assault Expansion Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70050000022482,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2c3db083a97d5bb3b26f8564f44765c9bc55a75db165e66de4e6d2f6a383d8e9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e014bd22c5b6525a9c1fe1b81dbcce821c2224678de6515e0161ddb85267b4ad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b44e6ad10c67a2b2194b91958cd37862e935cd44a158130adb8a2b26a646d04.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/10b225252e70909d54081709bf3deb9b769dce441e90d13fe4b5ffc7aeb08108.jpg",
+        "intro": null,
+        "description": "Per la guerra urbana, un arsenale di armi, skin mimetiche per fucili e abbigliamento a tema urbano per i personaggi. Le armi includono Winchester, Sten e Walther PPK. Per tutte le modalit\u00e0.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022483": {
+        "id": "010007B010FCD005",
+        "rightsId": null,
+        "name": "Sniper Elite 4 - Cold Warfare Winter Expansion Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70050000022483,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/36b46a168660423722d48b56728ab3576de9914b5374990f3a250033f3241f1f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7f50387ad7c560dac6ce4f0589c22dd81735f9ee9c27324c8a87487b0c8a585.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4138ff861ea95373044278b518c0e250ac74c6bc7ba70a6d625542fb82774cc3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c26b109cb369a4a406bcc263976cdf76affe5acceaffa72f0c371a05d499f16b.jpg",
+        "intro": null,
+        "description": "Una serie di risorse dal tema invernale. Le armi comprendono ZH29, PPSH e Tokarev, e anche skin per il fucile e abbigliamento mimetico in tema invernale. Per tutte le modalit\u00e0.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022484": {
+        "id": "010007B010FCD004",
+        "rightsId": null,
+        "name": "Sniper Elite 4 - Deathstorm Part 3: Obliteration",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70050000022484,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f11f562e0bb195fe03ef191ec4136205596d23a6001953329e67cb9cea09588b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17506d3c8de5a2728563e741a3ae682129a56dad2d264306c8d2fd27f2b5d206.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1dc379afb46207718d040d0d768b089dd1aed7df14b81049f722f2d04f2be2f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7c713abe38217fa32225e2b00d13cf3ee3266fc052d68a404a519ce10b58ab87.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/63284a2d0f483f6f4c9e2d076f0fd62fe5e134d1ee573339c46fb5982a2182a7.jpg",
+        "intro": null,
+        "description": "Dopo aver svelato i piani nazisti per la \"Tempesta Mortale\", Karl viene assegnato a Steigerloch in Germania, per sopprimere il progetto. Se Karl fallisce, le implicazioni per gli Alleati e per il mondo libero, sono impensabili. In Tempesta Mortale: Annientamento, la conclusione dell'avvincente trilogia scaricabile per 1-2 giocatori, il nostro cecchino avr\u00e0 bisogno di astuzia e scaltrezza per sconfiggere il progetto nazista.",
+        "languages": null,
+        "size": 507510784
+    },
+    "70050000022485": {
+        "id": "010007B010FCD00B",
+        "rightsId": null,
+        "name": "Sniper Elite 4 - Lock and Load Weapons Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70050000022485,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/61029b816f8e783af8e744e7bef8adca8882fbee46a343555466dcd9eab71479.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8cb9bce7e3143dcb3b8ed5f60b95ae339fb7edeee7254b558df32cdaf60b4e67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a7dfc4e3f56cb20655a984686c25d2475ee00b8b28e8794922f0f1b0c688238.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/14ba37c8866988ad90d54498449f1778c7a73e4b6c11d56bf95e5c2e80111bdd.jpg",
+        "intro": null,
+        "description": "Distruggi gli avversari con questo pacchetto contenente tre armi micidiali: SVT, M30 Drilling e Mauser M712.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022486": {
+        "id": null,
+        "rightsId": null,
+        "name": "Sniper Elite 4 - Multiplayer Maps Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70050000022486,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/71fbb1c28cbf1b3e18842301e460637188497a03f17ee2af6c43a4c342373c72.jpg",
+        "intro": null,
+        "description": "Gareggia testa a testa con i tuoi amici e porta la tua precisione di tiro su nuovi livelli con 8 intense modalit\u00e0 multigiocatore, tra cui Deathmatch, Senza contatto, Cattura la bandiera e altre ancora, il tutto ambientato in 10 avvincenti mappe apposite. Include partite per un massimo di 4 giocatori in modalit\u00e0 wireless locale e fino a 8 giocatori online.",
+        "languages": null,
+        "size": 0
+    },
     "70050000022501": {
         "id": "010058600E531001",
         "rightsId": null,
@@ -53649,6 +54309,39 @@
         "description": "Fare amicizia, giocare a carte, stravolgere le regole, diventare un maestro dei Mega Mutant Power Pets, e cercare di salvare il mondo in questo gioco di ruolo per un giocatore singolo che racconta di essere un bambino degli anni '90. Al suo primo giorno alla Scuola elementare Dudsdale, Jess, una bambina di 10 anni, fa s\u00ec che il gioco di carte da collezione preferito da tutti venga accidentalmente proibito, costringendo i bambini a nascondere le loro battaglie di carte. I problemi sorgono quando i mutanti dal gioco invadono il mondo reale, e spetta a Jess e le sue amiche fermarli.\n\n\u2022 GO MEGA: le carte campione si evolvono nelle loro forme MEGA quando la loro salute si dimezza, facendo pi\u00f9 danni da attacco e guadagnando nuovi poteri.\n\u2022 CAMBIARE IL GIOCO: I bambini a volte usano le regole della casa e chiss\u00e0 cosa cambieranno i mutanti. Durante tutto il gioco sceglierai le nuove regole e condizioni, oltre a rinominare le tue carte preferite e a dare loro aggiornamenti utilizzando adesivi. Crea carte completamente nuove usando il Mega Mutant Power Magazine. Ma attenzione, queste decisioni sono permanenti.\n\u2022 RAGGIUNGI CRAPPY: Avventurati in tutta la scuola per svelare le strane vicende di Dudsdale Elementary. Affronta missioni per guadagnare carte, adesivi e caramelle che puoi raccogliere e scambiare con i tuoi compagni di classe. Attento, non ci sono le retrovie!\n\u2022 NON \u00c8 POSSIBILE RACCOGLIERGLI TUTTI:: Alla fine, i tuoi mazzi e le tue regole saranno uniche per te. Gli adesivi sono rari, le scelte sono importanti e a volte dovrai prendere una decisione difficile per ottenere le carte migliori.\n\u2022 Gli anni '90: Attraverso la sua narrazione interattiva, totalmente rad, guidata dalla scelta, Cardpocalypse offre l'esperienza di essere un bambino degli anni '90. Boo-ya!\n\u2022 Da ora \u00e8 disponibile la Gauntlet Mode! Una modalit\u00e0 in stile rogue in cui ogni partita \u00e8 unica. Scegli il tuo campione e affronta battaglie sempre pi\u00f9 difficili. Dopo ogni vittoria pesca nuove carte, regole e ricompense per il tuo mazzo! Riuscirai a creare la combinazione definitiva e a superare la sfida?\n\u2022 Cardpocalypse Out of Time: Una nuova campagna a se stante! Costruisci la tua collezione e cambia le regole ancora una volta.",
         "languages": null,
         "size": 1739587584
+    },
+    "70070000011237": {
+        "id": null,
+        "rightsId": null,
+        "name": "Sniper Elite 4 Digital Deluxe Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70070000011237,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1e33b19474ff5f6374a7f0b5dac50d3738125eba745bce9401c067d64a072232.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e33b19474ff5f6374a7f0b5dac50d3738125eba745bce9401c067d64a072232.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4afffb677f592ae7de3146322cf8726a79e72fb8c24aed324856b72ffc72903.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7c713abe38217fa32225e2b00d13cf3ee3266fc052d68a404a519ce10b58ab87.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7cbe3fa3a00edb01bfbb67efb21cce806058297af386a03259f1b84a81a709d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/86ce731906e48ba50b253e37b7241c6c2d40bdc983acfe6520fb6259ea4fab3a.jpg",
+        "intro": "UN PROIETTILE PU\u00d2 CAMBIARE LA STORIA",
+        "description": "**La Digital Deluxe Edition di Sniper Elite 4 include il gioco intero e il Season Pass a un prezzo vantaggioso!**\nSniper Elite 4 trasporta le sue acclamate dinamiche di gioco nei meravigliosi paesaggi dell'Italia del 1943, tra assolate cittadine costiere, vertiginosi monasteri di montagna e altro ancora.\nSniper Elite 4 unisce una balistica unica, azione stealth mozzafiato ed emozionanti dinamiche di gioco in terza persona. Goditi un'impareggiabile libert\u00e0 di gioco in una quantit\u00e0 di livelli molte volte superiore a quella di Sniper Elite 3. Sfrutta il contesto, scegli la tua tattica, manipola il campo di battaglia e dai la caccia ai nemici.   \nNei panni dell'agente in incognito Karl Fairburne, combatti al fianco della resistenza e libera il Paese dal fascismo. Affronta una nuova minaccia che potrebbe frenare il contrattacco alleato in Europa. \nCon un'esplosiva campagna a 1-2 giocatori e modalit\u00e0 co-op e multigiocatore dedicate, Sniper Elite 4 \u00e8 il miglior shooter della sua generazione.",
+        "languages": null,
+        "size": 7790919680
     },
     "70070000011239": {
         "id": null,

@@ -2658,7 +2658,7 @@
             "ru",
             "ko"
         ],
-        "size": 13230931968
+        "size": 13364101120
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -18291,6 +18291,45 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023336": {
+        "id": "010096F00FF23002",
+        "rightsId": null,
+        "name": "Borderlands 2: Commander Lilith & the Fight for Sanctuary",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201103,
+        "nsuId": 70050000023336,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Language",
+            "Sexual Themes",
+            "Use of Alcohol",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/def113c53153c7f3c7e8ff6af0a2d8d5647b80d2b6e314daf9874067e8eb50b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39d49c8dc35b1ed2445735136994c4c0b3543ed27bed641ff659dba9f77a0bb2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf77edc32a5c03dece4e147508681368953ff8c54bad04f3f128e2f81d8c59d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61e2b64e5ecd3fb15f86e7c164311d243ceda6d7f503c76bf9f90b6189a67754.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e55f93877c0305f4738ab278d1bae8ddedbe53c5d24be301df8889841f728cca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fdcb869fbb30333574ec80497c2bc1f68dc04338ff6104eb83094df30ad2ba15.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5ef808a6217b682c6f15b0f5c7ee2578c89c4db50e8033efac20b42af70f5f55.jpg",
+        "intro": null,
+        "description": "Return to the award-winning shooter-looter for an all-new adventure that sets the stage for Borderlands 3. Sanctuary is under siege, the Vault Map has been stolen, and a toxic gas is poisoning Pandora. Battle new bosses, explore new areas, collect new loot (including an entirely new tier beyond Legendary), and join up with Lilith and the Crimson Raiders to take on a deranged villain hell-bent on ruling the planet. ",
+        "languages": null,
+        "size": 5187305472
+    },
     "70070000000041": {
         "id": null,
         "rightsId": null,
@@ -20271,6 +20310,31 @@
         "description": "The Digital Deluxe Edition that includes the Golden Touch Pack featuring a gold-plated driver and putter, as well as the 2K/adidas CodeChaos MyPLAYER Pack featuring the adidas CodeChaos BOA Golf Shoes, and custom adidas / 2K CodeChaos Polo, Pants and Hat, designed by adidas, exclusively for PGA TOUR 2K21. Players will also receive an additional 2300 currency to unlock additional MyPLAYER gear to hit the links in style!",
         "languages": null,
         "size": 8884584448
+    },
+    "70070000010935": {
+        "id": null,
+        "rightsId": null,
+        "name": "Captain Tsubasa: Rise of New Champions Pre-Order DLC Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200828,
+        "nsuId": 70070000010935,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b0fc4096332e89447b346e13266750aeb94b653348a4b7427ac3a68ef193c6e2.jpg",
+        "intro": null,
+        "description": "A set of uniforms, balls, cleats, and goal performances that can be used during matches in Captain Tsubasa: Rise of New Champions.\n\nIncludes the following:\n- Shutetsu Uniform\n- Meiwa FC Uniform\n- All-Japan Junior Youth Uniform\n- Open Sky Uniform Set (Uniform/Cleats/Ball)\n- Hawk Uniform Set (Uniform/Cleats/Ball)\n- Tsubasa's Challenge Ball to Wakabayashi\n- 2 goal performances (Acrobatic/Uniform Closeup)\n\n* DLC can be used in Versus and Online Versus matches.",
+        "languages": null,
+        "size": 0
     },
     "70070000010944": {
         "id": null,
