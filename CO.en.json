@@ -4252,7 +4252,7 @@
             "it",
             "ko"
         ],
-        "size": 7336886272
+        "size": 7389315072
     },
     "70010000018547": {
         "id": "010040600C5CE000",
@@ -18329,6 +18329,33 @@
         "description": "Return to the award-winning shooter-looter for an all-new adventure that sets the stage for Borderlands 3. Sanctuary is under siege, the Vault Map has been stolen, and a toxic gas is poisoning Pandora. Battle new bosses, explore new areas, collect new loot (including an entirely new tier beyond Legendary), and join up with Lilith and the Crimson Raiders to take on a deranged villain hell-bent on ruling the planet. ",
         "languages": null,
         "size": 5187305472
+    },
+    "70050000023513": {
+        "id": "01002B00111A3001",
+        "rightsId": null,
+        "name": "\u25a0Digital Version Preorder Bonus",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70050000023513,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/30af6919961c083b1ef852c4f5e8f02e3c237414b5bc48c3e1ba3cb5c9a45bac.jpg",
+        "intro": "In-game item:  Lucky Ladle",
+        "description": "One of the weapons Link can use in the game. You can equip this for battle (paired with a Pot Lid), or you can fuse it with other weapons for stat boosts.\n\n*This item will not be immediately available to owners of the package version of the game, but may be offered as a paid item at a later date.",
+        "languages": null,
+        "size": 4194304
     },
     "70070000000041": {
         "id": null,

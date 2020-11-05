@@ -3075,7 +3075,7 @@
             "zh",
             "zh"
         ],
-        "size": 8286896128
+        "size": 8346664960
     },
     "70010000017654": {
         "id": "0100C2C00D74E000",
@@ -3094,11 +3094,10 @@
             "Adventure"
         ],
         "ratingContent": [
-            "Fear",
-            "Mild Violence"
+            "Moderate Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 12,
         "developer": null,
         "publisher": "Raw Fury",
         "frontBoxArt": null,
@@ -3123,6 +3122,7 @@
             "de",
             "it",
             "ru",
+            "ko",
             "zh",
             "zh"
         ],
@@ -5411,7 +5411,7 @@
             "ru",
             "zh"
         ],
-        "size": 9590276096
+        "size": 8586788864
     },
     "70010000020947": {
         "id": "0100B1600E9AE000",
@@ -8675,6 +8675,48 @@
         ],
         "size": 15039725568
     },
+    "70010000024027": {
+        "id": "01006A800FA22000",
+        "rightsId": null,
+        "name": "Evolution Board Game",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201210,
+        "nsuId": 70010000024027,
+        "category": [
+            "Board Game",
+            "Strategy",
+            "Simulation",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Digital Purchases",
+            "Users Interact"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "North Star Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e9cfee64c1611e79d8c24a6bdf96f56baa34b0c9882d55ccbbba4ef032161fc1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/084c6905a543306661411d4a3b7b66c8195f1ff7c2c403c64348ff32efedce9f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d48c63a1a01be0169ec80abe0374c83fe3c4127fa13f34de35eecf93bf73d572.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6911a9777aaa89aad3838b1535f467101e1304c87693c0699882fbf874ce38bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd6d0c62168da59c9f98a5cad33abeda20a291abf4c767dc79dbb6ca7bd1edbb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f1ddd99f1281e54450e380f8b473729050d71a16224237697f1dd0658014d33.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8ea0d0361334c3e67ab8f9a18b16a79fb6cc4bbd75fccfdf34b92828f4d1f15a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9616232e7e5ebc92b8ccab367d1286ed71c484ee7d1855d2904afaa7d72d1047.jpg",
+        "intro": "The Strategy Game of Adaptation",
+        "description": "ADAPT OR GO EXTINCT\nIn Evolution, you adapt your species to survive, and stay one step ahead of opponents. \n\n*Watering hole running dry? Evolve a long neck to reach food in the trees. \n*Staring down a Carnivore? Develop a hard shell to protect you. \n*Opponent has too many species?  Time to go on the attack yourself by adapting into a Carnivore.  \n\nAWARD WINNING ADAPTATION\n\"#1 Digital Board Game of the Year\" -Ars Technica\n\"Best Digital Board Game of the Year\" -Vulture\n\nPACKED WITH FEATURES\n*Asynchronous Play, Friend system and Chat\n*21 game Single Player Campaign with distinct AI opponents\n*Online Multiplayer with skill based Matchmaking\n*Progression ladder and online rankings let you see your improvement \n*Pass and Play\n*Weekly Challenges test your skill\n*Interactive Tutorial\n*Gorgeous Hand drawn Species to Discover",
+        "languages": [
+            "en"
+        ],
+        "size": 1027604480
+    },
     "70010000024047": {
         "id": "010061900F896000",
         "rightsId": null,
@@ -10476,7 +10518,7 @@
             "https://img-eshop.cdn.nintendo.net/i/fc59483674b538078544694ea0c6092a0e9dfb559ea7f39785aac0fa6625890e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/5441854accb4815eb72a43b1d9f8e63b57105bb8ff5e6146ef16143e5936edd8.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/83870275b78812bd1b8ca729e9611512b5c4ffb93f3a220d465669f18881bcc1.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/02bb443c1707404aa6df0f0816ad871e040300811d35d6404a4e9eb9565cabc0.jpg",
         "intro": "Descenders is extreme downhill freeriding for the modern era, with procedurally generated worlds. Will you lead your team to glory and become the next legendary Descender?",
         "description": "Descenders is a fast-paced extreme downhill biking game that's easy to pick up, but difficult to master.\n\n- Procedurally generated worlds: Take on different jumps, slopes and hillbombs every time you play\n\n-Freestyle bike controls: Control every subtle movement of your rider, with an in-depth physics system made for slick whips and scrubs\n\n- Rogue-Bike: Earn special mutators each time you play, and work out which abilities work best for your riding style\n\n- Build your Rep: A fully-featured online Rep system lets you show off your worth, and earn new bikes and threads\n\n- Fully licensed soundtrack: We've partnered up with drum & bass label Liquicity to bring you the perfect soundtrack for hitting the mountains\n- Become the next Descender: Can you survive the game in a single run, and reach the ranks of the legendary Descenders?\n\nGrab your bike, pick your team, and attempt to live up to the legend of your Descender. Will you join the die-hard, trick-frenzy ranks of Team Enemy, the proficient, off-road stylings of Team Arboreal, or the high-octane, speed-is-everything Team Kinetic?\n\nWear your team's colours and apparel with pride, and receive exclusive team gear!\n",
         "languages": [
@@ -12209,7 +12251,7 @@
         "developer": null,
         "publisher": "Super.com",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f0e3c50835bb844a0797d4ce47041b5e0bcbfc92d05ef59edbb85ad2b9592990.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5bb9ea801d5e87337fa5da8c3f6cd98d8f154ca0e4b4422dce5713fe0e2adfb5.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/f36d2313ab51b5f4202074b567d34dcbde9903fac3c7682ac9c751cc00cfe8ae.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e485c999d9638e50d4f49bdef2d0e7c47eadbc76abfd355e3ecccbc2dc95c786.jpg",
@@ -12232,7 +12274,7 @@
             "ko",
             "zh"
         ],
-        "size": 6458179584
+        "size": 6452936704
     },
     "70010000027406": {
         "id": "01004C4010C00000",
@@ -15523,7 +15565,7 @@
         "developer": null,
         "publisher": "Annapurna Interactive",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/32bef36de816e12e0a957e7ad1d09fe3b86d5139c12462a6ebeb863a14da3d25.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0063e77421886f353218807d4b2e97c1bcaa9f192a621a63860e0f215ef27286.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/2eea828e0d64f5d059addaf35279a0ce3ce55b80865b7665669f68df02d6b7ac.jpg",
             "https://img-eshop.cdn.nintendo.net/i/0bf51670798e253de5bbbf60294ccc5393cce7271c55868abcd0f1b7b6fc63de.jpg",
@@ -15548,7 +15590,7 @@
             "zh",
             "zh"
         ],
-        "size": 5013241856
+        "size": 5093982208
     },
     "70010000028524": {
         "id": "01001C2010D08000",
@@ -15730,7 +15772,7 @@
             "zh",
             "zh"
         ],
-        "size": 503316480
+        "size": 530579456
     },
     "70010000028618": {
         "id": null,
@@ -17432,7 +17474,7 @@
         "languages": [
             "en"
         ],
-        "size": 851443712
+        "size": 852492288
     },
     "70010000029075": {
         "id": "010039A0117C0000",
@@ -22301,6 +22343,51 @@
         ],
         "size": 1844445184
     },
+    "70010000030728": {
+        "id": "0100A3B011EDE000",
+        "rightsId": null,
+        "name": "Battle Hunters",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000030728,
+        "category": [
+            "RPG",
+            "Adventure",
+            "Strategy"
+        ],
+        "ratingContent": [
+            "Fear",
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Phase Two Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b82f4cd7781ead504d36b3fda72d7d4f2ee41bb77e043a1ccd1820669eb05a87.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/aa40e353a47459a224775bdd165fff9afd4d1104e889a37dc469fcbe1e8dc300.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/deddb6af678647e8271b038a7981ad98dba32a2a0d99cd87bae83ed43ed70456.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31b1ddd3fe130a1cf1f8fb4c2d3ebb2f3372086e8ef0f5d8c47f5d4cae5c10c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97bd24ad45863b161b1a264e8dd84abbca95c99278589a842048c9183bb2a76d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/477cdb04982d079d10b266ef0e9d64694e22152816a6e9a059baf2f7103cfe48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/91b6471ebbf4a89605e7510bab8270d1708ae73dc1306bf68e69141fd8062cdb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d93443606fbe34e14951ee83ac91bc967c7ce1bbc77aa8259c021a309ad872fd.jpg",
+        "intro": "A noble quest awaits in this classic-style RPG adventure. With exciting combat, loads of heroes to meet and master, and a villainous horde of monsters to battle!",
+        "description": "The Kingdom is in danger, and the oldest and wisest wizard in the land is the only power holding a nameless villain at bay. Three heroes set out to find the Old One and aid him in his struggle against this mysterious terror, with help from a host of powerful allies who will join the quest to defend the realm.\n\nBattle all manner of vile creatures and monsters as you make your way across different regions of the kingdom. From the Great Forest, inhabited by devious goblins and lumbering trolls, to the high Cliffs of Desolation, where vicious gargoyles and unstoppable stone golems stand in your way. Meet brave and mighty heroes from across the land, and some from far beyond in space and time. All of them bring unique abilities, powerful spells and destructive weaponry to the fight. Wizards, warriors, dragons and demons, samurai and sorcerers all await the journey and are ready to do battle.\n\nBattle Hunters offers a unique combat system that combines strategic command of your heroes with real-time action. Deploy special abilities, use items to keep you alive, and choose when to attack, defend or to run. Every choice can make the difference between defeat and victory. An adventure created in the style of older classics, with a new approach to combat, character classes and abilities.\n\nSo what are you waiting for? Choose your heroes, win the battle, save the kingdom.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 804257792
+    },
     "70010000030736": {
         "id": "01002EC011DA6000",
         "rightsId": null,
@@ -23896,7 +23983,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/989f68dbada32a068ce695ce3b1560faea3a0060ca1add5f553dc96444b1324a.jpg",
         "intro": null,
-        "description": "Fusing gameplay with light & shadow. The concept of light and shadow runs throughout the design of the game\u00e2\u20ac\u2122s story, art and puzzles. Switch between light and shadow and pass through the two realities as you experience unique interlacing of black and white, as well as both 2D and 3D.",
+        "description": "Fusing gameplay with light & shadow. The concept of light and shadow runs throughout the design of the game\u2019s story, art and puzzles. Switch between light and shadow and pass through the two realities as you experience unique interlacing of black and white, as well as both 2D and 3D.",
         "languages": [
             "ja",
             "en",
@@ -25418,10 +25505,10 @@
             "https://img-eshop.cdn.nintendo.net/i/6851eb6f4aa6b64e919760a92b32b985837389df54cac338800640ad45a66cac.jpg",
             "https://img-eshop.cdn.nintendo.net/i/40392987067cefab6bf854ed413eb42063e3e1f2ebafa6f78da22c278b848eff.jpg",
             "https://img-eshop.cdn.nintendo.net/i/8c8073d09dd87b8a21e8c59b6268ac5d8cd0d3203f70dcc83e022fc2ecb2938c.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/61e0e44e10fc061e789a1ebeef55807b5e4ec6a27fb95475513cd66bc7945869.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37c4d1f3e0430e76a185defd0b7d1648a28266abd505459676eade9897322a16.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e8758034edfc11fc346ce63d29a6b37379c19cd6edb19f80a0e2a26752a9ce1b.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/437dc57f4bd149b638acb85b0da48c1cfe59d43288deb32c959b9d8021b66b0f.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5f3013b2a0740b8734bda0a9b9ba29e23201ef9d7fcc9da612ec310aef38fe3e.jpg",
         "intro": "Three firepowered favourites in one super-shooty bundle!\n",
         "description": "Prepare to fire! Three incredible shooter-focused favourites in one explosive bundle:\n\nBlack Paradox: Unleash an arsenal of weapons, power-ups, drones, and other upgrades to defeat the galaxy\u2019s most dangerous criminal organization in this fast-paced roguelite shoot 'em up.\n\nBleed 2: A furiously fun and fast-paced run-and-gun arcade action game. Pink-haired heroine Wryn, the world\u2019s greatest \u2013 and only remaining \u2013 hero, returns to defend the globe from an invading force of villains. \n\nXenoRaptor: Take on heavily-armed space dragons in this frantic twin-stick shooter. Strip defeated foes of their parts to assemble the ultimate weapon. \nHarness the power of railguns, tractor beams, mind control, and much more. ",
         "languages": [
@@ -28042,11 +28129,9 @@
             "Adventure",
             "Arcade"
         ],
-        "ratingContent": [
-            "Mild Violence"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "Rogue Games",
         "frontBoxArt": null,
@@ -30571,9 +30656,11 @@
         "category": [
             "Adventure"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Oink Games",
         "frontBoxArt": null,
@@ -30924,10 +31011,10 @@
             "Fighting"
         ],
         "ratingContent": [
-            "Mild Violence"
+            "Moderate Violence"
         ],
         "numberOfPlayers": 2,
-        "rating": 7,
+        "rating": 12,
         "developer": null,
         "publisher": "Golem Entertainment",
         "frontBoxArt": null,
@@ -33326,7 +33413,7 @@
             "https://img-eshop.cdn.nintendo.net/i/9d0f6ab63c3f9374d9942b8a70764ea6a81982136f12afc0c7c3855da9bb403d.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ade6682de9a4babcfc668d31794c29c19e2e9fd2a11114229228c5b5082b1c8c.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/106c25cfbde7371b9c60cb1df4f967e1ac2f6c1512ac4fe152bca2abeda3b63c.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/55da2c4b06d837f5efc7bf26a52e07c767d34282e704f5a914406dc7a8625edd.jpg",
         "intro": "From birth to adult, explore the relationship between children and parents.",
         "description": "This is probably the most heart-warming simulation game you have ever played.\nAs a child born in an ordinary family, there is a journey ahead of you, a journey of growth from birth to adult\u2014\u2014\nFaced with the choices in life, how would you respond?\nFaced with the talented kids, can you stand out?\nFaced with your true love, how would you deal with your heart...\nThe most important thing is that in this era of rapid development, how many generations will you need?",
         "languages": [
@@ -35067,10 +35154,10 @@
             "Adventure"
         ],
         "ratingContent": [
-            "Mild Violence"
+            "Mild Swearing"
         ],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 12,
         "developer": null,
         "publisher": "Red Zero Games",
         "frontBoxArt": null,
@@ -36054,16 +36141,16 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7aaf3be34134cc3ba8b9927451fc543dc2c370f005a7f6d55ff3f5ea38e57656.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/7547ee785be95dd150175ce72da3d96667e66c5147311c9471ce58bc2e93f17d.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/f07d1249e2f8df36b74b17df9d5fa74a12e49befd69ba0ac8a9eefc68a24b4d2.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/5efba8a33d9f8be32e3d97369303651c65106423a7b360f11c10547f64bcf721.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dff131ddb363e06081e70525db2fdde75df9d32d3b24e84509f7273417841d76.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9970f35329f8ab648e640b2e24b40a9eab4669ce992ddca8473047e33531a720.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a9b72017a671c4d26e7cd9259c82a680f28ade16d3a07bda12ea7e51d04ef8a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f3cc7a7c9d7d9fe23ababaf850c965fd8eeaf511bb7352c7e1cef13b9f64e46.jpg",
             "https://img-eshop.cdn.nintendo.net/i/6c8f731d9dcbfe4eeb9269f0cb4b8edb440018fa904a656303292b890ed9ece2.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/333dfbb4c36f453152f075997d2884be21fbf141d84e36660877f3d7e49b6100.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7af768c733401b48ac38be7a1f118d8e74fd4a309427f85257800dd8b3bf5a7f.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/8268a0abb1ed492f0bed421b2e445fbb399b974b89cc712452176570edc11cc3.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4894673f4c2db8c790bc5ad7b15a7d557b80901a01040011e2b1eb8a442c68af.jpg",
-        "intro": "A fun and vibrant trip about life, love, fulfillment and existentialism, where new powers come from new relationships. ",
-        "description": "Meet fascinating characters on your quest to complete the imperfect Circle, and eventually pair with some! These partners bring their unique abilities to let you overcome new obstacles and keep discovering the world. They also bring their own personality to roll with...\n\nIn this 4-5 hours adventure, full of ups and downs, but always playful and rewarding, the Circle learns about itself and you, along with it.\n\nDEVELOPED BY Lovable Hat Cult\n\u201cIt\u2019s a game about this little something that always seems to be missing\u2026a better job, a nicer place to live, an ideal relationship\u2026\nWe wanted to tell a story of self-discovery in a fun, universal and relatable way.\nWe probably also wanted to answer our own questions: would the Circle find what it was looking for? Or how would it all end?\u201d - Andrea & Patrick from the Copenhagen-based studio.\n\nPUBLISHED BY Nakana.io\n\u201cWe gather games that share a strong experience to remember. We hope you\u2019ll enjoy the sweet and tasteful food for thought served by Journey of the Broken Circle!\u201d - Mika\u00ebl Bourget, founder of the publishing label.",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4e5518c14a4fd9202a6fe16f87d40238e2f775e86c3b51d8d74d1f7ccf86ea93.jpg",
+        "intro": "Platforming & Storytelling literally go hand in hand in the *IndieCade 2020 Narrative Winner*!",
+        "description": "Meet fascinating characters on your quest to complete the imperfect Circle. New partners bring unique abilities and also their own personality to roll with.\nIn this 3-5 hours adventure, full of ups and downs but always playful and rewarding, the Circle learns about itself and you, along with it.\n\n\u2022 \u201cJourney of the Broken Circle is a unique and special type of game. The way it presents itself and unfolds as you progress is an experience I firmly believe everyone should witness or play through at least once.\u201d Nintendo World Report\n\n\u2022 \u201cIt is a minimalist romantic tale that plumbs the depth of human emotion, examining angst and anxiety and impermanence. For a game populated by talking trees, circles and balloons, it depicts a universally human story in a genuinely lovely way.\u201d Pure Nintendo\n\n\u2022 \"The perfect mix of platform-puzzling goodness, and deep, profound story-telling.\" Cubed3\n\n\u2022 \u201cVisually, the game is simple yet striking. The clever use of the minimal color palette makes for stunning environments that are both varied and memorable.\u201d COGconnected\n\nDEVELOPED BY Lovable Hat Cult\n\u201cIt\u2019s a game about this little something that always seems to be missing\u2026a better job, a nicer place to live, an ideal relationship\u2026 We wanted to tell a story of self-discovery in a fun, universal and relatable way. We probably also wanted to answer our own questions: would the Circle find what it was looking for? Or how would it all end?\u201d - Andrea & Patrick from the Copenhagen-based studio.\n\nPUBLISHED BY Nakana.io\n\u201cWe gather games that share a strong experience to remember. We hope you\u2019ll enjoy the sweet and tasteful food for thought served by Journey of the Broken Circle!\u201d - Mika\u00ebl Bourget, founder of the publishing label.",
         "languages": [
             "en",
             "fr"
@@ -36117,7 +36204,7 @@
             "zh",
             "zh"
         ],
-        "size": 252706816
+        "size": 411041792
     },
     "70010000034070": {
         "id": "0100F15012D36000",
@@ -37040,7 +37127,7 @@
         "languages": [
             "en"
         ],
-        "size": 789577728
+        "size": 810549248
     },
     "70010000034354": {
         "id": "010084B012FF0000",
@@ -37116,7 +37203,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/237263f813b79b6b58bc77c586a6172a906d08fac421572539c6f963ef3cd81a.jpg",
         "intro": "Try on the role of a driver of a passenger bus. Take a ride in a real city, strictly following the schedule.",
-        "description": "Complete journeys around the city and its suburbs, strictly following the schedule. Earn money by successfully delivering passengers and following the traffic laws. Complete various scenarios with pre-set conditions or build your own career in Free Mode. You have a unique chance to drive buses from different eras and countries. You can drive both old Soviet city buses and European long-distance giants.\n\nWe took photos of a big part of these cities and their suburbs to recreate buildings and streets as close to real objects as possible. Virtual cities are recreated in a very accurate way, with every detail preserved. Buildings, bus stops and other objects are situated exactly on their places.\n\nChoose routes at your look to drive around the city districts you are interested in. It does not matter whether you like high-speed passenger transportation or slow and relaxed driving. If you do not like pre-set schedule, you can customize it for your driving style. Earn money, buy new buses and upgrade them. Decorate your bus as you want. \n\nGame features:\n- Vast number of high-detailed buses from different countries and eras.\n- Complete edition with all dlc's included. \n- Recreated cities and their suburbs with area of more than 20 km\u00c2\u00b2.\n- Possibility of upgrading your buses, adding and replacing decoration elements.\n- Different weather conditions, dynamic day time change.\n- Various traffic situations: traffic jams, accidents, speed bumps, driving at night, long-distance travels.\n- Wide functionality on driving a bus.\n- Necessity to visit gas stations and garages.",
+        "description": "Complete journeys around the city and its suburbs, strictly following the schedule. Earn money by successfully delivering passengers and following the traffic laws. Complete various scenarios with pre-set conditions or build your own career in Free Mode. You have a unique chance to drive buses from different eras and countries. You can drive both old Soviet city buses and European long-distance giants.\n\nWe took photos of a big part of these cities and their suburbs to recreate buildings and streets as close to real objects as possible. Virtual cities are recreated in a very accurate way, with every detail preserved. Buildings, bus stops and other objects are situated exactly on their places.\n\nChoose routes at your look to drive around the city districts you are interested in. It does not matter whether you like high-speed passenger transportation or slow and relaxed driving. If you do not like pre-set schedule, you can customize it for your driving style. Earn money, buy new buses and upgrade them. Decorate your bus as you want. \n\nGame features:\n- Vast number of high-detailed buses from different countries and eras.\n- Complete edition with all dlc's included. \n- Recreated cities and their suburbs with area of more than 20 km\u00b2.\n- Possibility of upgrading your buses, adding and replacing decoration elements.\n- Different weather conditions, dynamic day time change.\n- Various traffic situations: traffic jams, accidents, speed bumps, driving at night, long-distance travels.\n- Wide functionality on driving a bus.\n- Necessity to visit gas stations and garages.",
         "languages": [
             "en"
         ],
@@ -37159,6 +37246,45 @@
             "en"
         ],
         "size": 522190848
+    },
+    "70010000034427": {
+        "id": "01006AA013086000",
+        "rightsId": null,
+        "name": "Art Sqool",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70010000034427,
+        "category": [
+            "Simulation",
+            "Platformer",
+            "Education",
+            "Adventure"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "RedDeerGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fdee8a858b12439e2f9e375ca79e9e477c28fce542d7f1ec9621879a71e92923.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/24997e87c391053d312a592a83b520e30dbdb1f1b86bde9fde565cc72c0743ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a3c9a541c118dadb2e2b449dcd8eda252d6f7287b109ccf09dcff880c5644b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3b49958e62b03d0df034f4b3d631b1a9b1ff4e6b70ebf0472116810af7e038da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/713342a9d67eee3e9e58e650c4f2171c6064de60d5a0b562a5db6ab9b5843b37.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b130bfa48f3e82409faa13101c2d0af7e00e5ac4efebbf452f9b66f38df29494.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37a19b1c0ee2bc0e2f763378be5978399a745d3f3d7225b1dc2442db85733ce0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a3113f6f11154b1e2624fb747aaed16e48587e9368df4431919f315952b08a09.jpg",
+        "intro": "Yes, you are an artist! This art school simulator combines the exploration of the amazing world with the performance of creative tasks. ",
+        "description": "MYSTERIOUS WORLD\nIn ART SQOOL you are Froshmin, and it\u2019s your freshman year. Create art, explore the beautiful, mysterious, sprawling campus, and complete tasks given to you by the professor.\n\nThe professor is a neural network, an art-trained A.I., as well as your faculty advisor. He uses his high-tech capabilities to objectively grade your work. The campus is spread over a number of floating islands and filled with bizarrely shaped objects and bizarre plants. In addition to that, you can fly around. \n\nSPARK YOUR CREATIVITY\nSometimes you might be asked to transfer a specific object from the game area to the virtual canvas, at another point you will have to paint a horse\u2026 But usually, you can just let your imagination run wild \u2013 this is a game that will certainly spark your creativity.\n\nDon\u2019t worry that you might not be an artist. ART SQOOL will prove that you are.\n\nBut there is no painting without brushes, right? You can collect quite a few new brushes \u2013 although you will have to find them first! Over a dozen of them are hidden around the campus area. Get them all!\n\nKEY FEATURES:\nBE CREATIVE.\nThe professor is a really cool dude. And painting is all about having fun, so go crazy! Over 200 inspiring prompts will help you break through any creative block.\n\nEXPLORE AMAZING CAMPUS. You\u2019ve never seen anything like it.\n\nUSE YOUR STYLUS! Art Sqool makes use of the console\u2019s touch screen and stylus \u2013 which makes painting a lot more enjoyable.\n\nRELAX. OK, there might be some challenges in the game, but it also gives the players an opportunity to unwind: you can relax to chillout music and slow tempo of the game.\n\nBECOME A COLLECTOR. Find and collect cool brushes to help you in your artistic process. There are numerous extras hidden around the map, like a wiggle brush, rainbow pencil, and\u2026 a mop.",
+        "languages": [
+            "en"
+        ],
+        "size": 414187520
     },
     "70010000034429": {
         "id": "01004B201308A000",
@@ -39508,6 +39634,89 @@
         ],
         "size": 2804940800
     },
+    "70010000035373": {
+        "id": "01007D1013512000",
+        "rightsId": null,
+        "name": "Unhatched",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70010000035373,
+        "category": [
+            "Puzzle",
+            "Strategy",
+            "Adventure",
+            "Board Game"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "SONKA",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7b1d51ba9098e29ff180083b7e68e2d647951737c75e27a579a34d20500f4a59.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/83e30c2dbeee70a9308337faa9c3ed379929a6e5f61b26f6eceae6b33430a9d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/635c78b751fdab0b066b66d1f5cefaa9dcdea8f9127fa769e48fae52f9dd9c3e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/879667512eead77f26de9212bf2ce4720ab7af86923f37ab669e8a65eda0879a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f75e63ca67ce0b7709b43e161fb6e5f2bf3bb2a3c1b08f0024118dc56726e4f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15e644840e4a6cc2889736e618deb5735370210af19e027df749ea553399bae7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c6f8794921a2e387b3b3ce905c834e096d298fb4e38e57ea28ae239f88bb9e9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/40adb08b3e4edadc5c8289a133d976838d2733d68db3202eb38a7ee51350bfdc.jpg",
+        "intro": "Change your fate, duel with formidable enemies, train a dragon - all within a reach of a card swipe!",
+        "description": "Unhatched is a story driven card game with a unique mechanic where every card has different effects depending on how you swipe it. You\u2019ll play as a dragon trainer reclaiming their freedom through a pact with a mysterious rescuer. What starts innocently with opening a jar of pickles, will end up testing the limits of your wit and bond you create with your dragon!\n\nBuild your deck on the fly, pick and choose from over 200 cards (such as Dragon Breath, Grappling Hook and Pickle), each one with different mechanics, and experience an intriguing story that unfolds based on your choices! ",
+        "languages": [
+            "en"
+        ],
+        "size": 298844160
+    },
+    "70010000035385": {
+        "id": "01005E7013476000",
+        "rightsId": null,
+        "name": "Mad Father",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000035385,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "Other"
+        ],
+        "ratingContent": [
+            "Horror",
+            "Mild Swearing",
+            "Moderate Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "PLAYISM",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/87fa9a0d940a90d87905918c2bdace7a7845c5e8ad61e7c73185d19d57aa2a30.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6cfacbf3fc88fefc6d821b696f2301be48cb9218a8d5abf8b1fc3ac94d7a6fd5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ffe4c5ba1fed1a5643b5bf7842ca24aba44fd3e51531a3fff57327eeb5d94a02.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/02937d4e31561f7da27f000f4e38cceafaebb443275724a697b29f2a6719048d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61f50ebbdbc670e51ea5c5f0a2f67f788a865a398d4b164681f88d00aa7b55f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0d6a8262153118141e63fabf081fc4a4d3c1fbb52df9ab7c3a137a7c0871c87c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8a264ddb1705069c6bc1c4913d8ee3cc76507e1695124e9a4ce5ab6ee237e4ec.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/40ab5f2c3dc19f240139918c53443dfd26ed9bfd08f282f8eae099866d5aac00.jpg",
+        "intro": "Witness the tale of a most foolish family.\nA remake of the classic horror exploration game makes its way to Nintendo Switch\u2122.",
+        "description": "In this horror adventure game, play as 11-year-old girl Aya Drevis and uncover the secrets of a bizarre incident that befalls the Drevis residence, where maniacal experiments are conducted night after night.\nTo arrive at the truth, you'll need to make use of chainsaws, knives, hammers, even bottles of eyeballs to explore every inch of the terrifyingly mad mansion.\nThis is a remade version of the original Mad Father. In addition to updates such as a total revamping of the in-game graphics, this remake adds brand new scenes and Blood Mode: a new second playthrough which alters the story.",
+        "languages": [
+            "ja",
+            "en",
+            "zh"
+        ],
+        "size": 210763776
+    },
     "70010000035395": {
         "id": "01006050129D2000",
         "rightsId": null,
@@ -39888,6 +40097,43 @@
             "it"
         ],
         "size": 6121586688
+    },
+    "70010000035699": {
+        "id": "0100DBB0136CE000",
+        "rightsId": null,
+        "name": "Survival",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201105,
+        "nsuId": 70010000035699,
+        "category": [
+            "Adventure",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Sabec",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b2c412b478642a339e3f1aba035fca27f2e6750c24b828467e97a365251d7b4a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7e6c9c626c01ed06b6631e93dc20a7163150624edca8944f51fbdaf566b54cb5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d31e74f5a8458e653f4b499e7026044ab91c500f1b6e319ceead50fb3efdd943.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b8366ad019f47419f12f8838182a988a43e5923cb24cb48353073c6e37f0a86c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d40d59e555f1be09bdb5b89b2d7b9408889bc4be3b6da7b2cd28c025db42d62e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14343f2dd1ebc6a6ee18cd5bf77f71eb29b7fe518c923ae9fad5c54f7cfcb90c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/48ac92bff6ca839674c3fe8ff30a199b151a14cca93a1833fee485b6fb65a311.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/86365e5ca78307e42521e2b8a6d25ba58a4219549a3e7e7d599eca9ef1d27d42.jpg",
+        "intro": null,
+        "description": "Can you survive for 30 days in the wilderness?\nSurvival will test you skills to the limit, you will need to hunt, fish and grow your own crops.\nThe forest is a dangerous place, so you will have to learn to avoid being attacked and killed by the bears or wolves that roam the forest in packs at Night.\nSurvival is a fun and easy to play game for ages",
+        "languages": [
+            "en"
+        ],
+        "size": 125829120
     },
     "70010000035728": {
         "id": "01006C8013708000",
@@ -41227,6 +41473,34 @@
         "languages": null,
         "size": 514850816,
         "parentId": "0100E6701231C000"
+    },
+    "70030000012346": {
+        "id": null,
+        "rightsId": null,
+        "name": "Chinese Parents Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012346,
+        "category": null,
+        "ratingContent": [
+            "Sexual Innuendo"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 336592896,
+        "parentId": "010046F012A04000"
     },
     "70030000012356": {
         "id": null,
@@ -60209,11 +60483,10 @@
         "nsuId": 70070000010486,
         "category": null,
         "ratingContent": [
-            "Fear",
-            "Mild Violence"
+            "Moderate Violence"
         ],
         "numberOfPlayers": null,
-        "rating": 7,
+        "rating": 12,
         "developer": null,
         "publisher": "Raw Fury",
         "frontBoxArt": null,
@@ -62758,7 +63031,7 @@
         "intro": null,
         "description": "The special edition is a costume set bundle pack\n that includes every costume set and the main game.\n \n <Contents>\n 1. Main Game\n 2. Costume Set Bundle Pack\n Every costume - 89 total (includes 15 free costumes)\n \n Experience all of Seven Knights - Time Wanderer -  at a reasonable price!\n \n <Warning>\n - You can only purchase the costume set once.\n - You can equip in-game after purchasing.\n - Please claim from \"May\" in the Room of Sand.\n - Hero portraits don't change.\n - Costumes only change hero appearance - they don't increase stats.",
         "languages": null,
-        "size": 8316256256
+        "size": 8376025088
     },
     "70070000011266": {
         "id": null,

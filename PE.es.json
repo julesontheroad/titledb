@@ -4301,7 +4301,7 @@
             "it",
             "ko"
         ],
-        "size": 7336886272
+        "size": 7389315072
     },
     "70010000018547": {
         "id": "010040600C5CE000",
@@ -18490,6 +18490,33 @@
         "description": "Regresa al galardonado shooter-looter para una nueva aventura que prepara el terreno para Borderlands 3. Han asediado Sanctuary, robado el mapa de la C\u00e1mara y un gas t\u00f3xico est\u00e1 envenenando Pandora. Enfr\u00e9ntate a nuevos jefes, explora nuevas zonas, consigue nuevo bot\u00edn (incluido un nuevo nivel m\u00e1s all\u00e1 del Legendario) y \u00fanete a Lilith y los Crimson Raiders para enfrentarse a un villano trastornado decidido a tomar el control del planeta. ",
         "languages": null,
         "size": 5187305472
+    },
+    "70050000023513": {
+        "id": "01002B00111A3001",
+        "rightsId": null,
+        "name": "\u25a0Bonificaci\u00f3n por precompra de la versi\u00f3n digital",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70050000023513,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/30af6919961c083b1ef852c4f5e8f02e3c237414b5bc48c3e1ba3cb5c9a45bac.jpg",
+        "intro": "Objeto dentro del juego:  cuchara de la suerte",
+        "description": "Esta es una de las armas que Link puede usar en el juego. Equ\u00edpala junto con la tapa de cacerola, o fusi\u00f3nala con otra arma para mejorarla.\n\n*Este objeto no estar\u00e1 disponible inmediatamente para los usuarios que adquieran la versi\u00f3n f\u00edsica del juego, pero podr\u00eda estar disponible m\u00e1s adelante como contenido de pago. ",
+        "languages": null,
+        "size": 4194304
     },
     "70070000000041": {
         "id": null,
