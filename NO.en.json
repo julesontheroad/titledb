@@ -9051,7 +9051,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 2020,
+        "releaseDate": 20201119,
         "nsuId": 70010000024295,
         "category": [
             "Strategy",
@@ -21945,7 +21945,7 @@
             "nl",
             "ru"
         ],
-        "size": 1311768576
+        "size": 1776287744
     },
     "70010000030502": {
         "id": "0100596011E20000",
@@ -57424,7 +57424,7 @@
         "size": 4194304
     },
     "70050000022802": {
-        "id": null,
+        "id": "0100FBE0113CD001",
         "rightsId": null,
         "name": "The Llama of Wall Street",
         "version": null,
@@ -57451,7 +57451,7 @@
         "size": 4194304
     },
     "70050000022806": {
-        "id": null,
+        "id": "0100FBE0113CD002",
         "rightsId": null,
         "name": "Spitter",
         "version": null,
@@ -60222,7 +60222,7 @@
         "size": 50331648
     },
     "70050000023534": {
-        "id": null,
+        "id": "0100FBE0113CD003",
         "rightsId": null,
         "name": "Lobbyistico",
         "version": null,
@@ -61692,7 +61692,7 @@
         "size": 222298112
     },
     "70050000023821": {
-        "id": null,
+        "id": "0100708012ECD001",
         "rightsId": null,
         "name": "Salad Bar Tycoon Expansion Pack 1",
         "version": null,
@@ -61724,7 +61724,7 @@
         "size": 0
     },
     "70050000023824": {
-        "id": null,
+        "id": "0100708012ECD002",
         "rightsId": null,
         "name": "Salad Bar Tycoon Expansion Pack 2",
         "version": null,
