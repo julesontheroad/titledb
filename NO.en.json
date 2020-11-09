@@ -6868,6 +6868,44 @@
         ],
         "size": 2103443456
     },
+    "70010000022091": {
+        "id": "0100A2D00EFBE000",
+        "rightsId": null,
+        "name": "Guitar",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70010000022091,
+        "category": [
+            "Music",
+            "Study",
+            "Training"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Sabec",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/aa5c3083cdb679f03c03d4b791713c4c990d3dab4e674181abb3dbd18cbab232.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/32506fa781971c8f1c571e3d85bd3c9437ffca2901125a7117303c1a58e84c90.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a39c248ec2e3cbe8af3ee768483cde8bdd69dceb80d7e67949dc8ff3498b020c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74cc6329e89ef7601ba6331c0be5d4ec20794c7714f95147cad639b59ccec668.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b3fe8f9fbb507599466130795fc9ce13fa7067717e7261f3c58e008c6091f7a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52021d845cb307920bdef4fbb0ff4ceda4f9b5e496ad152f0cd96055b2d2745b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8df459350f9eccb5e0c078a0390512c129b6934e698c511fb941a23666fb5076.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9e88fb723d37e319d36a6aef90f867c4fecb0eb1fdc300f228f3738e654e1b65.jpg",
+        "intro": null,
+        "description": "Turn your Nintendo Switch into mini guitar Guitar and learn to play anywhere, anytime.\n\nGuitar is a simple and fun game for kids and adults of all age, that will let you learn and play your favourite songs with the touch screen and Joy-Con\u2122 controllers.\n\nChoose from one of the three modes of play, novice, learn or compose. You will be surprised how easy it is to play something that sounds so amazing so quick.\n\nAs bonus Guitar also comes with an acoustic, classic and electric guitar so you can amaze your family and friends with your new learnt musical talent.\n\nGuitar is the fun way for anyone to start learning to play the guitar and improve ones hand eye co-ordination.",
+        "languages": [
+            "en"
+        ],
+        "size": 73400320
+    },
     "70010000022098": {
         "id": "0100E1800EFCE000",
         "rightsId": null,
@@ -8523,6 +8561,45 @@
             "zh"
         ],
         "size": 255852544
+    },
+    "70010000023647": {
+        "id": "0100AFF00F938000",
+        "rightsId": null,
+        "name": "Metaverse Keeper",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201112,
+        "nsuId": 70010000023647,
+        "category": [
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "CIRCLE Ent.",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fd47e4da408aba315cc7fde2191fe907c61bf80622dfe2d0ff9250c3a8d67e61.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/50282b4ff1022e0e57a12120f3047ad70619e87bcb398261c6682694ebd4be18.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d02f52b6719d933039cea2091b8360d9620b82a54da83d0b1c3248a1148c427c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0bf8d98e9d312746e173fff721d3c78d88116409f8b219c0ac5d68060c460ed4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7098fcef00367007b52200b78d82e489cb723b04d5b2bcf5ad68979594aa7399.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/79406bf2c9643cf4cff7ad90eb321094cabf9f97bb60099a33b808733b589a62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51b879d094637af6119f6fe030d523896fdb355a22c7f05d5239459e44ba51c8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff3fe4b99249a3d09ffefeeb276768136cfad23c89125de9d9d05e7c68d48772.jpg",
+        "intro": "Metaverse Keeper is a dungeon crawler with roguelike elements, where five heroes join forces to save the \u201cMetaverse\"!",
+        "description": "In Metaverse Keeper you explore randomly-generated worlds, customize your weapons and fight crazy monsters \u2013 in solo or co-op mode!\n\nFive unique heroes, each with their own special skills, have been called upon by the mysterious government of the Metaverse.\n\nLong ago, a great cataclysm shook reality and created the Metaverse and its Bastion \u2013 a vast and mysterious ship drifting across space-time. Our heroes will board the Bastion with one goal in mind: uncover the secrets behind the cataclysm, stop the Boss, and bring balance back to the Metaverse.\n\nHarness the power of space-time abilities - death becomes a minor setback as our heroes will return again and again until this great evil is defeated. But death has a cost; the chaotic nature of the Metaverse will change the very Bastion itself, and no two attempts will ever be the same.\n\nWith so many weapons, enemies and environments to discover, the quest to save the Metaverse is better than ever on Nintendo Switch\u2122!",
+        "languages": [
+            "ja",
+            "en",
+            "zh",
+            "zh"
+        ],
+        "size": 1602224128
     },
     "70010000023654": {
         "id": "010048000F946000",
@@ -30475,6 +30552,47 @@
         ],
         "size": 451936256
     },
+    "70010000032534": {
+        "id": "01000160127EC000",
+        "rightsId": null,
+        "name": "Professor Rubik's Brain Fitness",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201112,
+        "nsuId": 70010000032534,
+        "category": [
+            "Lifestyle",
+            "Multiplayer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Microids",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e9f4c1b4a7a85d1edd72d999fba3f1b611f40f415067b3bd84331d950309f087.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b81153eb37d2f210fd28991d1665a8687d6401a0e13086445824c281c30325b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb605e8aae333bc619533b1ca9edcbff4029557c949878390dafddcb1a127204.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a32f899f11e91460d64eae24b3c70d53e181bc3c47e89190398c4d1f6a2de47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2551639a9c6bc5123d073cc2949f8a0d8d641cc3380b80d577f4dbdff39a0c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a146fe671d0ab30c73a25d7e8db5c79673a1301087c7df73587263b1ab3d921a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d865ee70b96674812f7219c282847c415be2d87cc3a16e2ee364b1e512ee1b5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/47e2b278ddd9f3244fe3db7dd4ef829ccc55f6ef55f6bd0d8195d87b099403d0.jpg",
+        "intro": "Let Professor Rubik's Brain Fitness color your brain!\n",
+        "description": "Good old Rubik\u2019s is back in a brand new shape! With professor Rubik\u2019s, get your brain back on track in a new brain fitness game. He is ready to test you with fast and ludic mini-games daily and see how much brain power you have!\n\nStimulate your brain!\nTrain the different areas of your brain such as your memory, concentration or your 3D visualization with colorful challenges. Play with a wide range of mini-games, with four different play modes, alone or with your friends! Also rediscover famous games in a Rubik\u2019s version with 2048, Tetrubik and more!\n\nYour own brain coach.\nProfessor Rubik\u2019s is there to be your dedicated coach. He will track your training, adapt your training program and be a true coach for you. With him on your side, you won\u2019t miss a single day of training and progress faster than ever!\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 258998272
+    },
     "70010000032537": {
         "id": "0100EA70127F2000",
         "rightsId": null,
@@ -34393,6 +34511,54 @@
             "en"
         ],
         "size": 155189248
+    },
+    "70010000033323": {
+        "id": "0100EC3012AAC000",
+        "rightsId": null,
+        "name": "REPLICA",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201107,
+        "nsuId": 70010000033323,
+        "category": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Fear"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "PLAYISM",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f0fd1bd70b154a2e998f7b9edaf1fe26b887643de2882d79348f1ab69019b6d8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4f9dc962a06afa2f560dd2fcc7c597b8e62d9629240b368023a392bffc6f7b7f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db913f34d840c633d49ccf86380793968a97cbfdbdd6bfccd82419c7a9cb9638.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03780931e2e95c85b3c8284bdeeb5bfd26b885b3ee7e37ee2345b90667767dbf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17d038ac8639c1e5a41656fca3ab373f1460401d521197e02de4cf9c66a684af.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f06babf4b67a9552c5604faec6864173072ad75747cef7a740fa61048583609a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d8e7668c76b3077ea0d7f6808325e496993cc05697790779d0c54988f2ff356b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/646dad4cb603f018a37735c45afdf7b733893ae774429c9a1155094aa0dddb43.jpg",
+        "intro": "Replica is an interactive novel game played through a cellphone and social media.",
+        "description": "You are given a cellphone of an unknown owner. You must look for evidence of terrorism by hacking into the cellphone owner's account, under governmental coercion. Then inspecting the cellphone usage history and social media activity records.\n\nThe insane experience of peeping into someone's private life through a cellphone will transform you into the state's greatest patriot.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 233832448
     },
     "70010000033329": {
         "id": "0100738012566000",
@@ -39364,6 +39530,56 @@
             "en"
         ],
         "size": 1137704960
+    },
+    "70010000034819": {
+        "id": "0100C20013196000",
+        "rightsId": null,
+        "name": "OctaFight",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201210,
+        "nsuId": 70010000034819,
+        "category": [
+            "Multiplayer",
+            "Action",
+            "Arcade",
+            "Party"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 8,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/72917cc2d351a8201e273ddb811ec533faa11589edd4459496c77b6c69dadcaa.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/618d12060d6f7ade1739d0d1702adc267c755542a3e45b4116ba81ba8546ad48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6be0d942c0cee5a4aaff864aaee81d23b7e715c7447972a9457aa7d98fc9b207.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/979b84bd1ebfd7a757a27233c5d7b92720e8eda3180194c33c4eba7cbd86b444.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/839cb139198cc963be1f1ae4cc9b284fddab7d5d1309ffd56bb2133a9b084df2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7ddc1c2d9bff4a3db04ee5e29bd957f19407d659d744facf08ad7d355b3e55c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed69bc5428db82d39d057e5b780f7c88cd408bbb1ee86e8c8ae4b94dbf2e4d71.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ac7ec9c426b2d3c6ff7132f53253300ad93fd6488fdfba595e421b8351b2ebf.jpg",
+        "intro": "Move, jump, shield, throw and trigger your bomb on time to be the last in one piece!",
+        "description": "OctaFight is an explosive combat game. A tribute to good old couch multiplayer titles, offering intense and devastating versus matches.\n\nCreate your own fighting rules, from fairly competitive to deliciously chaotic, compose with various bomb types, crazy game modes and momentous arenas.\n\nWith his amazing overpixelated Art, OctaFight declare his love to minimalism and refined design, and explore the promises of the ultra-low definition!\n\nFeatures :\n- Simple controls and deep gameplay\n- From 2 to 8 players in a same couch\n- Create your own fighting rules\n- Overpixelated Art",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 311427072
     },
     "70010000034832": {
         "id": "0100C5A01327E000",
