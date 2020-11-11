@@ -4550,7 +4550,7 @@
             "zh",
             "zh"
         ],
-        "size": 207618048
+        "size": 261095424
     },
     "70010000020886": {
         "id": "0100D0200E97A000",
@@ -11272,7 +11272,7 @@
             "zh",
             "zh"
         ],
-        "size": 6604980224
+        "size": 6614417408
     },
     "70010000027851": {
         "id": "010083E010AE8000",
@@ -14951,7 +14951,7 @@
             "ru",
             "zh"
         ],
-        "size": 2535456768
+        "size": 3211788288
     },
     "70010000029346": {
         "id": "01002E4011924000",
@@ -15545,7 +15545,7 @@
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/7fd83ef7ccf853c42e7e890576211e7670ca5e104e78f3717ece0f995c22c531.jpg",
             "https://img-eshop.cdn.nintendo.net/i/04ba8fa0e273c4f4c10771b901ab50bd02c7ce563d011c73d102714173a10a7d.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/de6ddd874f9f8f7182861a631502263886c5396646430f1d85ad9cb716c33ae8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78ab75dba914d487e6c390539fe7cbda6c8e57c2847f5e81f5823f6b21564cd4.jpg",
             "https://img-eshop.cdn.nintendo.net/i/9bd8fbaf33d0bd0e9b092a5ce1afc1e377509cb40083d4d6764890eb5bd986e7.jpg",
             "https://img-eshop.cdn.nintendo.net/i/7ed13bebd96ce6d282ee1f870ce991a2a8cb19d781f5c9d15659692625bbbb1a.jpg",
             "https://img-eshop.cdn.nintendo.net/i/27210499e208c1b3472d4a2e869f6064747fd79febc8f1ad6261c2523c2fcba3.jpg"
@@ -15558,7 +15558,9 @@
             "es",
             "fr",
             "de",
-            "it"
+            "it",
+            "pt",
+            "ru"
         ],
         "size": 3380609024
     },
@@ -16663,6 +16665,7 @@
             "fr",
             "pt",
             "de",
+            "it",
             "ru",
             "ko",
             "zh",
@@ -16902,9 +16905,11 @@
             "Sparatutto",
             "Arcade"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza implicita"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "HAMSTER",
         "frontBoxArt": null,
@@ -16928,7 +16933,7 @@
             "de",
             "it"
         ],
-        "size": 95420416
+        "size": 117440512
     },
     "70010000030324": {
         "id": "01007FC011CF0000",
@@ -18138,7 +18143,7 @@
             "de",
             "it"
         ],
-        "size": 804257792
+        "size": 836763648
     },
     "70010000030736": {
         "id": "01002EC011DA6000",
@@ -20668,7 +20673,7 @@
             "https://img-eshop.cdn.nintendo.net/i/b6b43f270a3b8d3e970e74f5878fa60ba69ce942108253255c7f64d8a9ed1f6b.jpg",
             "https://img-eshop.cdn.nintendo.net/i/905d3770a944d027e134cec3d65c7c7c75275eda53e2bd05ebc5b83990a222d3.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/515d29319bea1cb4aabcf8a0ec303b043a0f5729ead4e80a7daad06126a11f79.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c6a0cd1e209f30e44f31c32236845837484e62e6b9447a94b303cbd1c601d271.jpg",
         "intro": "Osserva l'anello, crea la strategia adatta. Impara, adattati, o affronta la disfatta.",
         "description": "Entra nell'Anello del Dolore...\n\nTuffati in dungeon ad anello generati casualmente, dove saranno gli avversari a trovare te! \nOsserva e pianifica il tuo percorso. Cercherai di arraffare il bottino o sguainerai il pugnale contro un orrore misterioso? Man mano che saccheggi, combatti e ti dirigi verso nuovi combattimenti, l'anello reagir\u00e0 alle tue azioni.\n\nGioca alla velocit\u00e0 che preferisci in questo entusiasmante roguelike a turni. Ma fai attenzione a dove vai: potresti subire un'imboscata, o peggio...\n\nVedi l'esito delle tue scelte, per poterti concentrare sulle tue decisioni. \nLe creature paleseranno le loro azioni in un ambiente ostile, pronte ad attaccare. Fuggirai? O cercherai un modo per usare a tuo vantaggio le caratteristiche del dungeon? \nIl posizionamento \u00e8 la chiave della sopravvivenza. Puoi essere sopraffatto molto rapidamente...\n\nI mimic ti offrono una scelta... A pagamento, s'intende. Prendi quello che puoi e crea una combinazione di equipaggiamento con poteri passivi.\nForse sarai rapido e sfuggente, con una lama imbevuta di acido. O forse sarai un colosso di pura forza bruta, o un piromane con la passione per le esplosioni.\nAccumula potenza con il denaro, o adattati a quello che riesci a recuperare in queste profondit\u00e0 impietose.\n\nNel profondo dell'Anello del Dolore troverai nuove vie verso l'ignoto. Luoghi con nuovi amici, bottino prezioso e criptiche leggende in rima.\nTrova momenti di piacevole sollievo e bestie ululanti che \u00e8 meglio non disturbare.\nI pi\u00f9 coraggiosi potranno essere ricompensati per l'audacia... o schiacciati dall'ambizione.\n\nAl buio, fai attenzione a dove metti i piedi.\nCi\u00f2 che era ignoto, ora \u00e8 pieno di terrore.\n\nCaratteristiche\n- 16 dungeon del percorso centrale, pi\u00f9 2 finali ramificati per mettere alla prova la tua tempra.\n- Oggetti speciali da sbloccare in modalit\u00e0 difficile per chi ama sguazzare nel dolore.\n- Una modalit\u00e0 dungeon giornaliero da sbloccare, con pi\u00f9 di 25 modificatori.\n- Pi\u00f9 di 25 dungeon speciali per avventure collaterali piene di bottino e strani incontri.\n- 4 regioni: in ciascuna, la paura avr\u00e0 un diverso sapore.\n- Pi\u00f9 di 180 oggetti da sbloccare e combinare in un inventario da 15 slot.\n- Pi\u00f9 di 40 creature da scoprire e capire. Alcune sono amichevoli, altre feroci...\n- Dinamica di gioco a turni basata sulle reazioni: in questo modo potrai giocare di rapidit\u00e0 o di strategia.\n- Leggende in rima, poetiche e misteriose.\n- Un crudo stile grafico ispirato ad Aphantasia.\n- Ranocchie carine.",
         "languages": [
@@ -29953,7 +29958,7 @@
             "ru",
             "ko"
         ],
-        "size": 448790528
+        "size": 451936256
     },
     "70010000033575": {
         "id": "01005C1012C22000",
@@ -32375,7 +32380,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/237263f813b79b6b58bc77c586a6172a906d08fac421572539c6f963ef3cd81a.jpg",
         "intro": "Try on the role of a driver of a passenger bus. Take a ride in a real city, strictly following the schedule.",
-        "description": "Complete journeys around the city and its suburbs, strictly following the schedule. Earn money by successfully delivering passengers and following the traffic laws. Complete various scenarios with pre-set conditions or build your own career in Free Mode. You have a unique chance to drive buses from different eras and countries. You can drive both old Soviet city buses and European long-distance giants.\n\nWe took photos of a big part of these cities and their suburbs to recreate buildings and streets as close to real objects as possible. Virtual cities are recreated in a very accurate way, with every detail preserved. Buildings, bus stops and other objects are situated exactly on their places.\n\nChoose routes at your look to drive around the city districts you are interested in. It does not matter whether you like high-speed passenger transportation or slow and relaxed driving. If you do not like pre-set schedule, you can customize it for your driving style. Earn money, buy new buses and upgrade them. Decorate your bus as you want. \n\nGame features:\n- Vast number of high-detailed buses from different countries and eras.\n- Complete edition with all dlc's included. \n- Recreated cities and their suburbs with area of more than 20 km\u00c2\u00b2.\n- Possibility of upgrading your buses, adding and replacing decoration elements.\n- Different weather conditions, dynamic day time change.\n- Various traffic situations: traffic jams, accidents, speed bumps, driving at night, long-distance travels.\n- Wide functionality on driving a bus.\n- Necessity to visit gas stations and garages.",
+        "description": "Complete journeys around the city and its suburbs, strictly following the schedule. Earn money by successfully delivering passengers and following the traffic laws. Complete various scenarios with pre-set conditions or build your own career in Free Mode. You have a unique chance to drive buses from different eras and countries. You can drive both old Soviet city buses and European long-distance giants.\n\nWe took photos of a big part of these cities and their suburbs to recreate buildings and streets as close to real objects as possible. Virtual cities are recreated in a very accurate way, with every detail preserved. Buildings, bus stops and other objects are situated exactly on their places.\n\nChoose routes at your look to drive around the city districts you are interested in. It does not matter whether you like high-speed passenger transportation or slow and relaxed driving. If you do not like pre-set schedule, you can customize it for your driving style. Earn money, buy new buses and upgrade them. Decorate your bus as you want. \n\nGame features:\n- Vast number of high-detailed buses from different countries and eras.\n- Complete edition with all dlc's included. \n- Recreated cities and their suburbs with area of more than 20 km\u00b2.\n- Possibility of upgrading your buses, adding and replacing decoration elements.\n- Different weather conditions, dynamic day time change.\n- Various traffic situations: traffic jams, accidents, speed bumps, driving at night, long-distance travels.\n- Wide functionality on driving a bus.\n- Necessity to visit gas stations and garages.",
         "languages": [
             "en"
         ],
@@ -33602,9 +33607,12 @@
             "Avventura",
             "Puzzle"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Imprecazioni moderate",
+            "Violenza contenuta"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 12,
         "developer": null,
         "publisher": "Ocean Media",
         "frontBoxArt": null,
@@ -33632,7 +33640,7 @@
             "ko",
             "zh"
         ],
-        "size": 236978176
+        "size": 274726912
     },
     "70010000034792": {
         "id": "0100706013240000",
@@ -34943,7 +34951,7 @@
         "languages": [
             "en"
         ],
-        "size": 10891558912
+        "size": 11288969216
     },
     "70010000035313": {
         "id": "010019A0134E2000",
@@ -35137,7 +35145,7 @@
         "languages": [
             "en"
         ],
-        "size": 298844160
+        "size": 382730240
     },
     "70010000035385": {
         "id": "01005E7013476000",
@@ -35214,7 +35222,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00beb1767dc46e3005e01ce53b16316f519f68784dbaba258c60efc730a81293.jpg",
         "intro": "SOS! Invaders has shown up!\nHurry to the scene and rescue the civilians!",
-        "description": "PICK ME UP! -Rescue Rangers- is a heroic rescue action puzzle game where you drive a rescue car and help people in need on the map.\nPeople are seeking your help in the awaiting 25 stages.\nTo break through the obstacles that block your path, you need to transform into a special vehicle.\n\nWill you be able to rescue them?\nIt all depends on your good judgment and rescue soul!\n\n< How To Rescue >\n\u30fb Transport the people you rescued to the safe area!\n\u30fb Move the rescue car quickly! But don't forget to brake when getting on and off ...\n\u30fb Transport multiple people to improve your score!\n\u30fb If the color of the person you helped matches the color of the safe area, the time limit will be extended!\n\u30fb Activate Super Rescue Mode (SRM)! Your rescuing will be brake-free!\n\n--------------------\nWorld first, implemented with Dirac Panorama Sound\u00ae\nWe recomend playing without headphones to enjoy the experience of full panoramic sound.",
+        "description": "PICK ME UP! -Rescue Rangers- is a heroic rescue action puzzle game where you drive a rescue car and help people in need on the map.\nPeople are seeking your help in the awaiting 25 stages.\nTo break through the obstacles that block your path, you need to transform into a special vehicle.\n\nWill you be able to rescue them?\nIt all depends on your good judgment and rescue soul!\n\n< How To Rescue >\n\u30fb Transport the people you rescued to the safe area!\n\u30fb Move the rescue car quickly! But don't forget to brake when getting on and off ...\n\u30fb Transport multiple people to improve your score!\n\u30fb If the color of the person you helped matches the color of the safe area, the time limit will be extended!\n\u30fb Activate Super Rescue Mode (SRM)! Your rescuing will be brake-free!\n\n--------------------\nWorld\u2019s first game with Dirac Panorama Sound \u00ae\nTry it without headphones for a magic immersive sound experience from the console\u2019s speakers!",
         "languages": [
             "ja",
             "en"
@@ -36813,6 +36821,35 @@
         "languages": null,
         "size": 261095424,
         "parentId": "0100E9D00D6C2000"
+    },
+    "70030000012446": {
+        "id": null,
+        "rightsId": null,
+        "name": "Ring of Pain Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012446,
+        "category": null,
+        "ratingContent": [
+            "Paura",
+            "Violenza moderata"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 651165696,
+        "parentId": "0100F090122D2000"
     },
     "70030000012458": {
         "id": null,
@@ -54125,6 +54162,90 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023934": {
+        "id": "0100E1F013675022",
+        "rightsId": null,
+        "name": "Look Pack: Masquerade",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023934,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/946232f094d7db82654838be41fcc0d17e2f935b9226d250c1c2846a86be54a5.jpg",
+        "intro": null,
+        "description": "Mostra il tuo stile di FUSER\u2122 con questo pacchetto che contiene:\nIridescent Rabbit Mask, Iridescent Crop Top, Iridescent Short Shorts, Iridescence Slip-Ons\nRichiede il gioco base di FUSER\u2122.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023935": {
+        "id": "0100E1F013675023",
+        "rightsId": null,
+        "name": "Look Pack: Battery Power",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023935,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2ba1507333f0e76119e41bf7ef78b5599d763f223a3dde334f1c101d4c420262.jpg",
+        "intro": null,
+        "description": "Mostra il tuo stile di FUSER\u2122 con questo pacchetto che contiene:\nReactive Glow Hoodie, Reactive Glow Ripped Shorts, Reactive Glow Leather Boots\nRichiede il gioco base di FUSER\u2122.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023936": {
+        "id": "0100E1F013675024",
+        "rightsId": null,
+        "name": "Look Pack: 80s",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70050000023936,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/45551b66bb0b09078f518fcf0d658866646098a4e644e4d56c17afe18aa6b40a.jpg",
+        "intro": null,
+        "description": "Mostra il tuo stile di FUSER\u2122 con questo pacchetto che contiene:\n80s Bandana, T-Shirt, Strap Pants, Sneakers\nRichiede il gioco base di FUSER\u2122.",
+        "languages": null,
+        "size": 4194304
+    },
     "70070000010486": {
         "id": null,
         "rightsId": null,
@@ -56282,7 +56403,7 @@
         "intro": "UN PROIETTILE PU\u00d2 CAMBIARE LA STORIA",
         "description": "**La Digital Deluxe Edition di Sniper Elite 4 include il gioco intero e il Season Pass a un prezzo vantaggioso!**\nSniper Elite 4 trasporta le sue acclamate dinamiche di gioco nei meravigliosi paesaggi dell'Italia del 1943, tra assolate cittadine costiere, vertiginosi monasteri di montagna e altro ancora.\nSniper Elite 4 unisce una balistica unica, azione stealth mozzafiato ed emozionanti dinamiche di gioco in terza persona. Goditi un'impareggiabile libert\u00e0 di gioco in una quantit\u00e0 di livelli molte volte superiore a quella di Sniper Elite 3. Sfrutta il contesto, scegli la tua tattica, manipola il campo di battaglia e dai la caccia ai nemici.   \nNei panni dell'agente in incognito Karl Fairburne, combatti al fianco della resistenza e libera il Paese dal fascismo. Affronta una nuova minaccia che potrebbe frenare il contrattacco alleato in Europa. \nCon un'esplosiva campagna a 1-2 giocatori e modalit\u00e0 co-op e multigiocatore dedicate, Sniper Elite 4 \u00e8 il miglior shooter della sua generazione.",
         "languages": null,
-        "size": 7790919680
+        "size": 7800356864
     },
     "70070000011239": {
         "id": null,
@@ -56569,6 +56690,34 @@
         "description": "Dai creatori di Rock Band\u2122 e Dance Central\u2122, \u00e8 in arrivo FUSER\u2122, un festival musicale virtuale ininterrotto in cui sei tu a controllare la musica! Combina gli elementi dei brani pi\u00f9 popolari del mondo per creare un sound tutto tuo o collabora con gli amici, poi condividi i tuoi mix incredibili e i tuoi epici show col resto del mondo!\n\nL'edizione VIP (digitale) include:\n\n- FUSER (gioco)\n- 25 brani scaricabili aggiuntivi per il lancio\n- Outfit \"Festival FUSER\" per il tuo avatar\n- Casco \"Gilded Rabbit\" per il tuo avatar\n- Outfit \"Remix Runner\" per il tuo avatar\n- Pacchetto video \"Palco Shatterfall\"\n\nFUSER Features:\n\n- Attingi da una raccolta di oltre 100 canzoni che include tracce dei pi\u00f9 grandi artisti del mondo\n- Completa sfide per sbloccare nuove abilit\u00e0 e contenuti in modalit\u00e0 Campagna\n- Esplora, scopri e crea mix incredibili ed effetti personalizzati in modalit\u00e0 Freestyle\n- Collabora o competi con giocatori di tutto il mondo in modalit\u00e0 Multigiocatore\n- Opzioni di personalizzazione per adattare il look del gioco al tuo stile personale\n- Condividi i tuoi mix migliori e i tuoi show pi\u00f9 indimenticabili all'interno del gioco e online",
         "languages": null,
         "size": 6447693824
+    },
+    "70070000011304": {
+        "id": null,
+        "rightsId": null,
+        "name": "FUSER\u2122 Launch Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201110,
+        "nsuId": 70070000011304,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/11c9f0532524cb4768534fa4c25ff56adc8709ac43921a2d428e974455f3eb90.jpg",
+        "intro": null,
+        "description": "Amplia la tua raccolta di brani di FUSER\u2122 con 25 canzoni. Dai un tocco tutto nuovo ai tuoi mix con queste tracce aggiuntive, disponibili subito in-game. Richiede il gioco base di FUSER\u2122. Per l'elenco di brani, visita www.fuser.com.",
+        "languages": null,
+        "size": 238026752
     },
     "70070000011327": {
         "id": null,
