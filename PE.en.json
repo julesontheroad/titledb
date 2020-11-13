@@ -2949,7 +2949,7 @@
             "zh",
             "zh"
         ],
-        "size": 15784214528
+        "size": 15962472448
     },
     "70010000012332": {
         "id": "01006A800016E000",
@@ -7614,7 +7614,7 @@
         "size": 2506096640
     },
     "70010000035838": {
-        "id": null,
+        "id": "0100A12011CC8000",
         "rightsId": null,
         "name": "Fire Emblem\u2122: Shadow Dragon & the Blade of Light",
         "version": null,
@@ -7636,7 +7636,7 @@
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
-        "iconUrl": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/44e32cb65ff834419b86eb58ba376ec4c2a9ab7012df66fcd72590a575450b0b.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/4d93050d13eae32e407d6b33b110d272a6a37355c9eaa5e46ad80f5881dffc95.jpg",
             "https://img-eshop.cdn.nintendo.net/i/f646ec8f6c7d7a9a87fdb467826c989f962bb9eea7727275c671e81697b9b0c3.jpg",
@@ -7652,7 +7652,7 @@
             "ja",
             "en"
         ],
-        "size": 0
+        "size": 27262976
     },
     "70010000036178": {
         "id": "01006B5012B32000",

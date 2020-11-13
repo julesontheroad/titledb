@@ -3045,7 +3045,7 @@
             "it",
             "ru"
         ],
-        "size": 4427087872
+        "size": 4622123008
     },
     "70010000017099": {
         "id": "010065000D25C000",
@@ -6948,7 +6948,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/24f76207a8f65ceef074073f101d9d51834a0e0c5a1e350be9375d7e308ff4da.jpg",
         "intro": null,
-        "description": "Turn your Nintendo Switch into mini guitar Guitar and learn to play anywhere, anytime.\n\nGuitar is a simple and fun game for kids and adults of all age, that will let you learn and play your favourite songs with the touch screen and Joy-Con\u2122 controllers.\n\nChoose from one of the three modes of play, novice, learn or compose. You will be surprised how easy it is to play something that sounds so amazing so quick.\n\nAs bonus Guitar also comes with an acoustic, classic and electric guitar so you can amaze your family and friends with your new learnt musical talent.\n\nGuitar is the fun way for anyone to start learning to play the guitar and improve ones hand eye co-ordination.",
+        "description": "Turn your Nintendo Switch\u2122 into mini guitar Guitar and learn to play anywhere, anytime.\n\nGuitar is a simple and fun game for kids and adults of all age, that will let you learn and play your favourite songs with the touch screen and Joy-Con\u2122 controllers.\n\nChoose from one of the three modes of play, novice, learn or compose. You will be surprised how easy it is to play something that sounds so amazing so quick.\n\nAs bonus Guitar also comes with an acoustic, classic and electric guitar so you can amaze your family and friends with your new learnt musical talent.\n\nGuitar is the fun way for anyone to start learning to play the guitar and improve ones hand eye co-ordination.",
         "languages": [
             "en"
         ],
@@ -14013,7 +14013,7 @@
             "zh",
             "zh"
         ],
-        "size": 5030019072
+        "size": 5049942016
     },
     "70010000027885": {
         "id": "0100768010970000",
@@ -16667,14 +16667,14 @@
         "size": 252706816
     },
     "70010000028833": {
-        "id": null,
+        "id": "010014A0115BE000",
         "rightsId": null,
         "name": "Cake Bash",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 2020,
+        "releaseDate": 20201119,
         "nsuId": 70010000028833,
         "category": [
             "Party",
@@ -16690,7 +16690,7 @@
         "developer": null,
         "publisher": "Coatsink Software",
         "frontBoxArt": null,
-        "iconUrl": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1841027130bd4294e00a15f9f72b0fd7acba05510401b1a5fd2730be62c8d447.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/2c3161f55a690b5c17fbc6ac203757807c958169e3001e9e60b418fa0d6da59f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/7cf85c12ee6c6c171d020261eabd8e798fd0f8ccbb74343b72f056f60427ce07.jpg",
@@ -16714,7 +16714,7 @@
             "ko",
             "zh"
         ],
-        "size": 0
+        "size": 1032847360
     },
     "70010000028836": {
         "id": "0100F03011616000",
@@ -18497,8 +18497,8 @@
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2f61327bd19cff4806fb996060160c41cc628a39656546d9cc09c591ef37794c.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/c0c91d2eb796b647ad4ba32855f4df36601c790d60972dffe2fdde36a3eb68f4.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/83f0ec007764e3c531354a28cdeb7f3e2045282b7c9541db3bf33580ff6e9dfd.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/81ca618d27b67c5ca59928a37577a61f490b44ea8188bb31196a5dab41911ccb.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/4b05c1a5667f9e3f0aaa33a0ee0d7739f9cf359453b00bfa39758ab24ad1896e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70f3e0cd79a61984327e9680a41ff0f849633d7da46e9a9e9f72690866b2dfa7.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/db1a656b6d00996f978483999ddd9221aa6c5680d6cfae60ccf9566d4e444a5d.jpg",
         "intro": "Reignite the pursuit\n",
@@ -19245,6 +19245,51 @@
             "zh"
         ],
         "size": 269484032
+    },
+    "70010000029620": {
+        "id": "010061F0119FA000",
+        "rightsId": null,
+        "name": "Let's Sing 2021",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70010000029620,
+        "category": [
+            "Music",
+            "Party"
+        ],
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Koch Media",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6d922f71e0e2f8ae6742a84bcad2ac26e19a19e566b98b333eff74c5788c0884.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2a76ccb32a544f70ea7b73455e656d27eb3010c537217d08245fafcd6d5557bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/33eeeb3fb9f733ad932524faf5c90f8d81fba49cbdad09ec9ba3147d506ef24b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3f8133ca8903aa0b4856aa7c3475745c2c9d5f9b8d869aeb7ddd7f6a55858b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9380dc428a5ca78dcc4f8f13b25559e78b177b52d8b282a3fceca0736112fdfb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ef965d463cff774d0b2afe1256b34db97a75d9a7dd65ad8ae5a14877290267f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0e37de339715feefde6363ff49aeb8cd426c58af7d3ad327f40839c77bdc9859.jpg",
+        "intro": "SING YOUR HEART OUT",
+        "description": "Let the music take control and become the star of your party or sing your heart out solo! The next chapter of the Let\u2019s Sing series offers hits right off the Billboard charts as well as classic hits such as:\n\nBillie Eilish with \u201cBad Guy\u201d, TONES AND I with \u201cDance Monkey\u201d, Jonas Brothers with \u201cSucker\u201d, Panic! at the Disco with \u201cHigh Hopes\u201d or Genesis with \u201cI Can\u2019t Dance\u201d or Seal with \u201cKiss From A Rose\u201d\n\nWhether you're training your voice on your own or hosting the next karaoke party for friends and family \u2013 fun is guaranteed with Let\u2019s Sing 2021. \n- 30 international hits and original music videos\n- Sing solo or with up to eight players\n- New mini game in Let\u2019s Party called \u201cPop Chicken\u201d.\n- The new Legend game mode with 16 challengers, 3 basic challenges and a final battle against each antagonist . \n- Climb the online leaderboard and battle it out against people around the world!\n- No Microphone No Problem! Use your phone as microphone with the Let's Sing app!\n- More song packs online",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 3758096384
     },
     "70010000029628": {
         "id": "010042C011476000",
@@ -20523,6 +20568,54 @@
             "it"
         ],
         "size": 3051356160
+    },
+    "70010000030012": {
+        "id": "0100BF9011B52000",
+        "rightsId": null,
+        "name": "Just Dance\u00ae 2021",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201112,
+        "nsuId": 70010000030012,
+        "category": [
+            "Party"
+        ],
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "numberOfPlayers": 6,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/92d331673b8fe8163e9fa7aa4fbaba1d4aa2aa3dc8ca353210fcd4848b8fe761.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d2e983df8f4679ede635e9b4252b71b87db1e9edf5bb79d4335ef51a8324edd7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e189247871b3b4463c1cd77bcc092a82276036ff97a4a39439e44b3ce46c6f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dec6ee6601acb09aec6c50474eb124bcf601a6178f18521b8fb779ed71faa8db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d2eee334d92947a000fef557b32b3917e39bf57c0aa9be74a3351d4dd704068b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bfe4ffe8c1578de2dacc206ad4e1a41ce29923cba3a829d27fb7325cd1a7e947.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2ff943e633d7296905c8097da8487c8a35a9290e096b0b0bce48ce235f0fae6e.jpg",
+        "intro": null,
+        "description": "Just Dance\u00ae 2021 is the ultimate dance game, with 40 hot new tracks from chart-topping hits like \u201cDon't Start Now\u201d by Dua Lipa, \u201cFeel Special\u201d by TWICE, and \u201cSe\u00f1orita\u201d by Shawn Mendes & Camila Cabello. Start a dance party your friends and family can enjoy!\n\n- Just Dance Unlimited subscription streaming service lets you dance to over 550 songs! One month FREE included with the game. \n- Play Sweat Mode, exercise while having fun and track the calories burnt!\n- Play with friends and share the fun with the co-op mode!\n- Enjoy eight new kid-friendly tracks for a family-fun experience.\n- Use your Joycons to track your best moves - no additional accessories required! Up to six players can join!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 7402946560
     },
     "70010000030016": {
         "id": "0100681011B56000",
@@ -26353,9 +26446,12 @@
         "languages": [
             "en",
             "es",
+            "pt",
             "fr",
             "de",
-            "it"
+            "it",
+            "nl",
+            "ru"
         ],
         "size": 3951034368
     },
@@ -27106,12 +27202,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1a220e1559ee79ef8d2a3c2ef5460da103a401280aabee3ffb19f8dcc5b4f576.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/65122377d4c927b6d0322877ba8d68fdc5102f4702795d4ec1557c3b5b0576c3.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/9a6fe590bd115cc47ef5147731e6f72bb4b99fde2d2f72bfc1deb638401319c1.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/18e1b296613cd47e3bb09829a5287924dd471a3b8cb384b8618de42887cec956.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/1809ff29c5bac1fa3903dcc371a8dea405e69b18f327c36b5a22ac90142a8369.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/3997259b2f5a8ad07fd3e249c040fc217073943d1cdffc9c037ca9ca20dda12e.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2a51b7e264f6400f96a93131c0dbdcd4a87ae231a143f687a90f961646d2c6f5.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/e3933f7dd74f22a8133345db3a73b791a56a1cb0848fa90c26d9d5beca064371.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2f006bdc9dd8e766adc43c17e63a5157f693866e065fa4605c50eed441300e7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0202c463d037fa0dd476415c31aee2235c0475671dcbe157203644f339b960aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ade25059c181b4e8d6c45b9c690c446042ce5c3d6d91cd3b700b3a8a98ae69e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/970396c75b68aef0f3d2bae3c960a7de06f4c1fef7dbc8075bf73ec0e445bad4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1dc05118372c026d12915afc9ee1d375fb62b5d50e6bc8a50f3b938721dad806.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e7adb8fd6b837cec4478feae3a84ab735ce1ca6c5f3ce3ce7fd2b185f0f4664a.jpg",
         "intro": null,
@@ -28105,7 +28201,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d0e4e3da8dc2a212984ffc6da66542cc9fd8df2b61fe903935ef31f53f307a9a.jpg",
         "intro": "Space Elite Force II is a space-shooting game for up to 2 players in local cooperative mode.",
-        "description": "With a wide variety of weapons, enemies and improvements to your ship, it presents all the intensity, depth and beautiful handcrafted pixels of a classic space-shooting game. Have fun in insane battles, facing epic bosses and unlocking a wide variety of achievements in one of three game modes, alone or with a friend in local cooperative mode.\n\nGame Details:\n - Fast and intense phases.\n - Insane battles against epic bosses\n - Unlock 68 achievements.\n - Play with a friend in local cooperative mode! (Requires at least one joystick)\n - Beautiful visuals made with handmade pixels.\n - Total Full compatibility with controls.\n - Online ranking for each game mode.\n - Available in 2 languages (English, Portuguese)\n\nGame modes:\n - Normal Mode: classic game experience, immerse yourself in the immersive story of Space Elite Force II and try to recover the data stolen by the merciless and hostile Klyvu race\n - Arcade Mode: A frantic and fun mode for those who want fast and intense matches, survive as long as you can with your chosen weapons at the start.\n - Boss Rush Mode: Try to defeat all the bosses, one by one, and get the best score in the ranking ... this will not be easy!",
+        "description": "With a wide variety of weapons, enemies and improvements to your ship, it presents all the intensity, depth and beautiful handcrafted pixels of a classic space-shooting game. Have fun in insane battles, facing epic bosses and unlocking a wide variety of achievements in one of three game modes, alone or with a friend in local cooperative mode.\n\nGame Details:\n - Fast and intense phases.\n - Insane battles against epic bosses\n - Play with a friend in a local cooperative mode! (Requires at least one joystick)\n - Beautiful visuals made with handmade pixels.\n - Total Full compatibility with controls.\n - Online ranking for each game mode.\n - Available in 2 languages (English, Portuguese)\n\nGame modes:\n - Normal Mode: classic game experience, immerse yourself in the immersive story of Space Elite Force II and try to recover the data stolen by the merciless and hostile Klyvu race\n - Arcade Mode: A frantic and fun mode for those who want fast and intense matches, survive as long as you can with your chosen weapons at the start.\n - Boss Rush Mode: Try to defeat all the bosses, one by one, and get the best score in the ranking ... this will not be easy!",
         "languages": [
             "en",
             "pt"
@@ -33372,9 +33468,11 @@
         "category": [
             "Fighting"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "SNK",
         "frontBoxArt": null,
@@ -33394,7 +33492,7 @@
             "ja",
             "en"
         ],
-        "size": 136314880
+        "size": 155189248
     },
     "70010000033045": {
         "id": "010045C011DF6000",
@@ -33484,6 +33582,58 @@
             "en"
         ],
         "size": 3347054592
+    },
+    "70010000033052": {
+        "id": "010068F00F444000",
+        "rightsId": null,
+        "name": "Brawl Chess",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70010000033052,
+        "category": [
+            "Strategy",
+            "Board Game",
+            "Education",
+            "Party"
+        ],
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "RedDeerGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fc3b07740621039d46e01ae151405abcfc1683a8a5e76867b88d3381c43c79e6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/72be25bba27cc6dab81cb48647788517d3c6d2afacd9eca102f1df2677c48b92.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/81825a464e63219771c9a7fb0fc45c40fd7383689146f0567ac444b0d13f2eac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77c903c62b0125bb414f15c8eab0a07406eecccf0f390c81f5fc0034c3333bcd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9abeb8bb91c1de04add07fd686e2b90736c1412b2a3f4c38e440816608d7f849.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9c6a2d2364d61eeed9e3d036d17592fd67ec864aaf2dc28c3568fb35993d894.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1fbfcaeca377bffa701e6427bb43ca7a0d68261a06f27b56b94c9d004cbc760d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/97a880641c43ea68f93c19f6dd0ece2b9bc2a532ab90604c8903c03fb6670cb7.jpg",
+        "intro": "Compete with family and friends in the most epic chess game ever made",
+        "description": "Are you ready to become a champion? Choose your hero and challenge other players in this family-friendly game with a lively cartoon style. Train your brain and bond with your loved ones at the same time. \n\nIn this fantasy world, one of brave heroes leads your chess army to victory. \n\nCartoon visuals make the game accessible to everyone. What\u2019s going on there! Arrows fly above heads and swords break in the heat of battle. Or maybe you prefer classic chess? You can always change your pieces to traditional ones.\n\nBrawl Chess connects generations in a multiplayer, but a single player will also appeal to players of all ages. There are 5 levels of difficulty. The first is great for children to learn. The fifth is suited for chess veterans who are looking for a serious challenge.\n\nKey features:\n\nLOCAL MULTIPLAYER. Your family will absolutely love this version of chess. Do you fancy a happy competition between parents and children? It is possible. Invite grandparents too, they certainly know the rules.\n\nKIDS-FRIENDLY. It's a game for the whole family, easy to learn and cheerful. Play it regardless of age. Thanks to the vibrant cartoon style, children will also join the fun.\n\nBRAIN TRAINING. But in a fun way! Brawl Chess looks modern while still being one of the oldest and most popular games in the world with all its advantages. It increases IQ, improves arithmetic skills, teaches analytical and critical thinking. Train to use both hemispheres of your brain.\n\nCREATIVITY BOOST. The fun doesn't have to end after turning off the console. When the father plays as a ghost, and the son plays as a prince, they can perform scenes with these characters after the chess game ends.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 390070272
     },
     "70010000033059": {
         "id": "0100451012918000",
@@ -38680,7 +38830,7 @@
         "languages": [
             "en"
         ],
-        "size": 81788928
+        "size": 122683392
     },
     "70010000034521": {
         "id": "010014B0130F2000",
@@ -39553,7 +39703,7 @@
             "zh",
             "zh"
         ],
-        "size": 134217728
+        "size": 224395264
     },
     "70010000034781": {
         "id": "0100B53013236000",
@@ -39769,9 +39919,11 @@
             "Fighting",
             "Platformer"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Jesper Erlandsen",
         "frontBoxArt": null,
@@ -40124,7 +40276,7 @@
         "languages": [
             "en"
         ],
-        "size": 273678336
+        "size": 373293056
     },
     "70010000034904": {
         "id": "01000D60132D0000",
@@ -40184,11 +40336,11 @@
             "Puzzle"
         ],
         "ratingContent": [
-            "Fear",
-            "Users Interact"
+            "Horror",
+            "Mild Swearing"
         ],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 12,
         "developer": null,
         "publisher": "OOO Valnat",
         "frontBoxArt": null,
@@ -40215,7 +40367,7 @@
             "ko",
             "zh"
         ],
-        "size": 6808403968
+        "size": 6889144320
     },
     "70010000034925": {
         "id": "0100E9D00D6C2000",
@@ -40258,6 +40410,52 @@
             "en"
         ],
         "size": 1188036608
+    },
+    "70010000034931": {
+        "id": "01002490132F2000",
+        "rightsId": null,
+        "name": "The Casino -Roulette, Video Poker, Slot Machines, Craps, Baccarat-",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70010000034931,
+        "category": [
+            "Board Game",
+            "Party",
+            "Training",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Simulated Gambling"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "D3 Publisher",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0fcdbab973760803a78327604ad774ad648c1bb21e48afbb7cb164e7e40514ef.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a729b9430385592513046e369d5b7ebdc4319088efbfcb60e7b26989c17103ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee66dc7347179fb9de5706b2b1a609148af3ad20ff60288398826fea48035f85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46d57062de5ec8864dea72caad4ed0d4191477e5d2d8e5980eb1f6e1e4103166.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/48bfdd4542ab133e75c53e85e6d0d5cac496e9033e907d007dbfda3ee2fbdb5e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4af1342df2e5a1de93feaa1f2162361a1590d93ebcccc6ffcc4fc3552def97d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d2b9a9ee60f302d3312c8ffedd26cd8e6f2e6b0eaa762b490a6c65546144b4e8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/712167ecc0a8b8f3400f3418b7c57e5e5c3336b904f2f1c266038834425e5ba5.jpg",
+        "intro": "Enjoy six standard casino games!",
+        "description": "Play Roulette, Video Poker, Slot Machines, Craps, and Baccarat all in one collection!\nExperience the thrill of earning coins at an affordable price!\n\n\u30fbBuilt-in ranking system! You can compete against users around the country to see who wins the most coins in one game.\n\u30fbThe more coins you get, the bigger and more thrilling the bets you can make!\n\u30fbBuilt-in achievements! Play the game and collect backgrounds and card designs.\n\u30fbYou can customize games, backgrounds, and card designs. Enjoy the casino how you like it!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "zh",
+            "zh"
+        ],
+        "size": 1161822208
     },
     "70010000034940": {
         "id": "01003C3013300000",
@@ -40842,6 +41040,48 @@
             "en"
         ],
         "size": 195035136
+    },
+    "70010000035238": {
+        "id": "01005300128E2000",
+        "rightsId": null,
+        "name": "Karma Knight",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70010000035238,
+        "category": [
+            "Action"
+        ],
+        "ratingContent": [
+            "Moderate Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "UltramarineSoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2dbb49715aadbd6570a30ae6f2f04413a990e27d4f121546f599a94e1706d159.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6fd55930018f5b7a13a1652719bd222846ab59915bd4d2250cd2ec98dfe8353b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7c842f04bbcceb6464226b832a3d38a0f59e4fa37f18403f18bd79d2c8ed086a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb1499fe6043383f88a7c713c065cc14249ea374f3f59b56e16b76a845acdcf5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e6ccc6ca7b1dba6fac4cbcfc0a779847094a970bc68729dd7c21ea23942f338c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/84f70c7dbdaf72d38d0d97e9ebd4628529fa8c11e5805c10d89572b9083974b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d58b5855298a1a2487b8bc83c7c174acc0cf19531cecf4bf04ddb0c1baa5c6b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/210f7eee886f3bcd7eeecfab8548ca0cbf99ab4e49a3979b4dc5f611c79cda10.jpg",
+        "intro": null,
+        "description": "Karma Knight is a fast paced 2D side-scrolling platform action game with stylish combat. \nFind hidden items in the stages, collect different spells, defeat the enemies as you gain more experience and enjoy the overall platform action game style.",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1310720000
     },
     "70010000035271": {
         "id": "0100C850134A0000",
@@ -42884,7 +43124,7 @@
         "description": null,
         "languages": null,
         "size": 1038090240,
-        "parentId": null
+        "parentId": "010014A0115BE000"
     },
     "70030000012231": {
         "id": null,
@@ -43275,6 +43515,34 @@
         "languages": null,
         "size": 1196425216,
         "parentId": "0100227010460000"
+    },
+    "70030000012501": {
+        "id": null,
+        "rightsId": null,
+        "name": "Just Dance\u00ae 2021: Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012501,
+        "category": null,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1493172224,
+        "parentId": "0100BF9011B52000"
     },
     "70030000012507": {
         "id": null,
@@ -60354,6 +60622,56 @@
         "languages": null,
         "size": 0
     },
+    "70050000023413": {
+        "id": null,
+        "rightsId": null,
+        "name": "Taiko no Tatsujin: Drum 'n' Fun! \"VOCALOID\u2122 Music Pack Vol. 6 \"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201112,
+        "nsuId": 70050000023413,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2788c22c7acf4003175723bece31c1d38b753f60abf0f9722b035976c133e2aa.jpg",
+        "intro": null,
+        "description": "Get access to this additional content:\n\n- Violence Trigger\n-  Tell Your World\n- BLACK\u2605ROCKSHOOTER\n- NINJIN NIN\n- HANA OTO URABYOUSHI",
+        "languages": null,
+        "size": 20971520
+    },
+    "70050000023414": {
+        "id": null,
+        "rightsId": null,
+        "name": "Taiko no Tatsujin: Drum 'n' Fun! \"Donder Pack -Juvenile-\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201112,
+        "nsuId": 70050000023414,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/30edc9400ffe17a7b4a10395795824b665d5d1abe1395438eb09230a817f5317.jpg",
+        "intro": null,
+        "description": "Get access to this additional content:\n\n- CYBERgenicALICE\n- Cross Blue\n- TSUKIKAGE SASURAI\n- BE THE ACE\n- \u222b-integral-",
+        "languages": null,
+        "size": 20971520
+    },
     "70050000023415": {
         "id": null,
         "rightsId": null,
@@ -61188,6 +61506,35 @@
         "description": "Skills no longer consume MP in battles.\nSettings can be changed in the Option section of the menu.",
         "languages": null,
         "size": 4194304
+    },
+    "70050000023587": {
+        "id": "010061F0119FB001",
+        "rightsId": null,
+        "name": "Party Classics Vol. 1  Song Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70050000023587,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Koch Media",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/50cd9a981dd32dbf483649d1a107aab46ff772cf56d3bd54d6376f9ec57430dc.jpg",
+        "intro": null,
+        "description": "Expand your track list with the Party Classics Vol. 1 Song Pack! Includes hit songs:\n\u2022 Diana Ross \"Upside Down\"\n\u2022 Madness \"Our House\"\n\u2022 UB40 \"(I Can't Help) Falling In Love With You\"\n\u2022 The Cranberries \"Zombie\"\n\u2022 Queen \"Crazy Little Thing Called Love\"\n",
+        "languages": null,
+        "size": 0
     },
     "70050000023592": {
         "id": "0100E9D00D6C3001",
@@ -62528,6 +62875,330 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/45551b66bb0b09078f518fcf0d658866646098a4e644e4d56c17afe18aa6b40a.jpg",
         "intro": null,
         "description": "Spice up your FUSER\u2122 outfit with this Look Pack which contains: 80s Bandana, T-Shirt, Strap Pants, Sneakers. Requires FUSER\u2122 base game to play.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023948": {
+        "id": "010061F0119FB009",
+        "rightsId": null,
+        "name": "Country Hits Song Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70050000023948,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Koch Media",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2e2861da6fb8db40f21f082b360a965695abc1a7781767be3b6191090e10b20b.jpg",
+        "intro": null,
+        "description": "Expand your track list with the Country Hits Song Pack! Includes hit songs:\n\n\u2022 The Dead South \"In Hell I\u2019ll Be in Good Company\"\n\u2022 Canaan Smith \"Love You Like That\"\n\u2022 Vince Gill \"When I Call Your Name\"\n\u2022 Lee Brice \"I Drive Your Truck\"\n\u2022 Lee Ann Womack \"I Hope you Dance\"",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023949": {
+        "id": "010061F0119FB007",
+        "rightsId": null,
+        "name": "Best of 80's Vol. 2 Song Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70050000023949,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Koch Media",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cbadfb4383b31971b7f0eac8c8700c7c978d4526c8c5d71b0a66ce01a3fc6efc.jpg",
+        "intro": null,
+        "description": "Expand your track list with the Best of 80's Vol. 2 Song Pack! Includes hit songs:\n\u2022 Wham! \"Wake Me Up Before You Go-Go\"\n\u2022 Communards \"Don't Leave Me This Way\"\n\u2022 Roxette \"It Must Have Been Love\"\n\u2022 Bonnie Tyler \"Total Eclipse Of The Heart\"\n\u2022 Kim Wilde \"Kids In America\"\n",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023950": {
+        "id": "010061F0119FB003",
+        "rightsId": null,
+        "name": "Chart Hits Song Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70050000023950,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Koch Media",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/43c269113668c81cae69e0782aed983e8440ee60fafd72376ce483da794584f0.jpg",
+        "intro": null,
+        "description": "Expand your track list with the Chart Hits Song Pack! Includes hit songs:\n\u2022 Clean Bandit \u201cTears\u201d\n\u2022 Lost Frequencies feat. Janieck Devy \u201cReality\u201d\n\u2022 Sigala \u201cSweet Lovin\u201d\n\u2022 Galantis \u201cNo Money\u201d\n\u2022 Jonas Blue/ JP Cooper \u201cPerfect Strangers\u201d\n\n",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023951": {
+        "id": "010061F0119FB006",
+        "rightsId": null,
+        "name": "Best of 90's Vol. 1 Song Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70050000023951,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Koch Media",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eca44286e276ebc176fd86b9701f5458e908c8b162f53427e60affff6eee2435.jpg",
+        "intro": null,
+        "description": "Expand your track list with the Best of 90's Vol. 1 Song Pack! Includes hit songs:\n\u2022 The Cure \"Friday I'm In Love\"\n\u2022 Sinead O'Connor \"Nothing Compares 2 U\"\n\u2022 All Saints \"Never Ever\"\n\u2022 Aqua \"Barbie Girl\"\n\u2022 Alanis Morissette \"Ironic\"\n",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023952": {
+        "id": "010061F0119FB002",
+        "rightsId": null,
+        "name": "Best of 80's Vol. 1 Song Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70050000023952,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Koch Media",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c88e8acaf23ff2c9f8852faa4cd4ab762be35ae201b36401ed0f9226c5a093aa.jpg",
+        "intro": null,
+        "description": "Expand your track list with the Best of 80's Vol.1 Song Pack! Includes hit songs:\n\u2022 Tears for Fears \"Everybody Wants To Rule The World\"\n\u2022 Dexy's Midnight Runners \"Come On Eileen\"\n\u2022 Lionel Richie \"All Night Long\"\n\u2022 Soft Cell \"Tainted Love\"\n\u2022 Elton John \"Sacrifice\"\n",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023953": {
+        "id": "010061F0119FB004",
+        "rightsId": null,
+        "name": "Party Classics Vol. 2 Song Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70050000023953,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Koch Media",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7ded49bdc9e969b09f8c9620939e32c819131cfbd5fbb81a253032d7e9287cf3.jpg",
+        "intro": null,
+        "description": "Expand your track list with the Party Classics Vol. 2 Song Pack! Includes hit songs:\n\u2022 A-Ha \"Take On Me\"\n\u2022 Tears for Fears \"Mad World\"\n\u2022 Blondie \"Heart of Glass\"\n\u2022 New Order \"Blue Monday\"\n\u2022 Queen \"We will Rock You\" \n",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023954": {
+        "id": "010061F0119FB005",
+        "rightsId": null,
+        "name": "Legendary Hits Song Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70050000023954,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Koch Media",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8fd33256a80b2da2d3c8ad9271ee05dc1428fd1e1fc870253659ff67cc3262ac.jpg",
+        "intro": null,
+        "description": "Expand your track list with the Legendary Hits Song Pack! Includes hit songs:\n\u2022 Gloria Gaynor \"I Will Survive\"\n\u2022 Vanessa Carlton \"A Thousand Miles\"\n\u2022 The Cure \"Boys Don't Cry\"\n\u2022 Lilly Allen \"The Fear\"\n\u2022 Lady Gaga \"Bad Romance\"\n",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023955": {
+        "id": "010061F0119FB008",
+        "rightsId": null,
+        "name": "Best of 90's Vol. 2 Song Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70050000023955,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Koch Media",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6d7a5706a738d08d5f79ccf094ba78c270a06081b3178dcd60dec3eade084517.jpg",
+        "intro": null,
+        "description": "Expand your track list with more songs from the 90's!  Includes hit songs:\n\u2022 Corona \"Rhythm of the Night\"\n\u2022 Rednex \"Cotton Eye Joe\"\n\u2022 Technotronic \"Pump Up The Jam\"\n\u2022 The Cardigans \"Lovefool\"\n\u2022 Gala \"Freed from Desire\"",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023956": {
+        "id": "010061F0119FB00A",
+        "rightsId": null,
+        "name": "Best of 80's Vol. 3 Song Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70050000023956,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Koch Media",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/54231dac1e968ea2360aa893bd4b930dd45de478d92300c172717294f47ef4c2.jpg",
+        "intro": null,
+        "description": "Expand your track list with more songs from the 80's! Includes hit songs:\n\u2022 Spandau Ballet \"Gold\"\n\u2022 Yazz \"The Only Way Is Up\"\n\u2022 Bros \"When Will I Be Famous\"\n\u2022 Culture Club \"Do You Really Want To Hurt Me\"\n\u2022 Blondie \"The Tide Is High\"",
+        "languages": null,
+        "size": 0
+    },
+    "70050000023957": {
+        "id": "010061F0119FB00B",
+        "rightsId": null,
+        "name": "Classic Rock Song Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70050000023957,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Koch Media",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b8c036433b33cb77f76202e4e343203e3ee9f25e57506a0ed5efaa5ca8456997.jpg",
+        "intro": null,
+        "description": "Expand your track list with the Classic Rock Song Pack! Includes hit songs:\n\u2022 Billy Idol \"White Wedding\"\n\u2022 Cutting Crew \"I Just Died in Your Arms\"\n\u2022 The Knack \"My Sharona\"\n\u2022 The Rasmus \"In the Shadows\"\n\u2022 The Clash \"I fought the Law\"\n",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024101": {
+        "id": "01002F0011DD5007",
+        "rightsId": null,
+        "name": "Gurren Lagann",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201112,
+        "nsuId": 70050000024101,
+        "category": null,
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Lightning Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a44a3d29eda34f35ebb8ce062926b064a577d7a67659030e74f6c3d4a764d85d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b926f671d7a9af6a161fed3b4f0b926a5f7139a7efcca1775af4d675f17c669b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1664dd77dcec42825050a9fc5e9dec97017ed8911b2989d59122401f330f44d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/deeeb1297624b6df594c9bf1b9c44ed61378234ca744854f50d972ac11a1c91e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0eb7e48e5607f06280389bfebdd9849e3e3c84b285d91aac5c3c948b912e86f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1d4eae569d6271922c491f163e14d1a5a75d8c83c35b34fbe504b59b31877e22.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/39f44932d72b35a75a1fa6e91e5e2776dd8f4c8a777bfaea4a95ec15f24436d4.jpg",
+        "intro": "Your drill is the drill that will pierce the heavens!",
+        "description": "This DLC contains Gurren-Lagann, Lagann and pilot Simon. The DLC supports Local & Online Multiplayer Mode, Training Mode and Single-player Simulation Mode.\n*To unlock Simulation Mode by completing Campaign Mode.\n\n\u3010Mecha\u3011\nThe mian mecha of Team Gurren. It is a Gunmen with high explosive power, which can construct all sorts of unique weapons using its Spiral Power.\n\nPrimary Weapon - Gurren Boomerang\nThrows a pair of sunglasses from its chest.\n\nSecondary Weapon - Giga Drill Break\nGurren Lagann's ultimate attack creating a gigantic drill with explosive power.\n\nLight Melee - Skull Break\nAttacks x4 combo attack, but can only be used on the ground.\n\nLight Melee - Fire Cart Kick\nKicks towards the ground, but can only be used midair.\n\nHeavy Melee - Full Drillized\nDrills burst out from its body, attacking surrounding enemies.\n\nLight Melee(Lagann) - Tackle\n\nSecondary Weapon(Lagann) - Lagann Impact\n\n\u3010Pilot\u3011\nA boy called \"Digging Simon\". He found a small drill while digging a hole, and it will change his destiny\u2026",
         "languages": null,
         "size": 4194304
     },
@@ -65390,6 +66061,70 @@
         "description": "Ghostrunner is a hardcore FPP slasher packed with lightning-fast action, set in a grim, cyberpunk megastructure. Climb Dharma Tower, humanity\u2019s last shelter, after a world-ending cataclysm. Make your way up from the bottom to the top, confront the tyrannical Keymaster, and take your revenge.\n\nThe streets of this tower city are full of violence. Mara the Keymaster rules with an iron fist and little regard for human life.\n\nAs resources diminish, the strong prey on the weak and chaos threatens to consume what little order remains. The decisive last stand is coming. A final attempt to set things right before mankind goes over the edge of extinction.\n\nAs the most advanced blade fighter ever created, you\u2019re always outnumbered but never outclassed. Slice your enemies with a monomolecular katana, dodge bullets with your superhuman reflexes, and employ a variety of specialized techniques to\nprevail.\n\nOne-hit one-kill mechanics make combat fast and intense. Use your superior mobility (and frequent checkpoints!) to engage in a never-ending dance with death fearlessly.\n\nGhostrunner offers a unique single-player experience: fast-paced, violent combat, and an original setting that blends science fiction with post-apocalyptic themes. It tells the story of a world that has already ended and its inhabitants who fight to survive.",
         "languages": null,
         "size": 8985247744
+    },
+    "70070000011314": {
+        "id": null,
+        "rightsId": null,
+        "name": "Let's Sing 2021 - Song Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70070000011314,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Koch Media",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/37315b007160eb655afdb74726ed137ab9eb1ac37db9f083f985aac9373a7849.jpg",
+        "intro": null,
+        "description": "Not got enough songs? Want more? The Let\u2019s Sing Song Pass is for you!\nPurchasing the Let's Sing 2021 Song Pass grants you access to all DLC content for less money!\nIncludes hits like:\n\u2022 Knack \"My Sharona\"\n\u2022 A-Ha \"Take On Me\"\n\u2022 Blondie \"Tide is High\"\n\u2022 Venessa Carlton \"A Thousand Miles\"\n\u2022 Tears for Fears \"Everybody Wants To Rule The World\"",
+        "languages": null,
+        "size": 0
+    },
+    "70070000011315": {
+        "id": null,
+        "rightsId": null,
+        "name": "Let's Sing 2021 - Platinum Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70070000011315,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Koch Media",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2a76ccb32a544f70ea7b73455e656d27eb3010c537217d08245fafcd6d5557bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/33eeeb3fb9f733ad932524faf5c90f8d81fba49cbdad09ec9ba3147d506ef24b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3f8133ca8903aa0b4856aa7c3475745c2c9d5f9b8d869aeb7ddd7f6a55858b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9380dc428a5ca78dcc4f8f13b25559e78b177b52d8b282a3fceca0736112fdfb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ef965d463cff774d0b2afe1256b34db97a75d9a7dd65ad8ae5a14877290267f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e42e64553bd50436661c299a3eae7054610973544856ec9638a80ab00d751fb6.jpg",
+        "intro": null,
+        "description": "Grab your microphone for the best singing game experience with Let\u2019s Sing 2021 Platinum Edition! This includes a copy of the Let\u2019s Sing 2021 game and the Let\u2019s Sing 2021 Song Pass which allows you to sing all of the DLC Content!\nBecome the star of your party or sing your heart out solo! Offering hits right off the Billboard charts as well as classic hits like: \nBillie Eilish with \u201cBad Guy\u201d, TONES AND I with \u201cDance Monkey\u201d, Jonas Brothers with \u201cSucker\u201d, Panic! at the Disco with \u201cHigh Hopes\u201d or Ariana Grande with \u201cThank U, Next\u201d. If you are looking for a blast from the past, how about Genesis with \u201cI Can\u2019t Dance\u201d or Seal with \u201cKiss From A Rose\u201d...and many more.\n- 85 international songs\n- Sing solo or with up to four players\n- Eight exciting game modes!\n-New Legend Solo game mode!\n-New mini game in Let\u2019s Party called \u201cPop Chicken\"!\n- Microphone-App: use your phone as microphone",
+        "languages": null,
+        "size": 3758096384
     },
     "70070000011327": {
         "id": null,
