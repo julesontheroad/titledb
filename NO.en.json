@@ -915,7 +915,7 @@
         "languages": [
             "en"
         ],
-        "size": 696254464
+        "size": 743440384
     },
     "70010000008534": {
         "id": null,
@@ -14973,6 +14973,45 @@
         ],
         "size": 624951296
     },
+    "70010000028277": {
+        "id": "0100668010DC2000",
+        "rightsId": null,
+        "name": "Sky Mercenaries Redux",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201126,
+        "nsuId": 70010000028277,
+        "category": [
+            "Shooter",
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "PolarityFlow,",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6f8149608ce016c482ed4e951e5ee609cfab8c13639f0f3d191ea6273981f450.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/64b59ff2b2144752fcd43d339f835ec1a36f5c0caa59d8650816a673ecd7c72f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9caeda0e441836d448a26c2fc4a522f3320534b24682c269e44a16c9f11d8793.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1aefb69bb9f75bc5805d479473f4103dd6ed1065dc079b5dad861a1b95ed1f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0943c962c31ca90fbd2811a4fd8ad0b846aa847dbbac4db9000387c6e6f37bc0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a3e871e3e66ec04922b3619c31dd4fa29ae3b05b9bdba5d15afc916f94217eec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f0fdeb66b13147ebdecc2ad01bf7ec83113fbb814eef1e8283f33fbecdd76d07.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/879d1b19cf331ad9745135c7fbfdbc2a4e2d75f50c0228fad377d29a80b24c13.jpg",
+        "intro": "Fast paced polarity SHMUP reboot with rpg elements, stage editor and unlimited content!",
+        "description": "An epic sky battle awaits you! Sky Mercenaries is back with a overhauled 2020 Nintendo Switch\u2122 exclusive redux edition. Choose your pilot and fighter to join the ultimate 2D polarity S.H.M.U.P action !\n\nFight over 50 enemy types on 8 worlds in over 32 story missions and unlimited random content. Be prepared for the overpowering enemy fleet and challenging bossfights. Upgrade your fighters, drones and pilots the way you like to play them.\n\nGet powerful and permanent visible upgrades, armor and different types of weapons. Level up your pilots and assign skill points in 3 different skill trees to unlock a variety of abilities like auto-shield, critical buffs and more.\n\nJoin the Mercenaries now!",
+        "languages": [
+            "en",
+            "de"
+        ],
+        "size": 170917888
+    },
     "70010000028282": {
         "id": "0100D140112BC000",
         "rightsId": null,
@@ -16320,6 +16359,44 @@
         ],
         "size": 4155506688
     },
+    "70010000028675": {
+        "id": "0100936011556000",
+        "rightsId": null,
+        "name": "Root Double -Before Crime * After Days- Xtend Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201126,
+        "nsuId": 70010000028675,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Strong Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Sekai Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a50975caabff6d852387cbb754899bc3064ea62237eaa6eb7f58e2c39f739c26.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6dffe157c6f88fb5c89bd7014120ab68d2d6160f9a0c4cbb11e1a1d43d708f20.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6be2a9dcd4bbc28e45ab128470b392e8c5bc1cfd977e2faa4146f243d5bc0288.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/50b0b6e9662d9942d9fe4425ff790d3227a0006a44136233fc3c77dc636304f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/53d40094114b5bd918171e404c25739abbd9f6d4df6f453c9e492e1a24189b9a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8c0f2e1b54a86baa178d59e41d0b0d3bc412538aba5df297a8b6b2d3d000f21.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4108ee4fc18706708613f52b356c56160fb3d331227a787d5521b12cdfcaca6a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/194242229ae34eaad09229d2e8ad4fb95b96ec24b1761347a2e8938f1f33285c.jpg",
+        "intro": "When two intentions and two sets of memories overlap... all will be revealed. In the end, is there a route for all nine to escape with their lives?",
+        "description": "The year is 2030. Business is as usual in the isolated research city of Rokumei\u2013that is until several explosions suddenly go off in the nuclear research facility known as \u201cLABO.\u201d The city sends in \u201cSirius,\u201d an elite rescue squad, to deal with the situation. But the situation only gets worse when LABO\u2019s nuclear reactor melts down, \u2013with members of Sirius and survivors still trapped inside. With radiation leaking everywhere and not enough anti-radiation medication to last until lockdown lifts, the survivors make more and more grim discoveries. In their struggle for survival, they learn that doubt is their greatest enemy, and trust their greatest asset.\n\nThe key to survival lies in the player\u2019s hands with the Senses Sympathy System (SSS). Your emotions projected upon the characters, particularly your trust in them, shape the progression of the story. Only with effective use of this system and completion of both protagonists\u2019 stories can the player piece together the truth.",
+        "languages": [
+            "en"
+        ],
+        "size": 8274313216
+    },
     "70010000028696": {
         "id": "010065A01158E000",
         "rightsId": null,
@@ -16714,7 +16791,7 @@
             "ko",
             "zh"
         ],
-        "size": 1032847360
+        "size": 1246756864
     },
     "70010000028836": {
         "id": "0100F03011616000",
@@ -17144,7 +17221,7 @@
         "developer": null,
         "publisher": "Wargaming Group",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9ba7e6ed2c1024b27b0ec797b9cc2d9525978192d2dd4745efb44e7632dc1be4.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c22ce59fcfc487434887c87a9077b4fffa665214ba782781925558bc4fc669a5.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/ac752494784565536afb1446171d35235457ca51369e06c45f64efa424b03fd4.jpg",
             "https://img-eshop.cdn.nintendo.net/i/9250cd789af7951121ca5359ce02a343437ecb612cd71a49641a621745f5c4f5.jpg",
@@ -17169,7 +17246,7 @@
             "zh",
             "zh"
         ],
-        "size": 3203399680
+        "size": 3285188608
     },
     "70010000028920": {
         "id": "010096D0116DE000",
@@ -19290,6 +19367,50 @@
             "it"
         ],
         "size": 3758096384
+    },
+    "70010000029625": {
+        "id": "0100F0C011A0C000",
+        "rightsId": null,
+        "name": "Captain Sabertooth and the Magic Diamond",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70010000029625,
+        "category": [
+            "Platformer",
+            "Adventure",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Zordix",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1eb803fe262e800658cdecfec4be961c83d94aae7b5926743c2c8797365e4baf.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4a20778922eb9c0b3e0ca3aed808e5642f7ae42754c955741dc7ccac6e5936ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e1b59bab2a4ec840e5dc619b6d3b1733c272cf84c7a96e0468083e7dffc97683.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27113e18e2814d36bb881c5cb6d1b961e57463cb689979abacaad052e05112dd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd6bd41fc8fcdef7cf670fd8819f04c2214d8d5215eb5ad7a2144396e57c1d17.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a3490437da8ee0b2949e973306c52fefb7769cc24a969c968c3e946ea0a2561e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15a24457a3b1360faec6c9d05eabba39830339b1e26069a254d87fbcd9b74479.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c1670cce052ca40f8852431bf1cd3bbf2230845a98b21ba92b4274d8474748b6.jpg",
+        "intro": "Embark on an epic quest for treasure in Captain Sabertooth and the Magic Diamond, a pirate platform-adventure game for the whole family!\u00a0",
+        "description": "Play as either Pinky or Sunniva, and join the legendary pirate Captain Sabertooth's crew on the hunt for a mysterious magic diamond.\n\nTraverse a dangerous yet gorgeous world as you sail between islands and explore pirate harbours, exotic beaches and ancient ruins.\n\nSearch for treasure, collect upgrades and new abilities, and fight against the evil Maga Khan and his army!\n\nThis game supports English, Swedish, Norwegian, Danish, S\u00e1mi, Spanish, French, German, Russian, Arabic, simplified Chinese and Japanese.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 2345664512
     },
     "70010000029628": {
         "id": "010042C011476000",
@@ -22972,7 +23093,7 @@
             "de",
             "it"
         ],
-        "size": 836763648
+        "size": 838860800
     },
     "70010000030736": {
         "id": "01002EC011DA6000",
@@ -26151,7 +26272,7 @@
             "ko",
             "zh"
         ],
-        "size": 337641472
+        "size": 336592896
     },
     "70010000031735": {
         "id": "010011B0122CA000",
@@ -27351,6 +27472,48 @@
             "zh"
         ],
         "size": 2444230656
+    },
+    "70010000031943": {
+        "id": "01002330123BC000",
+        "rightsId": null,
+        "name": "GRISAIA PHANTOM TRIGGER 05",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70010000031943,
+        "category": [
+            "Adventure",
+            "Other"
+        ],
+        "ratingContent": [
+            "Extreme Violence",
+            "Strong Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "PROTOTYPE",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e383d67fe69bf2aecddab227e3bffa8d5842f6f86877b6da114ba14b1465a5e2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dbd24029d84c211b953d25a789bf8e664a4cc0dd0dc5f838951cd116e7f24aeb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d08d0d253db560b0734c8a8dca5ff24c3a544e64bd66b33a517e70216d287a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a33e29cccd73b97b7f67e8d0021581586f8db369124c1bc58d1c0138f69b007f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/861bf8b9387f703287c89725f625c042f60d27a7ed38f1305cf1b800a48f7fb1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0c3619b393657daa02d3bf2ddecfdc9d2ee858a50137cae4d2f94c2f81dbb27.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/958e92a0bf960b736caaa7e48775e266c652d5b07d96aaf74253185ff64d8e3b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/114a00b221a4c8d839f2163b27a11fbddefe4cfeb0883be702067b98839d4018.jpg",
+        "intro": "An unexpected reunion brings back the memories of Murasaki's horrid past... Here comes the fifth installment in the GRISAIA PHANTOM TRIGGER series!",
+        "description": "Several years after Yuuji Kazami and his friends fought for their lives in a fierce battle, a new generation of heroines gather at Mihama Academy, which has been reinstated as a 'specialist training school'.\nTaking place in the same world as The Fruit of Grisaia, new characters bring an exciting fresh take in the fifth story of this brand new series!\nThis thrilling story, which unfolds at the reborn Mihama Academy, will undoubtedly excite not only those who have played previous releases, but those who are new to the series as well!\n\nAvailable in three languages!\nThe text can be set to Japanese, English or Simplified Chinese (audio is Japanese only). This includes in-game text, options, and the digital manual. Language settings can be changed at any time.\n\nPlay using only the touch screen! Play with one hand!\nPlay in handheld mode with the Joy-Con\u2122 controllers attached, or detach them and play with just the touch controls! While in tabletop mode or TV mode, everything can be controlled using only the Joy-Con\u2122 (R), allowing you to play with only one hand! Also available for the Nintendo Switch\u2122 Lite. (A separate Joy-Con\u2122 (R) is required to play with one hand.)\n\nVolume 5 Summary\nA few weeks have passed since SORD successfully resolved the Kitaoka University terrorist incident - albeit with some sacrifices - when Murasaki's older sister Yuuki returns to Japan and returns to Mihama Academy.\nBeing more sociable and capable than her sister, Yuuki immediately befriends the other students and builds a trusting relationship with them.\n\"There's no reason for me to be at Mihama anymore...\"\nAs Murasaki starts questioning her raison d'etre, she reminisces about the time when she first met Haruto.\nA few years earlier...\nLamenting his lack of experience, he had come to her village hidden deep in the mountains in search of new skills.\nHe got to know the Ikoma sisters better and kept up with his training. As he seeks out the village's \"secret art\", a sudden tragedy befalls them.\n\"I'll never forgive you...!!\"\n\"It's okay... Don't worry... I'm not... going anywhere... I'm here with you...\"\n\"I'm stumped... It's exactly as she said - and there's no way to cut a phantom...\"\n\"Come on. Chin up... Show me your courage...\"\nTheir fateful meeting was also the beginning of a tragic story...\n\nGameplay\nIt's a visual novel in which you don't need to make any choices, so you can enjoy the story like you would when watching a movie or reading a book. The story comes to life with a star-studded voice actor cast and fully-voiced story (excluding the main character), gorgeous graphics and music, and immersive animation.\n\nStaff\nCharacter Design/Art: Akio Watanabe\nStory: Ryuta Fujisaki\nSD Character Design/Art: nanaca mai\n\nCast\nRena            VA: Maaya Uchida\nTohka          VA: Ayane Sakura\nChris            VA: Kaori Nazuka\nMurasaki      VA: Atsumi Tanezaki\nMaki            VA: Yoshino Nanjo\nGumi           VA: Suzuko Mimori\nTaiga           VA: Natsumi Takamori\nYuuki           VA: Mikoi Sasaki\nMiss Arisaka VA: Mikako Izawa\nOther\n*Fully voiced (excluding the main character)",
+        "languages": [
+            "ja",
+            "en",
+            "zh"
+        ],
+        "size": 2454716416
     },
     "70010000031956": {
         "id": "01008CE0123CC000",
@@ -28961,7 +29124,7 @@
             "de",
             "it"
         ],
-        "size": 5369757696
+        "size": 5511315456
     },
     "70010000032241": {
         "id": "010032D012602000",
@@ -30019,6 +30182,57 @@
         ],
         "size": 66060288
     },
+    "70010000032388": {
+        "id": "01002AD0126AE000",
+        "rightsId": null,
+        "name": "Bridge Constructor: The Walking Dead",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70010000032388,
+        "category": [
+            "Puzzle",
+            "Strategy",
+            "Simulation",
+            "Other"
+        ],
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Headup Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4a4cc420327841d8f7cb40e726b7fd76568addab4f135ef3f6a9f344b5ae5996.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e34b26261888a6bf6b68d6a58a999a6209318de36252935db1c156e9bc7d8bbe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f816c9bef78707a81d14b328309d6dfae0217ca00a01b1c295970834989012b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c6179465f7898bcbabc560c09f1214130e304474a629a3219acd928e5324d4a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e44bac6a5d398386a23ba01486ba16971b597fcff8d0755d2dc0b70b03061bb7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ceec9ec13707228be8507271ae1287082a12d9cdc523ecb89bcec868057068a6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6b709fd9addc4d26e1d6d68cffd1d55aa1586aac77388a7567158daab9eef02c.jpg",
+        "intro": null,
+        "description": "Experience the fun of KILLING WALKERS using the POWER of your BRAIN!\n\nPrepare for the ultimate mashup experience! Bridge Constructor: The Walking Dead combines the legendary and challenging puzzle gameplay of Bridge Constructor\u2122 with the post-apocalyptic zombie universe of AMC\u2019s The Walking Dead. \n\nJoin a group of survivors as they fight against hordes of undead walkers and a hostile human community. Build bridges and other constructions through bleak landscapes and ruined structures. Team up with fan-favorite characters like Daryl, Michonne and Eugene, and create safe passage for iconic vehicles from the series. \n\nUse movable level objects, explosives and baits to your advantage as you lure walkers into lethal traps and guide your survivors to safety. Enjoy the physics-based frenzy and ragdoll animations as walkers succumb to the forces of gravity. \n\nFEATURES\n\u2022\tAMC\u2019s The Walking Dead meets Bridge Constructor\u2122\n\u2022\tCreate elaborate constructions and lethal traps \n\u2022\tA captivating plot featuring new faces as well as iconic characters and vehicles from the series\n\u2022\tNumerous brainteasing levels and countless brain-eating walkers\n\u2022\tMake use of movable objects and explosives to lure walkers to their doom.\n\u2022\tSave your survivors and smash the undead hordes\n\u2022\tBrutally funny walker ragdoll physics.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 255852544
+    },
     "70010000032412": {
         "id": "01005350126E0000",
         "rightsId": null,
@@ -30360,6 +30574,53 @@
             "zh"
         ],
         "size": 763363328
+    },
+    "70010000032470": {
+        "id": "0100EFB01272E000",
+        "rightsId": null,
+        "name": "BFF or Die",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201127,
+        "nsuId": 70010000032470,
+        "category": [
+            "Action",
+            "Arcade",
+            "Puzzle",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Fear",
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 7,
+        "developer": null,
+        "publisher": "2Awesome Studio",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fa876ffbaa32dc8fb9bff0c0bc576888aa43bc2774516fa04304ff62121c380c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ae18c74b66a75a3e01c34522573a889bf4e4646afafc11ffbd6b5a5ff802f2be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cc231539c74d586d302db34d7e41ab31c2a260bb5e2e64916330e5d974b0281c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a49462301dedc826f4431cd0f837da44585451d33fe5d596e43110be38b0b801.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37692af098b98e98b9915fd7df0fd95cb12213caf25759b9421db001bf5d19cc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/644b3909546521cdbd87b325c81c3c88a3863c7acb6fe58a9fea8dee28914072.jpg",
+        "intro": "BFF or Die is a cozy and crazy cooperative puzzle game that you can play with up to four players! You're a time traveling alien sent to Earth on a risky rescue mission. ",
+        "description": "As time traveling aliens, you must venture to a strange planet called \u201cEarth\u201d in order to rescue the Orbees, a mysterious species who help you build your crucial set of gadgets. Take charge of each gadget, combine your abilities and strategize to save your friends. Use your cunning wit and camaraderie to survive, but never forget the Academy motto: \u201cBFF or Die!\u201d\n\nIf you love couch co-op's with friends and family then BFF or Die is for you! BFF or Die in 2-4 local player mode is a completely new and amusing cooperative experience.  A mix of puzzles and action gameplay will make you think carefully and sometimes - panic in excitement! \n\n- In co-operative gameplay, help each other or... you die.\n- Story mode with 30 dynamic levels and at least 2 hours of gameplay.\n- Unlockable \u201cInfinite Trials\u201d game mode featuring challenging randomized levels and\u2026 more hours of gameplay.\n- Added artefact challenges - go back and collect them all\n- The more players, the crazier the gameplay.\n- Levels adapt to the number of players.\n- Multiple characters - each with a distinctive personality.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "zh"
+        ],
+        "size": 477102080
     },
     "70010000032478": {
         "id": "010045D01273A000",
@@ -33251,7 +33512,7 @@
             "zh",
             "zh"
         ],
-        "size": 7099908096
+        "size": 7118782464
     },
     "70010000032980": {
         "id": "01001F101289A000",
@@ -33930,7 +34191,7 @@
             "de",
             "it"
         ],
-        "size": 5995757568
+        "size": 6315573248
     },
     "70010000033111": {
         "id": "010048901295C000",
@@ -34929,7 +35190,7 @@
             "ko",
             "zh"
         ],
-        "size": 233832448
+        "size": 165675008
     },
     "70010000033329": {
         "id": "0100738012566000",
@@ -36340,6 +36601,56 @@
         ],
         "size": 8985247744
     },
+    "70010000033675": {
+        "id": "0100F30012CBE000",
+        "rightsId": null,
+        "name": "Ramp Car Jumping",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70010000033675,
+        "category": [
+            "Racing",
+            "Sports",
+            "Action",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "BoomBit Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/53dcf84d75fe28e7e43e2e45e18468ccc9363f7d392dd01a636797be8bc234b7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/08c0a32256c65edc4ef1cb75e43aab6588508fd68cf40934cf083db83509b8f8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dfa3c56d411e813525238c8fbecae540de42406190632fd202904c4cb75d98cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/210d7e51c640a474adb4817ccc5c5401e8a115141840b47def2fd50461a99652.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b0e7d05423dbb38ac85badfa682c47dc9f7bcfdcb2e760cb21297624aedc5b94.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16f044fa7b580760745e3b7b3b153d81e94633e9735db887302f8dbd815658e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ad4950d4ce57c66d41d939c5e353c7db20eee7fa85964af04ad8fdcff7bffa7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/28ca846e2e0e51fa179f9e38858c56a819b72cc8dda63e8cfb46e6f02b87a3dc.jpg",
+        "intro": "A quick and frantic racing-flying-smashing game that sends you hurtling down ginormous ski jumps, through the air and smashing into everything in your path!",
+        "description": "Flip - spin - careen - and barrel roll!\n\nThe faster you go, the further you fly and the more stuff gets demolished!\n\nGAME FEATURES:\n- Easy to play... anyone can do it!\n- 20+ Cars, Trucks and Busses to unlock and customise!\n- Over a dozen worlds to explore, such as Downtown, The Stadium, Mountain Peaks, Vertical World and even the Moon!\n- Draw Mode: Design your own ramps to pass the puzzle-style levels! A totally different experience in this separate game mode.\n\nNot fast, far or smashy enough?\nUpgrade and:\n- Max out your engines!\n- Increase boost!\n- Add extra bonus power for ultimate performance!\n\nExperience the extreme challenges and the hugest jumps. Will you make it all the way?\n\nEXCLUSIVE FEATURES, ONLY ON NINTENDO SWITCH\u2122:\n\nSPLIT-SCREEN MULTIPLAYER!\nChallenge your friends and family in 1v1 local multiplayer battles.\n\nPLAY THE WAY YOU WANT!\nJoy-Con\u2122 and Nintendo Switch\u2122 Pro Controller support.\n\nWhat\u2019s the biggest crash you can imagine? Download now and watch it happen!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 634388480
+    },
     "70010000033686": {
         "id": "01009CD012CC0000",
         "rightsId": null,
@@ -36966,6 +37277,44 @@
         ],
         "size": 238026752
     },
+    "70010000033823": {
+        "id": "0100A5D012DAC000",
+        "rightsId": null,
+        "name": "SENTRY",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70010000033823,
+        "category": [
+            "Arcade",
+            "Shooter",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Rising Sun Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/928141219139d9dbd664df4cb968c4c31ef59d859e2c144ce04aab56974a53af.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/29212d27878210899577bc04a18fa140f7895c6c155d0697f37d4d781925bdc5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5b3691cf687ab53c9ce13f88b6bb258c1e10452edf91d099d37510f22c4939a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/635020a169017fded2bf585b5a4c490d460b4dc75fda72251bd2b5b76bfa18eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9ea4398a073f030552b0e4278a5a14086a79cd292911c3e0b280ae9cad15124.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3c29f9f3f6992c068d9e81fd0bf31d9bd172c4bb1c2560358b3fc2a1d79df59c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40295d5314f586a243e66586a8272bf3cf1d35028f9f3401145cc8174833676d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5dceb7173639e2e068c11b2e9ff5ac2da0d06b5a61417c1cd08b11ee399f4c45.jpg",
+        "intro": "//// SENTRY // ACTIVATED\n//// ELIMINATE // HOSTILE // INTRUDERS ////",
+        "description": "Become a SENTRY. \n\nSENTRY is a stylish minimalistic twin-stick shooter with silky smooth controls where your only goal is to eliminate the hostile invaders. ",
+        "languages": [
+            "en"
+        ],
+        "size": 97517568
+    },
     "70010000033830": {
         "id": "0100085012D64000",
         "rightsId": null,
@@ -37542,6 +37891,55 @@
             "ru"
         ],
         "size": 90177536
+    },
+    "70010000034096": {
+        "id": "0100B8B012ECA000",
+        "rightsId": null,
+        "name": "S.N.I.P.E.R. - Hunter Scope",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70010000034096,
+        "category": [
+            "Shooter",
+            "Action",
+            "First-Person Shooter",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Strong Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6281ffacf31760aec473b2d35232ffdc8672f5ca396a6cd5fdc5837ae06591d0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/117af13340cce4500b6a3aab508f42ca5d00cf65f74dd8963d29a92ea5edd9b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd7b25dbf3a83777f86d755459c496e981a2d1564edcdbb2781016b6dadf7f7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6314decbfb591945025bce18203a30064f7be7946142bc1a14fddc4cae491869.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f6a51a9458ff412a3370d5556f11cf6496fedbd7eb65301847128d55b856dfa1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/81a2a786db4585b7d17177e87cb1ae79b3b4f4fc95f4a7c9700dfcad2f898b7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5fc42fc718149914996a1c6566a87a140c2e8f0132dcef9c359df0b752644b04.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a48c052f6f9d899b47f3ef487f031c40a9338bc10ebe17a5bd861e2f849f854.jpg",
+        "intro": "BECOME THE ULTIMATE HUNTER!",
+        "description": "In S.N.I.P.E.R.: Hunter Scope you will shoot, you will fight, and you will win!\n\nPlay S.N.I.P.E.R., the latest sniping game where you aim, fight and destroy virtual enemies. Try different types of missions, inspired both by classic rail shooters and modern cover shooters. Fight your way out during day and night, destroy evil forces and unlock new weapons and power-ups.\n\nGame includes:\n15+ STAGES\n30+ WEAPONS\n30+ GALLERY ITEMS\n60+ SPECIAL ACHIEVEMENTS \n\nBecome a hunter, mount your scope, and fight for our freedom!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 2040528896
     },
     "70010000034100": {
         "id": "0100708012ECC000",
@@ -38203,7 +38601,7 @@
             "en",
             "pt"
         ],
-        "size": 2001731584
+        "size": 2304770048
     },
     "70010000034338": {
         "id": "0100F7C012D68000",
@@ -38536,6 +38934,42 @@
         ],
         "size": 522190848
     },
+    "70010000034368": {
+        "id": "0100F81012FFC000",
+        "rightsId": null,
+        "name": "Pretty Princess Party",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000034368,
+        "category": [
+            "Simulation",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Aksys Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/65f4363a517e7be4891ec30dbdf36c4ee80f9e38707ddf0e1598b0a4af128ad3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/242294811f248f9b9f8afd42af6783f335484801c60c823f0fb16b51430afc8a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd66971dc0c395d7a531703e1fb87a381fbf16fd13ab6094502e6a203e0d1e27.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/44b8ea2ce4a8810c739afe7fdabacfb8dd9adabd3d559fc222dd8acdcbe73f83.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/88acdce627650ebfdb73a8743498fdf5850349f273372b4ca0ab2f02035cadd2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce216368ee6b76d9df885c7c96aa2659d62eb7420c81d262cad4b1d1ee5ca6dc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ae77ec195b62a4584d38b8677cdd0398b48877975275bfe82ab83168dd0b3d2.jpg",
+        "intro": null,
+        "description": "Become a princess of a magical castle!\n\nPretty Princess Party on the Nintendo Switch\u2122 transports you to a magical land to explore a long-abandoned enchanted castle. Learn to be a princess and decorate the castle any way you wish. \n\nBegin by creating a princess character with endless choices of dresses, shoes, accessories, and hairstyles. Then train to be a princess by playing six different fun mini-games, including cake decorating, horse racing, and dancing. Restore the castle to its former glory and win the prize!\n\nSuccessfully completing the games will unlock new outfit choices and allow you to access hundreds of unique items to decorate your castle\u2019s 20 rooms \u2013 over 1,300 items total!\n\nOnce the rooms are decorated, you can take commemorative photos to show off your royal style! Even after completing the entire magical story, you can take on new challenge objectives to update rooms and photographs.",
+        "languages": [
+            "en"
+        ],
+        "size": 1567621120
+    },
     "70010000034427": {
         "id": "01006AA013086000",
         "rightsId": null,
@@ -38560,12 +38994,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fdee8a858b12439e2f9e375ca79e9e477c28fce542d7f1ec9621879a71e92923.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/24997e87c391053d312a592a83b520e30dbdb1f1b86bde9fde565cc72c0743ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ff2b671201050bb3f71b2215bdd1852e0cfacf62ac0036355e4d9a95a8b371f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/6a3c9a541c118dadb2e2b449dcd8eda252d6f7287b109ccf09dcff880c5644b1.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/3b49958e62b03d0df034f4b3d631b1a9b1ff4e6b70ebf0472116810af7e038da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/651868849e84252fc69575a9796b3675808e98cb2fe029891b11e0431bc56946.jpg",
             "https://img-eshop.cdn.nintendo.net/i/713342a9d67eee3e9e58e650c4f2171c6064de60d5a0b562a5db6ab9b5843b37.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b130bfa48f3e82409faa13101c2d0af7e00e5ac4efebbf452f9b66f38df29494.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/37a19b1c0ee2bc0e2f763378be5978399a745d3f3d7225b1dc2442db85733ce0.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/f053022e005458cfa331ff1ffa2c163467a379afc5e912be76481961cd25b722.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a3113f6f11154b1e2624fb747aaed16e48587e9368df4431919f315952b08a09.jpg",
         "intro": "Yes, you are an artist! This art school simulator combines the exploration of the amazing world with the performance of creative tasks. ",
@@ -38746,6 +39180,44 @@
             "en"
         ],
         "size": 52428800
+    },
+    "70010000034487": {
+        "id": "01008DB013114000",
+        "rightsId": null,
+        "name": "Stencil Art",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70010000034487,
+        "category": [
+            "Education",
+            "Training",
+            "Puzzle",
+            "Utility"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "QubicGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7fc07300bfe1cde24334a8f97687b076b5504400854826dcb204542f55d54f87.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fcad36c6e1d65ffaed54cb61798da25d0d2d0f5ac28d64d76e9cc8cb28aa0f8a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5bc1ddc38a09dd2a83cac748d7fae76ee0214fdb45eed5b3c4bcda781bc46df7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c86e333b88ed68ce6c721f13d6ead1512bf19674c78678651ed9a8d0242e74b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9eb9c5ec17c15dca160984c28361cc71dd81958bbc1336630449be7c69f2f7ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/36e2e70d3ba394b7a2335f30b7abe2dea4be19dcaea2a6c3e417d658f31f7310.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3c66b984320263ca162e2a6546aeb99e58ffc814dd2d007fac98a1d6a2685f58.jpg",
+        "intro": "Unlock your hidden painting skills. Become a master artist. Just play and spray!\n",
+        "description": "Ever wonder how it would feel to be artistic and paint an epic masterpiece? Now you can experience it all with ease! Fill in hundreds of different objects - just place the stencil and spray. Get the next stencil and color it in. Finally, remove them all and reveal your work of art. Creating your collage never has felt more satisfying. Relax, illustrate, and create images. So many satisfying graphics to explore! Fun and easy to pick up and without the mess with a spray! Will you be the first one to color them all?\n\nFeatures:\n\nSimple but addicting mechanics  -No need to be artistic? The pictures are there for you. All you need to do is fill in the outlines. Take your time and relax, it\u2019s simple.\n\nHundreds of objects for you to carefully spray, color, and paint - Keep your paintings coming. Whether its fruits, pets, landmarks, or people, there are so many imagines for you to stencil.\n\nFeel the experience - Use analog, touchscreen or gyro - choose your way of painting!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 81788928
     },
     "70010000034500": {
         "id": "0100ABD012EF8000",
@@ -39577,6 +40049,51 @@
             "fr"
         ],
         "size": 87031808
+    },
+    "70010000034743": {
+        "id": "0100599013216000",
+        "rightsId": null,
+        "name": "Educational Games for  Kids",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70010000034743,
+        "category": [
+            "Education",
+            "Study",
+            "Puzzle",
+            "Training"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Crazysoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6ba3d79ae088106da3f2d7929df0d1bbf5223ccaf563351f9ef66c3870e68f84.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1ec22398843b22c51b9a177b2fabc4171977ef6bc61d68959b67fc0f5b54dcb9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a2d85ff5ff349586b486577789a37d90fb6e4e4376dffeeccaa8a056167abe3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2c8956ce41c3281a6a4b9e1a989a6289408df76782e021dd26ca214055077b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25c8aac38afb4aa23fa9fdba64d059913bce27b355ba6d299519a48452f6a4bf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4d4a9059c8056afbed28e6e1f4d2683ae8eac84ce9e36f450453e0c22b81c178.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7c685b01079a44234e09fe0098dbca8603547fb31eadee267abb516259b698a1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a6a02470b26ab8880cc913ff328ae6255828674e014173a78c03b93e95977033.jpg",
+        "intro": "A well thought-out, smart, polished, \u2018console quality\u2019 educational game pack is out for your kids.",
+        "description": "You are a parent and you are trying to relax a little by playing your favorite game. Your child keeps asking you to let them try it\u2026 \nBut this game is not suitable for children (because it\u2019s a little scary and not educational at all). Does this situation sound familiar?\n\nAt last: a well thought-out, smart, polished, \u2018console quality\u2019 educational game pack is out for your kids. \nSuitable for boys and girls from ages 3 to 18. A pack of 21 different games with 51 variations that educate in various ways like: reflexes, logic, math, memory and knowledge. \nKeep track of your child's progress with our statistics. All games have easy-to-learn controls with interesting and fun things to do. \nAt last, a pack of games designed to educate and make your children smarter. The game runs natively in FHD when supported.\n\nWhat's included in this Educational Games pack:\n1) Reflex: Riding a tricycle. (Ages: 3-4)\n2) Reflex: Riding a scooter. (Ages: 5-7)\n3) Reflex: Riding a bike. (Ages: >8)\n4) Logic: Jigsaw puzzles with four variations. (Ages: >3)\n5) Math: Addition, Subtraction, Multiplication and Division with many variations. (Ages: >6)\n6) Knowledge: World Geography of Countries/States plus capital cities. Huge game that includes all the world. (Ages: >11)\n7) Knowledge: World Flags. Another huge game with many variations. (Ages: >11)\n8) Memory: Sharpen your child's memory. Three difficulty variations. (Ages: >3)\n9) Logic: Mazes. Find your way out the maze. Five difficulty variations. (Ages: >3)\n10) Just for Fun: Dress up a girl just for fun. (Ages: 3-5)\n11) Just for Fun: Color many sketches just for fun. (Ages: 3-5)\n12) Logic: Categorize the animals, birds and fish. (Ages: 3-5)\n13) Logic: Categorize the colors of the objects around you. (Ages: 3-5)\n14) Logic: Categorize the shapes of the objects around you. (Ages: 3-5)\n15) Knowledge: Get to know the sound each musical instrument makes. (Ages: >6)\n16) Logic: Learn how colors are mixed. (Ages: >6)\n17) Logic: Build IQ by understanding patterns. (Ages: >4)\n18) Logic: Is it a toy or is it food? Simple and fun game for young children. (Ages: 3-4)\n19) Logic: Match the shape to its identical hole. (Ages: 3-4)\n20) Knowledge: Learn and hear the number from 1 to 20 by popping balloons. Translated professional speech in eight languages included. (Ages: 3-4)\n21) Hidden Dragon Game. Needs all games completed with 3 stars to unlock! (Ages: >4)\n\nFeatures:\n1) Runs natively in FHD at 60FPS (when supported).\n2) Twenty different games with many variations designed to make your children smarter.\n3) Suitable for boys and girls, even from very young ages i.e., 3-18.\n4) Focuses on many areas like: reflexes, logic, math, memory and knowledge.\n5) Statistics included to see your child\u2019s progress.\n6) A hidden dragon game ready to be unlocked by completing a task.\n7) Budget price.\n8) Many interesting Achievements.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru"
+        ],
+        "size": 291504128
     },
     "70010000034749": {
         "id": "01009D901321A000",
@@ -41184,7 +41701,7 @@
         "developer": null,
         "publisher": "Wales Interactive",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cebc9fdcc064953f8b9e5a1f389fb0fe83c3cbe4225e8dd5efa5803abac46048.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/47f64804d88f3d6fc1ccb0bdbacebcfefefee17f8dc3e424878d6c37734793d4.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/fd49f7e0b67535e21c0a1e6196dfba569f96c9bef09cc94709165843341638c9.jpg",
             "https://img-eshop.cdn.nintendo.net/i/7bcbed309b4388142ed68fdc8357195fc671f0661023c97957e4bf20f503d576.jpg",
@@ -41199,7 +41716,7 @@
         "languages": [
             "en"
         ],
-        "size": 11288969216
+        "size": 11292114944
     },
     "70010000035313": {
         "id": "010019A0134E2000",
@@ -41642,6 +42159,45 @@
         ],
         "size": 303038464
     },
+    "70010000035427": {
+        "id": "0100F3D013568000",
+        "rightsId": null,
+        "name": "Tiny World Racing",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201127,
+        "nsuId": 70010000035427,
+        "category": [
+            "Racing",
+            "Arcade",
+            "Multiplayer",
+            "Party"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Chequered Ink",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/af2d77a7f49ba9bd479a5ed2327ace0ca34cd2710098013a1cb393de82fc80a8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4bb314360c5b827ac43463132f501b2f6999a4229aadef020ee8f4e747d794bf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1d8a081b39e503c840543be6a5dc486076cf17aec9f4288b5ec38ba020ec6a87.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f52ce91a10c060094dcd2dd539dd6a39e6bfdf33929c23dd81cc339bcea9496.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed6f3cd8e40867cf75389ab3f08c4d54a78f9217ff27561c77fd83c12812ed53.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f9c53753b632c3b90a061a034908146e7c4ae9bce92ce9ede44b0f91a1e4ed59.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e8f33de9aed5c9ed610e6780364dc75283266af7f3f17d8317ea24fd19860031.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/10c0e3176789eb1b30816af7ca28a6b5c2de3609c11e2ef6ed65f489d0871e91.jpg",
+        "intro": "Are you ready to race?",
+        "description": "Hit the asphalt and leave your opponents in the dust in this top-down mini racing game!\n\nBlast your way through a variety of environments in 20 tracks across 5 different tournaments. From crumbling castles to volcanic islands, you\u2019ll need to master all kinds of terrain to become the world\u2019s best racer.\n\nPlay alone or take on your friends in split screen couch multiplayer - which one of you will come out on top?\n\nCompete in Tournament Mode to win 5 gold cups or dive into a single track in Quick Race mode when you\u2019re pressed for time.\n\nWith 16 cars to choose from and a collection of wacky items to attack your opponents, no two races are the same.\n\nWill you take on the challenge to become the champion of Tiny World Racing?\n\n",
+        "languages": [
+            "en"
+        ],
+        "size": 70254592
+    },
     "70010000035434": {
         "id": "0100CD301354E000",
         "rightsId": null,
@@ -41860,6 +42416,45 @@
         ],
         "size": 91226112
     },
+    "70010000035632": {
+        "id": "01006B9013672000",
+        "rightsId": null,
+        "name": "Cybxus Hearts",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000035632,
+        "category": [
+            "Arcade",
+            "Shooter",
+            "Action",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "TERNOX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/537b46c67d2d4ffdf66b698e6a53adfd2a94ebf427d19f27cc81c51d04094c04.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bf62f7e339b76836a077edb0868da6aa8f1d8da45c5a77804af44ce863593a2b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6297205a272bd6bf8d1124c6806942f197e3346b33cb18590e3cb67d691f6e72.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7fbb41069cdcae382b1961555fbfc3f0e13abc75476042c720ad8511b160038.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9095601428bde528e4d1ac5f528a503d409eaf7c97b8d6e3859f654b1b615c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/650d8d89ab9bb4d23d280e625e43f11d28ae01fcf7237e168fb9f14a17799235.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1793cd37a1a92c4eb61ede439dc1ede000b053984647cc80c11e6abf61b52e94.jpg",
+        "intro": "Cybxus Hearts inspired by classic Japanese shooting games. This is a game where you control three different characters at the same time.",
+        "description": "You can swap between characters depending on situation. But protect your central core with the all cost!\n\nFeatures:\n- Classic danmaku-like bullet hell\n- 4 stages packed with enemies and bullets\n- Control 3 characters with different powers and weaknesses\n- Epic boss battles with different bullet patterns\n- Multiple modes of difficulty that caters to players of all skill ranges",
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "size": 53477376
+    },
     "70010000035642": {
         "id": "0100E1F013674000",
         "rightsId": null,
@@ -41906,6 +42501,47 @@
             "it"
         ],
         "size": 6192889856
+    },
+    "70010000035697": {
+        "id": "01009D20136CC000",
+        "rightsId": null,
+        "name": "Super Punch",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70010000035697,
+        "category": [
+            "Sports",
+            "Simulation",
+            "Action",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Piotr Skalski",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a766430be8d269d0b484e9a4d6078e34dfeedcfd15e2605e3c7529f9cde79506.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/664dfc33b57beb089b016abf9809bcf6da7a438179505bfd2d60a77f854b7ec6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/410629647554f5ab94c59bdd139519d574252d068f62d6ed6964700408566b1d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7bbdf0102a1e71c91086a2645bd30180c001a1ced29e45aa98a47cde894485e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac34cf50b758391a65ba3dc44a808c7f85dbb35728deb76199417fd24e2f9ef8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/45aacc064140fcadb3a5441e83599f547113f909b7ce50189f8ff8ada24edc5f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9af93892fa24ba49fca9c5333c855e6ea1c802836b9eaff1407672c50c94c9b3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/84b2baaa358550335c60cc86fa1ddead0f5cf049567edca3103149374332266a.jpg",
+        "intro": null,
+        "description": "Super Punch is a cool fighting game with a beautiful retro theme and an exciting gameplay. You will need to choose one out of the 6 available fighters and eliminate the competitor. There are 9 scenes included, and you need to do everything you can in order to come on top during every fight.\nIf you love arcade, action-packed fighting games, give Super Punch a shot and immerse yourself into one of the coolest isometric boxing games available. Test your skills and become the ultimate fighter today, all while enhancing your reaction time. Are you ready to become the ultimate boxer? Try out Super Punch now!\nFeatures:\nIntense boxing game\nTest and improve your fighting skills\n6 fighters you can choose from\nBeautiful graphics",
+        "languages": [
+            "en"
+        ],
+        "size": 308281344
     },
     "70010000035699": {
         "id": "0100DBB0136CE000",
@@ -42023,6 +42659,50 @@
         ],
         "size": 55574528
     },
+    "70010000035841": {
+        "id": "0100F830137AC000",
+        "rightsId": null,
+        "name": "Arcade Archives VULCAN VENTURE",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201112,
+        "nsuId": 70010000035841,
+        "category": [
+            "Shooter",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 7,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/167add3df4177f33e3441156814cc7bb9a537755a7b048f9765e63354bc068aa.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7ac74147ff89a215c527039878e04249d97986465b9441858ddaf90088237032.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78b8198a89a473f19fd9ebc287d0ca42363fd4d2ac5a1b6d34ec2626e12387dc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a80f20894c56bba9289f66f3bda29ad0a468f3ba3845f9a4120ea320c545ba01.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2037ae244fcdb852b4b2464e5820c217e45db5ca48c901db842bafadb142285d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70cadcbab5d56b042707adc5729684858e0d5eb580923ff5bd55a19d79192cdb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c98896dce4aef0c740bc53d8231c87405aca983e0b31f564927244b5e86da12d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/922d5d4f6ded06b013e0bbc10aa6336ef14fe8f1195ac8e8b8d7ca667c91832b.jpg",
+        "intro": "Battle resumes! Shatter GOFER's ambitions!!",
+        "description": "'VULCAN VENTURE' is a shooting game released by KONAMI in 1988.\nPlayers will control the super dimension fighter 'Vic Viper' in order to protect planet GRADIUS from the Gofer special forces.\nThis is the best title from the GRADIUS series and a title of fame in the shooting game history having won multiple awards!\nThis product includes 3 Japanese versions, and 2 versions of 'VULCAN VENTURE'.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 88080384
+    },
     "70010000035986": {
         "id": "0100A12011CC8000",
         "rightsId": null,
@@ -42062,6 +42742,104 @@
             "en"
         ],
         "size": 27262976
+    },
+    "70010000036003": {
+        "id": "01005CB013872000",
+        "rightsId": null,
+        "name": "Fall Gummies",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70010000036003,
+        "category": [
+            "Puzzle",
+            "Strategy",
+            "Adventure",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Prison Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4493f29a9ec228894ffcafb6a65299b814a21f6fd91fcf23c2f27687919c060e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7fe7db37c44d9c07eb695a3aafbd113b87b4eca8b06db513353bba60da3f0c1d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e3192af8a6d3b50f0ac376116c1ed64297fb6b8ff480cca172e71c44346e3667.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6bf7a652ee655bee2171221d0b5fc6d7ec8bc00da659fe004c4232fd9e436c3a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77a106a802cf2f919fea54b4dde253dfe49ec709c409539ba04755ddafe3fcea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d409e087da0d9613d503cd9f7a1d39acb8e39a3db895eab24176abcbee52593.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/103de6d38feccc7eff89bb65cd8374bf5bb5c70e2dc12bc3306e9265a94ca5c2.jpg",
+        "intro": null,
+        "description": "Fall Gummies is a relaxing, colorful 3D puzzle game. The story takes place in a fantastic world of happy jellies. Unfortunately one day a huge meteorite hit the planet pushing it towards the black hole. It sucked all the emotions out of the planet and then collapsed. Help our little friends to regain their happiness by collecting the magical essence through the labyrinth!\n\n\u2022 1000 challenging puzzles to complete\n\u2022 Customize your characters appearance\n\u2022 Create profiles for each Jelly\n\u2022 Cute and colorful graphics\n\u2022 Intuitive controls\n\u2022 Chilling music\n\nBECOME A FRIEND OF GUMMIES AND MAKE THEM HAPPY AGAIN!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko"
+        ],
+        "size": 186646528
+    },
+    "70010000036079": {
+        "id": "0100B610138F8000",
+        "rightsId": null,
+        "name": "Zombie Blast Crew",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70010000036079,
+        "category": [
+            "Arcade",
+            "Action",
+            "Shooter",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "QubicGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/058fd43276cc01afd4de5f0948b438e91b42812a3b0f577b7c4fbc9a649fa894.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/826a6ce7994dd641d5831c6c941ebe94131af325d3a0abbc9b9309a5d30e9a1e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a39a0b27789ffd821e9dab19a34dd095dd389866cefeda1b8f450f0f707e137b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d572917196a8d4aabd58baeba9ddb5bba3e566b088deae4e5ac8637fec74f8a4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58e275bbb34b5f780a27ea27c6dafea96a8aac15baa545bba6081ecee0b9fcb0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/002ae88b7c3e8cc5ddd1cb0f5baab30af775d957d523522a85c92e0593c53d6a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77ba60803ba46e0a7aeed61d68b4b9cce8d255db2916fd06bef1aabe49d1e5f2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bef4e8425db8dc37a76f0ecd86bcda68747a0478375baece45e7b3904b99bc0c.jpg",
+        "intro": "Team up and pack guns and gear, there is a world to save! Zombies are coming\u2026 and you only have a few men and women ready to fight, lead them!",
+        "description": "It has been 11 months since the infection started. Everyone fled the cities, mass panic in the streets. The zombies took over our towns, our buildings, our houses. Now we sleep outside while they roam our streets.\n\nWe waited for the army, and the army didn\u2019t come, so we picked up guns. We waited for a hero, and noone came, so we were left to survive on our own. Now we\u2019re done waiting. Will you lead us in the face of a certain doom?\n\nWe\u2019ve organized into hunting parties, to take our blocks back and push the evil residents away. We officially declare that from today onwards, our city is a Zero Z Zone. We\u2019re the Zombie Blast Crew.\nPlanning and getting the proper crew and equipment is already half the battle. No hero gets through a battle without his sword, and no crew member goes to the field without their gun. Big crowd of walking dead? Karen and her flamethrower got you covered. Need to keep your distance from certain stupid zombies? Michael\u2019s assault rifle or Javier\u2019s machine gun might be a better pick. It\u2019s all about using your head, knowing your craft and picking the right man or woman for the right job.\n\nSame goes for our gear. Do you pack a scout med-kit to heal after-zombie injuries? Some grenades to clear infected areas? Some food to get yourself a hunter survival boost? Don\u2019t rush in, it pays to be prepared. And don\u2019t forget to polish your skills - levelling up will help your gun shooting.\n\nFEATURES:\n- Exciting missions taking place in separate locations of the same city, with different weather and times of the day\n- A team of survivors equipped with unique weapons\n- Individual style of play for each hero\n- Additional equipment that can be upgraded to develop specific skills\n- Several types of zombies, each with a unique movement pattern and a special attacking style, adjust a strategy to your enemies",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 204472320
     },
     "70010000036179": {
         "id": "01006B5012B32000",
@@ -61534,7 +62312,7 @@
         "intro": null,
         "description": "Expand your track list with the Party Classics Vol. 1 Song Pack! Includes hit songs:\n\u2022 Diana Ross \"Upside Down\"\n\u2022 Madness \"Our House\"\n\u2022 UB40 \"(I Can't Help) Falling In Love With You\"\n\u2022 The Cranberries \"Zombie\"\n\u2022 Queen \"Crazy Little Thing Called Love\"\n",
         "languages": null,
-        "size": 0
+        "size": 265289728
     },
     "70050000023592": {
         "id": "0100E9D00D6C3001",
@@ -62905,7 +63683,7 @@
         "intro": null,
         "description": "Expand your track list with the Country Hits Song Pack! Includes hit songs:\n\n\u2022 The Dead South \"In Hell I\u2019ll Be in Good Company\"\n\u2022 Canaan Smith \"Love You Like That\"\n\u2022 Vince Gill \"When I Call Your Name\"\n\u2022 Lee Brice \"I Drive Your Truck\"\n\u2022 Lee Ann Womack \"I Hope you Dance\"",
         "languages": null,
-        "size": 0
+        "size": 300941312
     },
     "70050000023949": {
         "id": "010061F0119FB007",
@@ -62934,7 +63712,7 @@
         "intro": null,
         "description": "Expand your track list with the Best of 80's Vol. 2 Song Pack! Includes hit songs:\n\u2022 Wham! \"Wake Me Up Before You Go-Go\"\n\u2022 Communards \"Don't Leave Me This Way\"\n\u2022 Roxette \"It Must Have Been Love\"\n\u2022 Bonnie Tyler \"Total Eclipse Of The Heart\"\n\u2022 Kim Wilde \"Kids In America\"\n",
         "languages": null,
-        "size": 0
+        "size": 315621376
     },
     "70050000023950": {
         "id": "010061F0119FB003",
@@ -62963,7 +63741,7 @@
         "intro": null,
         "description": "Expand your track list with the Chart Hits Song Pack! Includes hit songs:\n\u2022 Clean Bandit \u201cTears\u201d\n\u2022 Lost Frequencies feat. Janieck Devy \u201cReality\u201d\n\u2022 Sigala \u201cSweet Lovin\u201d\n\u2022 Galantis \u201cNo Money\u201d\n\u2022 Jonas Blue/ JP Cooper \u201cPerfect Strangers\u201d\n\n",
         "languages": null,
-        "size": 0
+        "size": 254803968
     },
     "70050000023951": {
         "id": "010061F0119FB006",
@@ -62992,7 +63770,7 @@
         "intro": null,
         "description": "Expand your track list with the Best of 90's Vol. 1 Song Pack! Includes hit songs:\n\u2022 The Cure \"Friday I'm In Love\"\n\u2022 Sinead O'Connor \"Nothing Compares 2 U\"\n\u2022 All Saints \"Never Ever\"\n\u2022 Aqua \"Barbie Girl\"\n\u2022 Alanis Morissette \"Ironic\"\n",
         "languages": null,
-        "size": 0
+        "size": 307232768
     },
     "70050000023952": {
         "id": "010061F0119FB002",
@@ -63021,7 +63799,7 @@
         "intro": null,
         "description": "Expand your track list with the Best of 80's Vol.1 Song Pack! Includes hit songs:\n\u2022 Tears for Fears \"Everybody Wants To Rule The World\"\n\u2022 Dexy's Midnight Runners \"Come On Eileen\"\n\u2022 Lionel Richie \"All Night Long\"\n\u2022 Soft Cell \"Tainted Love\"\n\u2022 Elton John \"Sacrifice\"\n",
         "languages": null,
-        "size": 0
+        "size": 286261248
     },
     "70050000023953": {
         "id": "010061F0119FB004",
@@ -63050,7 +63828,7 @@
         "intro": null,
         "description": "Expand your track list with the Party Classics Vol. 2 Song Pack! Includes hit songs:\n\u2022 A-Ha \"Take On Me\"\n\u2022 Tears for Fears \"Mad World\"\n\u2022 Blondie \"Heart of Glass\"\n\u2022 New Order \"Blue Monday\"\n\u2022 Queen \"We will Rock You\" \n",
         "languages": null,
-        "size": 0
+        "size": 256901120
     },
     "70050000023954": {
         "id": "010061F0119FB005",
@@ -63079,7 +63857,7 @@
         "intro": null,
         "description": "Expand your track list with the Legendary Hits Song Pack! Includes hit songs:\n\u2022 Gloria Gaynor \"I Will Survive\"\n\u2022 Vanessa Carlton \"A Thousand Miles\"\n\u2022 The Cure \"Boys Don't Cry\"\n\u2022 Lilly Allen \"The Fear\"\n\u2022 Lady Gaga \"Bad Romance\"\n",
         "languages": null,
-        "size": 0
+        "size": 274726912
     },
     "70050000023955": {
         "id": "010061F0119FB008",
@@ -63108,7 +63886,7 @@
         "intro": null,
         "description": "Expand your track list with more songs from the 90's!  Includes hit songs:\n\u2022 Corona \"Rhythm of the Night\"\n\u2022 Rednex \"Cotton Eye Joe\"\n\u2022 Technotronic \"Pump Up The Jam\"\n\u2022 The Cardigans \"Lovefool\"\n\u2022 Gala \"Freed from Desire\"",
         "languages": null,
-        "size": 0
+        "size": 276824064
     },
     "70050000023956": {
         "id": "010061F0119FB00A",
@@ -63137,7 +63915,7 @@
         "intro": null,
         "description": "Expand your track list with more songs from the 80's! Includes hit songs:\n\u2022 Spandau Ballet \"Gold\"\n\u2022 Yazz \"The Only Way Is Up\"\n\u2022 Bros \"When Will I Be Famous\"\n\u2022 Culture Club \"Do You Really Want To Hurt Me\"\n\u2022 Blondie \"The Tide Is High\"",
         "languages": null,
-        "size": 0
+        "size": 299892736
     },
     "70050000023957": {
         "id": "010061F0119FB00B",
@@ -63165,6 +63943,39 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b8c036433b33cb77f76202e4e343203e3ee9f25e57506a0ed5efaa5ca8456997.jpg",
         "intro": null,
         "description": "Expand your track list with the Classic Rock Song Pack! Includes hit songs:\n\u2022 Billy Idol \"White Wedding\"\n\u2022 Cutting Crew \"I Just Died in Your Arms\"\n\u2022 The Knack \"My Sharona\"\n\u2022 The Rasmus \"In the Shadows\"\n\u2022 The Clash \"I fought the Law\"\n",
+        "languages": null,
+        "size": 272629760
+    },
+    "70050000024026": {
+        "id": null,
+        "rightsId": null,
+        "name": "S.N.I.P.E.R Hunter Scope Expansion Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70050000024026,
+        "category": null,
+        "ratingContent": [
+            "Strong Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/670a9c8b8c5353ecd5a77f821d8b9a17bac7b34f8413a3f92d61bb05d9926815.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ace8b586b15a48c58c6a5d4d8e9ce5785e1085406ffea8f8c05ed25604312e9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7fa1f138a99543d600a8454110220429edc8b5e180e01e6c33fc46104e0e85b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20519626ffacae6e133155f255e73ab54a4b8a6f895b6e34ed768e39ed005007.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff8bf8becf63c4911a282a0370cb7015cd6969b9830511ad6b93c4a12edf34b4.jpg",
+        "intro": "Live in fear as the living dead start to plague the world of S.N.I.P.E.R.!",
+        "description": "Get back in the action and survive the zombie apocalypse in a brand new game mode, available exclusively in this content update!\n\nUnlock 3 powerful weapons to use them in the DLC and base game to improve your scores.\n\nPlay new maps or revisit old ones with new weapons.\n\nFill your gallery and cabinet with new models and medals.",
         "languages": null,
         "size": 0
     },
@@ -63198,7 +64009,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/39f44932d72b35a75a1fa6e91e5e2776dd8f4c8a777bfaea4a95ec15f24436d4.jpg",
         "intro": "Your drill is the drill that will pierce the heavens!",
-        "description": "This DLC contains Gurren-Lagann, Lagann and pilot Simon. The DLC supports Local & Online Multiplayer Mode, Training Mode and Single-player Simulation Mode.\n*To unlock Simulation Mode by completing Campaign Mode.\n\n\u3010Mecha\u3011\nThe mian mecha of Team Gurren. It is a Gunmen with high explosive power, which can construct all sorts of unique weapons using its Spiral Power.\n\nPrimary Weapon - Gurren Boomerang\nThrows a pair of sunglasses from its chest.\n\nSecondary Weapon - Giga Drill Break\nGurren Lagann's ultimate attack creating a gigantic drill with explosive power.\n\nLight Melee - Skull Break\nAttacks x4 combo attack, but can only be used on the ground.\n\nLight Melee - Fire Cart Kick\nKicks towards the ground, but can only be used midair.\n\nHeavy Melee - Full Drillized\nDrills burst out from its body, attacking surrounding enemies.\n\nLight Melee(Lagann) - Tackle\n\nSecondary Weapon(Lagann) - Lagann Impact\n\n\u3010Pilot\u3011\nA boy called \"Digging Simon\". He found a small drill while digging a hole, and it will change his destiny\u2026",
+        "description": "This DLC contains Gurren-Lagann, Lagann and pilot Simon. The DLC supports Local & Online Multiplayer Mode, Training Mode and Single-player Simulation Mode.\n*To unlock Simulation Mode by completing Campaign Mode.\n\n\u3010Mecha\u3011\nThe main mecha of Team Gurren. It is a Gunmen with high explosive power, which can construct all sorts of unique weapons using its Spiral Power.\n\nPrimary Weapon - Gurren Boomerang\nThrows a pair of sunglasses from its chest.\n\nSecondary Weapon - Giga Drill Break\nGurren Lagann's ultimate attack creating a gigantic drill with explosive power.\n\nLight Melee - Skull Break\nAttacks x4 combo attack, but can only be used on the ground.\n\nLight Melee - Fire Cart Kick\nKicks towards the ground, but can only be used midair.\n\nHeavy Melee - Full Drillized\nDrills burst out from its body, attacking surrounding enemies.\n\nLight Melee(Lagann) - Tackle\n\nSecondary Weapon(Lagann) - Lagann Impact\n\n\u3010Pilot\u3011\nA boy called \"Digging Simon\". He found a small drill while digging a hole, and it will change his destiny\u2026",
         "languages": null,
         "size": 4194304
     },
@@ -66089,7 +66900,7 @@
         "intro": null,
         "description": "Not got enough songs? Want more? The Let\u2019s Sing Song Pass is for you!\nPurchasing the Let's Sing 2021 Song Pass grants you access to all DLC content for less money!\nIncludes hits like:\n\u2022 Knack \"My Sharona\"\n\u2022 A-Ha \"Take On Me\"\n\u2022 Blondie \"Tide is High\"\n\u2022 Venessa Carlton \"A Thousand Miles\"\n\u2022 Tears for Fears \"Everybody Wants To Rule The World\"",
         "languages": null,
-        "size": 0
+        "size": 3111124992
     },
     "70070000011315": {
         "id": null,
@@ -66124,7 +66935,41 @@
         "intro": null,
         "description": "Grab your microphone for the best singing game experience with Let\u2019s Sing 2021 Platinum Edition! This includes a copy of the Let\u2019s Sing 2021 game and the Let\u2019s Sing 2021 Song Pass which allows you to sing all of the DLC Content!\nBecome the star of your party or sing your heart out solo! Offering hits right off the Billboard charts as well as classic hits like: \nBillie Eilish with \u201cBad Guy\u201d, TONES AND I with \u201cDance Monkey\u201d, Jonas Brothers with \u201cSucker\u201d, Panic! at the Disco with \u201cHigh Hopes\u201d or Ariana Grande with \u201cThank U, Next\u201d. If you are looking for a blast from the past, how about Genesis with \u201cI Can\u2019t Dance\u201d or Seal with \u201cKiss From A Rose\u201d...and many more.\n- 85 international songs\n- Sing solo or with up to four players\n- Eight exciting game modes!\n-New Legend Solo game mode!\n-New mini game in Let\u2019s Party called \u201cPop Chicken\"!\n- Microphone-App: use your phone as microphone",
         "languages": null,
-        "size": 3758096384
+        "size": 6869221376
+    },
+    "70070000011319": {
+        "id": null,
+        "rightsId": null,
+        "name": "Hidden Through Time - Deluxe Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201112,
+        "nsuId": 70070000011319,
+        "category": null,
+        "ratingContent": [
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Rogueside",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/39b41aab45bf11dee224a57c61e1763561b348374e7f925f92c7fd23c22e1954.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3263a2c2d607e2d52688e6b32b6d87c8fcdcda766d757c55e10589b3bb16980b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ae387bcf1f945dc663f2e152ee01a1b7a13728316f08389f72e25170a24ec51.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f292cc882bd77137c6ab794db63fee91d461e6a510504c5023e95644eb9d2e7f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d4f8ce25875f5769a739382ee0353a28345bdaa85eb552c5f90504c53d63780d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac92a0ce01df02f5692dde58e78cbedc22b3d78883baeeada7cc4231f1760a52.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cef5b780779c2af5d81dbb60c89a3e48504a00dbc13ce115f799c1fc86e77fde.jpg",
+        "intro": "Discover, create and share worlds with your own hidden treasures in Hidden Through Time!",
+        "description": "Hidden Through Time is a cute game of hide and seek with objects scattered throughout the wonderful history of our world. Use cryptic hints to discover every secret as you explore the colourful hand drawn levels.\nFind enough objects to advance to the next stage, and make your way through all four great ages.\n\nStill desire more or wish to unleash your creativity? Our map editor is available to anyone, allowing you to create your very own levels and share them on our cloud! Here you can also discover, play and rate levels made by other creators from all around the world!\n\nSo join Clicky on his wondrous adventure in Hidden Through Time!",
+        "languages": null,
+        "size": 968884224
     },
     "70070000011327": {
         "id": null,
