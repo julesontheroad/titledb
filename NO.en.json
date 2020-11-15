@@ -4768,7 +4768,7 @@
             "ru",
             "zh"
         ],
-        "size": 2074083328
+        "size": 2256535552
     },
     "70010000019924": {
         "id": "010042700E3FC000",
@@ -16627,9 +16627,12 @@
             "Shooter",
             "Multiplayer"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Implied Violence",
+            "Mild Violence"
+        ],
         "numberOfPlayers": 3,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Schine",
         "frontBoxArt": null,
@@ -16647,7 +16650,7 @@
         "languages": [
             "en"
         ],
-        "size": 606076928
+        "size": 787480576
     },
     "70010000028826": {
         "id": "01004900113F8000",
@@ -20721,7 +20724,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2ff943e633d7296905c8097da8487c8a35a9290e096b0b0bce48ce235f0fae6e.jpg",
         "intro": null,
-        "description": "Just Dance\u00ae 2021 is the ultimate dance game, with 40 hot new tracks from chart-topping hits like \u201cDon't Start Now\u201d by Dua Lipa, \u201cFeel Special\u201d by TWICE, and \u201cSe\u00f1orita\u201d by Shawn Mendes & Camila Cabello. Start a dance party your friends and family can enjoy!\n\n- Just Dance Unlimited subscription streaming service lets you dance to over 550 songs! One month FREE included with the game. \n- Play Sweat Mode, exercise while having fun and track the calories burnt!\n- Play with friends and share the fun with the co-op mode!\n- Enjoy eight new kid-friendly tracks for a family-fun experience.\n- Use your Joycons to track your best moves - no additional accessories required! Up to six players can join!",
+        "description": "Just Dance\u00ae 2021 is the ultimate dance game, with 40 hot new tracks from chart-topping hits like \u201cDon't Start Now\u201d by Dua Lipa, \u201cFeel Special\u201d by TWICE, and \u201cSe\u00f1orita\u201d by Shawn Mendes & Camila Cabello. Start a dance party your friends and family can enjoy!\n\n- Just Dance Unlimited subscription streaming service lets you dance to over 550 songs! One month FREE included with the game. \n- Play Sweat Mode, exercise while having fun and track the calories burnt!\n- Play with friends and share the fun with the co-op mode!\n- Enjoy eight new kid-friendly tracks for a family-fun experience.\n- Use your Joy-Con\u2122 to track your best moves - no additional accessories required! Up to six players can join!",
         "languages": [
             "ja",
             "en",
@@ -27806,6 +27809,49 @@
         ],
         "size": 217055232
     },
+    "70010000031980": {
+        "id": "01004230123E0000",
+        "rightsId": null,
+        "name": "More Dark",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201127,
+        "nsuId": 70010000031980,
+        "category": [
+            "Platformer",
+            "Puzzle",
+            "Arcade",
+            "Action"
+        ],
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8dfd295ce9a9c258b7538846603d948cd0a41ded0a1427599749aa8f6e88bc12.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/83479a8476b4131fb9f97d3fe02e909e81446ca021d5c6a4d9ccd959aa8c139a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b6c0adcfb80cc434daf2ed542cbb446383ad10450708545eb9a70a43cfc3f3a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d687104aadda6757fd44163d0e8cd6017623ce60fd7bdd494bd1dd5e81bfb8c2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4fc7246f1f2a2d448af6d1137f63df80e9532a79d525a3cbf5a767366c3bb8fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ba98790bca3298537df5cef4335c4b71e9778eacc5341c20facdada6a1626d13.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fe976acdb58a89512de165abb816a262e1a656980af70e68b79171dfe2ea6d54.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e5f051457a0d390c458d1e020f90a70ac6263c989dd6705295007ef420d2e0d7.jpg",
+        "intro": "Jump on platforms and capture prisoners to clean up Hell.",
+        "description": "After the Lord of the Other World went on vacation his leadership was temporarily taken over by his sweet daughter, Evilina and chaos ensued. The prisoners of damnation have all escaped from their confinements and scattered about the kingdom, shattering the fragile peace of the devil\u2019s dominion. \n\nYour task is to return order to Hell, corral the escaped convicts, and cleanse each area of chaos and anarchy. Can you save Hell, or perhaps earn redemption? \n\nFeatures:\n* 60 levels\n* Variety of mechanics\n* Hidden keys to unlock hats\n* Gloomy, stylish pixel graphics\n* Retro-inspired music",
+        "languages": [
+            "en",
+            "de",
+            "ru"
+        ],
+        "size": 87031808
+    },
     "70010000031987": {
         "id": "010037500F282000",
         "rightsId": null,
@@ -29276,7 +29322,6 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/36f4b69f489ee5d0d1419de891f4f938104329a5a219ee4e2de309e7bd949f46.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/a17680e29177e05e84d248370c3ac82e97bcdde9c9b56d0aded50dea525b010c.jpg",
             "https://img-eshop.cdn.nintendo.net/i/f96b66cd19a2b5cb26ed5993e7a093b8179c8bfee68895be66e4ab47f404548e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/77875094900d3b196d610f6f97a9b8302c63831e959abd797ebc8798f248b247.jpg",
             "https://img-eshop.cdn.nintendo.net/i/00afc3a30de64a7f213ff6868b40fb9eeaa49f7288d576e16aa776e4d059f7bb.jpg",
@@ -36977,7 +37022,7 @@
         "developer": null,
         "publisher": "Silesia Games",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5db370dad9a30d6ac2aa2702a1f7e38a58a63a146fb3bb31da91cfc94b6da0d8.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/06a792d639f9ed7cb539998591bcd03e4b286d37597238fc5e130059bc27c495.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/6b00c944b8e804972cef0d315467d3e5c3455134f8c6ee3cfa091d215734d3a7.jpg",
             "https://img-eshop.cdn.nintendo.net/i/f56796fa7e41f8ecc37450c1263e08ed04f99a83baffdfe5533db0e0d20a6129.jpg",
@@ -36992,7 +37037,7 @@
         "languages": [
             "en"
         ],
-        "size": 393216000
+        "size": 444596224
     },
     "70010000033751": {
         "id": "0100EC7012D34000",
@@ -38996,10 +39041,10 @@
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/7ff2b671201050bb3f71b2215bdd1852e0cfacf62ac0036355e4d9a95a8b371f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/6a3c9a541c118dadb2e2b449dcd8eda252d6f7287b109ccf09dcff880c5644b1.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/651868849e84252fc69575a9796b3675808e98cb2fe029891b11e0431bc56946.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cdf537f17e6558b8922e5869aadd37ce8eff27adbf045045e4faf746c8d3aeb3.jpg",
             "https://img-eshop.cdn.nintendo.net/i/713342a9d67eee3e9e58e650c4f2171c6064de60d5a0b562a5db6ab9b5843b37.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b130bfa48f3e82409faa13101c2d0af7e00e5ac4efebbf452f9b66f38df29494.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/f053022e005458cfa331ff1ffa2c163467a379afc5e912be76481961cd25b722.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/64f87afcdad53d4f3a5e0356e4641e947c86ad0c4712f9d1be45641863f2e606.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a3113f6f11154b1e2624fb747aaed16e48587e9368df4431919f315952b08a09.jpg",
         "intro": "Yes, you are an artist! This art school simulator combines the exploration of the amazing world with the performance of creative tasks. ",
@@ -41109,7 +41154,7 @@
     "70010000035000": {
         "id": "010066D013354000",
         "rightsId": null,
-        "name": "Truck Driving Simulator",
+        "name": "Truck Simulator",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -41137,13 +41182,13 @@
             "https://img-eshop.cdn.nintendo.net/i/84a0fa2c12a714820b3c467374c6c1861e8e424c6bd474389cae7db757f6ca97.jpg",
             "https://img-eshop.cdn.nintendo.net/i/a5d3e8c6e9c8997d3ee609e65571f909ee6265136a13b286ee803e8adaab7387.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ba44eaef7dbfc5f798e0628bb331ea00f61f139687da101b13e1b7ea1550a3c.jpg",
-        "intro": "Truck Driving Simulator is an intoxicating mix of Precision Driving, Parking and Spatial Awareness in some HUGE Monster Rigs!",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0372940e6d124b8c93213bdaffb038e5e3ebfed77b897274aeeb2901fbd6864e.jpg",
+        "intro": "Truck Simulator is an intoxicating mix of Precision Driving, Parking and Spatial Awareness in some HUGE Monster Rigs!",
         "description": "Drive carefully, connect to trailers and complete delivery jobs for clients at the Shipping Docks. Earn your seat in bigger and better trucks to access more advanced jobs, with longer loads, bigger trailers and more valuable cargo!\u00a0\n\nGAME FEATURES\n- 15 Epic Trucks, featuring Classic & Modern American & Euro style cabins and a MASSIVE selection of Trailers & Rigs to pull!\n- 75 Tricky Missions to complete your career!\n- Realistic physics and graphics!\n- Multiple Views (including Bonnet Cam)\n\nPRECISION DRIVING PUZZLE\nLearn to drive and park with precision in increasingly difficult tasks, including really tight turns and reversing long loads into tricky positions. Approach each parking problem with an open mind, to find the most efficient way of maneuvering your load into the perfect parking spot as fast as possible. Each mission is a mini-puzzle for which you\u2019ll need to know the limits of your vehicle to drive cleanly and quickly. Impress the clients enough to get paid so you can buy more Trucks!\n\nINCREDIBLE INDUSTRIAL PORT & DOCKSIDE MAP\nExplore the Port, with ferries to board, border control gates to pass through, realistic traffic and tons of vibrant details! Realistic lighting and real-time shadows, super-detailed trucks with interiors and beautiful stunning graphics bring this hive of industrious activity to life!\n\n15 REALISTIC TRUCKS TO DRIVE\nStart your Mega Truck Collection today! With a huge range of realistic Cabins and Tractors, from classic to modern American and European trucks and a vast range of Trailers and exciting Loads to Deliver. You\u2019ll need to cleanly connect your cabin to the required trailer and make your delivery on time. With some seriously long trailers, are you up to the challenge of working in this busy environment, where every second counts?",
         "languages": [
             "en"
         ],
-        "size": 762314752
+        "size": 874512384
     },
     "70010000035012": {
         "id": "0100041013360000",
@@ -41558,6 +41603,44 @@
         ],
         "size": 195035136
     },
+    "70010000035139": {
+        "id": "0100C1A012AE0000",
+        "rightsId": null,
+        "name": "Futoshiki Math",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201204,
+        "nsuId": 70010000035139,
+        "category": [
+            "Puzzle",
+            "Strategy",
+            "Board Game",
+            "Study"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Hook Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f1df1d7dec4f7ce9eb27a6b74abdf61fd7c3a999252b43302080468ed90faa68.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d5aaffdf49880804730a6eb25d4e8b738d26e1a42a501c7559b646721993cee4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dc58f700792bac401ecc0c5ca97552ebf388a3a3e7a8d58efe9e994b1670a987.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/031935379910d62716f97ca3b6c10f781ba3b0ce797f1c069da92b0a9e438ab7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c271b35016e6a16943b9e94cff68c9c374de8d9548994199d060458c3929785.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f659d3a480092d3a7fea96ffe669930a36fdd3046d1d6bce9c6840b2e63172dd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/accda26343c045ff6f584b752251b4452f1c0efa818bb25d9a128d85debb5969.jpg",
+        "intro": "Sudoku + a little bit of math = Futoshiki. Try it!",
+        "description": "> 90 puzzles both for beginners and pro's\n> Beautiful background art\n> Light and dark color themes\n\nFutoshiki Math is played on a square grid. The objective is to place the numbers such that each row and column contains only one of each digit. Some digits may be given at the start. Inequality constraints are initially specified between some of the squares, such that one must be higher or lower than its neighbor. These constraints must be honored in order to complete the puzzle. \n\n",
+        "languages": [
+            "en"
+        ],
+        "size": 153092096
+    },
     "70010000035238": {
         "id": "01005300128E2000",
         "rightsId": null,
@@ -41860,7 +41943,7 @@
             "https://img-eshop.cdn.nintendo.net/i/60003f1d1873a55413c69991e400d49ab55b26d5316473f27aecc782546a77b7.jpg",
             "https://img-eshop.cdn.nintendo.net/i/53d27f10ee4be0a363d8d848279fa2a67bd4ac97907424e4cb4ce5da41f939c7.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7639d9de16fa24bdbea143009630f80aa3d2fa6bafdc06b19deefbb55b86cff3.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ae73d4e43bfbfc9de1b7edf35c4f0b813c4e3234c24f7a3ca1ee90280b5c2b0.jpg",
         "intro": "Explore strange landscapes and solve mind-bending cube puzzles to unlock mysteries of a dream-like world!",
         "description": "DREAMO is a puzzle-solving journey through a shifting landscape of recollections.\n\nIn DREAMO, you wake up on an island as Jack Winslow. Guided by the voice of Tara Moreau, an inventor/therapist, you set out to piece together your missing memories. These fragments are locked in \"Artifacts\", which manifest in your mind as cubes with misplaced gears. As you delve deeper into your mind, the puzzles grow more complex in an effort to keep your memories locked away.\n\nCan you decipher them and unlock the secrets of your mind?\n\nFEATURES\n- First-person puzzle-adventure game,\n- Dozens of individually designed, challenging 3D puzzles with moving components and a variety of modifiers.\n- Fully voiced, narration-based story that explores themes of memory, choice, and consequence,\n- Vibrant low-poly artstyle.\n- An engaging three-chapter storyline\n- Relaxing gameplay formula...\n- ...And a challenge mode, for those who want the hardest possible puzzles.",
         "languages": [
@@ -44181,6 +44264,32 @@
         "languages": null,
         "size": 1107296256,
         "parentId": "010000E00E612000"
+    },
+    "70030000012387": {
+        "id": null,
+        "rightsId": null,
+        "name": "Dreamo Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012387,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1603272704,
+        "parentId": "0100D24013466000"
     },
     "70030000012438": {
         "id": null,
@@ -59694,6 +59803,60 @@
         "description": "Includes:\n1 new training environment!\n6 new backgrounds!\n\nBonus:\n7 atmospheric music tracks.\n\nA Certain Distance by Sean Williams\nCan't Be Touched by Suraj Nepal\nLost in Space by Musical Mandalas\nStand Upright by Michael Shynes\nSweet Crop by Assaf Ayalon\nVoyager Remix Version by Dear Gravity\nWhite Dream by Yehezkel Raz\n",
         "languages": null,
         "size": 160432128
+    },
+    "70050000023035": {
+        "id": null,
+        "rightsId": null,
+        "name": "Northern Europe",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70050000023035,
+        "category": null,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "KalypsoMediaGroup",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00d8f257132cd8b9f9cb7b9274347d55563be024946b2169cc95914152cacff8.jpg",
+        "intro": null,
+        "description": "Railway Empire heads to \u2018Northern Europe\u2019 with its latest DLC. Aid the Swedish Parliament and construct a national railroad to continue the country\u2019s far-reaching industrial advancements along the lakes and sprawling rivers that were first used by freight ships to provide goods and supplies to Northern Europe\u2019s people.\n\n\u2022 New scenario: Hibernation (1853-1870)\n\u2022 Map expansion: \u2018Northern Europe\u2019 (available in Free Game and Sandbox modes)\n\u2022 3 historical engines: Odin (2-2-2), Prins August (2-4-0) and SJB II (4-6-0)\n\u2022 10 new tradeable goods (e.g. crisp bread and brown cheese) and 30 new cities \n\u2022 \u2018Concession\u2019 feature: The map is divided into sections. Buy concessions to gain access to new building grounds (Also available on the full North American map)\n\u2022 Snow: Enhanced weather system for all northern regions in the game\n\u2022 New regional soundtrack\n",
+        "languages": null,
+        "size": 3306160128
+    },
+    "70050000023056": {
+        "id": null,
+        "rightsId": null,
+        "name": "Down Under",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201113,
+        "nsuId": 70050000023056,
+        "category": null,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "KalypsoMediaGroup",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e50cf5cb12660c1870bc71363daad2f7b6716684b2c8e92d563f7fde45e0af32.jpg",
+        "intro": null,
+        "description": "During the first half of the 19th Century, the colonial territories of Australia are sparsely populated and consist primarily of coastal cities and a few smaller farming settlements in the remote outback. However, a series of events is set to spark an industrial revolution, one that will usher in an era of change for Australia and secure a lucrative future. In the Railway Empire \u201cDown Under\u201d DLC, it is up to you to tame the unforgiving outback and expand your railway network across its wild terrain and beyond. Your railway will ultimately be the key to laying the foundations for flourishing cities and to connecting remote mining settlements to coastal metropolises. Are you ready to face the sun-scorched landscape of Australia\u2019s Red Centre?\n\n\u2022 New scenario: \u201cPioneering spirit\u201d (1830-1930)\n\u2022 Map expansion: \u201cDown Under\u201d (available in Free Game and Sandbox modes)\n\u2022 3 new historical engines: Heisler (0-8-0), C30 (4-6-0) and Class S (4-6-2)\n\u2022 New tradeable goods (eg. seafood, Rail-O-Mite and canned beer) and 52 new cities to discover\n\u2022 New music tracks, reworked city buildings and unique mission structures (eg. Sydney Harbour Bridge)\n\u2022 New Settlement feature unique to the \u201cDown Under\u201d map: on pre-determined locations, players can now establish new cities and this way arrange the economic system to their liking",
+        "languages": null,
+        "size": 3306160128
     },
     "70050000023062": {
         "id": "010013C010C5D002",
