@@ -14159,6 +14159,48 @@
         ],
         "size": 234881024
     },
+    "70010000029015": {
+        "id": null,
+        "rightsId": null,
+        "name": "Monster Hunter Rise",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210326,
+        "nsuId": 70010000029015,
+        "category": [
+            "Azione"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a854cb4b13e0f31fb81b558c1a475c2fbc1771c8bade4c8437d4a8357f13895b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/02acbe74ae20a619ff633823027b5f58ab4b9872cd42e02a72e0e37f2da0f1e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c89630e2adc19ad4d91791800cd873cea8dfc62e468fbf1fb541a0e14930372.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8ae4f44583fbb1059ab5d5cad5ea9d51d5fffa073a0e06727803dc69730bfaa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bffa967fdcfc0250fded9ad2ce4170c2d34a8214baad33005cc1a3d220bb79db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71d01d131f87144f39a5a4ec037aa4e35b7fa06b7fa01fa6f0efd8a36e9e161f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b6ca09e9a7f6faf27641f62dabe64c6ff97b4f326aa478379e3c112aa28eb9ab.jpg",
+        "intro": "Vivi le emozioni travolgenti della caccia ai mostri!",
+        "description": "Nuovi mostri, nuove abilit\u00e0 e nuove ambientazioni. Preparati a un'esperienza di caccia senza precedenti!\n\nSfodera la tua console Nintendo Switch e unisciti agli altri cacciatori!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 0
+    },
     "70010000029017": {
         "id": "01000A001171A000",
         "rightsId": null,
