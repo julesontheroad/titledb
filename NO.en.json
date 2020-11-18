@@ -3617,7 +3617,7 @@
             "ru",
             "zh"
         ],
-        "size": 417333248
+        "size": 625999872
     },
     "70010000018541": {
         "id": null,
@@ -6458,6 +6458,48 @@
         ],
         "size": 441450496
     },
+    "70010000021841": {
+        "id": "0100AF100EE76000",
+        "rightsId": null,
+        "name": "Quiplash 2 InterLASHional: The Say Anything Party Game!",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000021841,
+        "category": [
+            "Party"
+        ],
+        "ratingContent": [
+            "Sexual Innuendo"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Jackbox Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/137413bc8e9afae6971135c431758eee37690ed43da29d10e906eb16db6e2e3e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0edba51f1b9534001dca656f06532daab0d9f82cdd2416bcf17845ed5713cd77.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25a458b91a58311169356ff963eae8fecfa0037e786864780e044ac5a75ff7c4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db41a0c47ed27836e28af7eaea883ff4d37c0468a0ab5b88b6c6dad2d6c6a265.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/feaa4daddddc6847e9fa95dda5f7588719c37a39c0eb62e6440ca094deee60b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4610f25ed6a7bf7da7670b4d03ab89aa18529028e2138d50fe58a4252a17cf8a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bc23468ae093255b6c44fd81ca5195ab3ae30ab73bda09d03f1c77e197bf6a0e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d7c1a1db6862bdb29981235c94f9e4603b5a9c3b4c4747a1d7e6f3984c04f25f.jpg",
+        "intro": null,
+        "description": "The \"say anything\" party game is going international! All the hilarious content from Quiplash 2, now in English, French, Italian, German, and Spanish! Plus\u2026\n\n100 EXTRA French prompts!\n100 EXTRA Italian prompts!\n100 EXTRA German prompts!\n100 EXTRA Spanish prompts! \n\nThe same BORING OLD English prompts!\nAll in one QUINTILINGUAL Quiplash!\nPick up Quiplash 2 InterLASHional today and take your next party global, because absurdity is the universal language.\n\n*NOTE: English content in this game is identical to that of Quiplash 2, found in The Jackbox Party Pack 3.\n\nNOTE* This game is local multiplayer only.\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 350224384
+    },
     "70010000021849": {
         "id": "01002A900EE8A000",
         "rightsId": null,
@@ -6677,7 +6719,7 @@
             "nl",
             "ru"
         ],
-        "size": 14134804480
+        "size": 15759048704
     },
     "70010000021939": {
         "id": "0100B1500EF32000",
@@ -8120,6 +8162,50 @@
             "ru"
         ],
         "size": 3313500160
+    },
+    "70010000022938": {
+        "id": "010060D00F658000",
+        "rightsId": null,
+        "name": "Star Renegades",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70010000022938,
+        "category": [
+            "RPG",
+            "Strategy",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Mild Swearing"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Raw Fury",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/56c5cb7413e825b3a2ae70cf8e8984a1f76b19a3f800281e2bde07202d20a020.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f2e06f3397b341233aca05b16fe7e7cff13c2b04afc871617d363c30b04bd671.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0bc3e583e8e03e51538b7aa10bc82019b9e3d0050726a6d5ab4a8e478bdf6162.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63b223b52308a08fd158b53700c27452bbd3707ffbe097897f839311d76ba1ec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a9cf6519f128ced02a43ce5d77329d2d5f1df81e0d327eeeee63fb13db263886.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74ba7ba615e3d023ee5a281f3b20d4fc2986119ff342d3ed2d3c8f5c1fc9912e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/861124d00516deaa8985cb3d1096b2c5ab3d09c7674bc0c0650011c6ec0c9d72.jpg",
+        "intro": "RESIST. RECLAIM. SURVIVE. REPEAT",
+        "description": "A service robot named J5T-1N has arrived in your dimension to warn of impending doom from an overwhelming force known as the Imperium.\n\nFight for survival across a procedurally generated and emergent mission-based campaign through reactive, tactical turn-based battle system that emphasizes interrupts and counters. Standing in your way is an intelligent Adversary system with enemy officers that evolve and move up in the ranks.\n\nAs your band of heroes fall in the fight against invading Imperium and hope is all but lost, J5T-1N must be sent to the next dimension with everything you\u2019ve learned to give the next group of heroes a chance to prevail. Each dimension, and each playthrough is unique, challenging, and never the same.\n\nFEATURES\n\n\u2022 Outwit your foes with interrupts, counters, and combos in our fast-paced Reactive Time Battle System\n\u2022 Survive the relentless onslaught of an Intelligent Adversary system that generates unique enemies and bosses that evolve as you play\n\u2022 Unlock dozens of alternate characters as your surviving squad members form bonds and create progeny\n\u2022 Battle your way into the heart of the Imperium as our Rebellion Engine creates a unique experience with each playthrough via emergent gameplay and events, procedurally generated missions, shifting priorities, evolving enemies, and tons of equipment/upgrades for your squad",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 2993684480
     },
     "70010000022957": {
         "id": "010099F00EF3E000",
@@ -11441,6 +11527,49 @@
             "zh"
         ],
         "size": 392167424
+    },
+    "70010000027009": {
+        "id": "0100CB50107BA000",
+        "rightsId": null,
+        "name": "Truck Driver",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70010000027009,
+        "category": [
+            "Simulation",
+            "Racing",
+            "Adventure",
+            "Lifestyle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Soedesco",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a5fa3378b24cbce362209d10c3f1d89a2430f6455dc50fe12094ba9760fb244a.jpg",
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c670bc8f953b1c1bca7d1945fa54c3f01a6a0bce6181f2bf274a6b27c3be35f5.jpg",
+        "intro": "Start from the bottom, take on jobs, buy new trucks & parts and become a respected Truck Driver!",
+        "description": "When you inherit a truck from your father, you decide to take your chance and move to a new city. Here, it\u2019s up to you to make a name for yourself and earn the respect of the local community. Drive through a seamless open world, work with all kinds of people ranging from a constructor to a lumberjack and honor your father by making it as a Truck Driver!\n\nFeatures\n\u25cf Enjoy a trucking experience focused on your career as a truck driver\n\u25cf Build stronger relationships with the local community with each job\n\u25cf Customize your truck with tons of parts and tune it to your liking\n\u25cf Navigate through diverse landscapes and interesting locations",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1106247680
     },
     "70010000027017": {
         "id": "0100F780103E6000",
@@ -17753,6 +17882,55 @@
         ],
         "size": 1258291200
     },
+    "70010000029062": {
+        "id": "010096B01179A000",
+        "rightsId": null,
+        "name": "Ponpu",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201129,
+        "nsuId": 70010000029062,
+        "category": [
+            "Action",
+            "Adventure",
+            "Arcade",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Moderate Violence"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Zordix",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/92774ce8131d24af0332920a30633e253acbac48ddfca9208b97afab044f9e80.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/18585852ec13cf15d3571f97a39ae5dc6d36ae0ee46e3b48c12355de5084b531.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d612bec167b12c42455b599762a93c2cc306701c58f4ab18ae936b5ae4a9c12.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb24bed2e3c79a0638817e36d97a9970761a68f97b52fcac94cbd0c73a7a424f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4521753944fea91598237e580f75956fdf7be96bb16ba3e13e975ec252e48ae9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4015ef7214d2fb9031457e7cde3c2d6fd22527c572c35376f17715cdeb28f71a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/45e06dba26c549c90c66e1d4ee6575be837868129a5c7d615a23f1f7d932963e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4136256465de7736a01789ed63d57d7612b3661cb0fdb0e49bc6602ec403d228.jpg",
+        "intro": "Get ready to break some eggs in this frantic multiplayer party-game! Ponpu mixes classic gameplay with new crazy mechanics, all packaged in one of the coolest art-styles ever seen! ",
+        "description": "As a herald of the almighty creator of the Universe \u2013 the Duck-God, battle it out with your siblings in an epic quest to save the world from destruction!\u00a0\nOnce you\u2019re done saving the world, engage in frantic multiplayer in a range of crazy game modes with up to 4 players.\nBombs on!\nFeatures:\u00a0\n\nA fresh take on a classic game concept  \n\nAn epic campaign with massive bosses\n\nHectic 4-player multiplayer with three crazy game modes:\nTeam Deathmatch \u2013 Last Ponpu standing wins!\nCoin Chase \u2013 Hoard the most coins before the time is up. Dragon style! \nColor Fight \u2013 Paint the town red! (or you know\u2026 whichever color you prefer)\n       \nThe most epic egg-based arsenal ever witnessed!\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 1845493760
+    },
     "70010000029066": {
         "id": "0100AB700AF14000",
         "rightsId": null,
@@ -18902,6 +19080,44 @@
         ],
         "size": 5647630336
     },
+    "70010000029371": {
+        "id": "010038E011940000",
+        "rightsId": null,
+        "name": "Puyo Puyo Tetris 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201208,
+        "nsuId": 70010000029371,
+        "category": [
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/03337cb7e5eacd98b794dd8a15c66e7d66c0a34185290d9f0eb173bb989e9f26.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1495285977351c1da62ae8bee5850a8b54f5966150073bb5d5a4bac3d5d68612.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/80f39b9ffdd7b26a69179579e7b49feff027f5665197a1da61912ab104acab85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6729afce23431b5ee39c830f2d03ca4d3da6e075b63bcb7e04f05b13e11dad1f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a57bf7560c8d63988ea8fedb740848e0b54411f19130dc697c9e1ab4147501f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/958722fbfe647204319c90eefed47f2d482f845814703b8d031deec0ced3efcb.jpg",
+        "intro": "Two Puzzle Legends Reunite for the Ultimate Crossover ",
+        "description": "Japan\u2019s beloved puzzle game series Puyo Puyo and the world-renowned Tetris\u00ae game franchise have teamed up again to deliver even more Puyo-popping and Tetrimino-clearing fun in Puyo Puyo Tetris 2. Playing is easy: match 4 or more same-colored Puyos or complete a line of blocks to clear them from your board and dump Garbage into your opponent\u2019s game. But keep an eye on what\u2019s coming your way too.\n\nPlay traditional Puyo Puyo and Tetris\u2026or mix them together to level up your game. Offline or online, you\u2019ll have loads of modes that let you play the way you want from single-player Adventure to couch-competition Versus to ranked Online matches, and more.\n\n\u2022 Brand-new Skill Battle introduces character-based skills that can quickly turn the tables on a match, plus item cards to power up your team\n\u2022 Vibrant characters and an all-new story adventure add dimension to addictive arcade puzzle play\n\u2022 Improved Online mode offers competition in game-specific leagues and Free Play for up to 4\n\u2022 Challenge modes including endless Tetris and Puyo Puyo add still more variety to solo and online play\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 1336934400
+    },
     "70010000029379": {
         "id": "0100A1A011944000",
         "rightsId": null,
@@ -19233,6 +19449,48 @@
             "zh"
         ],
         "size": 538968064
+    },
+    "70010000029576": {
+        "id": "0100D520119D6000",
+        "rightsId": null,
+        "name": "Travel Mosaics 6: Christmas Around the World",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201116,
+        "nsuId": 70010000029576,
+        "category": [
+            "Puzzle",
+            "Education",
+            "Adventure",
+            "Board Game"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "JetDogs",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d26a56be08dbc52ee48387946582da6fb82fedbcb6bfda4621e7184077ed9399.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/faf254e5881a60e32f2c4d9ea9325aa85baca7da1d544a6521b9f8328a732d12.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd6ad3e3fa904130781ea7c047eef695895bb59e892ffc391a2482ee8a6c31be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3b9b8605cfb78f44773c66a6967e81e2bb3c496369b998f3cd580db5e180964d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1701ac9b3296fbecceb8139f0b8a532d418910fad2b0d55acb77c05f081b4afd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/921d32f77b3634c191dfb8eff432d43f29b27055f1cf0fae0a7642b79bc38d60.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b46500910863fffcd2ed76f7d46a11e18a9195fa565cdab457c3abeb60d98d90.jpg",
+        "intro": "A classic nonogram puzzle with a twist! Lots of fun and just the right amount of challenge for the entire family!",
+        "description": "The festive season is here, and the Walkers have prepared the most adventurous celebration imaginable! Do you know where Santa\u2019s residence is? What is the most common Czech Chistmas treat? Where can you find the largest floating Christmas tree? Learn these fun facts and more in Travel Mosaics 6: Christmas Around the World! \n\nThe holiday special edition of Travel Mosaics features your favorite nonogram puzzles mixed together with the festive spirit!  Each puzzle is handcrafted and features a recognizable Christmas-themed picture that is revealed as you play.  \nThe game is suitable for players of all skill levels: choose the easy mode for relaxed gameplay or test your skills in the difficult mode. As you play, you can collect cute souvenirs from all over the world to decorate Walker\u2019s living room. All of this and much more awaits you in the holiday special of Travel Mosaics!\n\nGame Features:\n\u2022 Christmas tour around the world - visit multiple locations\n\u2022 Festive holiday-themed puzzles\n\u2022 140 nonograms + 20 EXTRA levels + 20 SECRET BONUS levels\n\u2022Family fun! Suitable for players of all ages\n\nAll puzzles can be solved just by logic - no guessing involved! But don\u2019t worry - the Walkers have prepared 4 types of hints to help you out if you ever get stuck.\n\nThe game utilizes Nintendo Switch\u2122 features to their full potential. Play using your Joy-Con\u2122 controllers or use the touch screen.\n",
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "nl",
+            "ru"
+        ],
+        "size": 193986560
     },
     "70010000029586": {
         "id": "010032700EAC4000",
@@ -19855,7 +20113,7 @@
             "fr",
             "de"
         ],
-        "size": 5256511488
+        "size": 5307891712
     },
     "70010000029752": {
         "id": "0100E20011A06000",
@@ -21727,7 +21985,7 @@
             "zh",
             "zh"
         ],
-        "size": 43236982784
+        "size": 43459280896
     },
     "70010000030356": {
         "id": "01001EB011D38000",
@@ -23987,6 +24245,54 @@
             "zh"
         ],
         "size": 363855872
+    },
+    "70010000030994": {
+        "id": "0100D9D011E3C000",
+        "rightsId": null,
+        "name": "Wildfire",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000030994,
+        "category": [
+            "Action",
+            "Platformer",
+            "Puzzle",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Humble Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/520bc23a378d6a46883fdd39132322b7a82ee58ca8a97ae0458b7451561af2d3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6faa0044524f994b9accf74b63ced5a82dc08f7f7caeebd03b8a9a943a3d17ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/caee515fe5f23d590da07a41ed3cd7983a009092ff77d8eb05107eb59b07bc1d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/851b6b78dd8f986ebcf9b6dba947614d4580b11de86e1ea54d3875ff8f4cb3eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb7ba83a31fd60c8d74b11f487bad0888b131e405cb554c902aae8cc886c6173.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b32033df04f8ca4ad6c96278b074311e693bb0f797275dc566bb256813862c61.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da3c69d81df465f9314fdcc5b6fa1234f3b14297d705fda7148a92c2c6def746.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0257f64abbecea6035f3fe329c375671ce2609001d99ac7a1e17d87989993747.jpg",
+        "intro": "Master the elements in this stealth game where everything burns.",
+        "description": "Use your elemental powers to start fires, freeze water, and move earth as you outsmart superstitious enemies in this mischievous 2D stealth game. Take back your home and rescue captive villagers along the way; manipulating the environment to help you and harm your foes.\n\nIn a world where magic has all but died out, you\u2019ve been branded a witch by villainous forces who fear your elemental power. Outsmart the superstitious armies of the Arch Duchess as they hunt you through lush forests, deep caverns, and over frozen mountaintops. Find and free your fellow villagers from captivity, then lead them to safety to reclaim your home.\n\nFeatures\n- Manipulate Your Environment. Use fireballs to set the world ablaze, freeze water to cross impassable lakes or trap your enemies in ice, and move earth itself to grow grass to hide in or vines to climb.\n- Master the Elements. You'll learn new abilities as your connection to the elements grow, but beware; fire will spread and consume everything in its path - including you!\n- Outsmart Your Enemies. Use the environment to your advantage as you evade and engage the Arch Duchess' forces, intelligent enemies that work together to hunt you down.\n- Burn the World...With a Friend. Play solo or have a friend join you, wielding your elemental powers in tandem, creating new ways through Wildfire\u2019s dense, systemic environment.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 359661568
     },
     "70010000031016": {
         "id": "0100655012064000",
@@ -30276,7 +30582,7 @@
             "zh",
             "zh"
         ],
-        "size": 255852544
+        "size": 416284672
     },
     "70010000032412": {
         "id": "01005350126E0000",
@@ -35204,10 +35510,10 @@
             "Puzzle"
         ],
         "ratingContent": [
-            "Fear"
+            "Mild Swearing"
         ],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 12,
         "developer": null,
         "publisher": "PLAYISM",
         "frontBoxArt": null,
@@ -38608,6 +38914,44 @@
         ],
         "size": 2980052992
     },
+    "70010000034300": {
+        "id": "0100BD50129C4000",
+        "rightsId": null,
+        "name": "Super Space Serpent Secondary Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201206,
+        "nsuId": 70010000034300,
+        "category": [
+            "Arcade",
+            "Shooter",
+            "Action"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "VerenigdeProducties",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7c97b5978faa11e12199056a88f89ae0876f183960c265e5df2739bf13bb9657.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3bd5cb98ad5134279315454e7e1694ab4947e55f4c79fdcdd720344d5212ca5a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9bfc19d6e3af3360b18722a2714332323cb37343091e9d31f22f1a1880a64f27.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/79869408f72fe134256c6b0aa1cdd1911a08622f613f1d29391a6f89a20548f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f0476919d2283c05cb86241c031faffc067cc0b37f1a946cd8fa4c382ae2ba83.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/98c9ce084c48179fda6e688250deb5e743f18f5c92938ec3071ada6fa5b0d3cf.jpg",
+        "intro": null,
+        "description": "Super Space Serpent Secondary Edition is a Twin Stick shooter in the style that fits your favorite era. Let the retro neon effects and futuristic soundtrack put you in a zone like only the arcade games of the 80's could. Try to beat the handcrafted levels with ever changing enemies from distant worlds while using an arsenal of weapons and upgrades.",
+        "languages": [
+            "en"
+        ],
+        "size": 216006656
+    },
     "70010000034331": {
         "id": "01007FC012FD4000",
         "rightsId": null,
@@ -38937,9 +39281,14 @@
         "intro": "Try on the role of a driver of a passenger bus. Take a ride in a real city, strictly following the schedule.",
         "description": "Complete journeys around the city and its suburbs, strictly following the schedule. Earn money by successfully delivering passengers and following the traffic laws. Complete various scenarios with pre-set conditions or build your own career in Free Mode. You have a unique chance to drive buses from different eras and countries. You can drive both old Soviet city buses and European long-distance giants.\n\nWe took photos of a big part of these cities and their suburbs to recreate buildings and streets as close to real objects as possible. Virtual cities are recreated in a very accurate way, with every detail preserved. Buildings, bus stops and other objects are situated exactly on their places.\n\nChoose routes at your look to drive around the city districts you are interested in. It does not matter whether you like high-speed passenger transportation or slow and relaxed driving. If you do not like pre-set schedule, you can customize it for your driving style. Earn money, buy new buses and upgrade them. Decorate your bus as you want. \n\nGame features:\n- Vast number of high-detailed buses from different countries and eras.\n- Complete edition with all dlc's included. \n- Recreated cities and their suburbs with area of more than 20 km\u00c2\u00b2.\n- Possibility of upgrading your buses, adding and replacing decoration elements.\n- Different weather conditions, dynamic day time change.\n- Various traffic situations: traffic jams, accidents, speed bumps, driving at night, long-distance travels.\n- Wide functionality on driving a bus.\n- Necessity to visit gas stations and garages.",
         "languages": [
-            "en"
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
         ],
-        "size": 3251634176
+        "size": 4368367616
     },
     "70010000034367": {
         "id": "0100E8B012FBC000",
@@ -39570,6 +39919,54 @@
             "ru"
         ],
         "size": 267386880
+    },
+    "70010000034540": {
+        "id": "01008E2013144000",
+        "rightsId": null,
+        "name": "Paw Paw Paw",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201204,
+        "nsuId": 70010000034540,
+        "category": [
+            "Action",
+            "Adventure",
+            "RPG",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/82fac735caa2597dc1ea13069aca36d8f12f767b63cf863a129a95c59c619af1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bad59e095d4d669370b9e2baa2c1158466bf01c91774a77dde5b97b14b9db6ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f475d9454629eb316bca8207811bb45e4c69bb74f6eb52a1ad938643373c0ecd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f9d45b027fad4ebd682afa794e5ab917b7ab2f1d269e26753816c116483a7290.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/edf8c8601b2468e2626ff787849ba8fd92554c04194b89bc7befe14c8662dce3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0456b228780177ca4bb34889ebb53a59c85ce3e423e4351ce575a95639bc22a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c82a2f723542c92ec14e05f2d1838b757f9dc3e322090c1b882903cdd7a12df6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5e65aa6e18cc281bac39f5b00d344d374d19875580b7e44a135ea77b0cd2dd64.jpg",
+        "intro": "Fight for the freedom to not wear pants!",
+        "description": "Paw Paw Paw was a peaceful and prosperous kingdom until one fateful day, when the King had decided to enforce everyone to wear pants.\n\nYou play as part of the resistance group ANTIPANTS, in their effort to bring down the King. Hack and slash your way to victory, and beat all your enemies into pulps!\n\nFeatures:\n* Play single player or local co-op up to 4 players\n* Level up your character\n* Unlock new combos\n* Loot and equip new weapons\n* Hire a companion to help you in battle\n* Ride your mount into battle",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 233832448
     },
     "70010000034555": {
         "id": "01008800130EA000",
@@ -42663,6 +43060,47 @@
         ],
         "size": 125829120
     },
+    "70010000035722": {
+        "id": "0100A51013550000",
+        "rightsId": null,
+        "name": "Death Tales",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000035722,
+        "category": [
+            "RPG",
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Arcade Distillery",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/23b8655ab5810bff76ab87f33c3770fad3cbb9a2c8c793a608094e67b8a60e4d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3e3729fb5e3f8f32fc385be9ab1ce90ceaaaec6ee2ab37711895cff2f972cb4a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fe2ec3f66c28d7b67967988654d0eb64ca716d5edcda873c42b51da1b57e6170.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0440a148977d56bebe10bf1ace42d0417bbc2d44f82bb51ba0bc299de6da9ca7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c351a7321b6bdff427577bbc0e7d02439e2f611773acaa550ac7b5e010ede454.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd7ac541b9201c212e736a9508ccb1db0734ad5b7c75015ab47538acc155e640.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a6f5e3b387d1a762775be4a47df877e6efab61d84767f4e9b61f7a3571578b8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/93e3e0ed064cdac5589e87b1cabf884b7487ad3d7b4df65252476589dd665318.jpg",
+        "intro": "Play as a new reaper, completing quests, collecting spells, and gathering equipment to fight through hordes of enemies in this grim but whimsical 2D adventure!",
+        "description": "Embark on an adventure as a new Reaper who has gone rogue! Collect equipment and spells, learn powerful attacks against hordes of enemies, complete quests for a cast of quirky characters, and make difficult choices in this grim yet richly illustrated 2D world. Play alone or with a friend in local co-op and serve Death together!\n\nOver 40 pieces of Equipment for you to acquire to customize your Reaper and aid you in battle! Find equipment in a variety of well hidden chests, or use the souls you collect as currency to buy items from the local vender, Fiona. Be sure to check back every day, as her inventory changes! Mix and match armor and harness the power of the unique skills such as fireballs, the ability to freeze enemies, angel wings allowing you to glide to safety, summon meteors from the sky and even stampeding unicorns!\n\nJoin forces with a friend locally. While in local play, Player 2 plays as Spaura, the Reaper\u2019s Soul Bearer. \n\nBattle your way through 30 beautifully designed levels, help colorful characters through various side quests, and fulfil your reaper duties by collecting souls for Death. Daily bounties are available from various npc's.\n\nCollect equipment, learn spells, and advance as a Reaper to take on horrid enemies, and defeat epic bosses.",
+        "languages": [
+            "en"
+        ],
+        "size": 807403520
+    },
     "70010000035728": {
         "id": "01006C8013708000",
         "rightsId": null,
@@ -42923,6 +43361,45 @@
             "zh"
         ],
         "size": 204472320
+    },
+    "70010000036159": {
+        "id": "01006BA013990000",
+        "rightsId": null,
+        "name": "Girabox",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201127,
+        "nsuId": 70010000036159,
+        "category": [
+            "Puzzle",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Drageus Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8de66cee95c23204f358bee6793e7b304ab427fc53adcb72d81b27f4ea3460cb.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9b86edbb975d0a0c37d77d16588d0ddaeb692001b89d4f4dcc2515e810867428.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ee02797077a400eefa12ffdb80c5ec5050e5a50a8ec0ecf21ef83aa21dd8f79.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/66f65754841f2e4a9fbc5fecefc1196ee2ba0a5e1aa7c24ecfa370cc010b757a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3fa2b5732aa28709a1bc8147711e9176ae56c3451ae4d53fe5d2b2632742de81.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d4b378e787dd6980d044edc934aa93f10f50ddbe34b514dc333114b7c4eebd84.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18926f13a14c392e8069f276d1248bb0752de5609c66ad0ba9a24378b7fb7d74.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2d0cede2a78f1c2a85518910499bae3db728ff2ffd24aac53d6a4888399cba7d.jpg",
+        "intro": "Move the world around, not the character! Rotate the levels and let gravity do the rest to solve the puzzles and dominate the leaderboards.",
+        "description": "This minimalist puzzler offers a unique premise for an innovative and deep gameplay: here you don\u2019t control your character, but rather the world around it. Gravity is the only force applying motion, so you need to rotate the levels until your character reaches down to the ultimate goal. Every rotation is counted, meaning that the smaller score, the better! Be smart and compete with others for the online leaderboards podium.\n\nThe minimalist visuals, the smooth controls and the puzzles architecture are specifically designed to provide a tight and frictionless experience through all the many levels available.\n\nFeatures:\n- Ideal for short sessions and to \u201cplay on the go\u201d\n- A lot of puzzles\n- Innovative mechanism\n- Minimalist, tight and smooth\n- Speedrun modes and online leaderboards\n- Chill ambient music by pATCHES",
+        "languages": [
+            "en",
+            "es",
+            "fr"
+        ],
+        "size": 158334976
     },
     "70010000036179": {
         "id": "01006B5012B32000",
@@ -61641,6 +62118,31 @@
         "languages": null,
         "size": 198180864
     },
+    "70050000023419": {
+        "id": "010038E011941001",
+        "rightsId": null,
+        "name": "Skill Battle Booster Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201208,
+        "nsuId": 70050000023419,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/283f4d726024b8c6361df493a644a0c1e10f30e0d1bff7a09c9a957fe5cc9fc5.jpg",
+        "intro": "Don't miss exclusive Sonic the Hedgehog-themed Item Cards",
+        "description": "Boost your strategy and power your team in Puyo Puyo Tetris 2's brand-new Skill Battle mode with this pack of rare Item Cards--including 3 special cards featuring items from the Sonic the Hedgehog series! This pack is exclusive to the Puyo Puyo Tetris 2 Launch Edition. Get it before it's gone!",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000023435": {
         "id": null,
         "rightsId": null,
@@ -65975,7 +66477,7 @@
         "intro": "Everything is Game",
         "description": "NBA 2K21 is the latest release in the world-renowned, best-selling NBA 2K series. 2K21 leads the charge with next-gen innovations, while continuing to deliver an industry-leading sports video game experience on the current generation of gaming platforms.\n \nWith extensive improvements upon its best-in-class graphics and gameplay, competitive and community online features, and deep, varied game modes, NBA 2K21 offers one-of-a-kind immersion into all facets of NBA basketball and culture - where Everything is Game.\n\nThe NBA 2K21 Mamba Forever Edition includes the following digital items:\n \u2022 100,000 Virtual Currency\n \u2022 10,000 MyTEAM Points\n \u2022 10 MyTEAM Tokens\n \u2022 60 MyCAREER Skill Boosts\n \u2022 40 MyTEAM Promo Packs (10 at launch, then 3 per week)\n \u2022 Sapphire Damian Lillard and Zion Williamson MyTEAM cards\n \u2022 MyPLAYER Shoe Collection\n \u2022 MyPLAYER backpack\n \u2022 Kobe Bryant Digital Collection",
         "languages": null,
-        "size": 43236982784
+        "size": 43459280896
     },
     "70070000011074": {
         "id": null,
