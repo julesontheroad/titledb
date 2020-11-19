@@ -3688,7 +3688,7 @@
         "developer": null,
         "publisher": "WB Games",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8d889a1ad2d01219752edfac100a2309aa27889577d5fd2318fd392c95724d87.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a24c3bf5c318afdf67b92dd4de87e2202738262ff4db62d3f2d10c4126a48f67.jpg",
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3d45a55169bcdeccb5fc315d6c0fe7d8f2733a8545e744f1d28b3d68a69083d3.jpg",
         "intro": null,
@@ -3704,7 +3704,7 @@
             "zh",
             "zh"
         ],
-        "size": 33725349888
+        "size": 34847326208
     },
     "70010000015307": {
         "id": "01003BD00CAAE000",
@@ -4892,7 +4892,7 @@
             "ru",
             "ko"
         ],
-        "size": 14448328704
+        "size": 14732492800
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -5635,7 +5635,7 @@
             "ru",
             "ko"
         ],
-        "size": 4818206720
+        "size": 4846518272
     },
     "70010000021451": {
         "id": "01006C300E9F0000",
@@ -7641,9 +7641,9 @@
             "https://img-eshop.cdn.nintendo.net/i/e2269d6ddd302272fd7ff09212f68aec2a571d155fc88c2bf8cdbfa735d44fe8.jpg",
             "https://img-eshop.cdn.nintendo.net/i/1f0674e9beb61501b11bc174a7edd54d984e1e184579bde853b558803029c04e.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ee702d4936db09219ff1f5f9b8e1b308612a9f0054a39bdec131ac83e4d0bbe.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2a87f28902b884794ee4fcd7dc332be749c311435e0f3e9bcba23c38cc6cb530.jpg",
         "intro": "Work out at home and punch to the beat",
-        "description": "Jab, uppercut, dodge, and more to catchy pop tunes in this rhythmic boxing game! Pass a Joy-Con\u2122 controller to an exercise buddy and box to the beat together.\n\nCustomize your workout with the help of a virtual instructor.\n\nChoose from nine virtual instructors, select a challenge level from light to heavy and have a workout prepared for you by your trainer, or create one all by yourself from scratch in Free Training. Check out detailed examples, practice specific moves, and receive helpful feedback from your instructor to get the most out of your workout! \n\nWarm up with the original Fitness Boxing game and then transfer your profile to the Fitness Boxing 2: Rhythm and Exercise game.\n\nKeep your progress from the original Fitness Boxing game and transfer your profile to the Fitness Boxing 2: Rhythm and Exercise game.\n\nGet your daily workout on and box (and bop) to the beat. Pass a Joy-Con controller (or two) to a workout partner to enjoy a 2-player boxing session lead by your in-game instructor. These virtual trainers have different personalities and styles, so try them out and find the one that suits you best! Complete achievements to receive tickets you can redeem for outfits to deck out your trainer in fitness fashion.\n\nWhatever difficulty you play on, you can revisit specific exercises for practice or watch detailed examples to observe perfect form.\n\nFitness Boxing 2: Rhythm & Exercise is a way to get in a guided workout, track your activity, and listen to some popular, upbeat jams.",
+        "description": "Jab, uppercut, dodge, and more to catchy pop tunes in this rhythmic boxing game! Dodges, ducks and step moves turn fitness boxing into a full-body workout. Pass a Joy-Con\u2122 controller to an exercise buddy and box to the beat together.\n\nCustomize your workout with the help of a virtual instructor\n\nChoose from nine virtual instructors, select a challenge level from light to heavy and have a workout prepared for you by your trainer, or create one all by yourself from scratch in Free Training. Check out detailed examples, practice specific moves, and receive helpful feedback from your instructor to get the most out of your workout! \n\nWarm up with the original Fitness Boxing game or the Fitness Boxing 2: Rhythm & Exercise demo and then transfer your profile to the full game\n\nKeep your progress from the original Fitness Boxing game and transfer your profile to the Fitness Boxing 2: Rhythm & Exercise game. Give the Fitness Boxing 2: Rhythm & Exercise demo a try and carry over your progress to the full game, once purchased!\n\n\nGet your daily workout on and box (and bop) to the beat. Pass a Joy-Con controller (or two) to a workout partner to enjoy a 2-player boxing session lead by your in-game instructor. These virtual trainers have different personalities and styles, so try them out and find the one that suits you best! Complete achievements to receive tickets you can redeem for outfits to deck out your trainer in fitness fashion.\n\nWhatever difficulty you play on, you can revisit specific exercises for practice or watch detailed animations to observe perfect form.\n\nFitness Boxing 2: Rhythm & Exercise is a way to get in a guided workout, track your activity, and listen to some popular, upbeat jams. Get a taste of the rhythmic action by downloading the Fitness Boxing 2: Rhythm & Exercise demo from Nintendo eShop. \n",
         "languages": [
             "ja",
             "en",
@@ -8506,6 +8506,34 @@
         "languages": null,
         "size": 1196425216,
         "parentId": "0100227010460000"
+    },
+    "70030000012587": {
+        "id": null,
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Rhythm & Exercise Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012587,
+        "category": null,
+        "ratingContent": [
+            "No Descriptors"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 2284847104,
+        "parentId": "0100073011382000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",
@@ -19782,7 +19810,7 @@
         "intro": "The Future Is Now.\u00a0 Are You With Us?",
         "description": "Overwatch: Legendary Edition includes:\n\u2022\tRedeemable code for Nintendo Switch Online Individual Membership 3-month subscription (Terms apply. nintendo.com/switch-online)\n\u2022\tThe full game\n\u2022\t5 Legendary Hero Skins\n\u2022\t5 Epic Hero Skins\n\u2022\t5 Origin Hero Skins\nBegin your Watch\nJoin the fight for the future in the world of Overwatch\u00ae and choose your hero from a diverse cast of soldiers, scientists, adventurers, and oddities. Bend time, defy physics, and unleash a dizzying array of extraordinary powers and weapons. Engage your enemies in iconic locations from around the globe in the ultimate team-based shooter.\nExperience the Extraordinary\nSpeed up and slow down time. Rain destruction from above in an experimental, jet-powered armor suit. Stalk your prey as a wraith-like assassin that can appear anywhere, anytime. Unleash powers such as Dragonstrike, Transcendence, Graviton Surge, and so much more. Every hero has a unique set of devastating, game-changing abilities.\nPlay Heroes, Not Classes\nEvery hero has a unique perspective on the battlefield and a story behind how they arrived there. You are a champion of a bygone age wielding his punishing rocket hammer in the service of honor, a robotic monk committed to healing the rifts between man and machine, a genetically engineered gorilla who also happens to be a brilliant scientist, and many, many more.\nFight for the Future...Together\nTeamwork is imperative for survival as you enter the fight with friends and comrades. Careful coordination will prove the difference between victory and defeat as your team combines the formidable powers at your disposal to devastating effect.\nShift Your Perspective\nJust when it seems like your team is destined to go down in defeat, switch heroes on the fly and change the course of the battle. But don\u2019t forget that your opponents can do the same. Master the game within the game as both teams shift strategies and change heroes to try to gain the upper hand.\nThe World Is Your Battlefield\nProtect the secrets of the mysterious Temple of Anubis in Egypt, safely escort an EMP device through King\u2019s Row in London, and do battle at many other unique locations. Every map has its own distinct feel with unique gameplay and team-based objectives.",
         "languages": null,
-        "size": 14448328704
+        "size": 14732492800
     },
     "70070000008561": {
         "id": null,
@@ -19972,7 +20000,7 @@
         "intro": null,
         "description": "\"Fight your way through an all-new action-adventure game, inspired by classic dungeon crawlers and set in the Minecraft universe! Brave the dungeons alone, or team up with friends! Up to four players can battle together through action-packed, treasure-stuffed, wildly varied levels \u2013 all in an epic quest to save the villagers and take down the evil Arch-Illager!.\n\nThe Hero Edition includes the Jungle Awakens DLC, Creeping Winter DLC, a Hero Cape, two player skins, and a chicken pet.\n\n\u2022\tUNITE - Up to four players can team up and fight together in co-op mode. \n\u2022\tFIGHT - Personalize your character, then fight up-close and personal with melee swings, hang back with ranged attacks, or tank your way through swarms of mobs, shielded by heavy armour! Unlock dozens of unique items and weapon enchantments for devastating special attacks. \n\u2022\tSURVIVE - Explore action-packed, treasure-stuffed levels in a quest to save the villagers and take down the evil Arch-Illager!. \"\n",
         "languages": null,
-        "size": 4830789632
+        "size": 4859101184
     },
     "70070000008805": {
         "id": null,
@@ -20691,6 +20719,68 @@
         "intro": null,
         "description": "The definitive MK11 experience! Take control of Earthrealm's protectors in 2 acclaimed, time-bending Story Campaigns as they race to stop Kronika from rewinding time & rebooting history. Feat. the komplete 37-fighter roster, incl. Rain, Mileena & Rambo.\n\nIncl. MK11, Kombat Pack\u00a01, Aftermath Expansion & Kombat Pack\u00a02.\n\n\u2022 Experience 2 robust, critically acclaimed Story Campaigns from MK11 & MK11: Aftermath\n\u2022 Play as the komplete 37-fighter roster incl. newly added fighters Mileena, Rain & Rambo \n\u2022 Thousands of skins, weapons & gear for an unprecedented level of customization\n\u2022 Includes all previous guests: Terminator, Joker, Spawn & RoboCop\n\u2022 Every mode including Towers of Time, Krypt, Online, Klassic Towers, etc.\n\u2022 All Stages, Stage Fatalities, Brutalities, Iconic Fatalities & Friendships",
         "languages": null,
-        "size": 33826013184
+        "size": 34947989504
+    },
+    "70070000011197": {
+        "id": null,
+        "rightsId": null,
+        "name": "Mortal Kombat\u00a011 Kombat Pack\u00a02",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70070000011197,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dd4f50c272b6d11e68438c0b93e11bb7ef42bf18ca9b668feddd25c24a3e9464.jpg",
+        "intro": null,
+        "description": "Kombat Pack\u00a02 incl. fighters Mileena, Rain & iconic guest Rambo, feat. actor Sylvester Stallone's likeness & voice. \n\nRambo\n\nA former Special Forces soldier haunted by his time in Vietnam, Rambo is rough, aggressive & famous for taking on perilous missions alone. Now, he brings his brutal skills in Mortal Kombat. \n\nMileena\n\nMileena is the perfect blend of Baraka's ferocity & Kitana's grace. Brought forward in time, this clone now knows of her reign as Empress and death at Kotal Kahn's hands. She is set on retaking her throne. \n\nRain\n\nRain joined Edenia's army to improve his future. Thanks to his strategic genius, he was quickly given command. Rain used his rank to find his birth father & was shocked to learn that he was a god. Rain battles for his rightful place in Edenia's pantheon.",
+        "languages": null,
+        "size": 12582912
+    },
+    "70070000011395": {
+        "id": null,
+        "rightsId": null,
+        "name": "Mortal Kombat\u00a011 Ultimate Add-On Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70070000011395,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b456408e53757b68a2980f6f49a523c37105f27193481c9752df7e68bb0e88f7.jpg",
+        "intro": null,
+        "description": "MK11 required. New players can purchase Mortal Kombat\u00a011 Ultimate.\n\nIncludes newly added Kombat Pack\u00a02, along with previously released Aftermath Expansion & Kombat Pack\u00a01. \n\nKombat Pack\u00a02\n\n\u2022 3 New Playable Fighters - Mileena, Rain & Rambo\n\nAftermath Expansion\n\nAftermath features a brand-new cinematic story. Fire God Liu Kang, the new keeper of time and protector of Earthrealm, looks to secure the future he envisions. In order to do so, he is forced to enlist the help of some unlikely allies & familiar foes. Players will have to decide who they can trust and who they must defeat with fate on the line. Forge a new history.\n\n\u2022 All-New Cinematic Story \n\u2022 3 New Playable Fighters - Sheeva, Fujin & RoboCop\n\u2022 3 New Skin Packs\n\nKombat Pack\u00a01\n\n\u2022 6 New Playable Characters feat. Shang Tsung, Nightwolf, Terminator T-800, Sindel, The Joker & Spawn \n\u2022 6 Skin Packs & 7 Excl. Skins\n\n\n",
+        "languages": null,
+        "size": 96468992
     }
 }

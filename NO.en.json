@@ -2452,6 +2452,51 @@
         ],
         "size": 463470592
     },
+    "70010000015529": {
+        "id": null,
+        "rightsId": null,
+        "name": "TerraTech",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190529,
+        "nsuId": 70010000015529,
+        "category": [
+            "Adventure",
+            "Action",
+            "Strategy"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Payload Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/02627cdb0fbaf00696fab696b8ee76038301338f83972dcd37959ebaeef93c9f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/78eadad6286948052883d4866d6f744c1c013039f4514a1262f07e0acdd22480.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ba00e3ce6381a4063aed35dcba50056ffb27f69b2b2412ea59ea4ffdea131ad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa06bdf49ac2432ebec5bc0edc21f6c0316e51a488f077c6c2c7e846c50d40f8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca4c78a52ed439595d62da098609e8ef675472d3386c5421f72440d2f57a687b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d768575f34cdbe83e552357c31131d7cce88028690dcc379b97f0926abaa316.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a4e1582d7b69941cc9254181c5f0f90ec0911002621deca82705d84692ac923b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa89c043c651901f1c1227ad30418515e247b0803efee5de5eaf1aac440cb354.jpg",
+        "intro": null,
+        "description": "Explore, build, craft and battle across alien worlds in this physics-based construction sandbox adventure.\n\nDesign cars, tanks and planes from a huge library of blocks. Scavenge, craft and buy new parts in order to survive and become the ultimate planetary prospector.\n\nSingle player modes:\n\u2022 Fight enemies, complete missions & work your way up the ranks in Campaign.\n\u2022 Explore and build with or without the threat of enemies in Creative.\n\u2022 Build the fastest Tech you can and beat your previous race times in Gauntlet.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 1171259392
+    },
     "70010000015603": {
         "id": null,
         "rightsId": null,
@@ -5832,7 +5877,7 @@
         "languages": [
             "en"
         ],
-        "size": 335544320
+        "size": 421527552
     },
     "70010000021225": {
         "id": "010007400EB64000",
@@ -6990,7 +7035,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/24f76207a8f65ceef074073f101d9d51834a0e0c5a1e350be9375d7e308ff4da.jpg",
         "intro": null,
-        "description": "Turn your Nintendo Switch\u2122 into mini guitar Guitar and learn to play anywhere, anytime.\n\nGuitar is a simple and fun game for kids and adults of all age, that will let you learn and play your favourite songs with the touch screen and Joy-Con\u2122 controllers.\n\nChoose from one of the three modes of play, novice, learn or compose. You will be surprised how easy it is to play something that sounds so amazing so quick.\n\nAs bonus Guitar also comes with an acoustic, classic and electric guitar so you can amaze your family and friends with your new learnt musical talent.\n\nGuitar is the fun way for anyone to start learning to play the guitar and improve ones hand eye co-ordination.",
+        "description": "Turn your Nintendo Switch\u2122 into mini guitar and learn to play anywhere, anytime.\n\nGuitar is a simple and fun game for kids and adults of all age, that will let you learn and play your favourite songs with the touch screen and Joy-Con\u2122 controllers.\n\nChoose from one of the three modes of play, novice, learn or compose. You will be surprised how easy it is to play something that sounds so amazing, so quick.\n\nAs bonus Guitar also comes with an acoustic, classic and electric guitar so you can amaze your family and friends with your new learnt musical talent.\n\nGuitar is the fun way for anyone to start learning to play the guitar and improve ones hand eye co-ordination.",
         "languages": [
             "en"
         ],
@@ -9116,7 +9161,7 @@
             "it",
             "ko"
         ],
-        "size": 306184192
+        "size": 309329920
     },
     "70010000024088": {
         "id": "0100CF900FA3E000",
@@ -10102,7 +10147,8 @@
             "Action"
         ],
         "ratingContent": [
-            "Fear"
+            "Fear",
+            "Mild Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -10122,7 +10168,14 @@
         "intro": "In this 2D platformer adventure, follow Yui's journey into the past as she navigates parallel timelines to save her family and a world trapped in the Never-ending Night.",
         "description": "Her world: destroyed. Her family: kidnapped. Join our heroine Yui in a desperate attempt to save everything she loved! YesterMorrow is a single-player time-travelling 2D platformer mixing action sequences with puzzle elements. Follow Yui's adventure into the past where she must overcome obstacles and access hidden locations to salvage the remnants of a world trapped in Never-ending Night. Intent on helping the remaining survivors and freeing her family from the clutches of Shadows, what she discovers along the way will leave her with a difficult choice: what will she choose when the fate of her world and the Order of Timekeepers rests in her hands?\n\nThrough her journey, Yui will:\n- Learn the mysteries of Everlight that will grant her the power to wield special abilities and cleanse the world from the Shadows.\n- Traverse across two different timelines, enjoying the serene calmness of the past and battling her way through the corrupted world of the future.\n- Explore the vast world of YesterMorrow, spanning four distinct islands: visit lush forests, abandoned deserts, hardened icy tundras and finally, the Island of Time, where she will fight to change the fate of her world!\n- Encounter dozens of colourful creatures and take on challenging bosses.\n- Solve puzzles and find new ways to use the environment to her advantage!\n- Locate hidden areas, collecting power ups and lore entries detailing the world and its inhabitants.\n- Pet all the animals!",
         "languages": [
-            "en"
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "zh",
+            "zh"
         ],
         "size": 1112539136
     },
@@ -10312,7 +10365,7 @@
             "zh",
             "zh"
         ],
-        "size": 1116733440
+        "size": 1118830592
     },
     "70010000026153": {
         "id": "010079501025C000",
@@ -11551,7 +11604,14 @@
         "publisher": "Soedesco",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a5fa3378b24cbce362209d10c3f1d89a2430f6455dc50fe12094ba9760fb244a.jpg",
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0f8e6e7cea5cee5309fc3710067b293e98ecd6fd37177aeb55f61a39077c6ed8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8a319cb8f2d24d7b1fb25f9ce3b037a3d41ed6a9421755511f29e6967f733c04.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b9ff959fd66da62404d08197b4225370daaf96882b7aba04c6846bb5138f45e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62fdca476416d35e43c198b83a3e7059de5d5e9c20c6f3a25a08bac774ed68d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f0026a4d72d741d43a616cd06c80a8779db19dcac350abbd81fa82978cc93d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a972ca2961dc9124683360137d75dca2727cb3c57c5a5966ade422d6833e95d8.jpg"
+        ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c670bc8f953b1c1bca7d1945fa54c3f01a6a0bce6181f2bf274a6b27c3be35f5.jpg",
         "intro": "Start from the bottom, take on jobs, buy new trucks & parts and become a respected Truck Driver!",
         "description": "When you inherit a truck from your father, you decide to take your chance and move to a new city. Here, it\u2019s up to you to make a name for yourself and earn the respect of the local community. Drive through a seamless open world, work with all kinds of people ranging from a constructor to a lumberjack and honor your father by making it as a Truck Driver!\n\nFeatures\n\u25cf Enjoy a trucking experience focused on your career as a truck driver\n\u25cf Build stronger relationships with the local community with each job\n\u25cf Customize your truck with tons of parts and tune it to your liking\n\u25cf Navigate through diverse landscapes and interesting locations",
@@ -11569,7 +11629,7 @@
             "zh",
             "zh"
         ],
-        "size": 1106247680
+        "size": 1512046592
     },
     "70010000027017": {
         "id": "0100F780103E6000",
@@ -15139,7 +15199,7 @@
             "en",
             "de"
         ],
-        "size": 170917888
+        "size": 243269632
     },
     "70010000028282": {
         "id": "0100D140112BC000",
@@ -29138,6 +29198,51 @@
         ],
         "size": 2069889024
     },
+    "70010000032172": {
+        "id": "0100A5B010A66000",
+        "rightsId": null,
+        "name": "Absolute Drift",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000032172,
+        "category": [
+            "Racing",
+            "Arcade",
+            "Simulation",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Funselektor",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e7ec5988c6f981be4c2cb3a32464fae51fbfcdeae83b19e0e65654776161d4ca.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c2e9079e374b2527db24da4abfea4a9d8b640877a4b8f748749befc3e2eb7e1e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8b5db43db7678356132130e2e49f794ff20396ed38ec00d8fe56394a082a77f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7fc76f233edcf518bfb414f62e09da4be965a59aefda93cd32800ed8d70986d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e143ad1500ee1234f704998674ce5fbe708069e78d2a740b8eb3ab4867deaa4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25bc8370a5ae6e3eeebd063f3c2986a31b05ba242352fa7851c5b78e7da615e8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62b2823fcc41ec7fcb64e3ae79e3ea414e0686bc0799b67451138c97e57c5aee.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c7a3a05bf9a17f4e6b807f171755aa8e205eaaab604e85c63bb64728eca95cde.jpg",
+        "intro": "Drifting: the Art Of Sliding Sideways.",
+        "description": "This is a driving experience like no other. Journey from apprentice to master drifter as you hone your skill in a gorgeous minimalist world crafted by the developers of art of rally.\n\nPush yourself to the limit on drifting tracks and wild mountain roads while you work to unlock trophies and elite events. Compete against ghosts of the top players in the world, or refine your skills by out-scoring your own ghost. \n\nChill out to over 3 hours of original electronic music by C41 and NYTE as you challenge your driving skills at every turn until you finally master the art of drifting.\n\n- Drive and customize up to 6 drift cars.\n- 3 Game Modes: Driftkhana, Drifting, & Mountain Drifting with 34 levels.\n- 5 Free-Roaming areas, each with unique levels and themes, from airports and docks to a floating metropolis.\n- Online Leaderboards, replays and ghost cars. View your friends' runs or the best in the world!\n- 3+ hours of clean Drum & Bass and Electronic music by C41 and Nyte.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru"
+        ],
+        "size": 403701760
+    },
     "70010000032181": {
         "id": "0100B8C01252A000",
         "rightsId": null,
@@ -31351,6 +31456,44 @@
             "zh"
         ],
         "size": 40894464
+    },
+    "70010000032514": {
+        "id": "0100B54012798000",
+        "rightsId": null,
+        "name": "Flatland: Prologue",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70010000032514,
+        "category": [
+            "Platformer",
+            "Arcade",
+            "Action",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "QUByte Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4b5404e9a48a1aabd873f39287bdf7bb56f9a1fa2c8b0190c5474dd17585f6df.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c3fe18b11dd221c1bc10d6a54c62c350dc2382d90b5bfe9c25b55646d8c7e64e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f8ee17851d9f25c1bcd4de33cda394e4f307b259d3c0c1f50f6f7d2bb25ee39.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cabfaaa8ac542faf800247da1526c100b2756810fa6beb15f05f8e5b63b1146a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20d9318dce7f357ab70787ba0b95c4af7a1651aa445098f924b043e8b1c57b0a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/094f9101bd9bd115b2e11a2d459c7df3e85263ad3b4ec6a11e5145ae9f0f1c9e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8c797f50809ff2c519a035186db66e31497e054a39aaeb3c4ef20050bc534ffb.jpg",
+        "intro": "Flatland: Prologue is a prequel to Flatland Vol.1",
+        "description": "Run as fast and precise as you can through Flatland, a minimalist neon-style world that is about to change forever. This is a fast-paced hardcore platformer with hand-crafted levels and challenges.\n\nKey features:\nChallenging, fast and fun gameplay;\nRamping up in difficulty from not-so-easy to soul crushing, Flatland: Prologue features hand-crafted levels with increasing challenges;\nLightning-fast respawns keep you in the flow even in more difficult levels;\nControls are simple and accessible but with several layers of depth to master.\n\nRun, jump, die, learn, repeat.",
+        "languages": [
+            "en"
+        ],
+        "size": 315621376
     },
     "70010000032524": {
         "id": "010015D0127D6000",
@@ -37492,7 +37635,7 @@
             "https://img-eshop.cdn.nintendo.net/i/a82da6b22f607b706fb15a57b88a58e1f586dfa294c6e628eebcec2314964329.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e962aad3f8314048788ba725c31e16bccf87805f2474e622c3ad608091abb63a.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/29e151de27da92956b5d0b157162ddb6da1151c59400cf5e0e132cc176e20adf.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ab28c94c23ac21409f2d7dbebd92a8079fd56156562ed8c79643ee479fd3c54f.jpg",
         "intro": "This pack includes the games: Grand Prix Rock 'N Racing and Rally Rock 'N Racing.",
         "description": "Enjoy 2 games in 1 with this irresistible speed games pack!\n\nGrand Prix Rock 'N Racing\n\nGet ready for some speed with your family and friends!\n\nGrand Prix Rock 'N Racing gives you the fastest, most exciting races. You can evolve your car, improving the engine, brakes, tires and more until you've achieved the perfect evolution to win the Championship!\n\nRally Rock 'N Racing\n\nGet ready to skid around at full speed with your family and friends!\n\nIn Rally Rock'N Racing, you\u2019ll enjoy a wide variety of natural environments, such as deserts, snow-covered mountains, forests... where you can show your skill at the wheel, competing against everyone to become the fastest. The game has several modes, such as Championship, Time Trial, Arcade, and 4-player multiplayer.\n\nFeatures:\n\n-Arcade driving\n-4-Player Multiplayer\n-Online ranking\n\nIf you prefer, you can also purchase them separately in the Nintendo eShop.",
         "languages": [
@@ -38200,6 +38343,45 @@
             "ru"
         ],
         "size": 441450496
+    },
+    "70010000034080": {
+        "id": "01008DA012EC0000",
+        "rightsId": null,
+        "name": "Shakes on a Plane",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201208,
+        "nsuId": 70010000034080,
+        "category": [
+            "Party",
+            "Multiplayer",
+            "Arcade",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Assemble Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d2a48562812848522c05117571e33a4a99a5ca37b2a2f0aa2ee0672f2540dfb7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/46e99474cf8faaa0cfe05485ce471b6017a7637e1c41822f5fd7da59775f22d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d40b111d97f00d8f52d38a043796189273b8adb29822ff57ecb8dbbb4d28d52.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c6091e1465d5ac3976f0d53ecc6e41efafbb69fe556f7f2505e8f77c02962b3b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/570dfc1cd5d14f036192764d70cb52afa4645d808753f6c765da6d386e060546.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a611a1ba71f4f71ae0c0e53b121d7ed65711cee09c89f945a543c3833fdd37fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f76350d2de8eb659564bc2f449c367e666fd8871a279af3786ca8815d1be81b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a27bba04d6ad5387842fabd89d07e09dcc0cf566e8e43607278961f4421f0a51.jpg",
+        "intro": null,
+        "description": "Shakes on a Plane is a chaotic co-op shaking game for one to four players. Flying on various planes with your flight crew, serve up a variety of tasty shakes, burgers, fries and many more dishes before the plane lands on the airport and your passengers rate your services. \nBut it is not only you who creates all the mess. Aliens always had a look on our shiny planet with its weird citizens but undeniable and delicious food they are creating and cooking. The intergalactic community competes in fame rewarding cooking competitions and the species with the most sophisticated meal wins. This is when humanity can play its part in this extraordinary event and show the galaxy what real fast food can taste and look like.\n\nFeatures:\n-\tServe your passengers with up to four players and cooperate in convincing them that flying with you is always a good decision.\n\n-\tThe orders vary from shakes, burgers, coffee and even a greater variety of fast food which underlines only the best quality you offer for your passengers.\n\n-\tTime is essential and your guests have a high demand of multiple goods all the flight long. Grab tablets to solve various orders at the same time and don\u00e2\u20ac\u2122t let them wait too long.\n\n-\tNot only turmoils might occur during your flights, walking passengers, moving tables and many more things will complicate your accomplishments on your planes.\n",
+        "languages": [
+            "en"
+        ],
+        "size": 693108736
     },
     "70010000034084": {
         "id": "0100B69012EC6000",
@@ -40398,7 +40580,7 @@
             "it",
             "ru"
         ],
-        "size": 3077570560
+        "size": 3079667712
     },
     "70010000034726": {
         "id": "01008DD013200000",
@@ -41532,7 +41714,7 @@
             "https://img-eshop.cdn.nintendo.net/i/3dcc100bdc020d990475fff56a856546f48cacdcc9abca09b2f8ee9cbee48358.jpg",
             "https://img-eshop.cdn.nintendo.net/i/c66a225b2d97fefa7b3c77753e5c661b56b51a5fdeb9cfb3523d2aff491e9e67.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f417e14c36f95ded925dde8459d2b246544a15c8a342d95eaa1185bf035bd155.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5349f16b5ec4a70b29d7208ea207879f84eded94c9835f85b2700de9fe1dfa43.jpg",
         "intro": "Select your favourite music and courses, then get to it with boxing exercises",
         "description": "Select any one of the nine instructors, including three new ones: Janice, Hiro and Karen. Customise your instructor's outfit to provide even more variety for your workouts.",
         "languages": [
@@ -41845,6 +42027,54 @@
             "en"
         ],
         "size": 257949696
+    },
+    "70010000035127": {
+        "id": "01003A90133A6000",
+        "rightsId": null,
+        "name": "Liberated: Enhanced Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000035127,
+        "category": [
+            "Arcade",
+            "Adventure",
+            "Shooter",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Strong Language",
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Walkabout Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b14a4355c3aa4146d0deca284c50af43c831496bc40996789dc178f873022307.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/65434e21013f3eed359a462f63cfe548c1c945fe19d1a2112d2049f7020a53d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd5a0ccb36dad88f0754c805ee8621bb079ff09da4e2b0275216d8f98e6c95a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d317c132ad1b69a923410350da047bff3f9c455183bef674441e0c90d9050fab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a69fc257cd22e3d99ad54fa6ccdbecc383bf514fdf4fe70110744a00febc2f94.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a8b4e315621874ab42e3c11f225f00e98b000911077e80be7fb9e5ee5f01fad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e5a9a72128ad49fcf159d034fb3864b9deeabbef70ab1509dca38f114153b486.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f1d7e364b2f574c36b02cac42b8bf96a7e02d9dcb310689728109670a2e1fb19.jpg",
+        "intro": "Put on your mask and fight the system in an adventure shooter inside a paperback comic. Now enhanced with full voice-overs and 2 new story chapters.",
+        "description": "8/10 - \u201cFantastic take on a dystopian platformer\u201d - Nintendo Life\n9/10 - \"Genuinely gorgeous\" - Pure Nintendo\n9/10 - \"The best cyberpunk game on Nintendo Switch\" - GamesHedge\n9/10 - \u201cA standout title for Nintendo Switch\u201d - Nintendo Enthusiast\n8/10 - \u201cMore than just a game\u201d - Nintendo Soup\n\nDive into a playable, hand-drawn comic book. Unravel a dramatic story paying homage to iconic dystopian novels and movies. Jump, sneak, solve puzzles and shoot. Every \u201cBLAM!\u201d you take, and every \u201cAARGH!\u201d you make, fuel the fires of a cyberpunk revolution. Just watch out not to papercut your fingers!\n\nLiberated: Enhanced Edition includes:\n- The acclaimed full game with enhancements in gameplay and content,\n- Full English voice-overs with immersive voice acting,\n- 2 epilogue chapters \u201cFor the Homeland\" & \"Glory to the Heroes\u201d.\n\nSupported Languages: English, French, German, Spanish, Portuguese - Brazil, Russian, Chinese, Polish.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 3782213632
     },
     "70010000035131": {
         "id": "0100995013404000",
@@ -42351,7 +42581,7 @@
             "ru",
             "zh"
         ],
-        "size": 2804940800
+        "size": 2810183680
     },
     "70010000035373": {
         "id": "01007D1013512000",
@@ -43095,7 +43325,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/93e3e0ed064cdac5589e87b1cabf884b7487ad3d7b4df65252476589dd665318.jpg",
         "intro": "Play as a new reaper, completing quests, collecting spells, and gathering equipment to fight through hordes of enemies in this grim but whimsical 2D adventure!",
-        "description": "Embark on an adventure as a new Reaper who has gone rogue! Collect equipment and spells, learn powerful attacks against hordes of enemies, complete quests for a cast of quirky characters, and make difficult choices in this grim yet richly illustrated 2D world. Play alone or with a friend in local co-op and serve Death together!\n\nOver 40 pieces of Equipment for you to acquire to customize your Reaper and aid you in battle! Find equipment in a variety of well hidden chests, or use the souls you collect as currency to buy items from the local vender, Fiona. Be sure to check back every day, as her inventory changes! Mix and match armor and harness the power of the unique skills such as fireballs, the ability to freeze enemies, angel wings allowing you to glide to safety, summon meteors from the sky and even stampeding unicorns!\n\nJoin forces with a friend locally. While in local play, Player 2 plays as Spaura, the Reaper\u2019s Soul Bearer. \n\nBattle your way through 30 beautifully designed levels, help colorful characters through various side quests, and fulfil your reaper duties by collecting souls for Death. Daily bounties are available from various npc's.\n\nCollect equipment, learn spells, and advance as a Reaper to take on horrid enemies, and defeat epic bosses.",
+        "description": "Embark on an adventure as a new Reaper who has gone rogue! Collect equipment and spells, learn powerful attacks against hordes of enemies, complete quests for a cast of quirky characters, and make difficult choices in this grim yet richly illustrated 2D world. Play alone or with a friend in local co-op and serve Death together!\n\nOver 40 pieces of Equipment for you to acquire to customize your Reaper and aid you in battle! Find equipment in a variety of well hidden chests, or use the souls you collect as currency to buy items from the local vender, Fiona. Be sure to check back every day, as her inventory changes! Mix and match armor and harness the power of the unique skills such as fireballs, the ability to freeze enemies, angel wings allowing you to glide to safety, summon meteors from the sky and even stampeding unicorns!\n\nJoin forces with a friend locally. While in local play, Player 2 plays as Spaura, the Reaper\u00e2\u20ac\u2122s Soul Bearer. \n\nBattle your way through 30 beautifully designed levels, help colorful characters through various side quests, and fulfil your reaper duties by collecting souls for Death. Daily bounties are available from various npc's.\n\nCollect equipment, learn spells, and advance as a Reaper to take on horrid enemies, and defeat epic bosses.",
         "languages": [
             "en"
         ],
@@ -43213,7 +43443,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/922d5d4f6ded06b013e0bbc10aa6336ef14fe8f1195ac8e8b8d7ca667c91832b.jpg",
         "intro": "Battle resumes! Shatter GOFER's ambitions!!",
-        "description": "'VULCAN VENTURE' is a shooting game released by KONAMI in 1988.\nPlayers will control the super dimension fighter 'Vic Viper' in order to protect planet GRADIUS from the Gofer special forces.\nThis is the best title from the GRADIUS series and a title of fame in the shooting game history having won multiple awards!\nThis product includes 3 Japanese versions, and 2 versions of 'VULCAN VENTURE'.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+        "description": "'VULCAN VENTURE' is a shooting game released by KONAMI in 1988.\nPlayers will control the super dimension fighter 'Vic Viper' in order to protect planet GRADIUS from the Gofer special forces.\nThis is the best title from the GRADIUS series and a title of fame in the shooting game history having won multiple awards!\nThis product includes the Japanese version of GRADIUS II, and the oversea version of 'VULCAN VENTURE.'\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
         "languages": [
             "ja",
             "en",
@@ -44936,6 +45166,32 @@
         "size": 1431306240,
         "parentId": "01002B00111A2000"
     },
+    "70030000012588": {
+        "id": null,
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Rhythm & Exercise Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012588,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 2284847104,
+        "parentId": "0100073011382000"
+    },
     "70050000012246": {
         "id": null,
         "rightsId": null,
@@ -45797,7 +46053,7 @@
     "70050000018813": {
         "id": null,
         "rightsId": null,
-        "name": "Season Three - Character Three",
+        "name": "Scorpina - MMPR Villain Character Unlock",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -45817,9 +46073,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/48601a33bcbb47d5f2653c871e6163b8819e1b7f8b2a888c7b516145891eaaf4.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0a96f49d3400845ae3d44066e8e8f50c39ef1892812975c6de58bcacfb337681.jpg",
         "intro": null,
-        "description": "This unlocks Season Three - Character Three for Power Rangers: Battle for the Grid",
+        "description": "This unlocks Scorpina - MMPR Villain Character Unlock for Power Rangers: Battle for the Grid",
         "languages": null,
         "size": 4194304
     },
@@ -48411,6 +48667,102 @@
         "description": "Hatsune Miku: Project DIVA Mega Mix Theme Song Pack includes:\n\n- The secret garden\n- Look This Way, Baby\n- Sekiranun Graffiti\n- Yumeyume",
         "languages": null,
         "size": 150994944
+    },
+    "70050000020201": {
+        "id": null,
+        "rightsId": null,
+        "name": "TerraTech - Weapons of War Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201118,
+        "nsuId": 70050000020201,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Payload Studios",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f88d9cf5bad15228d05e3b88418d61a1af0b9cbb56f8b2154504e51ed204c2a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/596a01e3c1d76c673f25906b7dc8b931d60c116a378434ca089868cc91ab308f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5d419a309760b66010572b0bc7eebbd0e9ba255b5ea714b16e04f061d15156f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e928c257bb9f77443b1c93eddc26e039733aba265cbec2eb08aaa50119eb81f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2d0c2e317d083b48ac51331f7e5175318fb041a2bff36ab443674b04f515d11d.jpg",
+        "intro": null,
+        "description": "Send Hawkeye back in time with the 1940's-inspired Iron Hunter, and take to the skies with Venture as you design your very own Warbird, with this set of unique custom blocks and themed skins.             ",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000020241": {
+        "id": null,
+        "rightsId": null,
+        "name": "TerraTech - To the Stars Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201118,
+        "nsuId": 70050000020241,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Payload Studios",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/eeb7153b1055a00b3e2062f0f8924b7782b3576a5f70d174cc7cf651a5d1f16c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61437ae1343daae2d85218b96ebab7377f7cafd445521326020ac81020e86d68.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8ba0e46e3dddcabbfb2ee4368c553dcdaf6a8ad7d301c3ccb2e609ee44dd73ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9043a588e4965dbf512c4f5869db9a48d3ec757279d8e55239a22dbd92acab1e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/700db3e38c5b4cb6c97fba2793f8501cf2ee384ea5d906e179dd766513822707.jpg",
+        "intro": null,
+        "description": "Relive Roswell with Better Future and enter the Space Race as GSO, with this set of unique custom blocks and themed skins.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000020244": {
+        "id": null,
+        "rightsId": null,
+        "name": "TerraTech - R&D Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201118,
+        "nsuId": 70050000020244,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Payload Studios",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4a73ad3ecca88831e2a105e65ac7fd300e09047e68ef33225589a6ebe8b1a3b3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b5600e7f9f06d0095852f76ea5ec6a56d59680a22ced5d68e51ada3b70ad7da1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20a40757924468867ec7a8b70e7da0b9afbe5e46a285bfc6605d47b8f78cd862.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/41540b2834bd085ef59a19fbd48df6cb5859794a66de9b3745d20b4050eaf2ec.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/02b1a5ac60f05279a3554a470a278fe9d482f56efcd85b7d59dc24a7827fa947.jpg",
+        "intro": null,
+        "description": "R&D Labs is a game mode for TerraTech, which allows the player to take on a variety of unique challenges and test out a series of experimental items.\n\nThe Labs include all items from the main game, unlocked for unlimited building, and are split into a number of different features, including:\n\n- Battle Arena, Target Practice & Turret Run\n- Races, Time Trials & Stunt Ramps\n- DPS Target, Weigh Station & Speed Trap\n- Grassland, Desert, Mountain and Exotic Biome Zones",
+        "languages": null,
+        "size": 4194304
     },
     "70050000020264": {
         "id": null,
@@ -58298,7 +58650,7 @@
         "size": 4194304
     },
     "70050000022486": {
-        "id": null,
+        "id": "010007B010FCD00D",
         "rightsId": null,
         "name": "Sniper Elite 4 - Multiplayer Maps Pack",
         "version": null,
@@ -58322,7 +58674,7 @@
         "intro": null,
         "description": "Go head-to-head with friends and take your sharpshooting to new heights with 8 intense multiplayer modes including Deathmatch, No Cross, Capture The Flag, and more, all set across 10 thrilling custom-designed maps. Includes matches for up to 4 players in local wireless play, and up to 8 players online.",
         "languages": null,
-        "size": 0
+        "size": 1430257664
     },
     "70050000022501": {
         "id": "010058600E531001",
@@ -64836,6 +65188,38 @@
         "languages": null,
         "size": 5621415936
     },
+    "70070000010702": {
+        "id": null,
+        "rightsId": null,
+        "name": "Sniper Elite 4 Season Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70070000010702,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1e33b19474ff5f6374a7f0b5dac50d3738125eba745bce9401c067d64a072232.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4afffb677f592ae7de3146322cf8726a79e72fb8c24aed324856b72ffc72903.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7c713abe38217fa32225e2b00d13cf3ee3266fc052d68a404a519ce10b58ab87.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7cbe3fa3a00edb01bfbb67efb21cce806058297af386a03259f1b84a81a709d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/62d414495ab009e80f895526da1c63ab21fb3f0959db86f1bc7f28df303687fc.jpg",
+        "intro": null,
+        "description": "The Sniper Elite 4 Season Pass gives players access to all the game\u2019s DLC packs for one great price.\n Including the infamous Target F\u00fchrer campaign mission and a wealth of thrilling singleplayer and multiplayer content, the Sniper Elite 4 Season Pass delivers a compelling expansion whether you choose to brave the conflicts of WW2 Italy solo, or in co-op and competitive combat.",
+        "languages": null,
+        "size": 1697644544
+    },
     "70070000010721": {
         "id": null,
         "rightsId": null,
@@ -67032,7 +67416,36 @@
         "intro": null,
         "description": "The definitive MK11 experience! Take control of Earthrealm's protectors in 2 acclaimed, time-bending Story Campaigns as they race to stop Kronika from rewinding time & rebooting history. Feat. the komplete 37-fighter roster, incl. Rain, Mileena & Rambo.\n\nIncl. MK11, Kombat Pack\u00a01, Aftermath Expansion & Kombat Pack\u00a02.\n\n\u2022 Experience 2 robust, critically acclaimed Story Campaigns from MK11 & MK11: Aftermath\n\u2022 Play as the komplete 37-fighter roster incl. newly added fighters Mileena, Rain & Rambo \n\u2022 Thousands of skins, weapons & gear for an unprecedented level of customization\n\u2022 Includes all previous guests: Terminator, Joker, Spawn & RoboCop\n\u2022 Every mode including Towers of Time, Krypt, Online, Klassic Towers, etc.\n\u2022 All Stages, Stage Fatalities, Brutalities, Iconic Fatalities & Friendships",
         "languages": null,
-        "size": 33826013184
+        "size": 34947989504
+    },
+    "70070000011194": {
+        "id": null,
+        "rightsId": null,
+        "name": "Mortal Kombat\u00a011 Kombat Pack\u00a02",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70070000011194,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dd4f50c272b6d11e68438c0b93e11bb7ef42bf18ca9b668feddd25c24a3e9464.jpg",
+        "intro": null,
+        "description": "Kombat Pack\u00a02 incl. fighters Mileena, Rain & iconic guest Rambo, feat. actor Sylvester Stallone's likeness & voice. \n\nRambo\n\nA former Special Forces soldier haunted by his time in Vietnam, Rambo is rough, aggressive & famous for taking on perilous missions alone. Now, he brings his brutal skills in Mortal Kombat. \n\nMileena\n\nMileena is the perfect blend of Baraka's ferocity & Kitana's grace. Brought forward in time, this clone now knows of her reign as Empress and death at Kotal Kahn's hands. She is set on retaking her throne. \n\nRain\n\nRain joined Edenia's army to improve his future. Thanks to his strategic genius, he was quickly given command. Rain used his rank to find his birth father & was shocked to learn that he was a god. Rain battles for his rightful place in Edenia's pantheon.",
+        "languages": null,
+        "size": 12582912
     },
     "70070000011202": {
         "id": null,
@@ -67667,5 +68080,34 @@
         "description": "Find all the Gear Club Unlimited 2 content and discover a new motorsport experience in a new game mode focused on the Endurance Championship, an endurance racing event inspired by the 24H Le Mans event, the \u201cEndurance Championship\u201d campaign.\n\nDrive on the legendary 24H Le Mans circuit by succeeding in challenging trials, driving new vehicles built for this mythical race: Nissan GT-R LM Nismo, Porsche 919 Hybrid, Mercedes AMG GT3 and Bentley Continental GT3-R.\n\nIf you\u2019re strong enough, you will master the legendary Ford GT40 MK I Gulf, winner of the 24H Le Mans race in 1968 and 1969!\n\nAlso included: \n- Ace of the Road DLC Pack\n- Gear.Club Classics DLC Pack\n- Arrows DLC Pack\n- Checkers DLC Pack\n- Hazard DLC Pack\n- Wings DLC Pack",
         "languages": null,
         "size": 5112856576
+    },
+    "70070000011396": {
+        "id": null,
+        "rightsId": null,
+        "name": "Mortal Kombat\u00a011 Ultimate Add-On Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201117,
+        "nsuId": 70070000011396,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b456408e53757b68a2980f6f49a523c37105f27193481c9752df7e68bb0e88f7.jpg",
+        "intro": null,
+        "description": "MK11 required. New players can purchase Mortal Kombat\u00a011 Ultimate.\n\nIncludes newly added Kombat Pack\u00a02, along with previously released Aftermath Expansion & Kombat Pack\u00a01. \n\nKombat Pack\u00a02\n\n\u2022 3 New Playable Fighters - Mileena, Rain & Rambo\n\nAftermath Expansion\n\nAftermath features a brand-new cinematic story. Fire God Liu Kang, the new keeper of time and protector of Earthrealm, looks to secure the future he envisions. In order to do so, he is forced to enlist the help of some unlikely allies & familiar foes. Players will have to decide who they can trust and who they must defeat with fate on the line. Forge a new history.\n\n\u2022 All-New Cinematic Story \n\u2022 3 New Playable Fighters - Sheeva, Fujin & RoboCop\n\u2022 3 New Skin Packs\n\nKombat Pack\u00a01\n\n\u2022 6 New Playable Characters feat. Shang Tsung, Nightwolf, Terminator T-800, Sindel, The Joker & Spawn \n\u2022 6 Skin Packs & 7 Excl. Skins",
+        "languages": null,
+        "size": 96468992
     }
 }
