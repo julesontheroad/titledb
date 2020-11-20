@@ -2707,7 +2707,7 @@
             "ru",
             "ko"
         ],
-        "size": 13365149696
+        "size": 13947109376
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -5136,7 +5136,7 @@
             "de",
             "ru"
         ],
-        "size": 1320157184
+        "size": 1329594368
     },
     "70010000020281": {
         "id": "0100A4200DA76000",
@@ -6545,7 +6545,7 @@
             "zh",
             "zh"
         ],
-        "size": 7354712064
+        "size": 7471104000
     },
     "70010000027969": {
         "id": "0100DD30110CC000",
@@ -7558,6 +7558,52 @@
             "zh"
         ],
         "size": 1196425216
+    },
+    "70010000034736": {
+        "id": "0100F38011CFE000",
+        "rightsId": null,
+        "name": "Animal Crossing: New Horizons Island Transfer Tool",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201118,
+        "nsuId": 70010000034736,
+        "category": [
+            "Utility",
+            "Other"
+        ],
+        "ratingContent": [
+            "No Descriptors"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4310ef9dabb57caed54a390dfc1189d3b62d58da49f08c09c458f107c3415953.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/abdc784de57305d73c9c545485094b5f1cd3870bdc42ae8b0ae0ed6757f2e753.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71c639ffb6145c61a79fceb3b9989f2b67b0f71cf28b926cd1abea622d8198ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7658118b3a9263d44bc3dad954acdf35b1cdebd14b2776b86711c7cf695f877e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d47ee62bdad19839993ef74d883a6a42510d7a732c657e6fe691271e8c881e5b.jpg",
+        "intro": "Transfer your Animal Crossing \u2122: New Horizons island to another Nintendo Switch system",
+        "description": "Use this software to transfer the data for your whole island in the Animal Crossing: New Horizons game from one Nintendo Switch system to another. Download this software on both Nintendo Switch systems in order to transfer your island. Detailed information on the moving process can also be found on the Nintendo Support website. https://support.nintendo.com/",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 49283072
     },
     "70010000034760": {
         "id": "01002B00111A2000",

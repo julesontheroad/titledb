@@ -2707,7 +2707,7 @@
             "ru",
             "ko"
         ],
-        "size": 13365149696
+        "size": 13947109376
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -5136,7 +5136,7 @@
             "de",
             "ru"
         ],
-        "size": 1320157184
+        "size": 1329594368
     },
     "70010000020281": {
         "id": "0100A4200DA76000",
@@ -6545,7 +6545,7 @@
             "zh",
             "zh"
         ],
-        "size": 7354712064
+        "size": 7471104000
     },
     "70010000027969": {
         "id": "0100DD30110CC000",
@@ -7558,6 +7558,52 @@
             "zh"
         ],
         "size": 1196425216
+    },
+    "70010000034736": {
+        "id": "0100F38011CFE000",
+        "rightsId": null,
+        "name": "Transferencia de islas de Animal Crossing: New Horizons",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201118,
+        "nsuId": 70010000034736,
+        "category": [
+            "Herramientas",
+            "Otros"
+        ],
+        "ratingContent": [
+            "Sin Descriptores"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4310ef9dabb57caed54a390dfc1189d3b62d58da49f08c09c458f107c3415953.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ef3b8a15f400a9b714c139dd160e6836c288649979683c6debe30eb84816a861.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ffdeb2b7679b0d4bb0418729f33499d19c3ed862462eb77509db2cc7ffebf3b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/54dbc475d2ec4fc138fbeab1e705d251bfb8cc975e1c1330bca30e7fc8713d96.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d47ee62bdad19839993ef74d883a6a42510d7a732c657e6fe691271e8c881e5b.jpg",
+        "intro": "Transfiere tu isla de Animal Crossing \u2122: New Horizons a otra consola Nintendo Switch",
+        "description": "Usa este programa para transferir los datos completos de tu isla del juego Animal Crossing: New Horizons de una consola Nintendo Switch a otra. Descarga este programa en ambas consolas Nintendo Switch para poder transferir tu isla. Podr\u00e1s encontrar m\u00e1s informaci\u00f3n acerca del proceso de transferencia en la p\u00e1gina de soporte de Nintendo. https://support.nintendo.com/",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 49283072
     },
     "70010000034760": {
         "id": "01002B00111A2000",
