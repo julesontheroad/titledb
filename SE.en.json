@@ -3275,7 +3275,7 @@
             "ja",
             "en"
         ],
-        "size": 5250220032
+        "size": 5355077632
     },
     "70010000018561": {
         "id": "0100CCA00DAE6000",
@@ -17574,6 +17574,7 @@
             "Adventure"
         ],
         "ratingContent": [
+            "Strong Language",
             "Strong Violence"
         ],
         "numberOfPlayers": 1,
@@ -18371,7 +18372,7 @@
         "ratingContent": [
             "Violence"
         ],
-        "numberOfPlayers": 1,
+        "numberOfPlayers": 2,
         "rating": 7,
         "developer": null,
         "publisher": "Orange One",
@@ -19896,7 +19897,7 @@
             "ko",
             "zh"
         ],
-        "size": 359661568
+        "size": 405798912
     },
     "70010000031022": {
         "id": "0100A59012070000",
@@ -29935,7 +29936,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa6dc526f747c93601b6bf8cc4bbac249ca6e9e04ae8a426a57c9b59fc916774.jpg",
         "intro": "A charming adventure game wrapped around a unique, world-altering puzzle mechanic.",
-        "description": "Use this power to explore mysterious lands, help a quirky cast of characters, and guide Carto on her journey back to her family.\n\nSeparated from her Granny during a storm, young Carto must use her innate cartography powers to map and manipulate the world around her on her quest to be reunited. As she discovers new \u201cpieces\u201d of the game map, players can rearrange them to shape the levels themselves - unlocking new paths, puzzles, and story moments. \n\nCarto will traverse strange new lands, learn their cultures, and enlist the help of new friends along the way in this hand-crafted adventure.\n\nFeatures\n- Employ a unique puzzle and exploration mechanic: rearrange pieces of your map, and watch the world change around you!\n- Chill out and explore peaceful-yet-mysterious lands across a 5-7 hour story\n- Meet a colorful cast of characters and learn about their unique cultures\n- Bask in lush, hand-drawn visuals across a variety of biomes\n- Experience a beautiful soundtrack with over 40 original tracks to accompany you on your adventure",
+        "description": "Use this power to explore mysterious lands, help a quirky cast of characters, and guide Carto on her journey back to her family.\n\nSeparated from her Granny during a storm, young Carto must use her innate cartography powers to map and manipulate the world around her on her quest to be reunited. As she discovers new \u201cpieces\u201d of the game map, players can rearrange them to shape the levels themselves - unlocking new paths, puzzles, and story moments. \n\nCarto will traverse strange new lands, learn their cultures, and enlist the help of new friends along the way in this hand-crafted adventure.\n\nFeatures\n- Employ a unique puzzle and exploration mechanic: rearrange pieces of your map, and watch the world change around you!\n- Chill out and explore peaceful-yet-mysterious lands across a 5-7 hour story\n- Meet a colorful cast of characters and learn about their unique cultures\n- Bask in lush, hand-drawn visuals across a variety of biomes\n- Experience a beautiful soundtrack with over 30 original tracks to accompany you on your adventure",
         "languages": [
             "ja",
             "en",
@@ -34200,7 +34201,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/237263f813b79b6b58bc77c586a6172a906d08fac421572539c6f963ef3cd81a.jpg",
         "intro": "Try on the role of a driver of a passenger bus. Take a ride in a real city, strictly following the schedule.",
-        "description": "Complete journeys around the city and its suburbs, strictly following the schedule. Earn money by successfully delivering passengers and following the traffic laws. Complete various scenarios with pre-set conditions or build your own career in Free Mode. You have a unique chance to drive buses from different eras and countries. You can drive both old Soviet city buses and European long-distance giants.\n\nWe took photos of a big part of these cities and their suburbs to recreate buildings and streets as close to real objects as possible. Virtual cities are recreated in a very accurate way, with every detail preserved. Buildings, bus stops and other objects are situated exactly on their places.\n\nChoose routes at your look to drive around the city districts you are interested in. It does not matter whether you like high-speed passenger transportation or slow and relaxed driving. If you do not like pre-set schedule, you can customize it for your driving style. Earn money, buy new buses and upgrade them. Decorate your bus as you want. \n\nGame features:\n- Vast number of high-detailed buses from different countries and eras.\n- Complete edition with all dlc's included. \n- Recreated cities and their suburbs with area of more than 20 km\u00c2\u00b2.\n- Possibility of upgrading your buses, adding and replacing decoration elements.\n- Different weather conditions, dynamic day time change.\n- Various traffic situations: traffic jams, accidents, speed bumps, driving at night, long-distance travels.\n- Wide functionality on driving a bus.\n- Necessity to visit gas stations and garages.",
+        "description": "Complete journeys around the city and its suburbs, strictly following the schedule. Earn money by successfully delivering passengers and following the traffic laws. Complete various scenarios with pre-set conditions or build your own career in Free Mode. You have a unique chance to drive buses from different eras and countries. You can drive both old Soviet city buses and European long-distance giants.\n\nWe took photos of a big part of these cities and their suburbs to recreate buildings and streets as close to real objects as possible. Virtual cities are recreated in a very accurate way, with every detail preserved. Buildings, bus stops and other objects are situated exactly on their places.\n\nChoose routes at your look to drive around the city districts you are interested in. It does not matter whether you like high-speed passenger transportation or slow and relaxed driving. If you do not like pre-set schedule, you can customize it for your driving style. Earn money, buy new buses and upgrade them. Decorate your bus as you want. \n\nGame features:\n- Vast number of high-detailed buses from different countries and eras.\n- Complete edition with all dlc's included. \n- Recreated cities and their suburbs with area of more than 20 km\u00b2.\n- Possibility of upgrading your buses, adding and replacing decoration elements.\n- Different weather conditions, dynamic day time change.\n- Various traffic situations: traffic jams, accidents, speed bumps, driving at night, long-distance travels.\n- Wide functionality on driving a bus.\n- Necessity to visit gas stations and garages.",
         "languages": [
             "en",
             "es",
@@ -34456,6 +34457,54 @@
             "ru"
         ],
         "size": 148897792
+    },
+    "70010000034449": {
+        "id": "010017D0130C4000",
+        "rightsId": null,
+        "name": "Destropolis",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201127,
+        "nsuId": 70010000034449,
+        "category": [
+            "Action",
+            "Arcade",
+            "Shooter",
+            "RPG"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 3,
+        "rating": 3,
+        "developer": null,
+        "publisher": "No Gravity Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/814a6d67e071477a117a7841ec932540902402e086d7d73fa0091860fbd6e85c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d4551c76e02a3710e6617d775f393511833c40f7c7b1bbda12c51f9b4e674cd5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c242486fa1062d4a88d3656595d14b4e572a48609a83e73139cf5857d571433e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0139cc3392f5c1d0f2707663fbe11c883379d2ed31fd6e01d8b7ac2398e9f12b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c6b33977d9c465687447b0102fe360270fb3292925bcc778aac9028adc52bb78.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7bef6cd0fc933c5bf3cf3837edc84c92b2c39d09e4ba8a5d4f6ef0d2e5903035.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4db4b5bad37e61e11cef1488fa0a80f07cae145b9cbfc7348a30c3908ce96412.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4610829096729ad7126b246c07406b945f17653aad1a2d51e09ac1a434649b20.jpg",
+        "intro": "A top-down shooter with a fully destructible environment, tons of enemies and nuclear explosions. Fight a countless swarm of foes. Tear them to pieces with bullets, lasers and blasts!",
+        "description": "Destropolis is a top-down shooter game, inspired by video games classics.\nIt takes place in a futuristic city, filled with red, cube-like enemies. Tear them to pieces with bullets, lasers and nuclear explosions. Play alone or with friends in a local co-op mode. Destroy as many enemies as you can before they overwhelm you.\n\nFEATURES:\n\u2022 Fight an endless wave of enemies in a futuristic city.\n\u2022 Totally destructible environment. Every object in the game, every enemy, every building, can be smashed into pieces. You can blow up buildings, you can use them as cover, you can dismantle enemies bit by bit.\n\u2022 6 different types of enemies. Cubes are numerous and dangerous up close. Obelisks shoot lasers at you. Bomb spheres explode on contact. Pyramids shoot at you from a distance with artillery rounds. Wrecking balls smash everything on their path. Big, hexagonal bosses wreak havoc with their massive machine guns.\n\u2022 15 different guns at your disposal. Shotguns, assault rifles and machine guns shoot bullets that shred your enemies to pieces. Missiles and nuclear launchers create balls of fire that effectively clear out battlefields. Lasers and gauss guns cut through the enemies like knives through butter.\n\u2022 12 power-ups and 40 skills that enhance your abilities. Place turrets, create force fields and detonate nuclear explosions. Increase your health, damage or movement speed. Confuse your enemies that they will shoot at each other.\n\u2022 Play alone, or with your friends in up to 3 players co-op mode.\nCompete with other players from around the world on global leaderboards.\n\u2022 Unique art style. Clean and minimalistic environment. Distinct and aggressively colored enemies. Beautiful explosions and lighting effects.\n\u2022 Synth-wave music. Created by a popular artist - LukHash. A fusion of chiptune mastery mingled with synthwave cyberpunk and EDM elements.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 177209344
     },
     "70010000034477": {
         "id": "01008050130EE000",
@@ -35232,7 +35281,7 @@
             "zh",
             "zh"
         ],
-        "size": 11441012736
+        "size": 11700011008
     },
     "70010000034706": {
         "id": "0100DE70131F4000",
@@ -38232,7 +38281,7 @@
         "languages": [
             "en"
         ],
-        "size": 807403520
+        "size": 829423616
     },
     "70010000035728": {
         "id": "01006C8013708000",
@@ -38562,6 +38611,45 @@
             "en"
         ],
         "size": 7614758912
+    },
+    "70010000035985": {
+        "id": "0100BCC013864000",
+        "rightsId": null,
+        "name": "jetPIN",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70010000035985,
+        "category": [
+            "Arcade",
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "KrzysztofPodsada",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e19a1a2e465256d1001dbd2cbf52b635bfcf5d0c7451c37e1659a84f3a70de5e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/19d8fd0927f5227c979e1971235d87a545d3eb61cf5c7cd0be977ceeb0a7a408.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/86ebb54ab3dd1a7b34ca29e4401356742d4e4cc19119a5dc32a30cfe229f6c56.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1340b9abb405b3131c74aeec8d86303a7a3d5fd9786ffb95b3cc12956fb4a3e5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/414bc9dda2bc5eb11d74083eb8de36424a5882fe1825a83a043fc780dc7539b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/118db1862df07042eb11426aa9d71ea0099a5a09872baca5cccc7e7b206de5c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/05a1a6f246853ea8171e55b1a43b764342ce3437532a348f317a8db30247b0b5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0605afe359ac4e2aa08b6515bbc77e6b4d8e847c451762509f95ab91f1655956.jpg",
+        "intro": "This is not an ordinary pinball, this is a real challenge.",
+        "description": "Get to the top level and escape the flood. Collect extra points and pocket millions in the bonus zones. You can't play this with a standard ball, this one has special skills - get it up to the maximum speed and score bonuses. Discover new higher levels and when the flood catches up with you and you're in the water use the jet jump and rise above the water table. Remember, immersion in the water raises the electrical voltage of the ball, so lower it down to 0% at special ports. Are you falling down and see that the water is close? Use the rescue bubble and give yourself a chance, keep playing, break records. Are you ready for this challenge? The flood is coming near!",
+        "languages": [
+            "en"
+        ],
+        "size": 91226112
     },
     "70010000035986": {
         "id": "0100A12011CC8000",
@@ -43716,7 +43804,35 @@
         "intro": null,
         "description": "The Byzantium & Gaul Pack introduces Basil II as the leader of Byzantium and Ambiorix as the leader of Gaul. The Byzantine Empire can subjugate enemies with religious and military might, supported by their two unique units, the Dromon Ship and the Tagma. The Gallic horde focuses on military flexibility boosted by a backbone of culture and production with their unique Oppidum district. Also included is the new Dramatic Ages game mode, a new Map Type (The Highlands) and two new World Wonders (Biosphere & Statue of Zeus.)\n",
         "languages": null,
-        "size": 559939584
+        "size": 562036736
+    },
+    "70050000020794": {
+        "id": null,
+        "rightsId": null,
+        "name": "Sid Meier's Civilization VI - Babylon Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70050000020794,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ce29d7e5227b6e1ffd8eb931fc98d94705872b41614f54d92297d30b594a4b73.jpg",
+        "intro": null,
+        "description": "The Babylon Pack introduces Hammurabi as the leader of Babylon. The Babylon civilization excels at Science, as well as Government and Infrastructure. Also included is the new Heroes and Legends game mode, two Unique Improvements (The Mahavihara and The Trading Dome), six new City-States, and 24 New Great People.",
+        "languages": null,
+        "size": 442499072
     },
     "70050000020796": {
         "id": null,
@@ -58796,6 +58912,150 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/39f44932d72b35a75a1fa6e91e5e2776dd8f4c8a777bfaea4a95ec15f24436d4.jpg",
         "intro": "Your drill is the drill that will pierce the heavens!",
         "description": "This DLC contains Gurren-Lagann, Lagann and pilot Simon. The DLC supports Local & Online Multiplayer Mode, Training Mode and Single-player Simulation Mode.\n*To unlock Simulation Mode by completing Campaign Mode.\n\n\u3010Mecha\u3011\nThe main mecha of Team Gurren. It is a Gunmen with high explosive power, which can construct all sorts of unique weapons using its Spiral Power.\n\nPrimary Weapon - Gurren Boomerang\nThrows a pair of sunglasses from its chest.\n\nSecondary Weapon - Giga Drill Break\nGurren Lagann's ultimate attack creating a gigantic drill with explosive power.\n\nLight Melee - Skull Break\nAttacks x4 combo attack, but can only be used on the ground.\n\nLight Melee - Fire Cart Kick\nKicks towards the ground, but can only be used midair.\n\nHeavy Melee - Full Drillized\nDrills burst out from its body, attacking surrounding enemies.\n\nLight Melee(Lagann) - Tackle\n\nSecondary Weapon(Lagann) - Lagann Impact\n\n\u3010Pilot\u3011\nA boy called \"Digging Simon\". He found a small drill while digging a hole, and it will change his destiny\u2026",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000024152": {
+        "id": "0100E1F013675025",
+        "rightsId": null,
+        "name": "Emotes Pack: Dance Party",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70050000024152,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2be5d8cd3b8b369ceb294f2298c78407b172758b4324c8dc5248266af6194339.jpg",
+        "intro": null,
+        "description": "Show off some fresh new moves in FUSER\u2122 with this pack of Emotes containing:\nCabbage Patch, Grab 'n' Go, Lay It Out, Power Chord\nRequires FUSER\u2122 base game to play.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000024153": {
+        "id": "0100E1F013675026",
+        "rightsId": null,
+        "name": "Harry Styles - \"Adore You\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70050000024153,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0f784204dd67e447d04878a005e369a68f59c14bc642d57d07ed313720c99387.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with 'Adore You' by Harry Styles! Bring something new to your mixes with this additional playable track, available immediately in-game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 11534336
+    },
+    "70050000024154": {
+        "id": "0100E1F013675027",
+        "rightsId": null,
+        "name": "Deee-Lite - \"Groove Is In The Heart\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70050000024154,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d86ed45665fbd123638f689e774baaee840cdfc5edd4cffae9a69d74526ac8bf.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with 'Groove Is In The Heart' by Deee-Lite! Bring something new to your mixes with this additional playable track, available immediately in-game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 8388608
+    },
+    "70050000024155": {
+        "id": "0100E1F013675028",
+        "rightsId": null,
+        "name": "Zedd & Griff - \"Inside Out\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70050000024155,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/598a1ceb859acedf244fc8628867b80d92635c249fd10ed06ecfe53fc0739d9e.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with 'Inside Out' by Zedd & Griff! Bring something new to your mixes with this additional playable track, available immediately in-game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 9437184
+    },
+    "70050000024192": {
+        "id": null,
+        "rightsId": null,
+        "name": "Urban Flow - Winter Expansion Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70050000024192,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/260848c3254e86fcc849d007e8a23894bebe2e990448cfd09b647931b9d23681.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b88b56b155f214342277cf3e0bdf04a1ffb9a5cdb8e8c2439f952dde357c238.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af8e3b3560b508e52fc60e5da735815849a359b455039df6c5b7bb6ba5c87137.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d5e6d146b1fd8dd61bc453a868988acd51ff94ff1390fae957b91889e7c9a26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf8a7c648842d66f1d60baaeac0f73881dc4032a5df9a5f82e133054de28f027.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4f40ae4185385338fcfc1bacff9ff69b65a9758d77d762155de9512361b027c6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/731aa08c3c678a4266cd134530917affe821432f611923cf747701456224bbdd.jpg",
+        "intro": "Winter has come to Urban Flow!",
+        "description": "Christmas Flow is the best flow!  \n\nHelp Santa bring Christmas gifts to the people of Urban City! \n\nEnjoy two new vehicles - the firetruck and snow plow!\nPlay 20 new levels!\nEnjoy the winter theme and new music!",
         "languages": null,
         "size": 4194304
     },
