@@ -1679,7 +1679,7 @@
             "pt",
             "ru"
         ],
-        "size": 630194176
+        "size": 688914432
     },
     "70010000014923": {
         "id": "0100ECD00C806000",
@@ -3275,7 +3275,7 @@
             "ja",
             "en"
         ],
-        "size": 5250220032
+        "size": 5355077632
     },
     "70010000018561": {
         "id": "0100CCA00DAE6000",
@@ -6027,7 +6027,6 @@
             "Piattaforme"
         ],
         "ratingContent": [
-            "Orrore",
             "Violenza contenuta"
         ],
         "numberOfPlayers": 1,
@@ -10587,7 +10586,7 @@
         "languages": [
             "en"
         ],
-        "size": 1589641216
+        "size": 1694498816
     },
     "70010000027353": {
         "id": "0100F18010BA0000",
@@ -15034,7 +15033,7 @@
         "languages": [
             "en"
         ],
-        "size": 852492288
+        "size": 851443712
     },
     "70010000029075": {
         "id": "010039A0117C0000",
@@ -16265,7 +16264,7 @@
             "ru",
             "zh"
         ],
-        "size": 2345664512
+        "size": 2436890624
     },
     "70010000029628": {
         "id": "010042C011476000",
@@ -17158,7 +17157,7 @@
             "de",
             "it"
         ],
-        "size": 3051356160
+        "size": 3071279104
     },
     "70010000030012": {
         "id": "0100BF9011B52000",
@@ -17574,6 +17573,7 @@
             "Avventura"
         ],
         "ratingContent": [
+            "Linguaggio volgare",
             "Violenza intensa"
         ],
         "numberOfPlayers": 1,
@@ -18371,7 +18371,7 @@
         "ratingContent": [
             "Violence"
         ],
-        "numberOfPlayers": 1,
+        "numberOfPlayers": 2,
         "rating": 7,
         "developer": null,
         "publisher": "Orange One",
@@ -19884,8 +19884,8 @@
             "https://img-eshop.cdn.nintendo.net/i/da3c69d81df465f9314fdcc5b6fa1234f3b14297d705fda7148a92c2c6def746.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0257f64abbecea6035f3fe329c375671ce2609001d99ac7a1e17d87989993747.jpg",
-        "intro": "Padroneggia gli elementi in questo gioco stealth in cui tutto brucia.",
-        "description": "Usa i tuoi poteri elementali per accendere fuochi, congelare l'acqua e muovere la terra mentre sconfiggi in astuzia i nemici superstiziosi in questo malizioso gioco stealth 2D. Riprenditi la tua casa e salva gli abitanti dei villaggi prigionieri lungo la strada; manipolare l'ambiente per aiutarti e danneggiare i tuoi nemici.\n\nIn un mondo in cui la magia si \u00e8 quasi estinta, sei stata etichettata come una strega da forze malvagie che temono il tuo potere elementale. Supera in astuzia gli eserciti superstiziosi dell'Arciduchessa mentre ti danno la caccia attraverso foreste lussureggianti, caverne profonde e cime ghiacciate. Trova e libera i tuoi compaesani dalla prigionia, quindi conducili in salvo per reclamare la tua casa.\n\nCaratteristiche\n- Manipola il tuo ambiente. Usa le palle di fuoco per incendiare il mondo, congela l'acqua per attraversare laghi impraticabili o intrappola i tuoi nemici nel ghiaccio e sposta la terra stessa per far crescere l'erba in cui nascondersi o le viti da arrampicare.\n- Padroneggia gli elementi. Imparerai nuove abilit\u00e0 man mano che la tua connessione con gli elementi cresce, ma fai attenzione; il fuoco si diffonder\u00e0 e consumer\u00e0 ogni cosa sul suo cammino, incluso te!\n- Supera in astuzia i tuoi nemici. Usa l'ambiente a tuo vantaggio mentre eviti e ingaggia le forze dell'Arciduchessa, nemici intelligenti che lavorano insieme per darti la caccia.\n- Brucia il mondo ... con un amico. Gioca da solo o chiedi a un amico di unirsi a te, brandendo i tuoi poteri elementali in tandem, creando nuovi modi attraverso l'ambiente denso e sistemico di Wildfire.",
+        "intro": "Padroneggia gli elementi in questo gioco stealth dove ogni cosa brucia.",
+        "description": "Usa i tuoi poteri elementali per appiccare fuochi, congelare l'acqua e smuovere la terra, superando in astuzia i tuoi nemici in questo gioco stealth 2D. Riconquista la tua patria e salva prigionieri man mano che avanzi. Manipola l'ambiente a tuo vantaggio e danneggia i tuoi nemici.\n\nIn un mondo dove la magia \u00e8 scomparsa, le forze del male che temono il tuo potere elementale ti hanno affibbiato l'etichetta di strega. Supera in astuzia gli eserciti dell'Arciduchessa che ti danno la caccia attraverso foreste lussureggianti, caverne profonde e vette innevate. Trova e libera dalla prigionia gli abitanti del tuo villaggio, poi guidali verso la salvezza e riconquista la tua patria.\n\nCaratteristiche\n- Manipola l'ambiente Usa palle di fuoco per dare alle fiamme il mondo, congela l'acqua per attraversare laghi insuperabili o intrappolare nel ghiaccio i nemici, sposta la terra per far crescere erba in cui nasconderti o liane su cui arrampicarti.\n- Padroneggia gli elementi Apprenderai nuove abilit\u00e0 man mano che il tuo legame con gli elementi si far\u00e0 pi\u00f9 profondo, ma attenzione: il fuoco pu\u00f2 diffondersi, consumando ogni cosa sul suo cammino... Tra cui te!\n- Supera i nemici in astuzia Usa l'ambiente a tuo vantaggio per attaccare o seminare le forze dell'Arciduchessa, truppe assai intelligenti che collaborano per darti la caccia.\n- Brucia il mondo... con un amico Gioca in singolo o chiedi a un amico di unirsi a te: maneggerete i poteri elementali in coppia, inventando nuovi modi per attraversare il ricco ambiente sistemico di Wildfire.",
         "languages": [
             "ja",
             "en",
@@ -19896,7 +19896,7 @@
             "ko",
             "zh"
         ],
-        "size": 359661568
+        "size": 405798912
     },
     "70010000031022": {
         "id": "0100A59012070000",
@@ -29459,8 +29459,8 @@
             "https://img-eshop.cdn.nintendo.net/i/9379f2f2da75e293d3a2307dfa8b14bb19afe85d97126af5549a579d3e0005d3.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a69256ce87fd093f687e03bf4c3edd50d4c80ab58880a7c1412817d36d017600.jpg",
-        "intro": "You are a thief. Alias Picklock. Examine the robbery scene. Break in. Sneak and steal. Escape. Become a pro! Enjoy Picklock, a strategic adventure with isometric view and voxel graphics!",
-        "description": "FEATURES:\n\u2022 isometric mix of strategy, adventure and stealth;\n\u2022 13 challenging missions;\n\u2022 real estate agency to buy your dream house;\n\u2022 car dealership to pimp your ride;\n\u2022 jazzy tunes to listen and chill out to;\n\u2022 travel agency so you can go on a well-deserved vacation;\n\u2022 voxel graphics.\n\nAre you bored with an average, honest life? \nPicklock gives you an opportunity to break in, steal and deceive your way to a luxury, yet an illegal lifestyle.\nIn each level, you will face a new challenge. Your targets will range from a roll of toilet paper at your neighbours' house to exclusive art, electronics and cold, hard cash. And even though you know your stuff, you'll have to deal with security, alarms and sealed, secret compartments.\nIf any of those things will stress you out, you can always go on a shopping spree, chill out at a pub or let off some steam at a gentlemen's club.\nExcited yet? \nThen grab your gloves and crowbar and get ready for a tricky, robbery adventure!",
+        "intro": "Tu sei un ladro meglio noto come Picklock. Esamina l\u2019area, fai irruzione, intrufolati, ruba tutto e scappa. Diventa un professionista del crimine! ",
+        "description": "CARATTERISTICHE:\n\u2022 gioco isometrico che unisce strategia, azione e furtivit\u00e0;\n\u2022 13 avvincenti missioni;\n\u2022 un\u2019agenzia immobiliare per acquistare la casa dei tuoi sogni;\n\u2022 una concessionaria per elaborare la tua auto;\n\u2022 motivi jazz godibili e rilassanti;\n\u2022 un\u2019agenzia di viaggi con cui scegliere la destinazione della tua strameritata vacanza;\n\u2022 grafica voxel.\n\nCondurre una vita onesta e priva di emozioni ti tedia? \nPicklock ti consente di fare irruzione, rubare e raggirare per appropriarti di uno stile di vita da ricco sfondato e allo stesso tempo da fuorilegge.\nIn ogni livello ti aspetta una nuova sfida da superare. Le tue mire andranno dai rotoli di carta igienica nella casa dei vicini alle opere d\u2019arte e ai dispositivi elettronici, passando per i cari, vecchi contanti. E anche se sai come muoverti, dovrai comunque fare i conti con sistemi di sicurezza, allarmi e scomparti segreti.\nSe per qualsiasi motivo dovessi accusare dello stress, potrai sempre concederti un po\u2019 di sano shopping, rilassarti al bar o calmare i nervi al club per gentiluomini.\nL\u2019idea ti gasa? \nAllora infila i guanti, afferra il piede di porco e preparati per un\u2019avventura all\u2019insegna di furti e raggiri!",
         "languages": [
             "en",
             "de",
@@ -29974,7 +29974,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa6dc526f747c93601b6bf8cc4bbac249ca6e9e04ae8a426a57c9b59fc916774.jpg",
         "intro": "Un affascinante gioco d'avventura basato su una meccanica a rompicapo unica e rivoluzionaria.",
-        "description": "Carto \u00e8 un affascinante gioco d'avventura basato su una meccanica a rompicapo unica e rivoluzionaria. Usa questo potere per esplorare terre misteriose, aiutare personaggi pittoreschi e guidare Carto nel suo viaggio per ricongiungersi alla famiglia.\n\nSeparata dalla nonna durante una tempesta, la giovane Carto deve usare i suoi poteri innati di cartografia per tracciare mappe e manipolare il mondo intorno a lei nella susa missione per ricongiungersi alla nonna. Man mano che Carto scopre \"pezzi\" della mappa di gioco, tu potrai ridisporli per dare una nuova forma ai livelli e sbloccare percorsi, rompicapi e momenti della trama. \n\nCarto attraverser\u00e0 nuove terre sconosciute, apprender\u00e0 la loro cultura e lungo la strada si far\u00e0 aiutare da nuovi amici in questa avventura creata a mano.\n\nCaratteristiche\n- Una meccanica unica di esplorazione e rompicapo: ridisponi i pezzi della mappa e guarda cambiare il mondo intorno a te!\n- Rilassati ed esplora terre pacifiche ma misteriose in una storia di 5-7 ore di gioco\n- Incontra personaggi pittoreschi e scopri le loro culture uniche\n- Goditi le magnifiche immagini disegnate a mano di un'ampia variet\u00e0 di ambienti\n- Ascolta l'affascinante colonna sonora con pi\u00f9 di 40 brani originali che ti accompagneranno nella tua avventura",
+        "description": "Carto \u00e8 un affascinante gioco d'avventura basato su una meccanica a rompicapo unica e rivoluzionaria. Usa questo potere per esplorare terre misteriose, aiutare personaggi pittoreschi e guidare Carto nel suo viaggio per ricongiungersi alla famiglia.\n\nSeparata dalla nonna durante una tempesta, la giovane Carto deve usare i suoi poteri innati di cartografia per tracciare mappe e manipolare il mondo intorno a lei nella susa missione per ricongiungersi alla nonna. Man mano che Carto scopre \"pezzi\" della mappa di gioco, tu potrai ridisporli per dare una nuova forma ai livelli e sbloccare percorsi, rompicapi e momenti della trama. \n\nCarto attraverser\u00e0 nuove terre sconosciute, apprender\u00e0 la loro cultura e lungo la strada si far\u00e0 aiutare da nuovi amici in questa avventura creata a mano.\n\nCaratteristiche\n- Una meccanica unica di esplorazione e rompicapo: ridisponi i pezzi della mappa e guarda cambiare il mondo intorno a te!\n- Rilassati ed esplora terre pacifiche ma misteriose in una storia di 5-7 ore di gioco\n- Incontra personaggi pittoreschi e scopri le loro culture uniche\n- Goditi le magnifiche immagini disegnate a mano di un'ampia variet\u00e0 di ambienti\n- Ascolta l'affascinante colonna sonora con pi\u00f9 di 30 brani originali che ti accompagneranno nella tua avventura",
         "languages": [
             "ja",
             "en",
@@ -32790,6 +32790,54 @@
         ],
         "size": 1210056704
     },
+    "70010000033907": {
+        "id": "01008F1012DF4000",
+        "rightsId": null,
+        "name": "Jigsaw Fun: Piece It Together!",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201214,
+        "nsuId": 70010000033907,
+        "category": [
+            "Puzzle",
+            "Multiplayer",
+            "Da tavolo",
+            "Party"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Mindscape",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c9526620ae85e4e37049483cb8ddcd060e9400045e82bf30f055d2c027562210.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1b91b1fe4701ec72afff2f13b1832ce875561ec7645a613579b64d783ea566ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5d22036137bfcf81b34f7586d4932889169a2911f07a7b6b3f94cdb80d5ef5a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e8ef1094ca8b8123827aa1fc623e2adf242d39bb6e2c5bbc65692987a56b67fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/53b41851051fe83165a92623a6adfbbf533f3d6022cdeb2125109c2e264e1e57.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd13cdeeefae1573854bce83118d0b4842a1154bd7fe5eab3e7abacc1756c0b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8be0298a892ed051a9bfebe4a6603f94d13b7b79894e0a3c21c90097d36f322a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0e0284916517f4cf898a30480876009d6d128af32436acd82455d0bc9fa3527d.jpg",
+        "intro": "Metti insieme i pezzi con fino a 4 giocatori in oltre 200 livelli unici!",
+        "description": "Rilassati con un puzzle in solitario o con fino a 4 giocatori. Grazie alle centinaia di puzzle unici della libreria di immagini e puzzle di Jigsaw Fun il divertimento non finir\u00e0 mai. Dai gatti e i cani fino alle citt\u00e0 del mondo, da meravigliosi paesaggi naturali a gomitoli di lana colorati. Componi i tuoi puzzle preferiti!\n\nCaratteristiche:\n\u2022 200+ puzzle unici\n\u2022 Vasta selezione di puzzle di alta qualit\u00e0\n\u2022 Fino a 4 giocatori in locale\n\u2022 Comandi touch semplici e accessibili\n\u2022 Riprendi le partite lasciate a met\u00e0 grazie alla funzione di salvataggio automatico\n\u2022 4 categorie di grandezza diverse (max 500 pezzi)\n\u2022 8 sfondi diversi con cui personalizzare la partita\n\u2022 Modalit\u00e0 Sfida a tempo",
+        "languages": [
+            "en",
+            "fr",
+            "es",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 706740224
+    },
     "70010000033923": {
         "id": "01007AA012E02000",
         "rightsId": null,
@@ -33976,7 +34024,7 @@
         "developer": null,
         "publisher": "TimothyvanderHoeven",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b7114c6714fb4b3341df9b1be89e3687660ecfb3d16efb52ed8a2a43def635f0.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/62cf9bc9150c85c7d9bba5f7bf900e925400cdd99cbe439e9da1865d9550f29f.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/2e7f4ffd067496bb92e49e4e0dad775f9f48bbb7527ce413d2d7864919f0913b.jpg",
             "https://img-eshop.cdn.nintendo.net/i/589888d8603715e93452706866e8c8761cfcf9ad4b076510209f681da5e6af3d.jpg",
@@ -33992,7 +34040,7 @@
             "es",
             "nl"
         ],
-        "size": 131072000
+        "size": 202375168
     },
     "70010000034340": {
         "id": "0100EEE012FE4000",
@@ -34239,7 +34287,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/237263f813b79b6b58bc77c586a6172a906d08fac421572539c6f963ef3cd81a.jpg",
         "intro": "Try on the role of a driver of a passenger bus. Take a ride in a real city, strictly following the schedule.",
-        "description": "Complete journeys around the city and its suburbs, strictly following the schedule. Earn money by successfully delivering passengers and following the traffic laws. Complete various scenarios with pre-set conditions or build your own career in Free Mode. You have a unique chance to drive buses from different eras and countries. You can drive both old Soviet city buses and European long-distance giants.\n\nWe took photos of a big part of these cities and their suburbs to recreate buildings and streets as close to real objects as possible. Virtual cities are recreated in a very accurate way, with every detail preserved. Buildings, bus stops and other objects are situated exactly on their places.\n\nChoose routes at your look to drive around the city districts you are interested in. It does not matter whether you like high-speed passenger transportation or slow and relaxed driving. If you do not like pre-set schedule, you can customize it for your driving style. Earn money, buy new buses and upgrade them. Decorate your bus as you want. \n\nGame features:\n- Vast number of high-detailed buses from different countries and eras.\n- Complete edition with all dlc's included. \n- Recreated cities and their suburbs with area of more than 20 km\u00c2\u00b2.\n- Possibility of upgrading your buses, adding and replacing decoration elements.\n- Different weather conditions, dynamic day time change.\n- Various traffic situations: traffic jams, accidents, speed bumps, driving at night, long-distance travels.\n- Wide functionality on driving a bus.\n- Necessity to visit gas stations and garages.",
+        "description": "Complete journeys around the city and its suburbs, strictly following the schedule. Earn money by successfully delivering passengers and following the traffic laws. Complete various scenarios with pre-set conditions or build your own career in Free Mode. You have a unique chance to drive buses from different eras and countries. You can drive both old Soviet city buses and European long-distance giants.\n\nWe took photos of a big part of these cities and their suburbs to recreate buildings and streets as close to real objects as possible. Virtual cities are recreated in a very accurate way, with every detail preserved. Buildings, bus stops and other objects are situated exactly on their places.\n\nChoose routes at your look to drive around the city districts you are interested in. It does not matter whether you like high-speed passenger transportation or slow and relaxed driving. If you do not like pre-set schedule, you can customize it for your driving style. Earn money, buy new buses and upgrade them. Decorate your bus as you want. \n\nGame features:\n- Vast number of high-detailed buses from different countries and eras.\n- Complete edition with all dlc's included. \n- Recreated cities and their suburbs with area of more than 20 km\u00b2.\n- Possibility of upgrading your buses, adding and replacing decoration elements.\n- Different weather conditions, dynamic day time change.\n- Various traffic situations: traffic jams, accidents, speed bumps, driving at night, long-distance travels.\n- Wide functionality on driving a bus.\n- Necessity to visit gas stations and garages.",
         "languages": [
             "en",
             "es",
@@ -35319,7 +35367,7 @@
             "zh",
             "zh"
         ],
-        "size": 11441012736
+        "size": 11700011008
     },
     "70010000034706": {
         "id": "0100DE70131F4000",
@@ -37219,6 +37267,43 @@
         ],
         "size": 153092096
     },
+    "70010000035146": {
+        "id": "010007D012AD0000",
+        "rightsId": null,
+        "name": "Shikaku Shapes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201218,
+        "nsuId": 70010000035146,
+        "category": [
+            "Puzzle",
+            "Strategia",
+            "Da tavolo",
+            "Study"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Hook Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/82fb8b0590030ea52fb10cff3a47e8de42037563f371079d600e86c79074f8db.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fdb4701f45fc56ce21a379f99ac9abb9d6a76218f5ba69149b0dea215a9e190e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/435e7ea3db2dc264e77c939866bb713f3700a062b9a0b7b2dc4573db4f40563c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/105c884d95bd9254c6067b05585bb7afc551a147d70a8db2aec414fbcaccbd67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/922d590e15bed780cea7777526cd209e82a3e31246dc0a1be6196b142ed5f80b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e3e036759680ab4b21a863a4ecb6bc94aa009d35e3ea8df95e0fe991a02d27b9.jpg",
+        "intro": "Hours of brain challenge, great for both beginners and pros!",
+        "description": "Shikaku Shapes is played on a rectangular grid. Some of the squares in the grid are numbered. The objective is to divide the grid into rectangular and square pieces such that each piece contains exactly one number, and that number represents the area of the rectangle. \n\n> 90 puzzles from 5x5 to 15x15\n> Light / dark color themes\n> Perfect puzzle to challenge your brain",
+        "languages": [
+            "en"
+        ],
+        "size": 170917888
+    },
     "70010000035238": {
         "id": "01005300128E2000",
         "rightsId": null,
@@ -37538,7 +37623,7 @@
     "70010000035327": {
         "id": "0100D24013466000",
         "rightsId": null,
-        "name": "Dreamo",
+        "name": "DREAMO",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -37569,6 +37654,7 @@
         "description": "DREAMO \u00e8 un viaggio rompicapo attraverso un paesaggio mutevole di ricordi.\n\nIn DREAMO, ci si sveglia su un'isola nei panni di Jack Winslow. Guidati dalla voce di Tara Moreau, un'inventore/terapeuta, vi mettete a mettere insieme i vostri ricordi mancanti. Questi frammenti sono bloccati in \"Artefatti\", che si manifestano nella tua mente come cubi con ingranaggi fuori posto. Man mano che scavi pi\u00f9 a fondo nella tua mente, gli enigmi diventano sempre pi\u00f9 complessi, nel tentativo di tenere chiusi i tuoi ricordi.\n\nPotete decifrarli e sbloccare i segreti della vostra mente?\n\nCARATTERISTICHE\n- Gioco di puzzle-avventura in prima persona,\n- Decine di rompicapi 3D progettati individualmente e impegnativi con componenti in movimento e una variet\u00e0 di modificatori.\n- Una storia basata sulla narrazione che esplora i temi della memoria, della scelta e delle conseguenze,\n- Vibrante stile artistico a basso contenuto di polistirolo.\n- Una trama coinvolgente a tre capitoli\n- Formula di gioco rilassante...\n- ...E una modalit\u00e0 sfida, per chi vuole i rompicapi pi\u00f9 difficili.",
         "languages": [
             "en",
+            "pt",
             "es",
             "fr",
             "de",
@@ -38206,6 +38292,45 @@
         ],
         "size": 6192889856
     },
+    "70010000035680": {
+        "id": "01002130136C0000",
+        "rightsId": null,
+        "name": "Dungeonoid",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201225,
+        "nsuId": 70010000035680,
+        "category": [
+            "Arcade",
+            "Avventura",
+            "Gioco di ruolo (RPG)",
+            "Multiplayer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "SuperPowerUpGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/56478960ba40995f9babe495e802eb1479f8cb4ce531a2a56db7481f748504b4.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c555e6b51d32420c4bab4f12e48ec14964a844a23f90622c16aaa2cec0eee8b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a1c2168b10e4730d0aac69eef00d4d04bb8ffd5fbd4de52084c16e14913ce9f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ada7248377826f3955ede63cd647eed09aeba529a7f5e6e114a5bee37fa3e5da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/abeb48398e80f4be33f2b5c29fa47d96c98f3514d8192a4f6e13939823019aee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4008aa1f22b039d9f731dbb7669f19c2ff024681c03e4a680805a9fa8d37b70f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a4c507b76343c41ec91cf793e04b20f585c1add4029d918c4501f15706a76db4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0a3f8930d70fd5054c2e062f08fc57af81c6743cd73be6e1da799a18f13e3606.jpg",
+        "intro": null,
+        "description": " La tua missione \u00e8 quella di attraversare i sotterranei di Infernal Castle per  recuperare le 3 gemme sacre e sconfiggere Demon Master e i suoi seguaci. Sei pronto?\n\n-40 livelli di gioco\n-Livelli corsa contro il tempo\n-Power-up\n-Boss finali\n-Sistema classico di GDR con salto di livello e abilit\u00e0\n-Modalit\u00e0 cooperativa\n-Classifica online",
+        "languages": [
+            "en"
+        ],
+        "size": 66060288
+    },
     "70010000035697": {
         "id": "01009D20136CC000",
         "rightsId": null,
@@ -38362,7 +38487,7 @@
         "languages": [
             "en"
         ],
-        "size": 807403520
+        "size": 829423616
     },
     "70010000035728": {
         "id": "01006C8013708000",
@@ -43748,6 +43873,34 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000020706": {
+        "id": null,
+        "rightsId": null,
+        "name": "Trials\u00ae Rising Starter Pack #2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201118,
+        "nsuId": 70050000020706,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0aa790b3be134b639ce192a4bd560641e605cce0c7548991f43ce8c8aaf2c80b.jpg",
+        "intro": null,
+        "description": "Inizia il tuo viaggio verso la fama e la gloria con lo Starter Pack di Trials\u00ae Rising!\n\nOttieni l'accesso immediato al pacchetto di tracciati Ritorno alla fusione con cinque nuovi tracciati da dominare e la tuta Premium Cyborg per il tuo pilota. Include anche 60 ghiande di valuta di gioco.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000020781": {
         "id": null,
         "rightsId": null,
@@ -43885,7 +44038,7 @@
         "intro": null,
         "description": "Il Pacchetto Bisanzio e Galli introduce Basilio II, leader di Bisanzio, e Ambiorix, leader dei Galli. L'impero bizantino pu\u00f2 soggiogare i suoi nemici attraverso la forza religiosa e militare: quest'ultima \u00e8 supportata dalle sue due unit\u00e0 esclusive, la nave Dromone e il Tagma. L'orda dei Galli si concentra sulla flessibilit\u00e0 militare, che si appoggia a una salda base di Cultura e Produzione coadiuvata dal distretto esclusivo Oppidum. Il pacchetto include anche la nuova modalit\u00e0 di gioco Et\u00e0 drammatiche, un nuovo tipo di mappa (Altopiani) e due Grandi Meraviglie (Biosfera e Statua di Zeus).\n",
         "languages": null,
-        "size": 559939584
+        "size": 562036736
     },
     "70050000020794": {
         "id": null,
@@ -59201,7 +59354,7 @@
         "intro": "Segui la via del Corvo",
         "description": "The Path of the Crow Deluxe Edition contiene: \n\nIl gioco.\n\nIl famiglio corvo, amico del nostro eroe. Il corvo rester\u00e0 al tuo fianco anche quando la strada si far\u00e0 pi\u00f9 dura. \n\nUn nuovo livello, il Campo di battaglia. Desolata e devastata da marciume e decadimento, la terra qui \u00e8 frantumata e arsa dalle esplosioni, e tra la nebbia risuonano gli squilli di tromba della carica. Questo livello \u00e8 l'apice della guerra, e dovrai attraversarlo combattendo. \n\nUn nuovo nemico, il Capitano: un avversario davvero temibile, impazzito per la brama di guerra. Armato di cannone e sciabola, porta rovina a distanza e da vicino.\n\nUna nuova arma, il Mortaio: questa nuova arma, recuperata sul Campo di battaglia, terrorizza anche chi riesce a mettersi al riparo.\n\nUna nuova benedizione, la Forza: ti render\u00e0 capace di abbattere porte d'acciaio a mani nude e sferrare un gancio destro devastante a chi ti sbarra il passo.",
         "languages": null,
-        "size": 936378368
+        "size": 958398464
     },
     "70070000010683": {
         "id": null,

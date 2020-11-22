@@ -1679,7 +1679,7 @@
             "pt",
             "ru"
         ],
-        "size": 630194176
+        "size": 688914432
     },
     "70010000014923": {
         "id": "0100ECD00C806000",
@@ -6027,7 +6027,6 @@
             "Platformer"
         ],
         "ratingContent": [
-            "Horror",
             "Moderate Violence"
         ],
         "numberOfPlayers": 1,
@@ -10587,7 +10586,7 @@
         "languages": [
             "en"
         ],
-        "size": 1589641216
+        "size": 1694498816
     },
     "70010000027353": {
         "id": "0100F18010BA0000",
@@ -15034,7 +15033,7 @@
         "languages": [
             "en"
         ],
-        "size": 852492288
+        "size": 851443712
     },
     "70010000029075": {
         "id": "010039A0117C0000",
@@ -16265,7 +16264,7 @@
             "ru",
             "zh"
         ],
-        "size": 2345664512
+        "size": 2436890624
     },
     "70010000029628": {
         "id": "010042C011476000",
@@ -17158,7 +17157,7 @@
             "de",
             "it"
         ],
-        "size": 3051356160
+        "size": 3071279104
     },
     "70010000030012": {
         "id": "0100BF9011B52000",
@@ -29027,7 +29026,7 @@
             "https://img-eshop.cdn.nintendo.net/i/1fbfcaeca377bffa701e6427bb43ca7a0d68261a06f27b56b94c9d004cbc760d.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/97a880641c43ea68f93c19f6dd0ece2b9bc2a532ab90604c8903c03fb6670cb7.jpg",
-        "intro": "Compete with family and friends in the most epic chess game ever made",
+        "intro": "Compete with family and friends in the most epic chess game ever made. If you enjoy putting pressure on your opponent, then the Queen's Gambit is a perfect opening for you.",
         "description": "Are you ready to become a champion? Choose your hero and challenge other players in this family-friendly game with a lively cartoon style. Train your brain and bond with your loved ones at the same time. \n\nIn this fantasy world, one of brave heroes leads your chess army to victory. \n\nCartoon visuals make the game accessible to everyone. What\u2019s going on there! Arrows fly above heads and swords break in the heat of battle. Or maybe you prefer classic chess? You can always change your pieces to traditional ones.\n\nBrawl Chess connects generations in a multiplayer, but a single player will also appeal to players of all ages. There are 5 levels of difficulty. The first is great for children to learn. The fifth is suited for chess veterans who are looking for a serious challenge.\n\nKey features:\n\nLOCAL MULTIPLAYER. Your family will absolutely love this version of chess. Do you fancy a happy competition between parents and children? It is possible. Invite grandparents too, they certainly know the rules.\n\nKIDS-FRIENDLY. It's a game for the whole family, easy to learn and cheerful. Play it regardless of age. Thanks to the vibrant cartoon style, children will also join the fun.\n\nBRAIN TRAINING. But in a fun way! Brawl Chess looks modern while still being one of the oldest and most popular games in the world with all its advantages. It increases IQ, improves arithmetic skills, teaches analytical and critical thinking. Train to use both hemispheres of your brain.\n\nCREATIVITY BOOST. The fun doesn't have to end after turning off the console. When the father plays as a ghost, and the son plays as a prince, they can perform scenes with these characters after the chess game ends.",
         "languages": [
             "ja",
@@ -32752,6 +32751,54 @@
         ],
         "size": 1210056704
     },
+    "70010000033907": {
+        "id": "01008F1012DF4000",
+        "rightsId": null,
+        "name": "Jigsaw Fun: Piece It Together!",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201214,
+        "nsuId": 70010000033907,
+        "category": [
+            "Puzzle",
+            "Multiplayer",
+            "Board Game",
+            "Party"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Mindscape",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c9526620ae85e4e37049483cb8ddcd060e9400045e82bf30f055d2c027562210.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1b91b1fe4701ec72afff2f13b1832ce875561ec7645a613579b64d783ea566ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5d22036137bfcf81b34f7586d4932889169a2911f07a7b6b3f94cdb80d5ef5a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e8ef1094ca8b8123827aa1fc623e2adf242d39bb6e2c5bbc65692987a56b67fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/53b41851051fe83165a92623a6adfbbf533f3d6022cdeb2125109c2e264e1e57.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd13cdeeefae1573854bce83118d0b4842a1154bd7fe5eab3e7abacc1756c0b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8be0298a892ed051a9bfebe4a6603f94d13b7b79894e0a3c21c90097d36f322a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0e0284916517f4cf898a30480876009d6d128af32436acd82455d0bc9fa3527d.jpg",
+        "intro": "Piece it together with up to 4 players, across 200+ unique puzzling levels!",
+        "description": "Jump into a relaxing puzzle alone or with up to 4 players. With hundreds of unique jigsaw puzzles, Jigsaw Fun has the largest library of images and jigsaws to enjoy. From cats & dogs to cityscapes, from beautiful nature scenes to colorful balls of yarn, piece together your favorite puzzles!\n\nFeatures:\n\u2022 200+ unique jigsaw levels\n\u2022 Huge selection of high-quality puzzle images\n\u2022 Up to 4 player local multiplayer\n\u2022 Easy and accessible touch controls\n\u2022 Pick up where you left off with automatic save feature\n\u2022 4 different piece counts (max. 500 pieces)\n\u2022 8 different backgrounds to customize your game\n\u2022 Time challenge mode",
+        "languages": [
+            "en",
+            "fr",
+            "es",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 706740224
+    },
     "70010000033923": {
         "id": "01007AA012E02000",
         "rightsId": null,
@@ -33938,7 +33985,7 @@
         "developer": null,
         "publisher": "TimothyvanderHoeven",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b7114c6714fb4b3341df9b1be89e3687660ecfb3d16efb52ed8a2a43def635f0.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/62cf9bc9150c85c7d9bba5f7bf900e925400cdd99cbe439e9da1865d9550f29f.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/2e7f4ffd067496bb92e49e4e0dad775f9f48bbb7527ce413d2d7864919f0913b.jpg",
             "https://img-eshop.cdn.nintendo.net/i/589888d8603715e93452706866e8c8761cfcf9ad4b076510209f681da5e6af3d.jpg",
@@ -33954,7 +34001,7 @@
             "es",
             "nl"
         ],
-        "size": 131072000
+        "size": 202375168
     },
     "70010000034340": {
         "id": "0100EEE012FE4000",
@@ -37181,6 +37228,43 @@
         ],
         "size": 153092096
     },
+    "70010000035146": {
+        "id": "010007D012AD0000",
+        "rightsId": null,
+        "name": "Shikaku Shapes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201218,
+        "nsuId": 70010000035146,
+        "category": [
+            "Puzzle",
+            "Strategy",
+            "Board Game",
+            "Study"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Hook Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/82fb8b0590030ea52fb10cff3a47e8de42037563f371079d600e86c79074f8db.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fdb4701f45fc56ce21a379f99ac9abb9d6a76218f5ba69149b0dea215a9e190e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/435e7ea3db2dc264e77c939866bb713f3700a062b9a0b7b2dc4573db4f40563c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/105c884d95bd9254c6067b05585bb7afc551a147d70a8db2aec414fbcaccbd67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/922d590e15bed780cea7777526cd209e82a3e31246dc0a1be6196b142ed5f80b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e3e036759680ab4b21a863a4ecb6bc94aa009d35e3ea8df95e0fe991a02d27b9.jpg",
+        "intro": "Hours of brain challenge, great for both beginners and pros!",
+        "description": "Shikaku Shapes is played on a rectangular grid. Some of the squares in the grid are numbered. The objective is to divide the grid into rectangular and square pieces such that each piece contains exactly one number, and that number represents the area of the rectangle. \n\n> 90 puzzles from 5x5 to 15x15\n> Light / dark color themes\n> Perfect puzzle to challenge your brain",
+        "languages": [
+            "en"
+        ],
+        "size": 170917888
+    },
     "70010000035238": {
         "id": "01005300128E2000",
         "rightsId": null,
@@ -37457,7 +37541,7 @@
     "70010000035327": {
         "id": "0100D24013466000",
         "rightsId": null,
-        "name": "Dreamo",
+        "name": "DREAMO",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -37488,6 +37572,7 @@
         "description": "DREAMO is a puzzle-solving journey through a shifting landscape of recollections.\n\nIn DREAMO, you wake up on an island as Jack Winslow. Guided by the voice of Tara Moreau, an inventor/therapist, you set out to piece together your missing memories. These fragments are locked in \"Artifacts\", which manifest in your mind as cubes with misplaced gears. As you delve deeper into your mind, the puzzles grow more complex in an effort to keep your memories locked away.\n\nCan you decipher them and unlock the secrets of your mind?\n\nFEATURES\n- First-person puzzle-adventure game,\n- Dozens of individually designed, challenging 3D puzzles with moving components and a variety of modifiers.\n- Fully voiced, narration-based story that explores themes of memory, choice, and consequence,\n- Vibrant low-poly artstyle.\n- An engaging three-chapter storyline\n- Relaxing gameplay formula...\n- ...And a challenge mode, for those who want the hardest possible puzzles.",
         "languages": [
             "en",
+            "pt",
             "es",
             "fr",
             "de",
@@ -38124,6 +38209,45 @@
             "it"
         ],
         "size": 6192889856
+    },
+    "70010000035680": {
+        "id": "01002130136C0000",
+        "rightsId": null,
+        "name": "Dungeonoid",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201225,
+        "nsuId": 70010000035680,
+        "category": [
+            "Arcade",
+            "Adventure",
+            "RPG",
+            "Multiplayer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "SuperPowerUpGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/56478960ba40995f9babe495e802eb1479f8cb4ce531a2a56db7481f748504b4.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c555e6b51d32420c4bab4f12e48ec14964a844a23f90622c16aaa2cec0eee8b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a1c2168b10e4730d0aac69eef00d4d04bb8ffd5fbd4de52084c16e14913ce9f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ada7248377826f3955ede63cd647eed09aeba529a7f5e6e114a5bee37fa3e5da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/abeb48398e80f4be33f2b5c29fa47d96c98f3514d8192a4f6e13939823019aee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4008aa1f22b039d9f731dbb7669f19c2ff024681c03e4a680805a9fa8d37b70f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a4c507b76343c41ec91cf793e04b20f585c1add4029d918c4501f15706a76db4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0a3f8930d70fd5054c2e062f08fc57af81c6743cd73be6e1da799a18f13e3606.jpg",
+        "intro": null,
+        "description": "Your mission is to cross the dungeons of the Infernal Castle with the aim of recovering the 3 sacred gems and defeating the Demon Master and his henchmen. Are you ready?\n\n-40 game levels\n-Time attack levels\n-Power-ups\n-Final Bosses\n-Classic RPG system with level-ups and skills\n-Co-op mode\n-Online ranking",
+        "languages": [
+            "en"
+        ],
+        "size": 66060288
     },
     "70010000035697": {
         "id": "01009D20136CC000",
@@ -43664,6 +43788,34 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0f2e6fb607033d945d26feb8573d54bd1cf46f5d6d9f2b21d157bbc7be127d68.jpg",
         "intro": null,
         "description": "Begin your journey to fame and glory with the Trials\u00ae Rising Starter Pack!\n\nGet instant access \u00a0the Shopping Cart Fun Bike and experience a hilarious new way to ride through the tracks, and the Premium Knight Outfit for your rider. This also includes 60 acorns of in-game currency.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000020706": {
+        "id": null,
+        "rightsId": null,
+        "name": "Trials\u00ae Rising Starter Pack #2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201118,
+        "nsuId": 70050000020706,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0aa790b3be134b639ce192a4bd560641e605cce0c7548991f43ce8c8aaf2c80b.jpg",
+        "intro": null,
+        "description": "Begin your journey to fame and glory with the Trials\u00ae Rising Starter Pack!\n\nGet instant access to The Back to the Fusion Track Pack with five new tracks to master and the Premium Cyborg Outfit for your rider. This also includes 60 Acorns of in-game currency.",
         "languages": null,
         "size": 4194304
     },
@@ -59120,7 +59272,7 @@
         "intro": "Walk the Path of the Crow",
         "description": "The Path of the Crow Deluxe Edition contains: \n\nThe Game.\n\nThe Crow familiar, a friend to our hero. The crow will stay by your side through the darkest of paths. \n\nA new level, The Battlefield. Dilapidated and riven with rot and decay, the land here has been shattered and burned by explosions, with a fog-filled with the calls to charge. This level is the epitome of all war and it is yours to battle through. \n\nA new enemy, The Captain, a truly frightening opponent, maddened by his lust for war. He is armed with a cannon and a sabre, this menace is trouble close or afar.\n\nA new weapon, The Mortar, claimed from The Battlefield, this new weapon will terrify even those cowering behind cover.\n\nA new blessing, Strength, with this, you'll be able to punch down steel doors and land a mean hook on the denizens in your way.",
         "languages": null,
-        "size": 936378368
+        "size": 958398464
     },
     "70070000010683": {
         "id": null,

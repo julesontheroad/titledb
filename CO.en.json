@@ -7252,6 +7252,55 @@
         ],
         "size": 4358930432
     },
+    "70010000033131": {
+        "id": "0100535012974000",
+        "rightsId": null,
+        "name": "Hades",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70010000033131,
+        "category": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Supergiant Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3c5b17aa63fb7060af7135a5318ec305f126539ad2e389f7e409be5625a6655c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2a8ec2edcb7e498d599f21aa937baa5c39ff14a8b0d1f489c685b3a6eb52c37b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/93004a4a44bcf83c5b6a62b0f5a4c974b1e44f7d03d2299646f5ff4f6fac34fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f894117ca190661e8c377dc0de57b16a911ca2d46fbd5e09b32b751ac83bbae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5521882ad669c26da844b4668eb7e9c754d157211d5b992b549b0fb9592e91fc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bfb04be87f9f727e319a75857b4cbb894d288c90c6ecb0a5c4003b30b3dcf9de.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b87b3c2d336d32ea15d7b890689e71f670f81e158705b50b5f7bbd9ed2e4da3b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dbc8c55a21688b446a5c57711b726956483a14ef8c5ddb861f897c0595ccb6b5.jpg",
+        "intro": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion and Transistor.",
+        "description": "BATTLE OUT OF HELL\nAs the immortal Prince of the Underworld, you'll wield the powers and mythic weapons of Olympus to break free from the clutches of the god of the dead himself, while growing stronger and unraveling more of the story with each unique escape attempt.\n\nUNLEASH THE FURY OF OLYMPUS\nThe Olympians have your back! Meet Zeus, Athena, Poseidon, and many more, and choose from their dozens of powerful Boons that enhance your abilities. There are thousands of viable character builds to discover as you go.\n\nBEFRIEND GODS, GHOSTS, AND MONSTERS\nA fully-voiced cast of colorful, larger-than-life characters is waiting to meet you! Grow your relationships with them, and experience thousands of unique story events as you learn about what's really at stake for this big, dysfunctional family.\n\nBUILT FOR REPLAYABILITY\nNew surprises await each time you delve into the ever-shifting Underworld, whose guardian bosses will remember you. Use the powerful Mirror of Night to grow permanently stronger, and give yourself a leg up the next time you run away from home.\n\nNOTHING IS IMPOSSIBLE\nPermanent upgrades mean you don't have to be a god yourself to experience the exciting combat and gripping story. Though, if you happen to be one, crank up the challenge and get ready for some white-knuckle action that will put your well-practiced skills to the test.\n\nSIGNATURE SUPERGIANT STYLE\nThe rich, atmospheric presentation and unique melding of gameplay and narrative that's been core to Supergiant's games is here in full force: spectacular hand-painted environments and a blood-pumping original score bring the Underworld to life.",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 6023020544
+    },
     "70010000034439": {
         "id": null,
         "rightsId": null,
