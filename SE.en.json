@@ -4448,7 +4448,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/843d1a9fbd44ab746dc3167ebfafb1bbbc4f9af41191b543078480774b932eb7.jpg",
         "intro": "Across the endless desert and atop an alpine expanse two journeys full of wonder await. Choose your path and set off on a thrilling adventure with Alto & friends.",
-        "description": "Join Alto and friends as they set out on the adventure of a lifetime.\n\nRace down alpine slopes, over windswept dunes, through ancient woodlands and the long forgotten ruins of both critically acclaimed titles: Alto\u2019s Adventure and Alto\u2019s Odyssey.\n\nAlong the way you\u2019ll pull off daring backflips, grind over rooftops and leap over vast chasms as you journey to discover what mysteries lie beyond the horizon.\n\n-  Full access to both Alto's Adventure and Alto's Odyssey, including over 120 levels, 360 goals, 7 unique characters, and a workshop full of upgrades.\n\n-  Custom designed soundtracks for Standard and Zen modes for both titles.\n\n- Full controller support.\n\n- Online leaderboards.",
+        "description": "Join Alto and friends as they set out on the adventure of a lifetime.\n\nRace down alpine slopes, over windswept dunes, through ancient woodlands and the long forgotten ruins of both critically acclaimed titles: Alto\u2019s Adventure and Alto\u2019s Odyssey.\n\nAlong the way you\u2019ll pull off daring backflips, grind over rooftops and leap over vast chasms as you journey to discover what mysteries lie beyond the horizon.\n\n-  Full access to both Alto's Adventure and Alto's Odyssey, including over 120 levels, 360 goals, 7 unique characters, and a workshop full of upgrades.\n\n-  Custom designed soundtracks for Standard and Zen modes for both titles.\n\n- Online leaderboards.",
         "languages": [
             "ja",
             "en",
@@ -35875,6 +35875,53 @@
             "es"
         ],
         "size": 2474639360
+    },
+    "70010000034810": {
+        "id": "0100C6301324C000",
+        "rightsId": null,
+        "name": "Electro Ride: The Neon Racing",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201127,
+        "nsuId": 70010000034810,
+        "category": [
+            "Arcade",
+            "Racing",
+            "Adventure",
+            "Sports"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/03d606ac856304a71e949c864b826b9104f13e70487b90186b7433fbc8f98341.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f518ec2cb0cb09cfdc85f5f0f78d8b647b8912600cc6b269beb0d8f482db6e63.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/91a1d92491b668b92c12969140770f47ef45feeac249962a38b7cad5d76a9658.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/717a6e35eb046ec796f6f3ea9a84c6fceb864750fab38d98b81613913e2ffa63.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/110aa00c041160272cbf98125eab908afe3e4f76acc75572788732259af3114f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94d69f74b50d7c06b4ff20b0d6aecae1688ecb612387dc1101e8b66d94f88b6a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/64d1b88f3413d7c75c4f61a0e6315a22f1f6168c12495e797dd16c33672ec606.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/37fbea752736ab2b006e5719df6f7f5ace932156fff2fe63e852ce3c24c6bcad.jpg",
+        "intro": "The fame awaits. And you don\u2019t do it for just yourself: you do it for the society. Enter the crazy neon racing world and become the hero of your neighborhood today!",
+        "description": "Electro Ride is a Soviet Bloc Arcade Racer with neon lights. Become the fastest racer in Neon-alternative East Bloc from the Berlin Wall to Moscow. Neon lights, unique classic East Bloc cars, color-sensitive boosts strips, phisics, synthwave and beloved splitscreen. 100% adrenaline!\n\nIn an alternate Europe in which the Eastern Bloc did not fall, but transformed into a center of eternal wealth and progress - this is where fame awaits you. No ABS, no traction control, no modern electronic system. Only you and a beautiful, classic vehicle with super-powerful neon lights. Show your driving and drifting skills!\n\n- Collect the stars to change your neon\u2019s color\n- Hit the stripes in your neon\u2019s color at the turns\n- Reach the speeds your good ol\u2019 Lada has never moved at\n- Unlock 20 racetracks in quick race and win 15 races in story mode. \n- Try 20+ cars inspired by Eastern Bloc classics\n- Choose from many game modes including the beloved splitscreen\n- Race, fight and bounce to the Synthwave rhythms!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 2100297728
     },
     "70010000034812": {
         "id": "0100463013246000",
