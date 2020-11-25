@@ -5575,7 +5575,7 @@
             "zh",
             "zh"
         ],
-        "size": 9366929408
+        "size": 9992929280
     },
     "70010000022226": {
         "id": "01002C000E35E000",
@@ -5612,7 +5612,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d5cd9c87ee15c32d2ea4b3db10cd553bd2dc9f68697c7c4f8decf498fc21036d.jpg",
         "intro": "The golf game for people who hate golf!",
-        "description": "An award-winning silly physics-based golf parody where every golf course is a new surprising type of golf, some brilliant or hilarious, others so absurd they will make you go: WHAT THE GOLF?\n\nBring your car to the Driving Range, golf a bird to get a Birdy, or a house and get a Home In One!\n\nChallenge a friend to the least realistic golf game ever made in the new local party mode for two. Only available on Switch.\n\n\u00c2\u00a0Features:\n- Insanely stupid and silly fun\n- Exactly what you need and not what you expect\n- More surprising new golf mechanics than you can imagine\n- Two-player local multiplayer\n- Made by people who know nothing about golf\n- First (and hopefully the last) game that let you golf a horse\n- Will NOT make you a better golf player\n- Surprises! (sorry, we spoiled it)",
+        "description": "An award-winning silly physics-based golf parody where every golf course is a new surprising type of golf, some brilliant or hilarious, others so absurd they will make you go: WHAT THE GOLF?\n\nBring your car to the Driving Range, golf a bird to get a Birdy, or a house and get a Home In One!\n\nChallenge a friend to the least realistic golf game ever made in the new local party mode for two. Only available on Switch.\n\n\u00a0Features:\n- Insanely stupid and silly fun\n- Exactly what you need and not what you expect\n- More surprising new golf mechanics than you can imagine\n- Two-player local multiplayer\n- Made by people who know nothing about golf\n- First (and hopefully the last) game that let you golf a horse\n- Will NOT make you a better golf player\n- Surprises! (sorry, we spoiled it)",
         "languages": [
             "ja",
             "en",
@@ -7133,6 +7133,55 @@
             "de"
         ],
         "size": 5307891712
+    },
+    "70010000030011": {
+        "id": "0100BF9011B52000",
+        "rightsId": null,
+        "name": "Just Dance\u00ae 2021",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70010000030011,
+        "category": [
+            "Music"
+        ],
+        "ratingContent": [
+            "Mild Lyrics",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 6,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/92d331673b8fe8163e9fa7aa4fbaba1d4aa2aa3dc8ca353210fcd4848b8fe761.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/859aa55e1473ba91246cab82a8c9e83577f54a66ae7fa98fb60466433190f5e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b295e8061a20d747e9c615ea9bb7a7ccbde14a2a17e934120c069e2bc4345da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee222c4837e61abdc14d126a49fbc4c5ea981cfab98be6156d8cfbb3c847e7c4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b96783bd592cadf16dd6b9442a846f6b9b3fc023bc69328e7be14444258d1c99.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/424bac11eaecab41534a2be4106a6ae66bae28a1a7d4600d7ba97bc22ebfd467.jpg",
+        "intro": null,
+        "description": "Just Dance\u00ae 2021 is the ultimate dance game, with 40 hot new tracks from chart-topping hits like \"Don't Start Now\" by Dua Lipa, \"Feel Special\" by TWICE, and \"Se\u00f1orita\" by Shawn Mendes & Camila Cabello. Start a dance party your friends and family can enjoy!\n\nOne month FREE of Just Dance Unlimited included. This subscription streaming service lets you dance to over 550 songs!\n\nPlay with friends and share the fun with co-op mode. \n\nDance the way you like by creating your own personalized custom playlists. \n\nEnjoy eight new kid-friendly songs and choreographies for a family-fun experience.\n\nUse your smartphone to track moves with the Just Dance Controller app \u2013 no additional accessories required! Up to six players can join!\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 7402946560
     },
     "70010000030293": {
         "id": "0100B6801137E000",
@@ -18123,7 +18172,7 @@
     "70050000023109": {
         "id": "01000A001171B005",
         "rightsId": null,
-        "name": "FIFA 21 In-Game Commentary \u00e2\u20ac\u201c Portuguese (Brazil)",
+        "name": "FIFA 21 In-Game Commentary \u2013 Portuguese (Brazil)",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -20409,7 +20458,7 @@
         "intro": "Brawl Without Limits!",
         "description": "The world of WWE is your battleground with all-new, over the top, in-your-face arcade action as your favorite WWE Superstars and Legends battle it out in outlandish environments with an arsenal of moves, special abilities, and power-ups. Compete in your favorite match types including Steel Cage, Royal Rumble, Fatal Four Way and more, as Mauro Ranallo and Jerry \u201cThe King\u201d Lawler call the mayhem!\nRaise some hell with Stone Cold Steve Austin, lay the SmackDown with the Attitude Era version of The Rock and get rowdy with Ronda Rousey. The WWE 2K Battlegrounds Digital Deluxe Edition includes three versions of each Superstar along with the pre-order bonus, Edge. Also includes additional 1100 Golden Bucks to unlock additional WWE Superstars and legends.",
         "languages": null,
-        "size": 9366929408
+        "size": 9992929280
     },
     "70070000010881": {
         "id": null,

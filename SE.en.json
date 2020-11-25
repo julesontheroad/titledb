@@ -289,6 +289,48 @@
         ],
         "size": 2815426560
     },
+    "70010000002833": {
+        "id": "0100519007636000",
+        "rightsId": null,
+        "name": "Cube Life: Island Survival",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201226,
+        "nsuId": 70010000002833,
+        "category": [
+            "Action",
+            "Adventure",
+            "RPG",
+            "Other"
+        ],
+        "ratingContent": [
+            "Fear",
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Cypronia",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b4fdc44c1f0ca7f44d3ddbdf3fc7fa98b47b032560ac19890a8e2d92f53688c6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fa0c622ce265ea7d46639b834989260b399d95d73bcec58a839215c8e1302f70.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2423049fcc7b52e7e7b40f18a5d633538d0ac8309752a9663fe5cc14ec6f4f76.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/33d7c3559a40057c481638ee1bf7078d0b380757f4a0eb66e330e4b02043c9ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a37e807fcc0a6e4090d1fb725a40f3f866004963639218822a09f142c53380c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/947cc431370ec7dc4829c0ff20a1357624e1722d72cd3465b8ee6c53ba7ddb7f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/56715f10af842c0af15549a8a69ceb1d8da452e585424e10f641c2eef3b0571e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/456343132131dc33f3d59e213a4cc72d88bf13b60d7247c4e3d71784b8fedd29.jpg",
+        "intro": "Explore, build, and craft in a block-building, survival game with Super-Duper realistic graphic.",
+        "description": "In Survival Mode, the player must maintain health, explore caves, gather resources, and craft tools on an unknown island.\u00a0Get food, explore and build during the day. Hide, fight, and surive as night falls on the island.\u00a0\n\nIn Creative Mode, the game will allow players to build constructions in 3D generated game worlds. There is no limit to your imagination.\n\nFeatures:\nBlock building open-world\nSuper-Duper Realistic Graphics\nCreative Mode\nSurvival Mode\nSkin Editor\nDay/Night cycles\nTons of items and tools to discover\nCrafting\n",
+        "languages": [
+            "en"
+        ],
+        "size": 620756992
+    },
     "70010000003091": {
         "id": null,
         "rightsId": null,
@@ -352,15 +394,15 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9b1f9cf9eb3bcac3dd99620ddefe79d9ee3d578e09019282c1419ba810d446d7.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/a0656ba941a99899afc206e2fb84b0199dca04ab07546f0a9170d6c6283378de.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/b401b98e86b077f1ac6e3cb71eed3146b56ae5d8ea3fe834bc0d70b432ccb6b5.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/3a70fa068a99bdfcdbb6ae6038d3f18f85aa4ff8892fa5197c6891ae0cb60fcc.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/99608408da8ac852b70902dbcfdb4835932dcd57e5e47058406243f2662800e1.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/84fd78cda790dd178061e7bd119246086dea7f6f6b3db1c8338ab2db06e9cf26.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/8c1827c1d432000f5d74261c330003a7cd909c4cd9e8b61800e6152a59734afc.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/da2e097940e0ec9fd192e89fa5effe40154849b057376e260be7cbc25124b3d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2baeacef735a5cc2c019071af9f5d48e21cfdf062ffc5b432fb628a0e20759a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24cb86f12598c7d52749096fb30677243f6873d5990449bd5f9f267fb7b03868.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a980d12a3c1f79dbcfbf0944454232348ffc365fe40e3534735d9477ff054df5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25edda0b57032081b8b83e51e63339341517cc096d32049e40bb6abf8c714320.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f18ad2611da8d23685b9619a0f141d0f6a56814ec522176d0bb023578f812181.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/713eef92c88d8c64305fa2c0b0574ec190bd46ed637f640f16125ca5b1a779b7.jpg",
-        "intro": "A blistering arcade-style racer fusing drift handling, razor-sharp retro visuals and an incredible sense of speed.",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/03f9c17523bf10742072b47028d741012cfdbd249c8fdaa97a4c20a4d5c2d448.jpg",
+        "intro": "Free new DLC! Brings an explosive new mode, Grand Prix and four new tracks to this best in class racer!",
         "description": "Hotshot Racing is a blisteringly fast arcade-style racing game fusing drift handling, razor-sharp retro visuals and an incredible sense of speed to create an exhilarating driving experience. \n\nDeveloped by racing game veterans SUMO Nottingham and Lucky Mountain Games, Hotshot Racing is an all-new driving experience which revives the classic arcade gameplay of the 90s and thrusts it into the modern era.\n\n16 racing circuits provide the twists, turns and straights conducive to searingly quick racing. Take in coastal, jungle, alpine and Las Vegas desert environments, with each course modelled with the most vivid colours and blue skies for miles.  \n\nTime Trial and Grand Prix modes cater to those who like to compete in classic racing formats, while \u2018Cops and Robbers\u2019 and \u2018Drive or Explode\u2019 modes offer exhilarating new ways to play. \n\nEach mode is available in single-player, four-player split-screen and eight-player online, while Time Trial is single-player only. Single-player modes run at a blistering 60FPS to deliver one of the fastest depictions of racing possible.  \n\nSmash lap records to rise-up the global online leaderboards or download ghost laps to match your racing lines against the very best.  \n\nMEET THE HOTSHOTS\nKeiko, Xing, Mike, Alexa, Aston, Toshiro, Marcus and Viktor - eight speed addicts that have dedicated their lives to the pursuit of being the greatest racing driver in the world.\n\nA WELL NEEDED BOOST\nEarn boost by drifting and slipstreaming opponents and unleash a one-shot hit of speed to leave them in your rear view mirror. \n\nCATCH THE DRIFT\nDrifting is crucial in Hotshot Racing. Boost charges as the player drifts so maintaining it for as long as possible is vital to preserving maximum speed throughout a race. \n\nDRIVE OR EXPLODE\nIn this mode each car has a bomb attached to it. Drop below a certain speed and BOOM! The trigger speed gets faster and faster, forcing players to maintain impossibly high speeds.\n\nCOPS AND ROBBERS\nRobbers evade the cops. Cops catch the robbers, and in doing so convert them to the police side, leading to an exciting test of skill for the surviving criminals.\n\n",
         "languages": [
             "ja",
@@ -373,7 +415,7 @@
             "ko",
             "zh"
         ],
-        "size": 3313500160
+        "size": 3553624064
     },
     "70010000003581": {
         "id": null,
@@ -5562,7 +5604,7 @@
             "zh",
             "zh"
         ],
-        "size": 9366929408
+        "size": 9992929280
     },
     "70010000021735": {
         "id": "0100D2700DE7C000",
@@ -7070,11 +7112,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/56c5cb7413e825b3a2ae70cf8e8984a1f76b19a3f800281e2bde07202d20a020.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/f2e06f3397b341233aca05b16fe7e7cff13c2b04afc871617d363c30b04bd671.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/0bc3e583e8e03e51538b7aa10bc82019b9e3d0050726a6d5ab4a8e478bdf6162.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/63b223b52308a08fd158b53700c27452bbd3707ffbe097897f839311d76ba1ec.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/a9cf6519f128ced02a43ce5d77329d2d5f1df81e0d327eeeee63fb13db263886.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/74ba7ba615e3d023ee5a281f3b20d4fc2986119ff342d3ed2d3c8f5c1fc9912e.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/ce745ae8bf77297558f5c718a7cb6edf152c648a0870bcbed92f26220e1b0ed0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a34b862a7897a99bc46f29d2b8b1859ff7f57a5dc3f5cfb3adf3a7951f1b5a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f5982fa3234f70d87ad8fce1d031b9df64cbbd6fb9207af9f87af715e7dc65e8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea139b4418cdaa7e5aaedb232de9b9b0a180d7307e9896cfbde42461700b47f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1bfebc2a8f2f3cc814c71c668db4d530de058ca26e1153c20cebf938e98e262a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04896f2a0347f3f8c3a4518b80b5f720ed4687c1a7a28fac60b3e9e2983ae6ea.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/861124d00516deaa8985cb3d1096b2c5ab3d09c7674bc0c0650011c6ec0c9d72.jpg",
         "intro": "RESIST. RECLAIM. SURVIVE. REPEAT",
@@ -16313,7 +16356,7 @@
             "zh",
             "zh"
         ],
-        "size": 716177408
+        "size": 731906048
     },
     "70010000029659": {
         "id": "01005D0011A40000",
@@ -17014,7 +17057,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ce1a0157a487a04857ce0952178b45e22162d0d0d6e061dada34cd16a0dc6881.jpg",
         "intro": "Out of Space is a local co-op multiplayer game about living together in a house in space.",
-        "description": "You and your friends are about to move into a house in space, where you will have to deal with a deadly alien infestation and face the challenges of building a sustainable spaceship, all to make your new place feel as cozy as home!\n\nCOUCH FUN MEETS STRATEGY\nEach match starts in a procedurally generated spaceship house that will demand your best planning and teamwork skills to become clean and comfy. You and your friends will need to generate resources, recycle trash and alien goo, buy and build new technologies, and take care of one another, if you ever want to call home the mess that you got into.\n\nAs a COUCH-FUN game, Out of Space has short matches and is easy for everyone to grab a controller and play. At the same time also as a STRATEGY game, it will require short and long-term decisions, expanding and conquering new rooms and building technology to automate tasks.\n\nFEATURES\n- Buy, build and place your new technology, while keeping your systems efficient and sustainable.\n- Power up your spaceship by recycling alien goo and producing energy batteries.\n- Harvest and take care of your fruitful gardens to keep everyone fed.\n- Clean rooms with mops and water, while containing the deadly alien menace.\n- Take a nap on your sofa, while your friends desperately claim for help.\n- Automate cleaning and harvesting with the help of robots.\n- Adopt Dogs, they will love you for it and help you in any way they can!\n\nOTHER FUN STUFF\n- Procedural spaceship generator: different challenge everytime you play.\n- Missions to guide the player's progression that never leave out what couch-fun is about.\n- Unlock new content when completing achievements.\n- Play single-player or local multiplayer\n- No weapons of any kind. Take your mop and sweep your way out of danger.\n\nAre you up for the challenge? Living with roommates was never easy, but now you\u00e2\u20ac\u2122ll do it in outer space!\n\nTHE DEVS\nBehold Studios is the studio behind Knights of Pen & Paper, Chroma Squad and Galaxy of Pen & Paper. With a big and strong fan base, we're developing this game with the help of the community, openly sharing builds, milestones and carefully listening to feedback and improving the overall experience of the game.\n\n",
+        "description": "You and your friends are about to move into a house in space, where you will have to deal with a deadly alien infestation and face the challenges of building a sustainable spaceship, all to make your new place feel as cozy as home!\n\nCOUCH FUN MEETS STRATEGY\nEach match starts in a procedurally generated spaceship house that will demand your best planning and teamwork skills to become clean and comfy. You and your friends will need to generate resources, recycle trash and alien goo, buy and build new technologies, and take care of one another, if you ever want to call home the mess that you got into.\n\nAs a COUCH-FUN game, Out of Space has short matches and is easy for everyone to grab a controller and play. At the same time also as a STRATEGY game, it will require short and long-term decisions, expanding and conquering new rooms and building technology to automate tasks.\n\nFEATURES\n- Buy, build and place your new technology, while keeping your systems efficient and sustainable.\n- Power up your spaceship by recycling alien goo and producing energy batteries.\n- Harvest and take care of your fruitful gardens to keep everyone fed.\n- Clean rooms with mops and water, while containing the deadly alien menace.\n- Take a nap on your sofa, while your friends desperately claim for help.\n- Automate cleaning and harvesting with the help of robots.\n- Adopt Dogs, they will love you for it and help you in any way they can!\n\nOTHER FUN STUFF\n- Procedural spaceship generator: different challenge everytime you play.\n- Missions to guide the player's progression that never leave out what couch-fun is about.\n- Unlock new content when completing achievements.\n- Play single-player or local multiplayer\n- No weapons of any kind. Take your mop and sweep your way out of danger.\n\nAre you up for the challenge? Living with roommates was never easy, but now you\u2019ll do it in outer space!\n\nTHE DEVS\nBehold Studios is the studio behind Knights of Pen & Paper, Chroma Squad and Galaxy of Pen & Paper. With a big and strong fan base, we're developing this game with the help of the community, openly sharing builds, milestones and carefully listening to feedback and improving the overall experience of the game.\n\n",
         "languages": [
             "en",
             "es",
@@ -17022,7 +17065,7 @@
             "fr",
             "de"
         ],
-        "size": 670040064
+        "size": 748683264
     },
     "70010000029930": {
         "id": "0100A42011B28000",
@@ -17114,7 +17157,7 @@
             "zh",
             "zh"
         ],
-        "size": 6140461056
+        "size": 6212812800
     },
     "70010000030010": {
         "id": "0100F46011B50000",
@@ -18307,6 +18350,38 @@
             "ru"
         ],
         "size": 291504128
+    },
+    "70010000030470": {
+        "id": "0100AEF011DF4000",
+        "rightsId": null,
+        "name": "Chill Panda",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201214,
+        "nsuId": 70010000030470,
+        "category": [
+            "Adventure",
+            "Simulation",
+            "Education",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Onteca",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3eb4582e2e99584e1be1c1ae9e4660ea5ebab7226b40450298bcccdc4e637e04.jpg",
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25e85732db54d464cfcef6aefa97bee08226726a1dcf5e7e6e1b820e89e1178b.jpg",
+        "intro": "Play your way to a calmer day",
+        "description": "Baby Pandas grow up fast! Chill Panda is excited to go out into the world but feels worried about exploring alone! \n\nChill Panda heads to the beautiful island of Chillville near the sea where it\u2019s said that a very calm and wise panda lives.\n\nDiscover the secrets of the island. Help Chill Panda manage fear and worry. So that nothing can stop Panda from having fun! \n\n- Fill Chill Panda\u2019s Well of Wellbeing by drinking water and chewing bamboo\n- Meet the villagers and help them out by farming and clearing the land\n- Use your senses to catch fireflies\n- Create colourful pictures and to decorate Chill Panda\u2019s home\n-  Earn coins by completing tasks to buy furniture and equipment for Panda\u2019s home and garden\n- Release energy at the beach by surfing the waves or banging on the drums\n\nAdult Section\n\nChill Panda is based on a unique mobile application championed by the National Health Service (NHS) digital app store in the UK. It was designed in collaboration with a child psychologist to teach children to manage their feelings and stay healthy. It introduces the importance of activity, relaxation and distraction to cope with difficult emotions. Chill Panda also encourages healthy habits such as regularly drinking water and sharing your feelings with others.\n",
+        "languages": [
+            "en"
+        ],
+        "size": 426770432
     },
     "70010000030490": {
         "id": "0100F6800F48E000",
@@ -19683,7 +19758,7 @@
             "zh",
             "zh"
         ],
-        "size": 4960813056
+        "size": 4959764480
     },
     "70010000030951": {
         "id": "010014901201E000",
@@ -20531,7 +20606,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/989f68dbada32a068ce695ce3b1560faea3a0060ca1add5f553dc96444b1324a.jpg",
         "intro": null,
-        "description": "Fusing gameplay with light & shadow. The concept of light and shadow runs throughout the design of the game\u00e2\u20ac\u2122s story, art and puzzles. Switch between light and shadow and pass through the two realities as you experience unique interlacing of black and white, as well as both 2D and 3D.",
+        "description": "Fusing gameplay with light & shadow. The concept of light and shadow runs throughout the design of the game\u2019s story, art and puzzles. Switch between light and shadow and pass through the two realities as you experience unique interlacing of black and white, as well as both 2D and 3D.",
         "languages": [
             "ja",
             "en",
@@ -22586,9 +22661,11 @@
             "Adventure",
             "Board Game"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Plug In Digital",
         "frontBoxArt": null,
@@ -22611,7 +22688,7 @@
             "ru",
             "zh"
         ],
-        "size": 224395264
+        "size": 266338304
     },
     "70010000031918": {
         "id": "0100E66010ADE000",
@@ -26569,6 +26646,47 @@
         ],
         "size": 53477376
     },
+    "70010000032602": {
+        "id": "01008BC012850000",
+        "rightsId": null,
+        "name": "Ghostanoid",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210121,
+        "nsuId": 70010000032602,
+        "category": [
+            "Arcade",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "JoyBits",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6a12b0c9dbf6f0aaa71299adb0495ff0d2c595fef5ee9dc554771d9bbbe07eba.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/926485bb7d97cffdd6ddc761b05320c04e261f65265f5c7df86d2a8155dc8e64.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf7aaa88ba355065d908cb6d92086a1e569689eb7a5f6a012bbb80a16037f575.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2c6dce99ecc4f2256efbb4d8c25c6a5ac1ac7652588d350441b5dd3f1191567.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38e486572bbb8a13d8d569bcd521dc15ae4e9105bddf8e8a77f3c6aeee7c0c1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a9c1a39df227ee7070df796cda4f6e12c044ccba469ce263b4456df2866f56e0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3f690e856a7807e6a9e3d3f770bfde7ce4ebd4417d08f2c09629f895beed167c.jpg",
+        "intro": "Everyone has a normal job, and we have houses with ghosts. ",
+        "description": "We are very good at our job, but this time we are faced with tiny, evil and quick-witted ghosts. Somebody has to be able to handle them. Who else could it be if not you? You can do it for sure. \nGhosts are very fond of their houses and they won\u2019t give up without a fight. They will throw things at you, trying to rebuild their home and interfering with your productive work in every possible way. And the shaman ghost \u2026 I\u2019d better not say anything about it, he is a pure demon. \nTo complete the task you will be given a new super-durable platform with advanced kinetic ball system of demolition. Accompanying documents are attached. And there is also \u2026 well, there is also a contract which must be fulfilled. Our specialist is already at the place and will fill you in on everything. \nBriefly speaking, you are looking at 3 diverse worlds, with unique houses and surrounding, 78 levels include 3 secret ones, and 13 different improvers and worseners that sometimes turn the platform into a weapon of destruction and other times into a clumsy snail. \nUse all of your strength, skill, attentiveness and speed of reaction to show the annoying ghosts who\u2019s in charge of the house. In our line of work the most important thing is not to miss anything and then you\u2019ll get the recognition, respect and glowing recommendations based on the results of finished jobs.\n \nGame features:\n- Cool HD graphics;\n- Abundance of special effects;\n- 3 perfectly designed worlds; \n- 75 levels + 3 secret ones;\n- Plenty of objects for total destruction;\n- Ghosts with cunning mind;\n- 13 types of bonuses;\n- Enjoyable experience guaranteed;\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 439353344
+    },
     "70010000032617": {
         "id": "0100AE701287E000",
         "rightsId": null,
@@ -26983,6 +27101,44 @@
             "en"
         ],
         "size": 285212672
+    },
+    "70010000032699": {
+        "id": "01008300128F2000",
+        "rightsId": null,
+        "name": "Dungeon Solver",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201124,
+        "nsuId": 70010000032699,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Strategy",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "QUByte Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6ffb3d6dfa8f720308127d8da8703c2b506f4704cfe6f301c52d6136d5bd748f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3bb71ad1be0e7ea3673c5261f408bec31f3cb38041de9aa101c769d19c0ca29d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/266af489553e34afadf216653b048d2b9bab2d7f16fd06f2eae01f8da4bab3e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5af812a612bc5dea4044f8603a5a021324ecbc464eb22e8304598c96dbf676a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e135fc7f4b955e59312776d42f7c5d10798b004395deeacb0bdb5f121f85b340.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1bcf4a1b2d54008213291d1ad8c2fbed812060f93f7c1331be6c184bd2ee2291.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42c716ed5000724c43fbde33d1e0dd83264e36c5508b3e74c3127c80f1caec71.jpg",
+        "intro": "DUNGEON SOLVER is a minimalist game based on board games like chess and table RPG",
+        "description": "Take all hero\u2019s pieces to the exit of the dungeon, avoiding enemies and traps present on your way.\n\ngame feature:\n60 challenging levels fases carefully designed;\n3 hero\u2019s pieces with differents movements;\nrelaxing atmosphere with colorful and bright aspects; \nWith new elements as it progresses through the levels.\n",
+        "languages": [
+            "en"
+        ],
+        "size": 87031808
     },
     "70010000032705": {
         "id": "0100CFD012908000",
@@ -29339,7 +29495,7 @@
             "de",
             "it"
         ],
-        "size": 6315573248
+        "size": 6284115968
     },
     "70010000033111": {
         "id": "010048901295C000",
@@ -29533,16 +29689,14 @@
             "Other"
         ],
         "ratingContent": [
-            "Fear",
-            "Implied Violence",
-            "Mild Violence"
+            "Strong Language"
         ],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 16,
         "developer": null,
         "publisher": "Klabater",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/393e231efbd95ece2e9d95ddd523943a335aca826b54cf0c9f2f07450388e41c.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d1a22b5c684ed33543a5944847760f69fbaa50eafcf2cd1566437859ef91ddc6.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/a92bc4de9cec848f073b0c3ca2383b795956b2903fa572aaccfb9fce1e0a4909.jpg",
             "https://img-eshop.cdn.nintendo.net/i/57fc76f845d2a7d21331b56916d7e4f95ab67bea82cd2c21d47a92954da36df0.jpg",
@@ -29555,9 +29709,13 @@
         "intro": "Discover the facts and evidence-based story of America\u2019s most famous never-caught serial killer!",
         "description": "This is the Zodiac Speaking is a fact-based single-player psychological thriller based on the story of Zodiac, one of the most famous never-caught serial killers. It mixes vintage \u201970s California visuals and an original epic cinematic soundtrack with gameplay elements that include classic horror, investigation, stealth mechanics, and multiple endings to discover. \n\nPLAY THIS IS THE ZODIAC SPEAKING AND: \n\n\u2022    Experience the story from the perspective of a person who survived the attack of the serial killer, face your trauma, and run an investigation that will lead you to the truth about Zodiac. \n\u2022    Unravel the details behind the murders, visit locations inspired by the original crime scenes, experience real psychological sessions that will help you to manage your traumas. \n\u2022    Reveal 3 alternative endings, all based upon your investigation decisions. \n\u2022    Enjoy the atmospheric film music and original retro-inspired art style. \n\u2022    Travel to the vintage \u201970s and feel the old-school vibe while visiting faithfully depicted California\u2019s hallmark spots from the past. ",
         "languages": [
-            "en"
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru"
         ],
-        "size": 2683305984
+        "size": 5035261952
     },
     "70010000033173": {
         "id": "0100E400129EC000",
@@ -29992,6 +30150,50 @@
             "it"
         ],
         "size": 77594624
+    },
+    "70010000033248": {
+        "id": "0100C5F012A3C000",
+        "rightsId": null,
+        "name": "Mad Tower Tycoon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201124,
+        "nsuId": 70010000033248,
+        "category": [
+            "Strategy"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Toplitz Productions",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9a76ff4804217dc38db95e1942e467c47c96ad02f807953884634efdcae6bc31.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e0cf90123e168bc39f359472176423aed8650757fffad982c310e40852fc00fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/98b7af15f7b8defff8dc78f4d97111c18fac81b8bb7b45e0da32113457436e7d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d2289424af8fc80d5f93814ec8f61a497ad2583ab0e6de3852ae6b76af9501b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1eda7cfbc11365a184b51315b42a46828c8b407f6592f7ef6916932f30a5e2f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4715a84b31b63712e07c7d6fa9523e52be09fdf1c322447273ba7c1971e85a4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e66a7ffffa58a250319fa6a43ddcaaa0a35e5d767c2f0a5af4200710f885962.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bf804479527866a9236b049c649dbf064fd53c5628fdbd56e449aae2d4f7a0df.jpg",
+        "intro": "BUILD YOUR DREAM SKYSCRAPER",
+        "description": "In \"Mad Tower Tycoon\" you have the freedom to build a 100 story skyscraper and include the elements you want to make it succeed; restaurants, cinemas, underground garages or even a zoo. Satisfy potential visitors by choosing the best attractions for your winning plan.  The classic construction gameplay challenges you to gain the coveted \"six-star award\" for your skyscraper. The goal is to complete construction while renting all offices, apartments and shops across a towering 100 floors.\n\nRANDOM EVENTS\nAs well as complaints from expectant tenants you will be dealing with; a fire in the new office, an earthquake shaking your skyscraper and unexpected UFOs kidnaping tenants. The constantly changing pattern of events introduces additional challenges to overcome. These events help keep you motivated and look after the tower, despite everything that it throws at you.      \n\nLEVEL SYSTEM\nDaily missions give you the opportunity to improve your success rate while adding to your experience scores. Learn and progress through a points system to unlock more than 50 skills.\n\nINFORMATION IS THE KEY\nYou\u2019ll need to keep on top of everything; which floors require servicing or where the ambient noise levels are causing customers unnecessary stress. How many visitors came in the last 24 hours? Have I made a profit in the last 30 days? The statistics and filters in \"Mad Tower Tycoon\" will give you a lot of information about the state of your skyscraper.\n\nTHE DEVIL IS IN THE DETAIL\nAvoid your visitors having to climb too many stairs or wait too long for the elevator. No problem: the elevator system in \"Mad Tower Tycoon\" allows you different settings, managing lift waiting times on all floors. It\u2019s a rewarding job, keeping your guests and customers happy and making sure the Tower and your skill sets keep improving.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1307574272
     },
     "70010000033251": {
         "id": "01001B7012A3E000",
@@ -30576,7 +30778,7 @@
         "languages": [
             "en"
         ],
-        "size": 218103808
+        "size": 254803968
     },
     "70010000033376": {
         "id": "0100761012B0C000",
@@ -32751,6 +32953,98 @@
         ],
         "size": 1210056704
     },
+    "70010000033899": {
+        "id": "0100A2F012DF0000",
+        "rightsId": null,
+        "name": "Yum Yum Line",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70010000033899,
+        "category": [
+            "Puzzle",
+            "Multiplayer",
+            "Strategy"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Mindscape",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1f1f1dbb967a398ab8ba26b6394f500bbc3a7c617743e84007af56e51cb8c80c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e8149c34e6ded3f15ac9f7bdb29ca14518461da28a75f60165fb7445ebb1d5ea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b206eab79dec222363668770c87903d0db7a2a351079f255570c61080a7eb691.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9110c458c90264dae3cc35ef2e8bc5831a1eb0583ed1c101aeca192ce32ad852.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/feb4bc3f2953d64367cef21acb5754731418be3e61ecc1233d3b0e8eac074889.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6535425c33a429a02295f18ddfb5749ab6f1f660889981875e8784f498bd95e4.jpg",
+        "intro": "Match 5 tiles of the same colour, clear lines and make sure you don't get stuck. Can you make it to the top of the leaderboard?",
+        "description": "Fantastic fun for all ages. Match up the same colours to clear lines and make sure that you don\u2019t get stuck. With infinite replayability and the local battle mode, Yum Yum Line gives you the chance to play by yourself or challenge a friend on the same screen.\n\nFeatures:\n\u2022 Classic Line gameplay\n\u2022 Infinite replayability\n\u2022 Split-screen multiplayer mode for a 1-vs-1 challenge\n\u2022 Local leaderboard",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 59768832
+    },
+    "70010000033903": {
+        "id": "0100383012DF2000",
+        "rightsId": null,
+        "name": "Gems of Magic: Lost Family",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70010000033903,
+        "category": [
+            "Puzzle",
+            "Adventure",
+            "Strategy"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Mindscape",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c5d5de4fed7a3f039530dd112d049a0fc40030547f2343e06475277ab4d5630e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1ea0c7b81c1dc2579d6efdf23209fa8e230b90415c58d011c361371f50d80e0a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e5fa7f4ec54ca62c7c230c39d954e2e8149f51a00c7e53369760e2b0244d3cfc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/776e1d545ad61b5295a3fb5166887a9de101855ae7a23f2c7defa1e66aec0a46.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a6f51e663aae3f9fc02be9af578195f7500ae28954bba48c882d74e7ac0ccf2f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62185f5ddbd1963d424eebae96ef908c70e82b6cff202061e2d79f081f7732b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/42ffaf0245ae5295d562201c0d07e053a247c10f9864a3e357abd5ae0ec6915d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0af0d54e7d815f5388403f05d6627bdb5c07c65cb45902e5ef51a0fe8b68c697.jpg",
+        "intro": "Rescue the Fuzzy family and save the enchanted forest in 100 challenging levels!",
+        "description": "Gems of Magic brings a match-3 game together with wonderful hand-drawn art with a story of magic, gems and adventure. Discover this mystical enchanted forest in a calm and relaxing world of spirits and magic. But a dark cloud is forming over the forest and Hurricane has kidnapped the Fuzzy family. It's now time to help the magic creatures to save the Fuzzy family and restore the magical forest.\n\nGame Features:\n\u2022 100 fun levels\n\u2022 Simple gameplay with a mystical story\n\u2022 Hand-drawn art\n\u2022 Add boosters to help you progress\n\u2022 Use hammers, replacement magic, lightning and mystery magic",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 193986560
+    },
     "70010000033907": {
         "id": "01008F1012DF4000",
         "rightsId": null,
@@ -32914,7 +33208,7 @@
             "pt",
             "ru"
         ],
-        "size": 5261754368
+        "size": 5368709120
     },
     "70010000033952": {
         "id": "01007AF012E16000",
@@ -33166,7 +33460,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a27bba04d6ad5387842fabd89d07e09dcc0cf566e8e43607278961f4421f0a51.jpg",
         "intro": null,
-        "description": "Shakes on a Plane is a chaotic co-op shaking game for one to four players. Flying on various planes with your flight crew, serve up a variety of tasty shakes, burgers, fries and many more dishes before the plane lands on the airport and your passengers rate your services. \nBut it is not only you who creates all the mess. Aliens always had a look on our shiny planet with its weird citizens but undeniable and delicious food they are creating and cooking. The intergalactic community competes in fame rewarding cooking competitions and the species with the most sophisticated meal wins. This is when humanity can play its part in this extraordinary event and show the galaxy what real fast food can taste and look like.\n\nFeatures:\n-\tServe your passengers with up to four players and cooperate in convincing them that flying with you is always a good decision.\n\n-\tThe orders vary from shakes, burgers, coffee and even a greater variety of fast food which underlines only the best quality you offer for your passengers.\n\n-\tTime is essential and your guests have a high demand of multiple goods all the flight long. Grab tablets to solve various orders at the same time and don\u00e2\u20ac\u2122t let them wait too long.\n\n-\tNot only turmoils might occur during your flights, walking passengers, moving tables and many more things will complicate your accomplishments on your planes.\n",
+        "description": "Shakes on a Plane is a chaotic co-op shaking game for one to four players. Flying on various planes with your flight crew, serve up a variety of tasty shakes, burgers, fries and many more dishes before the plane lands on the airport and your passengers rate your services. \nBut it is not only you who creates all the mess. Aliens always had a look on our shiny planet with its weird citizens but undeniable and delicious food they are creating and cooking. The intergalactic community competes in fame rewarding cooking competitions and the species with the most sophisticated meal wins. This is when humanity can play its part in this extraordinary event and show the galaxy what real fast food can taste and look like.\n\nFeatures:\n-\tServe your passengers with up to four players and cooperate in convincing them that flying with you is always a good decision.\n\n-\tThe orders vary from shakes, burgers, coffee and even a greater variety of fast food which underlines only the best quality you offer for your passengers.\n\n-\tTime is essential and your guests have a high demand of multiple goods all the flight long. Grab tablets to solve various orders at the same time and don\u2019t let them wait too long.\n\n-\tNot only turmoils might occur during your flights, walking passengers, moving tables and many more things will complicate your accomplishments on your planes.\n",
         "languages": [
             "en"
         ],
@@ -33469,7 +33763,7 @@
             "zh",
             "zh"
         ],
-        "size": 786432000
+        "size": 793772032
     },
     "70010000034172": {
         "id": "01001CA012F30000",
@@ -33993,13 +34287,18 @@
             "https://img-eshop.cdn.nintendo.net/i/f0952675a67e31b16492eb2f59d7f94104d1cfb98ecce11813c13eca9807a872.jpg",
             "https://img-eshop.cdn.nintendo.net/i/baf759d146a62a7978a1a1eb171b648bcf1e4bd0873b06072f80d06691603649.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/09c0ffdaaf425938629fbcba06f5d2f8ecfa230f6036a315c003df5b809da0e0.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2385a1222512e05ab4ef7f93fa062c64a4b926faec262aab10a0c9eb9fdc0d28.jpg",
         "intro": "Discover the secret of the magic crystals in this epic 2d platformer! Travel through colourful worlds packed with unique enemies, wacky weapons and challenging bosses!",
         "description": "An evil wizard is searching for the Eternal Crystals to power his malicious machine. Help treasure hunter Tiko in his epic quest to find the crystals and save the galaxy from certain doom!\n\nJuiced! is a 2d adventure platformer with exciting gameplay, unique puzzles and challenging bosses.\n\nFeatures:\n-Exciting 2d platform gaming\n-Intriguing storyline\n-Challenging and funny puzzles\n-Fight 80 different enemies\n-Discover 30 unique weapons and powerups\n-15 unique worlds and boss battles\n-Over 10hrs of playtime\n-Tons of secret collectibles and bonus stages\n-Adjustable difficulty\n-Unlockable challenges (Time Trial and YOLO)\n-Unlockable outfits\n-More than 40 tracks of catchy synthesizer music",
         "languages": [
             "en",
+            "fr",
+            "pt",
             "es",
-            "nl"
+            "de",
+            "nl",
+            "ru",
+            "zh"
         ],
         "size": 202375168
     },
@@ -38448,7 +38747,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/93e3e0ed064cdac5589e87b1cabf884b7487ad3d7b4df65252476589dd665318.jpg",
         "intro": "Play as a new reaper, completing quests, collecting spells, and gathering equipment to fight through hordes of enemies in this grim but whimsical 2D adventure!",
-        "description": "Embark on an adventure as a new Reaper who has gone rogue! Collect equipment and spells, learn powerful attacks against hordes of enemies, complete quests for a cast of quirky characters, and make difficult choices in this grim yet richly illustrated 2D world. Play alone or with a friend in local co-op and serve Death together!\n\nOver 40 pieces of Equipment for you to acquire to customize your Reaper and aid you in battle! Find equipment in a variety of well hidden chests, or use the souls you collect as currency to buy items from the local vender, Fiona. Be sure to check back every day, as her inventory changes! Mix and match armor and harness the power of the unique skills such as fireballs, the ability to freeze enemies, angel wings allowing you to glide to safety, summon meteors from the sky and even stampeding unicorns!\n\nJoin forces with a friend locally. While in local play, Player 2 plays as Spaura, the Reaper\u00e2\u20ac\u2122s Soul Bearer. \n\nBattle your way through 30 beautifully designed levels, help colorful characters through various side quests, and fulfil your reaper duties by collecting souls for Death. Daily bounties are available from various npc's.\n\nCollect equipment, learn spells, and advance as a Reaper to take on horrid enemies, and defeat epic bosses.",
+        "description": "Embark on an adventure as a new Reaper who has gone rogue! Collect equipment and spells, learn powerful attacks against hordes of enemies, complete quests for a cast of quirky characters, and make difficult choices in this grim yet richly illustrated 2D world. Play alone or with a friend in local co-op and serve Death together!\n\nOver 40 pieces of Equipment for you to acquire to customize your Reaper and aid you in battle! Find equipment in a variety of well hidden chests, or use the souls you collect as currency to buy items from the local vender, Fiona. Be sure to check back every day, as her inventory changes! Mix and match armor and harness the power of the unique skills such as fireballs, the ability to freeze enemies, angel wings allowing you to glide to safety, summon meteors from the sky and even stampeding unicorns!\n\nJoin forces with a friend locally. While in local play, Player 2 plays as Spaura, the Reaper\u2019s Soul Bearer. \n\nBattle your way through 30 beautifully designed levels, help colorful characters through various side quests, and fulfil your reaper duties by collecting souls for Death. Daily bounties are available from various npc's.\n\nCollect equipment, learn spells, and advance as a Reaper to take on horrid enemies, and defeat epic bosses.",
         "languages": [
             "en"
         ],
@@ -38782,6 +39081,46 @@
             "en"
         ],
         "size": 7614758912
+    },
+    "70010000035922": {
+        "id": "0100690013826000",
+        "rightsId": null,
+        "name": "Hed the Pig",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201130,
+        "nsuId": 70010000035922,
+        "category": [
+            "Arcade",
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Moderate Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d3d1cc0a86d8f8160670872537848d56c8df42d8670120c1531b7ed59c6ea043.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/649ac3d2293b2aee984fda27f4e13e2e6656038fc1430ad0a584b039c13f362e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a01ca0a2f56d962245170c763dfa3d47496b006e9c16c2b268739f35f42dd081.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d8c712c938e68809a3274d94b2afa7d818bf4469dc62fb0abc10a8d396932e6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18643d8f2c9be39d43cb3b799df905417022292f9077eea95377e7cd11575a6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/967b4f38d8b872f6d034161020a7be4ede22d2c079429ef0519faa62055d79af.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a2305987ee4cb88e69fc4a57d5792569155b0b33f91526cac2002a3dacfec2e0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b612f2248c8889cadc224479e1e0d62d998968014bcb6d2c4c5e957c385f52ce.jpg",
+        "intro": "Help Hed in reaching the destination by avoiding all obstacles and skilfully maneuvering his body.",
+        "description": "Pigs don't fly? Well, actually they do! Hed is an adorable pig that requires a lot of your sympathy. Help Hed in reaching the destination by avoiding all obstacles and skilfully maneuvering his body. This game is a tribute to all the pigs that were consumed since the beginning of mankind. \n\nKey features:\n- Pixel art retro graphics & arcade-style gameplay;\n- Discover lots of various worlds and amazing settings;\n- Enjoy relaxing music during your flight;\n- Avoid dozens of strange objects during your journey;\n- Reach the strange level in which you will find the answer to the most disturbing question: Why?",
+        "languages": [
+            "en"
+        ],
+        "size": 242221056
     },
     "70010000035985": {
         "id": "0100BCC013864000",
@@ -39190,6 +39529,47 @@
         ],
         "size": 57671680
     },
+    "70010000036269": {
+        "id": "0100BE3013A38000",
+        "rightsId": null,
+        "name": "Landflix Odyssey",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201222,
+        "nsuId": 70010000036269,
+        "category": [
+            "Platformer",
+            "Action",
+            "Arcade",
+            "Other"
+        ],
+        "ratingContent": [
+            "Drugs"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Fantastico Studio",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8a1f9440cc20cdac067893031e565bce79f75ed5e827722ea8d9d305bf76e439.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6d5ac727b759fb1f7874c90075621872e5d7898d6c48fbad71e4e04385318d67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/619264d2071a3a306565186f68dbd8810fa65ad98a70493c781aa580d7c601b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4c5721e86fdf09d7341e4dc76a0f20cc8dc9356044f3076f8a4690427eeb5b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dcb04b07e24a5642129619e662f0052ccaa924df230ef3da7b6297be3c2738b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db8e5d102cfb7635a8b03379e6419cda5016b1dde854a2c3db4e600981e60544.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/129e5fa81cb5c04bed665b0929003e894a1f893e1a4c867f6a207a6257ab0352.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a8a84794edfd92e5f740bf740bdcbf0cd3667c431385c467c0792621cd566f57.jpg",
+        "intro": "Explore the worlds of your favorite TV shows, fight their famous villains and retrieve nuclear batteries to escape the Landflix Odyssey!",
+        "description": "Landflix Odyssey is an action platform in which players play as Larry, a lazy binge-watcher who finds himself trapped inside the streaming service after using special batteries. This incredible world is called Landflix!\nIn order to return home he has to recover all five batteries ended up inside the TV shows on the Landflix platform.\n\nLandflix Odyssey is a clear reference to video-on-demand platforms and TV shows universe.\nIn each TV show our hero can count on some special powers that will help him overcome obstacles and dangers in any game world.\nOur hero can move through parallel dimensions, use magic swords, do superhero stuff with superhero tools, take drugs to increase productivity and defend himself with a crossbow against hordes of zombies.",
+        "languages": [
+            "en"
+        ],
+        "size": 920649728
+    },
     "70010000036402": {
         "id": "0100F4E013AAE000",
         "rightsId": null,
@@ -39223,11 +39603,51 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e87bc88d57a612e47c02417878a2f4206802351d80c85edf02f21ed3e534d8ce.jpg",
         "intro": null,
-        "description": "Fire & Water is a game where you use the power of fire and water in order to solve various puzzles. Both Water Girl and Fire boy are working together to solve a vast range of different, exciting puzzles all the time. Controlling the two characters is very simple, and you must help Fire boy avoid water, while Water girl needs to avoid fire.\nThere\u00e2\u20ac\u2122s also black water that can kill both of them. You will need to use mirrors, elevators, wind machines, pulleys, black balls and a variety of other tools in order to complete these tasks. The faster you do that, the better it will be. \nFeatures:\nImpressive puzzle gameplay\nMore than 30 maps to play through\nUse pulleys, wind machines and elevators\nEscape the maze and win",
+        "description": "Fire & Water is a game where you use the power of fire and water in order to solve various puzzles. Both Water Girl and Fire boy are working together to solve a vast range of different, exciting puzzles all the time. Controlling the two characters is very simple, and you must help Fire boy avoid water, while Water girl needs to avoid fire.\nThere\u2019s also black water that can kill both of them. You will need to use mirrors, elevators, wind machines, pulleys, black balls and a variety of other tools in order to complete these tasks. The faster you do that, the better it will be. \nFeatures:\nImpressive puzzle gameplay\nMore than 30 maps to play through\nUse pulleys, wind machines and elevators\nEscape the maze and win",
         "languages": [
             "en"
         ],
         "size": 210763776
+    },
+    "70010000036410": {
+        "id": "0100DA9013AB4000",
+        "rightsId": null,
+        "name": "Smart Moves",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201221,
+        "nsuId": 70010000036410,
+        "category": [
+            "Arcade",
+            "Puzzle",
+            "Adventure",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "TERNOX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4b10a2f566333234b98ecb664e6edd737fb9cc129e8038abc950f7ee4f5fc523.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1b9bb4e88f372cd8ba60d19a7c16815c99f7469b0640f9e6f7ad20a9f2044868.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cadfc92b899407a22c7b2954f4d0bd2c0d1f539838cf94f2952d5c08553d7fc2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/98133d219489102cacf5b34b928bb026a39486217b371347e8db0853d15d6789.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4809eff69eeaf45c2dd90876197bd32530ee902829e1e581f6eee7dc035aabd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/57422750ccfc12158e4bbd839fbf917410ede6b159d68601cf5037df499a0baf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/590f438fc091d85adeae185d06c460dbde7d7ac2487e28dbd97169fd43cab8fa.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42b9c908a383977cd042d84f2e1e28c828276e063724e984eec2cf214a2b65f8.jpg",
+        "intro": "Combination of puzzle and turn-based roguelike mechanics. Destroy monsters, open chests! Smart moves are the key to survival!",
+        "description": "Different worlds with levels of increasing difficulty, sneaky monsters, unexpected obstacles and great treasures await you!\n\nThe hero can attack monsters when hero and monster are standing on neighboring square. Avoid being the first at a distance of impact! The hero can't skip turns, but can use level objects - or other monsters - to \u201cskip\u201d the turn.\n\nEvery game level is a puzzle with its own logical solution. Our experiments with game mechanics require a good understanding from the player how objects interact with each other in the game world.\n\nThe game has original game art style. You get a new playing experience where game mechanics are of maximum importance.",
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "size": 57671680
     },
     "70030000010781": {
         "id": null,
@@ -40307,7 +40727,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 1603272704,
+        "size": 1670381568,
         "parentId": "0100D24013466000"
     },
     "70030000012438": {
@@ -41485,6 +41905,37 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/85d73620e527d289eeef01603a4d975f035b10a28276fb447fd1d142671fba51.jpg",
         "intro": null,
         "description": "Play as Mei Hatsume in MY HERO ONE'S JUSTICE 2!\nThis pack also includes 10 color variations for Mei Hatsume's costume.\n\nContents:\n- Playable Character Mei Hatsume\n- 10 Costume Color Variations",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000019187": {
+        "id": null,
+        "rightsId": null,
+        "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 3: Itsuka Kendo",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201125,
+        "nsuId": 70050000019187,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/028640e7a19f1d4b931f57f29b627cacb010bd999c427d7fc1500c08b25e1282.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/90fb08f680670b6284137b250604459f9ab0512cd13d5e74cdced488144efe4c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ee565c8257f2801b7eceba60c84d6f775aab16a2bb27430c476f3f63fcd0886.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a0f0a6c4e4820ec3af861611477706e1875858772d69c2388bfbb65e6e3fc1.jpg",
+        "intro": null,
+        "description": "Play as Itsuka Kendo in MY HERO ONE'S JUSTICE 2!\nThis pack also includes 10 color variations for Itsuka Kendo's costume.\n\nContents:\n- Playable Character Itsuka Kendo\n- 10 Costume Color Variations",
         "languages": null,
         "size": 4194304
     },
@@ -57363,7 +57814,7 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/48d1b1836b704c865d8c9309d033a5ce87dfcff6772bbdf0cad106b0c56d6e1c.jpg",
         "intro": null,
-        "description": "Ghostrunner is a hardcore FPP slasher packed with lightning-fast action, set in a grim, cyberpunk megastructure. Climb Dharma Tower, humanity\u00e2\u20ac\u2122s last shelter, after a world-ending cataclysm. Make your way up from the bottom to the top, confront the tyrannical Keymaster, and take your revenge.",
+        "description": "Ghostrunner is a hardcore FPP slasher packed with lightning-fast action, set in a grim, cyberpunk megastructure. Climb Dharma Tower, humanity\u2019s last shelter, after a world-ending cataclysm. Make your way up from the bottom to the top, confront the tyrannical Keymaster, and take your revenge.",
         "languages": null,
         "size": 8388608
     },
@@ -59226,6 +59677,118 @@
         "languages": null,
         "size": 9437184
     },
+    "70050000024156": {
+        "id": "0100E1F013675029",
+        "rightsId": null,
+        "name": "Backstage Pass Product 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201124,
+        "nsuId": 70050000024156,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000024157": {
+        "id": "0100E1F01367502A",
+        "rightsId": null,
+        "name": "Backstage Pass Product 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201124,
+        "nsuId": 70050000024157,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 10485760
+    },
+    "70050000024158": {
+        "id": "0100E1F01367502B",
+        "rightsId": null,
+        "name": "Backstage Pass Product 3",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201124,
+        "nsuId": 70050000024158,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 5242880
+    },
+    "70050000024159": {
+        "id": "0100E1F01367502C",
+        "rightsId": null,
+        "name": "Backstage Pass Product 4",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201124,
+        "nsuId": 70050000024159,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 17825792
+    },
     "70050000024192": {
         "id": null,
         "rightsId": null,
@@ -59351,7 +59914,7 @@
         "intro": "Brawl Without Limits!",
         "description": "The world of WWE is your battleground with all-new, over the top, in-your-face arcade action as your favorite WWE Superstars and Legends battle it out in outlandish environments with an arsenal of moves, special abilities, and power-ups. Compete in your favorite match types including Steel Cage, Royal Rumble, Fatal Four Way and more, as Mauro Ranallo and Jerry \u201cThe King\u201d Lawler call the mayhem!\nRaise some hell with Stone Cold Steve Austin, lay the SmackDown with the Attitude Era version of The Rock and get rowdy with Ronda Rousey. The WWE 2K Battlegrounds Digital Deluxe Edition includes three versions of each Superstar along with the pre-order bonus, Edge. Also includes additional 1100 Golden Bucks to unlock additional WWE Superstars and legends.",
         "languages": null,
-        "size": 9366929408
+        "size": 9992929280
     },
     "70070000010702": {
         "id": null,

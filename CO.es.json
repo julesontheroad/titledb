@@ -7295,6 +7295,55 @@
         ],
         "size": 5307891712
     },
+    "70010000030011": {
+        "id": "0100BF9011B52000",
+        "rightsId": null,
+        "name": "Just Dance\u00ae 2021",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70010000030011,
+        "category": [
+            "M\u00fasica"
+        ],
+        "ratingContent": [
+            "Letras moderadas",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 6,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/92d331673b8fe8163e9fa7aa4fbaba1d4aa2aa3dc8ca353210fcd4848b8fe761.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/859aa55e1473ba91246cab82a8c9e83577f54a66ae7fa98fb60466433190f5e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b295e8061a20d747e9c615ea9bb7a7ccbde14a2a17e934120c069e2bc4345da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee222c4837e61abdc14d126a49fbc4c5ea981cfab98be6156d8cfbb3c847e7c4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b96783bd592cadf16dd6b9442a846f6b9b3fc023bc69328e7be14444258d1c99.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/424bac11eaecab41534a2be4106a6ae66bae28a1a7d4600d7ba97bc22ebfd467.jpg",
+        "intro": null,
+        "description": "Just Dance\u00ae 2021 es el mayor juego de baile con 40 incre\u00edbles \u00e9xitos de las listas de popularidad como \"Don't Start Now\" de Dua Lipa, \"Feel Special\" de TWICE, y \u201cSe\u00f1orita\u201d de Shawn Mendes y Camila Cabello. \u00a1Comienza una fiesta de baile que pueden disfrutar tu familia y tus amigos!\n\nSe incluye un mes de Just Dance Unlimited TOTALMENTE GRATIS. \u00a1Este servicio de streaming por suscripci\u00f3n te permite bailar m\u00e1s de 550 canciones diferentes!\n\nJuega con tus amigos y comparte la diversi\u00f3n con el modo cooperativo.\n\nBaila como prefieras al crear tus propias listas de reproducci\u00f3n personalizadas.\n\nDisfruta de ocho nuevas canciones y coreograf\u00edas especiales para ni\u00f1os, que brindan una experiencia para toda la familia.\n\nUtiliza tu celular para registrar tus movimientos con la app Just Dance Controller \u00a1no requerir\u00e1s de accesorios adicionales! y \u00a1hasta seis jugadores se podr\u00e1n unir!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 7402946560
+    },
     "70010000030293": {
         "id": "0100B6801137E000",
         "rightsId": null,
