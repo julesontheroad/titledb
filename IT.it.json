@@ -394,15 +394,15 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9b1f9cf9eb3bcac3dd99620ddefe79d9ee3d578e09019282c1419ba810d446d7.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/a0656ba941a99899afc206e2fb84b0199dca04ab07546f0a9170d6c6283378de.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/b401b98e86b077f1ac6e3cb71eed3146b56ae5d8ea3fe834bc0d70b432ccb6b5.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/3a70fa068a99bdfcdbb6ae6038d3f18f85aa4ff8892fa5197c6891ae0cb60fcc.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/99608408da8ac852b70902dbcfdb4835932dcd57e5e47058406243f2662800e1.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/84fd78cda790dd178061e7bd119246086dea7f6f6b3db1c8338ab2db06e9cf26.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/8c1827c1d432000f5d74261c330003a7cd909c4cd9e8b61800e6152a59734afc.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/da2e097940e0ec9fd192e89fa5effe40154849b057376e260be7cbc25124b3d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2baeacef735a5cc2c019071af9f5d48e21cfdf062ffc5b432fb628a0e20759a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24cb86f12598c7d52749096fb30677243f6873d5990449bd5f9f267fb7b03868.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a980d12a3c1f79dbcfbf0944454232348ffc365fe40e3534735d9477ff054df5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25edda0b57032081b8b83e51e63339341517cc096d32049e40bb6abf8c714320.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f18ad2611da8d23685b9619a0f141d0f6a56814ec522176d0bb023578f812181.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/713eef92c88d8c64305fa2c0b0574ec190bd46ed637f640f16125ca5b1a779b7.jpg",
-        "intro": "Gioco di corse in stile arcade che unisce il drift alla grafica retr\u00f2 e all\u2019incredibile brivido dell\u2019alta velocit\u00e0.",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/03f9c17523bf10742072b47028d741012cfdbd249c8fdaa97a4c20a4d5c2d448.jpg",
+        "intro": "Nuovi contenuti scaricabili gratuiti! Aggiunge una nuova modalit\u00e0 esplosiva, Grand Prix e quattro nuovi tracciati a uno dei giochi di corse migliori della categoria",
         "description": "Hotshot Racing \u00e8 un gioco di corse in stile arcade, che fonde drifting, nitidissima grafica retr\u00f2 e un\u2019incredibile sensazione di velocit\u00e0 per un\u2019esperienza di guida esaltante. \n\n16 circuiti di gara offrono le svolte, le curve e i rettilinei del racing pi\u00f9 adrenalinico. Affronta coste, giungle e il deserto di Las Vegas: ogni pista \u00e8 creata con i colori pi\u00f9 vividi e sterminati cieli blu.  \n\nLe modalit\u00e0 Sfida a Tempo e Grand Prix sono dedicate a chi vuole competere nei formati classici, mentre le modalit\u00e0 Guardie e Ladri e Corri o Esplodi offrono nuovi esilaranti modi di giocare. \n\nOgni modalit\u00e0 \u00e8 disponibile per giocatore singolo, 4 giocatori a schermo condiviso e 8 giocatori online, mentre la Sfida a Tempo \u00e8 solo per singoli. Le modalit\u00e0 per giocatore singolo schizzano a 60FPS, per offrire l\u2019esperienza di corsa pi\u00f9 veloce possibile.  \n\nPolverizza tutti i record e scala le classifiche globali online, o scarica giri fantasma per competere contro i migliori tra tutti.  \n\nINCONTRA I PEZZI GROSSI\nKeiko, Xing, Mike, Alexa, Aston, Toshiro, Marcus e Viktor - otto fanatici della velocit\u00e0, che hanno dedicato le proprie vite a inseguire il titolo di pilota migliore al mondo.\n\nUNA SPINTA NECESSARIA\nGuadagna boost facendo drifting e inserendoti nelle scie degli avversari, e scatena una scarica di velocit\u00e0 per lasciarli a mangiare la polvere. \n\nPRENDI IL DRIFT\nIl drifting \u00e8 essenziale in Hotshot Racing. Il boost si carica col drifting, perci\u00f2 farlo durare il pi\u00f9 possibile \u00e8 essenziale per garantirti il massimo della velocit\u00e0 in gara. \n\nCORRI O ESPLODI\nIn questa modalit\u00e0 c\u2019\u00e8 una bomba in ogni auto. Se scendi sotto una certa velocit\u00e0 BOOM! La velocit\u00e0 di innesco si alza sempre di pi\u00f9, costringendo tutti a sostenere velocit\u00e0 folli.\n\nGUARDIE E LADRI\nI ladri scappano dalle guardie. Le guardie acchiappano i ladri, e cos\u00ec facendo li fanno passare dalla loro parte, creando un\u2019esaltante sfida di abilit\u00e0 per i criminali che restano.\n",
         "languages": [
             "ja",
@@ -415,7 +415,7 @@
             "ko",
             "zh"
         ],
-        "size": 3313500160
+        "size": 3553624064
     },
     "70010000003581": {
         "id": null,
@@ -640,7 +640,7 @@
             "zh",
             "zh"
         ],
-        "size": 6986661888
+        "size": 7021264896
     },
     "70010000006224": {
         "id": null,
@@ -3142,6 +3142,52 @@
         ],
         "size": 33562820608
     },
+    "70010000018125": {
+        "id": null,
+        "rightsId": null,
+        "name": "Northgard",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190926,
+        "nsuId": 70010000018125,
+        "category": [
+            "Strategia",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Shiro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bd8ea0c9fbb495deee6cf4d908897ab22c1dedeee8aebaf5ed05ac98923dbff1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d1f2232edc9a30afaec0c9c0aa62b194fae3c0b7921533c8373f6b80f2409bb1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4cefd92a210977a2604e9090715c8fed132b99369581bf72d5d33cc406d19080.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61bb698587a35ab1156db405ca68ac282cb6000d69216af2c1082bfdb885d477.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c6dc2003cb883d297516aa1d633edbbb3a05789b94d4cf74a6ffafb05325d7f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e0890cca9ff99e032d7ee0163f2828a992a39e52b9d48c0aa59c7a812642fe9d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77cc59d65fe8be7c05cf3eef277a36fb66044c9c751d9bf2a36f5260d35b945e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e70fdab9cf2c109bc91b097a8324b470f5368e67498a08b4decd26447f778391.jpg",
+        "intro": "Northgard \u00e8 un gioco di strategia basato sulla mitologia norvegese in cui controlli un clan di Viking che gareggia per il controllo di un misterioso continente ritrovato.",
+        "description": "Dopo anni di durissima esplorazione, dei valorosi vichinghi hanno scoperto una nuova terra avvolta nel mistero, piena di pericoli e ricchezze: Northgard. I vichinghi pi\u00f9 coraggiosi sono partiti in nave alla conquista di queste nuove terre, con lo scopo di portare fama al proprio clan e scrivere la storia attraverso la colonizzazione, il commercio e la devozione per gli dei. \nIn altre parole: devono sopravvivere agli attacchi dei lupi selvaggi e dei guerrieri zombie che infestano le terre, stringere alleanze con i Giganti o batterli in battaglia e superare gli inverni tra i pi\u00f9 rigidi mai visti nelle terre nordiche.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 904921088
+    },
     "70010000018412": {
         "id": "0100EF200DA60000",
         "rightsId": null,
@@ -5604,7 +5650,7 @@
             "zh",
             "zh"
         ],
-        "size": 9366929408
+        "size": 9992929280
     },
     "70010000021735": {
         "id": "0100D2700DE7C000",
@@ -6900,7 +6946,7 @@
             "zh",
             "zh"
         ],
-        "size": 1521483776
+        "size": 1574961152
     },
     "70010000022757": {
         "id": "0100C9E00F54C000",
@@ -7085,7 +7131,7 @@
             "it",
             "zh"
         ],
-        "size": 5516558336
+        "size": 5652873216
     },
     "70010000022938": {
         "id": "010060D00F658000",
@@ -7530,7 +7576,7 @@
             "zh",
             "zh"
         ],
-        "size": 3764387840
+        "size": 4383047680
     },
     "70010000023472": {
         "id": "010013300F882000",
@@ -8306,7 +8352,7 @@
         "languages": [
             "en"
         ],
-        "size": 1514143744
+        "size": 1741684736
     },
     "70010000024552": {
         "id": "010042A00FBF0000",
@@ -13735,7 +13781,7 @@
         "languages": [
             "en"
         ],
-        "size": 8274313216
+        "size": 8337227776
     },
     "70010000028696": {
         "id": "010065A01158E000",
@@ -16356,7 +16402,7 @@
             "zh",
             "zh"
         ],
-        "size": 716177408
+        "size": 731906048
     },
     "70010000029659": {
         "id": "01005D0011A40000",
@@ -19361,7 +19407,7 @@
             "fr",
             "ru"
         ],
-        "size": 536870912
+        "size": 590348288
     },
     "70010000030862": {
         "id": "0100E95011FDC000",
@@ -19758,7 +19804,7 @@
             "zh",
             "zh"
         ],
-        "size": 4960813056
+        "size": 4959764480
     },
     "70010000030951": {
         "id": "010014901201E000",
@@ -27866,7 +27912,7 @@
             "de",
             "it"
         ],
-        "size": 1685061632
+        "size": 1787822080
     },
     "70010000032782": {
         "id": "0100A7701298C000",
@@ -29535,7 +29581,7 @@
             "de",
             "it"
         ],
-        "size": 6315573248
+        "size": 6284115968
     },
     "70010000033111": {
         "id": "010048901295C000",
@@ -29729,16 +29775,14 @@
             "Altro"
         ],
         "ratingContent": [
-            "Paura",
-            "Violenza implicita",
-            "Violenza moderata"
+            "Linguaggio volgare"
         ],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 16,
         "developer": null,
         "publisher": "Klabater",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/393e231efbd95ece2e9d95ddd523943a335aca826b54cf0c9f2f07450388e41c.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d1a22b5c684ed33543a5944847760f69fbaa50eafcf2cd1566437859ef91ddc6.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/a92bc4de9cec848f073b0c3ca2383b795956b2903fa572aaccfb9fce1e0a4909.jpg",
             "https://img-eshop.cdn.nintendo.net/i/57fc76f845d2a7d21331b56916d7e4f95ab67bea82cd2c21d47a92954da36df0.jpg",
@@ -29751,9 +29795,13 @@
         "intro": "Scopri i fatti storici basati sulle prove della storia di uno dei pi\u00f9 famosi assassini d\u2019America, che non \u00e8 stato mai catturato!",
         "description": "This is the Zodiac Speaking \u00e8 un thriller psicologico per un solo giocatore, basato sui fatti, creato sulla base della storia di Zodiac, uno dei pi\u00f9 famosi serial killer, che non \u00e8 stato mai catturato. Unisce i classici paesaggi della California degli anni \u201970 ad una colonna sonora originale, epica ed agli elementi del gioco contenente l\u2019orrore classico, l\u2019indagine investigativa, la meccanica di avvicinarsi di soppiatto e diversi fini da scoprire.\n\nGIOCA THIS IS THE ZODIAC SPEAKING I:\n\n    \u2022 Esperisci la storia dal punto di vista della persona, che \u00e8 sopravvissuta all\u2019attacco di un serial killer, resisti alla trauma e conduci l\u2019indagine, che ti porter\u00e0 alla verit\u00e0 su Zodiac\n    \u2022 Scopri i dettagli relativi agli omicidi, visita i luoghi ispirati alle scene del crimine originali, esperisci la vera seduta terapeutica, che ti aiuter\u00e0 ad affrontare il trauma\n    \u2022 Scopri tre diversi fini, ciascuno dettato dalle tue decisioni durante l\u2019indagine investigativa\n    \u2022 Divertiti con la colonna sonora piacevole e la grafica originale in stile retro\n    \u2022 Visita gli anni d\u2019oro \u201970 e sentiti all\u2019antica mentre visiti i luoghi pi\u00f9 famosi della California.",
         "languages": [
-            "en"
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru"
         ],
-        "size": 2683305984
+        "size": 5035261952
     },
     "70010000033173": {
         "id": "0100E400129EC000",
@@ -29931,6 +29979,52 @@
             "zh"
         ],
         "size": 70254592
+    },
+    "70010000033191": {
+        "id": "010076B011EC8000",
+        "rightsId": null,
+        "name": "Baila Latino",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000033191,
+        "category": [
+            "Musica",
+            "Party",
+            "Multiplayer",
+            "Lifestyle"
+        ],
+        "ratingContent": [
+            "Allusioni sessuali",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 12,
+        "developer": null,
+        "publisher": "My World",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2435b7a8870a363de8728e50e5ef43d050e24152fb3504cc7f01ba25d06b1e96.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/46b05193be22bbcfe9c5ee6cf49d518639330e064f3effdbd7651f5e224b8959.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da3394e9c5703c866e1eee8bbf4a8c085d21b681bb13ddbaac349d48e6b63941.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/87a28d4a7107a90c41aefc1640be3b72465777c7c2609aea4ce2693190549a1d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9338ace6fd71d90e830b974fc8ad6e9f6cb3c72531e25f0c0ecc07bce8d75b59.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/023228769a38d87c0afe67cb7745f40507c3bf1c087129cbfdc7b95a6243cd85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e0b657385891346a229191c11f3e705e8d812133c3bb51d2b63661556da2deac.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/255269a227fd7c271e38971c8cbec2b2bd267ec8b99fa514ffa330d8581e9899.jpg",
+        "intro": "Un gioco di danza che far\u00e0 divertire tutta la famiglia e gli amici!",
+        "description": "La musica latino americana \u00e8 adatta a tutte le et\u00e0 e fa ballare bambini e adulti, creando un'atmosfera di grande divertimento davanti alla TV.\n\nMY WORLD ha selezionato, con grande competenza, 20 canzoni di successo tra le pi\u00f9 famose ed emozionanti (5 tracce con DLC free).\n\nIl gioco \u00e8 stato realizzato con coreografie studiate dai ballerini professionisti Carlo Romano e Vera Sokolova che fanno parte della prestigiosa 'Carolyn Smith Dance Academy'.\n\nPotrai giocare da solo o con gli amici, fino a quattro giocatori contemporaneamente. Sullo schermo apparir\u00e0 il testo della canzone, cos\u00ec gli altri possono cantare mentre si balla!\n\nBaila Latino porter\u00e0 un sacco di divertimento in famiglia!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 2441084928
     },
     "70010000033195": {
         "id": "0100E0E0121D6000",
@@ -32384,7 +32478,7 @@
             "de",
             "it"
         ],
-        "size": 3668967424
+        "size": 3742367744
     },
     "70010000033742": {
         "id": "01004D0012D28000",
@@ -33801,7 +33895,7 @@
             "zh",
             "zh"
         ],
-        "size": 786432000
+        "size": 793772032
     },
     "70010000034172": {
         "id": "01001CA012F30000",
@@ -34325,13 +34419,18 @@
             "https://img-eshop.cdn.nintendo.net/i/f0952675a67e31b16492eb2f59d7f94104d1cfb98ecce11813c13eca9807a872.jpg",
             "https://img-eshop.cdn.nintendo.net/i/baf759d146a62a7978a1a1eb171b648bcf1e4bd0873b06072f80d06691603649.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/09c0ffdaaf425938629fbcba06f5d2f8ecfa230f6036a315c003df5b809da0e0.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2385a1222512e05ab4ef7f93fa062c64a4b926faec262aab10a0c9eb9fdc0d28.jpg",
         "intro": "Discover the secret of the magic crystals in this epic 2d platformer! Travel through colourful worlds packed with unique enemies, wacky weapons and challenging bosses!",
         "description": "An evil wizard is searching for the Eternal Crystals to power his malicious machine. Help treasure hunter Tiko in his epic quest to find the crystals and save the galaxy from certain doom!\n\nJuiced! is a 2d adventure platformer with exciting gameplay, unique puzzles and challenging bosses.\n\nFeatures:\n-Exciting 2d platform gaming\n-Intriguing storyline\n-Challenging and funny puzzles\n-Fight 80 different enemies\n-Discover 30 unique weapons and powerups\n-15 unique worlds and boss battles\n-Over 10hrs of playtime\n-Tons of secret collectibles and bonus stages\n-Adjustable difficulty\n-Unlockable challenges (Time Trial and YOLO)\n-Unlockable outfits\n-More than 40 tracks of catchy synthesizer music",
         "languages": [
             "en",
+            "fr",
+            "pt",
             "es",
-            "nl"
+            "de",
+            "nl",
+            "ru",
+            "zh"
         ],
         "size": 202375168
     },
@@ -40886,7 +40985,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 3079667712,
+        "size": 3115319296,
         "parentId": "0100F4C009322000"
     },
     "70030000012495": {
@@ -55509,6 +55608,39 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023214": {
+        "id": null,
+        "rightsId": null,
+        "name": "Northgard - Nidhogg, clan del Drago",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201125,
+        "nsuId": 70050000023214,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Shiro Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ae4b1159a4d42e6846444bd1553d3af436e82370eccebda14da08a2faf8b2a3b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/76e16ea67a6d5f4656af2603a7e6854e54ed20535af8bb83b907eca9aa5cab25.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cadf079d33ddd9ad76bf1aec9ff0f331ed0091551d68ef726e7ead0f186af636.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/42209d799dcb78f2f0343ffdb14fc9eef4831e6fb64ce64380d183f71f49876d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/468ce2ea21bc4ea00f95af961ead0992653dddd21d2611b4c61a06b3e69764aa.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0eb2cdd6246ffc7da4e4d0e3ed7c86d6c2708422ee319f30d65d5040cf829b3e.jpg",
+        "intro": null,
+        "description": "Descrizione\n\nTra tutti i clan, quello del Drago \u00e8 quello pi\u00f9 alieno, molto legato alle sue antiche tradizioni, ma anche a usanze alquanto bizzarre. Questo clan usa il sacrificio e la schiavit\u00f9 e per raggiungere i suoi obiettivi, spesso guadagnandosi la sfiducia degli altri clan.\n\nBonus iniziale\n\n- I tuoi civili possono entrare in un territorio neutrale.\n- Nessuna penalit\u00e0 di felicit\u00e0 o produzione se subisci ferite.\n- Inizi con una pira sacrificale. Puoi costruire un altare Dragonkin e altre strutture militari.\n- Inizi con 2 schiavi. Puoi comprare schiavi dal tuo molo navale.\n\nSchiavit\u00f9\n\nLa schiavit\u00f9 \u00e8 un aspetto molto importante dell'economia del clan. Gli schiavi, come i normali civili, possono muoversi sui territori neutrali, completare incarichi di base e combattere\u2026\nPuoi comprare schiavi dal tuo molo navale e, dopo aver ottenuto la conoscenza Cattura, sarai in grado di ridurre in schiavit\u00f9 la gente delle altre fazioni.\n\nSe il numero di gente libera viene superato dal numero di schiavi, questi si ribelleranno!\n\nIndicatore sacrifici e essenza di drago\n\nIl clan del Drago inizia una partita con una struttura esclusiva gi\u00e0 costruita: la pira sacrificale. Puoi usare questa struttura per sacrificare la tua gente in onore degli dei e ottenere i loro favori, sbloccando vari bonus!\n\nDragonkin e il suo altare\n\nL'unico accampamento militare che puoi costruire \u00e8 l'altare Dragonkin con cui produrre Dragonkin, feroci unit\u00e0 militari che sono molto pi\u00f9 potenti dei guerrieri.\n",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000023233": {
         "id": "01000A001171B004",
         "rightsId": null,
@@ -58853,7 +58985,7 @@
     "70050000023796": {
         "id": "01004A600EC0B001",
         "rightsId": null,
-        "name": "IMMORTALS FENYX RISING - Una nuova divinit\u00e0",
+        "name": "IMMORTALS FENYX RISING - Una nuova divinit\u00c3",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -59135,6 +59267,101 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f1a5b99b7a5ea77b455a33ca3d05e290c84dc7b1013ad90a1a7c59b967dd552.jpg",
         "intro": "Gioca nei panni di un coraggioso Nano.",
         "description": "Questo nano ha nervi d'acciaio, ma un cuore d'oro. Ecco perch\u00e9 \u00e8 un comandante adorato da tutti, senza contare i suoi avversari, ovviamente. Dopo una battaglia, posa l'ascia e si avvia verso le opere, sperando che anche il mondo venga conquistato dalla sua voce. Gli effetti ... beh ... diciamo che le sue canzoni possono essere considerate l'arma definitiva .",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023876": {
+        "id": null,
+        "rightsId": null,
+        "name": "MY HERO ONE'S JUSTICE 2 Cheerleader Costume Itsuka Kendo",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201125,
+        "nsuId": 70050000023876,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2eec38bfeeb996a0bcb4a856aedd6d0c5754723ca4a0af324f92792c7fc243f8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f5053cf26c518a1e43f458dc533c4cf6fac211b81e70234bd321715ade1dbfe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f7b9bf8396bad0bb4b9db6c2e4ea65693e968949bec67fb0e7b878fa3b73d8a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8690a6d3ed275ba4a3a4161f29f1d8c9b69c123dc86f7370ea031e4da2996d79.jpg",
+        "intro": null,
+        "description": "I giocatori otterranno il costume da cheerleader per il personaggio giocabile Itsuka Kendo.\nIl pacchetto include anche 10 stili di colore alternativi.\n\nContenuto:\n- Costume da cheerleader per Itsuka Kendo\n- 10 stili di colore per il costume",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023877": {
+        "id": null,
+        "rightsId": null,
+        "name": "MY HERO ONE'S JUSTICE 2 Weekend Clothes 1-A Serious Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201125,
+        "nsuId": 70050000023877,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/366d8b0d83737e2e0a7be6d0c7252e55934bc8ba90c6ba91118535002844f18b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa0c477e9a94ef83e66668f5509a57024eefead070daf00831dccead14efdf27.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3c10fba70443ef6027372fde950e6fcec63a3a5144ac0a3b2ff7c30bbc0b097d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0015643d4932568e439bce187ff5e34ddd930e43f9920250f65ab40a3a7c9e3d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bba4dd96d0e2df7c90653bca0e3fc3cde218e4bebc1916a88fb3151da9d56bc2.jpg",
+        "intro": null,
+        "description": "I giocatori otterranno gli abiti casual per i seguenti 4 personaggi: Izuku Midoriya, Ochaco Uraraka, Ten'ya Iida e Shoto Todoroki.\nIl pacchetto include anche 10 stili di colore alternativi per ogni abito.\n\nContenuto:\n- Abiti casual per Izuku Midoriya, Ochaco Uraraka, Ten'ya Iida e Shoto Todoroki\n- 10 stili di colore alternativi per ogni abito casual",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023878": {
+        "id": null,
+        "rightsId": null,
+        "name": "MY HERO ONE'S JUSTICE 2 Weekend Clothes 1-A Lively Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201125,
+        "nsuId": 70050000023878,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6dcd55a30b521dd3ab648219913cb0cc831da8b8f0c1949fd20476de37fe7d67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/420418440b2d47d3c99fcfec54a2b8bd4cf2aaa34c1fd3ab2b14e3cbb82ece8a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46b85ba18bbd3892d34952ab41afbe3940531337c1b7437a3b35ce2997fb509c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/99fb271ee4547971a080f83a88d77f6e1c03fd4402ff81aa8d6dec132aa50654.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b2cc23dcc55752c3184b3d1871759fdd2ae326b3beb2e29884e8f13c5da35985.jpg",
+        "intro": null,
+        "description": "I giocatori otterranno gli abiti casual per i seguenti 4 personaggi: Katsuki Bakugo, Minoru Mineta, Denki Kaminari e Mina Ashido.\nIl pacchetto include anche 10 stili di colore alternativi per ogni abito.\n\nContenuto:\n- Abiti casual per Katsuki Bakugo, Minoru Mineta, Denki Kaminari e Mina Ashido\n- 10 stili di colore alternativi per ogni abito casual",
         "languages": null,
         "size": 4194304
     },
@@ -59865,6 +60092,35 @@
         "languages": null,
         "size": 17825792
     },
+    "70050000024161": {
+        "id": null,
+        "rightsId": null,
+        "name": "Pacchetto Skin Klassiche del Film",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201124,
+        "nsuId": 70050000024161,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bb8fc73824c104c15e40c52cbdf645afa967bf0dd3e336b79ce439c707d72dba.jpg",
+        "intro": null,
+        "description": "Viaggia indietro nel tempo agli anni '90 con questo tributo al film originale di MK. Il Pacchetto Skin Klassiche del Film include personaggi con l'aspetto e la voce degli attori del film di Mortal\u00a0Kombat del 1995. Christopher Lambert nei panni di Raiden, il Protettore del Regno della Terra, Linden Ashby nei panni del Kombattente Hollywoodiano Johnny Cage e Bridgette Wilson-Sampras come Sonya Blade Diretta all'isola.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000024192": {
         "id": null,
         "rightsId": null,
@@ -59990,7 +60246,7 @@
         "intro": "Combatti senza limiti!",
         "description": "Il mondo della WWE diventa il tuo campo di battaglia con l'intensa e avvincente azione arcade degli scontri tra Superstar e Leggende WWE all'interno di scenari surreali con un arsenale di tecniche, abilit\u00e0 speciali e potenziamenti. Competi nei tuoi tipi di match preferiti, come Steel Cage, Royal Rumble, Fatal 4-Way e altri ancora, commentati da Mauro Ranallo e Jerry \"The King\" Lawler!\nScatenati con Stone Cold Steve Austin, domina con la versione di The Rock della Attitude Era e fai piazza pulita con Ronda Rousey. WWE 2K Battlegrounds Digital Deluxe Edition include tre versioni di ciascuna Superstar, pi\u00f9 Edge come bonus di prenotazione, oltre a 1100 Golden Bucks aggiuntivi con cui sbloccare altre Superstar e Leggende WWE.",
         "languages": null,
-        "size": 9366929408
+        "size": 9992929280
     },
     "70070000010702": {
         "id": null,
@@ -61953,7 +62209,7 @@
         "intro": null,
         "description": "Vivi l'esperienza di MK11 definitiva! Vesti i panni dei protettori della Terra in DUE storie avvincenti che sovvertono le leggi spazio-temporali e affronta una lotta contro il tempo per impedire a Kronika di riavviare la storia. Contiene l'elenco kompleto dei 37 kombattenti, inclusi gli ultimi arrivati: Rain, Mileena e Rambo.\n\nInclude MK11, Kombat Pack\u00a01, Espansione Aftermath e Kombat Pack\u00a02.\n\n\u2022 Vivi le 2 storie pi\u00f9 acclamate dalla critica in MK11 e MK11: Aftermath\n\u2022 Usa tutti e 37 i kombattenti, inclusi i nuovi arrivati: Mileena, Rain e Rambo \n\u2022 Milioni di skin, armi e attrezzature per un livello di personalizzazione senza precedenti\n\u2022 Include tutti i kombattenti aggiuntivi precedenti: Terminator, Joker, Spawn e RoboCop\n\u2022 Tutte le modalit\u00e0, incluse Torri del Tempo, Kripta, Tutorial, Online, Torri Klassiche e molto altro\n\u2022 Tutte le arene, le Fatality di livello, le Brutality, le Fatality iconiche e le Friendship",
         "languages": null,
-        "size": 34947989504
+        "size": 35071721472
     },
     "70070000011194": {
         "id": null,

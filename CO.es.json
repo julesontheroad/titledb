@@ -958,7 +958,7 @@
             "it",
             "zh"
         ],
-        "size": 1083179008
+        "size": 1238368256
     },
     "70010000001515": {
         "id": "010095300212A000",
@@ -2031,7 +2031,7 @@
             "zh",
             "zh"
         ],
-        "size": 6986661888
+        "size": 7021264896
     },
     "70010000005382": {
         "id": "0100FFA0093E8000",
@@ -3280,7 +3280,7 @@
             "zh",
             "zh"
         ],
-        "size": 1697644544
+        "size": 1882193920
     },
     "70010000013704": {
         "id": "010044500C182000",
@@ -3704,7 +3704,7 @@
             "zh",
             "zh"
         ],
-        "size": 34847326208
+        "size": 34971058176
     },
     "70010000015307": {
         "id": "01003BD00CAAE000",
@@ -5736,7 +5736,7 @@
             "zh",
             "zh"
         ],
-        "size": 9366929408
+        "size": 9992929280
     },
     "70010000022226": {
         "id": "01002C000E35E000",
@@ -7162,7 +7162,7 @@
             "zh",
             "zh"
         ],
-        "size": 2501902336
+        "size": 2500853760
     },
     "70010000029721": {
         "id": "0100B0500FE4E000",
@@ -8591,7 +8591,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 3079667712,
+        "size": 3115319296,
         "parentId": "0100F4C009322000"
     },
     "70030000012478": {
@@ -18734,6 +18734,37 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000024088": {
+        "id": "0100F2200C98501F",
+        "rightsId": null,
+        "name": "Paquete de Skins Pel\u00edcula kl\u00e1sica de MK",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201124,
+        "nsuId": 70050000024088,
+        "category": null,
+        "ratingContent": [
+            "Derramamiento de sangre",
+            "Violencia intensa",
+            "Lenguaje fuerte",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bb8fc73824c104c15e40c52cbdf645afa967bf0dd3e336b79ce439c707d72dba.jpg",
+        "intro": null,
+        "description": "Viaja de vuelta a los\u00a090 con este tributo a la pel\u00edcula original de MK. El Paquete de Skins Pel\u00edcula kl\u00e1sica de MK incluye la imagen y voces de los personajes de la pel\u00edcula de 1995. Christopher Lambert como Raiden Protector de la Tierra, Linden Ashby como Johnny Cage Kombatiente de Hollywood y Bridgette Wilson-Sampras como Sonya Blade Rumbo a la isla.",
+        "languages": null,
+        "size": 4194304
+    },
     "70070000000041": {
         "id": null,
         "rightsId": null,
@@ -20416,8 +20447,11 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd2b31900908fa299444d35836d4ae468c0462160e35d36cf218482ac4ffca9b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4524887798f608d939aaf41f8fbcd14e8e4bf826df2149b0b86abe90d236d9a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1082a43a1566dc88b875faca980969916b30976213b2d5c8636e18ab9ccfd6c2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b0d3f0ed1a2c1060f2731113633658fe66b8f13b8eed56f0610554b892b8fd69.jpg",
         "intro": "\u00a1Expande tu elenco de combatientes con el pase de combatientes VOL. 2 de Super Smash Bros.\u2122 Ultimate!",
         "description": "\u00a1Expande tu elenco de combatientes con el pase de combatientes vol. 2 de Super Smash Bros.\u2122 Ultimate para el juego Super Smash Bros.\u2122 Ultimate! Tras adquirir el pase de combatientes tendr\u00e1s acceso a contenido adicional que incluye seis combatientes jugables, m\u00e1s escenarios y temas musicales una vez que est\u00e9n disponibles. \u00a1Los combatientes adicionales incluyen a Min Min del juego ARMS\u2122 as\u00ed como a Steve y Alex de Minecraft\u2122!\n\nEl pase de combatientes VOL. 2 de Super Smash Bros. Ultimate es un set que incluye seis paquetes de combatientes.\n\nEl contenido del paquete de combatiente 8 hasta el paquete de combatiente 11 a\u00fan no han sido anunciado, pero se incluye con la compra de este pase de combatientes.\n\nEl paquete de combatiente 6 incluye a Min Min como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 7 incluye a Steve y Alex como combatiente jugable, un escenario y varias melod\u00edas.\n\nEn la compra de este pase de combatientes vol. 2 no se incluye el contenido del paquete de combatiente 1 hasta el paquete de combatiente 5 del anterior pase de combatientes para Super Smash Bros. Ultimate que se vende por separado.\n\n\n",
         "languages": null,
@@ -20619,7 +20653,7 @@
         "intro": "\u00a1Lucha sin l\u00edmites!",
         "description": "El mundo de la WWE es tu campo de batalla. \u00danete a intensos combates arcade nunca vistos y haz que tus Superstars y leyendas preferidas luchen entre s\u00ed en peculiares entornos interactivos con un arsenal de movimientos, habilidades y potenciadores. \u00a1Libra tus combates preferidos, Steel Cage, Royal Rumble, Fatal 4-Way y muchos m\u00e1s, mientras Mauro Ranallo y Jerry \"The King\" Lawler comentan el caos!\nDesata el infierno con Stone Cold Steve Austin, reparte golpes a diestra y siniestra con la versi\u00f3n de The Rock de la Attitude Era y arma un buen esc\u00e1ndalo con Ronda Rousey. WWE 2K Battlegrounds Digital Deluxe Edition incluye tres versiones de cada Superstar, adem\u00e1s de la bonificaci\u00f3n de reserva: Edge. Tambi\u00e9n viene con 1100 Golden Bucks extra para desbloquear m\u00e1s leyendas y Superstars de la WWE.",
         "languages": null,
-        "size": 9366929408
+        "size": 9992929280
     },
     "70070000010881": {
         "id": null,
@@ -20863,7 +20897,7 @@
         "intro": null,
         "description": "\u00a1La experiencia MK11 definitiva! Juega como los protectores de la Tierra en 2\u00a0aclamadas historias donde el tiempo se distorsiona en una lucha para impedir que Kronika regrese el tiempo y reinicie la historia. Con el reparto completo de 37\u00a0luchadores, incluyendo a Rain, Mileena y Rambo.\n\nIncluye MK11, el Paquete\u00a0de\u00a0Kombate\u00a01, la expansi\u00f3n Aftermath y el Paquete\u00a0de\u00a0Kombate\u00a02.\n\n\u2022 Disfruta de las 2\u00a0historias aclamadas por la cr\u00edtica: MK11 y MK11: Aftermath\n\u2022 Juega como cada uno de los 37\u00a0personajes, incluyendo a los recientemente a\u00f1adidos Mileena, Rain y Rambo\n\u2022 Miles de skins, armas y equipo que te ofrecen un nivel de personalizaci\u00f3n sin precedentes\n\u2022 Incluye a todos los invitados previos: Terminator, el Guas\u00f3n, Spawn y RoboCop\n\u2022 Todos los modos, incluyendo las Torres del Tiempo, la Kripta, En l\u00ednea, Torres Kl\u00e1sicas, etc.\n\u2022 Todas las arenas, Fatalities de arena, Brutalities, y los ic\u00f3nicos Fatalities y Friendships",
         "languages": null,
-        "size": 34947989504
+        "size": 35071721472
     },
     "70070000011197": {
         "id": null,

@@ -958,7 +958,7 @@
             "it",
             "zh"
         ],
-        "size": 1083179008
+        "size": 1238368256
     },
     "70010000001515": {
         "id": "010095300212A000",
@@ -2031,7 +2031,7 @@
             "zh",
             "zh"
         ],
-        "size": 6986661888
+        "size": 7021264896
     },
     "70010000005382": {
         "id": "0100FFA0093E8000",
@@ -3280,7 +3280,7 @@
             "zh",
             "zh"
         ],
-        "size": 1697644544
+        "size": 1882193920
     },
     "70010000013704": {
         "id": "010044500C182000",
@@ -3704,7 +3704,7 @@
             "zh",
             "zh"
         ],
-        "size": 34847326208
+        "size": 34971058176
     },
     "70010000015307": {
         "id": "01003BD00CAAE000",
@@ -5773,7 +5773,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d5cd9c87ee15c32d2ea4b3db10cd553bd2dc9f68697c7c4f8decf498fc21036d.jpg",
         "intro": "The golf game for people who hate golf!",
-        "description": "An award-winning silly physics-based golf parody where every golf course is a new surprising type of golf, some brilliant or hilarious, others so absurd they will make you go: WHAT THE GOLF?\n\nBring your car to the Driving Range, golf a bird to get a Birdy, or a house and get a Home In One!\n\nChallenge a friend to the least realistic golf game ever made in the new local party mode for two. Only available on Switch.\n\n\u00a0Features:\n- Insanely stupid and silly fun\n- Exactly what you need and not what you expect\n- More surprising new golf mechanics than you can imagine\n- Two-player local multiplayer\n- Made by people who know nothing about golf\n- First (and hopefully the last) game that let you golf a horse\n- Will NOT make you a better golf player\n- Surprises! (sorry, we spoiled it)",
+        "description": "An award-winning silly physics-based golf parody where every golf course is a new surprising type of golf, some brilliant or hilarious, others so absurd they will make you go: WHAT THE GOLF?\n\nBring your car to the Driving Range, golf a bird to get a Birdy, or a house and get a Home In One!\n\nChallenge a friend to the least realistic golf game ever made in the new local party mode for two. Only available on Switch.\n\n\u00c2\u00a0Features:\n- Insanely stupid and silly fun\n- Exactly what you need and not what you expect\n- More surprising new golf mechanics than you can imagine\n- Two-player local multiplayer\n- Made by people who know nothing about golf\n- First (and hopefully the last) game that let you golf a horse\n- Will NOT make you a better golf player\n- Surprises! (sorry, we spoiled it)",
         "languages": [
             "ja",
             "en",
@@ -7162,7 +7162,7 @@
             "zh",
             "zh"
         ],
-        "size": 2501902336
+        "size": 2500853760
     },
     "70010000029721": {
         "id": "0100B0500FE4E000",
@@ -8591,7 +8591,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 3079667712,
+        "size": 3115319296,
         "parentId": "0100F4C009322000"
     },
     "70030000012478": {
@@ -18333,7 +18333,7 @@
     "70050000023109": {
         "id": "01000A001171B005",
         "rightsId": null,
-        "name": "FIFA 21 In-Game Commentary \u2013 Portuguese (Brazil)",
+        "name": "FIFA 21 In-Game Commentary \u00e2\u20ac\u201c Portuguese (Brazil)",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -18731,6 +18731,37 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/30af6919961c083b1ef852c4f5e8f02e3c237414b5bc48c3e1ba3cb5c9a45bac.jpg",
         "intro": "In-game item:  Lucky Ladle",
         "description": "One of the weapons Link can use in the game. You can equip this for battle (paired with a Pot Lid), or you can fuse it with other weapons for stat boosts.\n\n*This item will not be immediately available to owners of the package version of the game, but may be offered as a paid item at a later date.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000024088": {
+        "id": "0100F2200C98501F",
+        "rightsId": null,
+        "name": "Klassic MK Movie Skin Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201124,
+        "nsuId": 70050000024088,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bb8fc73824c104c15e40c52cbdf645afa967bf0dd3e336b79ce439c707d72dba.jpg",
+        "intro": null,
+        "description": "Travel back to the '90s with this tribute to the original MK Movie. The Klassic MK Movie Skin Pack includes character likeness & voice from the1995 film. Christopher Lambert as Protector of Earthrealm Raiden, Linden Ashby as Hollywood Kombatant Johnny Cage, and Bridgette Wilson-Sampras as Island Bound Sonya Blade.",
         "languages": null,
         "size": 4194304
     },
@@ -20416,8 +20447,11 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd2b31900908fa299444d35836d4ae468c0462160e35d36cf218482ac4ffca9b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/04cecc6440568b0fc5eaf4e6b6b569e167460c29330449e9ca3b6e5ad074b9db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1082a43a1566dc88b875faca980969916b30976213b2d5c8636e18ab9ccfd6c2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3438f8d7eec4a0874d592167442f71c01e88b01f7a592e718f7b9f45886c17ba.jpg",
         "intro": "Expand your roster of fighters with the Super Smash Bros.\u2122 Ultimate Fighters Pass Vol. 2!",
         "description": "Expand your roster of fighters with the Super Smash Bros.\u2122 Ultimate Fighters Pass Vol. 2 for the Super Smash Bros. Ultimate game! Purchase this Fighters Pass now to get access to six additional playable fighters, plus additional stages, and music as they release. Announced fighters include Min Min from ARMS and Steve & Alex from Minecraft\u2122! \n\nThe Super Smash Bros. Ultimate Fighters Pass VOL. 2 will contain six Challenger Packs.\n\nThe contents of Challenger Pack 8 through Challenger Pack 11 have not been announced yet, but they\u2019re still included with the purchase of this Fighters Pass.\n\nChallenger Pack 6 includes Min Min as a playable fighter, their stage, and a selection of music.\n\nChallenger Pack 7 includes Steve & Alex as a playable fighter, their stage, and a selection of music.\n\nChallenger Pack 1 through Challenger Pack 5 of the original Super Smash Bros. Ultimate Fighters Pass are not included and are sold separately.\n",
         "languages": null,
@@ -20863,7 +20897,7 @@
         "intro": null,
         "description": "The definitive MK11 experience! Take control of Earthrealm's protectors in 2 acclaimed, time-bending Story Campaigns as they race to stop Kronika from rewinding time & rebooting history. Feat. the komplete 37-fighter roster, incl. Rain, Mileena & Rambo.\n\nIncl. MK11, Kombat Pack\u00a01, Aftermath Expansion & Kombat Pack\u00a02.\n\n\u2022 Experience 2 robust, critically acclaimed Story Campaigns from MK11 & MK11: Aftermath\n\u2022 Play as the komplete 37-fighter roster incl. newly added fighters Mileena, Rain & Rambo \n\u2022 Thousands of skins, weapons & gear for an unprecedented level of customization\n\u2022 Includes all previous guests: Terminator, Joker, Spawn & RoboCop\n\u2022 Every mode including Towers of Time, Krypt, Online, Klassic Towers, etc.\n\u2022 All Stages, Stage Fatalities, Brutalities, Iconic Fatalities & Friendships",
         "languages": null,
-        "size": 34947989504
+        "size": 35071721472
     },
     "70070000011197": {
         "id": null,
