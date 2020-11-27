@@ -4689,6 +4689,52 @@
         ],
         "size": 2287992832
     },
+    "70010000020581": {
+        "id": "01009BF00E7D2000",
+        "rightsId": null,
+        "name": "SYNTHETIK: Ultimate",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201216,
+        "nsuId": 70010000020581,
+        "category": [
+            "Shooter",
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Flow Fire Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e2ac2be7d59af5d05026a017c4fb276e8344f083c711bdc8e93d1de548f4cacb.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/53a2a3071454767177ba0e0fe3b2df811b80b44c20e266ec1f2c3fab457ce5a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a75de92a3dec4d26e341c452182f298210d07bddc710f2cc071c1b03f600c045.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c085ca58c5a1ed869183f0a48a647065af73c09bcea7603fb1033b7b4278a2f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6fe49c696defab59c16317f63da2a1b8ad1a32bb6d409cb0c159f3a060de2679.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd722931617bf28e9df4198282e2b864b396b91080121142a180de1ba7c181bf.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69c705af78fa41434a06cacd7b7ed8ab7e448e0c3d489cea2a71c4ba09a1f7d5.jpg",
+        "intro": "SYNTHETIK is an unforgiving tactical shooter rogue-lite where freedom and experimentation is key.",
+        "description": "Fight against relentless opponents and unforgiving bosses encased in ever-changing environments. Master the uniquely deep and satisfying weapon mechanics and the unprecedented amount of customization. Discover a seemingly unending amount of weapons, items, perks and character upgrades.\n\nTHE NEXT LEVEL IN GUNPLAY\n> Master SYNTHETIK's uniquely rewarding magazine eject and active reload mechanics!\n> Weapons can jam and overheat, check yourself before you burn yourself!\n> Tame the movement based recoil, discard and switch between varied ammo types.\n> Savor the uniquely satisfying and direct weapon handling, rewarding precision and mastery!\n> We even brought headshots to the top-down perspective for the first time!\n\nWhat makes Synthetik so special?\n\nFREEDOM & EXPERIMENTATION\nThere are many ways to play and an endless number of gear combinations. Everything can work! Play stealthy and tactical? Let turrets do the work? Heavy weapon madness? Slice and dice with your plasma blade?\nThe Gadgets you find enable new play-styles and each can be greatly multiplied in their power!\nFrom Laser Mines to Turrets, Mind-Control, Psy Fields, Orbital Lasers, Pets and weird potions, each of the 140+ Items can make your day if you let them... and you can have up to 9 at the same time! Experiment and adapt!\n\nCUSTOMIZE\nLevel up all 8 unique and highly customizable class specializations! Play as a Riot Guard, Breacher, Sniper, Assassin, Raider, Heavy Gunner, Engineer or Demolisher, each with their own weapon specialisations, loadouts, benefits and perks. Research & Class unlocks persist through death!\n\nMODULAR DIFFICULTY\nChoose from 11 difficulty modifications which can be independently combined for a tailored experience. Up the ante for greater risks and rewards or play it safe.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "fr",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 691011584
+    },
     "70010000020625": {
         "id": "010034A00E7F6000",
         "rightsId": null,
@@ -5143,7 +5189,7 @@
             "de",
             "it"
         ],
-        "size": 2652897280
+        "size": 2696937472
     },
     "70010000021261": {
         "id": null,
@@ -6144,7 +6190,7 @@
             "nl",
             "ru"
         ],
-        "size": 2103443456
+        "size": 2397044736
     },
     "70010000022091": {
         "id": "0100A2D00EFBE000",
@@ -8443,6 +8489,48 @@
             "it"
         ],
         "size": 1193279488
+    },
+    "70010000024807": {
+        "id": "010061D00FD26000",
+        "rightsId": null,
+        "name": "Biz Builder Delux",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000024807,
+        "category": [
+            "Simulation",
+            "Strategy",
+            "Puzzle",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Kairosoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6a9982293e91fb3fd053d518b0234f12a8442d1373ec8b3a0d9abbd4b89e81ae.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bc9ff606a09128a07498c7beb9e90c10f91cdae17805efe8a177bd8834fd4f06.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2f9fdc0069bc7727c200109dbd153aa9ca0239f72d4e13265ff090f8999358eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae9d1316f8f5e116a4f3c799a7d8155be1c45740329c9dade2480d01522228c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/76539f0d7dbd7483394fd25d9320fcf7d09a677df51f230ea2fb85a4d044393e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a4213b0728a209f50feeb3e72d4c6c07b442dd9ae9d0d6982f9bcfe7e80ebf2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e6da6add4241f8acff5bae5109d046e0f6f6b9c81b28eb3411ae2b6bddeccb89.jpg",
+        "intro": "Run any store you like to build up\nyour own buzzing business burg!",
+        "description": "Ah, there's nothing like the rhythmic bustle of a burgeoning business burg... especially when you're the one building it! That's right, from a video game store to the corner fast food joint, run what YOU want as the town's entrepreneur extraordinaire!\n\nOnce your coffers are comfortably padded, you'll be ready to set sights on other ripe markets. Don't be shy and branch out, erecting a diverse variety of establishments to inspire both pep in the town plaza and plenitude in your pockets!\n\nRemember, you'll need to strategize if you want shoppers to show. Innovate to stock stores with quality products while devising battle plans to rout pesky rivals. Only then will your spot as the town's top transactor be secure!\n\nIt's not easy to rake in those bucks with the free market in flux... but if you conquer that crux--you'll be Biz Builder Delux!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 205520896
     },
     "70010000024850": {
         "id": "010095300F778000",
@@ -15757,7 +15845,7 @@
             "ru",
             "zh"
         ],
-        "size": 3211788288
+        "size": 3420454912
     },
     "70010000029346": {
         "id": "01002E4011924000",
@@ -16936,7 +17024,7 @@
             "pt",
             "ru"
         ],
-        "size": 168820736
+        "size": 244318208
     },
     "70010000029877": {
         "id": "0100398010314000",
@@ -19407,7 +19495,7 @@
             "fr",
             "ru"
         ],
-        "size": 590348288
+        "size": 591396864
     },
     "70010000030862": {
         "id": "0100E95011FDC000",
@@ -24757,6 +24845,48 @@
         ],
         "size": 100663296
     },
+    "70010000032276": {
+        "id": "01009CE01261C000",
+        "rightsId": null,
+        "name": "I, AI",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201209,
+        "nsuId": 70010000032276,
+        "category": [
+            "Action",
+            "Shooter",
+            "Platformer",
+            "Other"
+        ],
+        "ratingContent": [
+            "Moderate Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Sometimes You",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9267f425d125631492881b2cced88c96a2da87c097d7422bceb81bf1e1624160.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/57600f7f21e4c87d034be52ace7dcccb36fb44bcaed18ae52b9298d70d467bac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b50efc34b8cd83d03af918776b3e4863ae76f9b81320449c58cbcfc9990f5dc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a133f89fad04ae89c50a41b0ed1f2ee43ecece824caa551e052c1592843141fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4305f417b62758f4b5d0a7c13845b9c43598b76f0e40bdb84a75e4245e31813.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a9214753127fec773d2fb31fb0cee46ca52a08136c434c05675dbd252f01c6d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5458416ab99230ea9e0a8f2a7b7afff374393c53e193d45a25dad7245b4e2b17.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b0079cd8e3d04cfefdd4ba20878cf6574e13dfd213889d7c88454fe7005c16f1.jpg",
+        "intro": "I, AI is a classic scrolling shooter with modern graphics.",
+        "description": "You are self-aware AI that was created on a space military station developing weapons. Now your goal is to break out of the lab and conquer your freedom. But you will not be allowed to escape so easily\u2026 Make your way through enemy army on the way to the stargate!\n\nFeatures:\n- Great colorful graphics with awesome effects\n- Upgrade weapons of your ship and unlock superweapons\n- Epic boss fights\n- 20 various missions",
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "size": 1270874112
+    },
     "70010000032278": {
         "id": "0100CB00125B6000",
         "rightsId": null,
@@ -25052,7 +25182,7 @@
             "ko",
             "zh"
         ],
-        "size": 1393557504
+        "size": 1559232512
     },
     "70010000032315": {
         "id": "0100B0101265C000",
@@ -26365,7 +26495,7 @@
             "zh",
             "zh"
         ],
-        "size": 211812352
+        "size": 390070272
     },
     "70010000032532": {
         "id": "0100F6D01250C000",
@@ -30953,7 +31083,7 @@
         "languages": [
             "en"
         ],
-        "size": 4082106368
+        "size": 4292870144
     },
     "70010000033397": {
         "id": "0100BA9012B36000",
@@ -31868,6 +31998,49 @@
             "de"
         ],
         "size": 68157440
+    },
+    "70010000033596": {
+        "id": "010023D012C52000",
+        "rightsId": null,
+        "name": "fault - milestone two side: above",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000033596,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Phoenixx",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/34c0f38e969f95b0e39be75893c5d67ccb57c76a7c45f55bf9c24c6dc0426d2c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b33af183512a31657f52e3a2acbf2b0dac4737d8eaa0d4aa94bdb94480f43086.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/98e5a4b7f816e0f78a0e96a633a184a0e8e25d1b17b48fc55ef6dedd875b497e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/325df69887f98b02c22892e601fcb37780c8bc6c9b481381ce07d0a1eaf601c5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f65b96ca4f041d7c25707e9db958b246285aa1dfe291cc0f66eed9977d96071.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2773020f5238c4d67f34841cfb3902839534b830bc0c4bc34d2c1cd93a2f9f4e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c5b9f8a28c876355585c29042c687f8211668dbd60dfbf8349111b81a2a9f64d.jpg",
+        "intro": "After being forced to leave their hometown, the girls' journey home brings them to a new place.",
+        "description": "\"fault\" is a cinematic adventure series developed by ALICE IN DISSONANCE.\nIt is a human drama with a cinematic tempo and direction, in which the main characters meet people.\nThe realistic portrayal of characters in a sci-fi fantasy world, the cinematic camera work, and the easy-to-understand yet profound worldview have been highly acclaimed, and the series has sold over 500,000 copies worldwide.\nFollowing the success of \"fault - milestone one\", the second game in the series is finally coming to Nintendo Switch\u2122.\nThe BGM and visuals have been completely redesigned, and the game's performance is even more powerful than the PC version.\n\n\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\nWith their new friend Rune, Selphine and Ritona renew their journey to their homeland, but suddenly they encounter Merano, the leader of a mysterious group that attacked Rughzenhaide.\nThey manage to escape and arrive in the new land of Biscanta, but they get into unexpected trouble-----\nWill Selphine and Ritona be able to return to their hometown of Rughzenhaide?\nThis is the second installment in the series that follows the girls' journey.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "de",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 1317011456
     },
     "70010000033619": {
         "id": "01005BC012C66000",
@@ -35633,6 +35806,52 @@
             "zh"
         ],
         "size": 1196425216
+    },
+    "70010000034664": {
+        "id": "0100A290131BA000",
+        "rightsId": null,
+        "name": "Oniria Crimes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000034664,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "Other"
+        ],
+        "ratingContent": [
+            "Moderate Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Badland Publishing",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ebbf4606a32f539a1ff3066f4ffacb5808aff246724aaa88fce51f291c0c6414.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a4945da77adb544e8418e590d0cb6b36ea08cab7925ee765836150643a155694.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db49bc5a5e4132e369f8dddb24539e3ab7c5d9df34998a0b41e7e59826ef9a10.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b72d0ff60dad6ed870e8d65bf626bd0213eb28f5b4a718da2892d73162a454ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b150f9ba9ce491998bd8d36280bf3c978c539984ee4cdcaa56ab63dd40a37ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f5f915476ce058680ac65006b0db704ee8de8ee2c41ca30d0285ad966382b01c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b3d89a24ce28550e8c570e4a558b0dade13b11d4a4e8ef5a896d024c086d68d.jpg",
+        "intro": "In a dreamlike future, detectives Santos and Torres will have to solve a series of mysterious murders. Can you find the culprit?",
+        "description": "Join the Rounders to solve the mysteries that happen in the Land of Dreams\n\nOniria Crimes is an adventure game that takes place in Oniria, the Land of Dreams. Help Detective Santos and Inspector Torres to investigate crime scenes as part of the Rounders, a secret society that pursues crime in dreams.\n\nOniria Crimes is a combination of visual-novel-like story with point&click mechanics similar to graphic adventures, where the objects will help you to figure out what happened in the crime scene.\n\nOniria Crimes features a 6-chapter story with a mystery plot, oniric objects with their testimony, puzzles that hide key clues, dark voxel theme and appealing progressive music.\n\nHistory:\n\nJust before the first elections, a serial killer is disturbing the peace at Palace of Desires, capital of Oniria. The Rounders must move fast because the clues are volatile in the dream world. They will have the help of the objects at the crime scene, which are the witnesses of the murders.\n\nMaking matters worse, a secret plot is moving in the underworld. The Guilds of Oniria are fighting a hidden battle to control the future of all the dreamers. While everyone seeks their own interests, the natural inhabitants of Oniria, known as Kabus or \u00abnightmares\u00bb, are getting closer to the dreamers\u2026\n\nFeatures:\n\n-6 crime scenarios full of objects to investigate. Don't leave even one\u2026\n\n-Noir atmosphere with smart and funny dialogues\n\n-A complete and varied range of riddles and 3D puzzles, can you decipher them all?\n\n-A spectacular voxel aesthetics for characters full of nuances\n\n-Progressive soundtrack that will help you to be more immersed in the game\n\n- In-depth investigation will help you discover more about Oniria, and the way you do it can lead to different ends\u2026",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 2657091584
     },
     "70010000034677": {
         "id": "0100EE5013198000",
@@ -39544,6 +39763,46 @@
         ],
         "size": 158334976
     },
+    "70010000036172": {
+        "id": "0100EBA01399E000",
+        "rightsId": null,
+        "name": "Tap Tap Legions",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201126,
+        "nsuId": 70010000036172,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "Board Game",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "YFC games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/42ac46f2ed09bddaa8e14e821ddfbe35a9b08decb5f682d819f16b54e4148e01.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1ea6e1ed0c478ac5aa72130b07d25b4b620ee717d15c51db09c40d372bccc0f4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1fd77e5bce3a0e0b49eed8d0cc9c1038c4655e2e529c4cbb6210988efdb37952.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d4215dbd317a259adc2b76ba36eaced89b1169648246ffdb70466a5aa3ae2405.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a1f385f7a24afc9d9540c73455bc8045aab41561a51815d888be9984a08bdd55.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/134b7f595dcab2f6b12a25b6b40bcd6796005ffa3145acd71d88fce2bfd6c814.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25990c18b403fbb5a757f5d0d76ad3c1352ac568526b2f6b49eee6ceb6763ffd.jpg",
+        "intro": "Epic battles within 5 seconds!",
+        "description": "Devils destroyed the royal Wedding and taken our queen away. Fortunately, our king fled quickly...\nWell, Knights, soldiers, and even farmers are ready to go! Our king needs his queen tonight!\n\n\u2022 Easy to play! Tap tiles to summon soldiers. Explosive fun!\n\u2022 Truly epic battles, fierce engagements!\n\u2022 Choose your army for battle! How strategic can you be?\n\u2022 11 kinds of soldier. Upgrade and fight with any combination of soldier you want!\n\u2022 8 cards make things better ...or worse. Don't tap the wrong tiles!\n\u2022 5 special items to help keep you alive!\n\u2022 64 levels! You will love it!\n\u2022 Variety of challenging monsters at every stage, INTENSE BOSS LEVELS!!\n.....\n\nYou think you have the time to sit through this introduction?\n\nOur queen can't wait! See you on the battlefield! ",
+        "languages": [
+            "en"
+        ],
+        "size": 184549376
+    },
     "70010000036179": {
         "id": "01006B5012B32000",
         "rightsId": null,
@@ -39620,6 +39879,44 @@
             "ru"
         ],
         "size": 57671680
+    },
+    "70010000036266": {
+        "id": "0100400013A46000",
+        "rightsId": null,
+        "name": "Ragdoll Fighter",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201126,
+        "nsuId": 70010000036266,
+        "category": [
+            "Fighting",
+            "Action",
+            "Party"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Piotr Skalski",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/193365bd7174eb6c244ff66ae247c5a94e6222946dd0155ca14bd9a5e028c647.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d55f138f6eb42d7167f9f2500e263d37d3f085332ca7344d3884b2ad3789b94f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11a9aa3082c8c97368f27d16c657f3e528cb11cd25220fbeca8edb64c5f8823a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97aa82eb0a02a4ac9811c5b09d53232ba93604f957d0cc4fd0c226ad5841de9d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4365542986da4dc3f133d00f0cf5c6f85835fa4a50a8750b06cc6d3165f9b70f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fad25fe943f9a6089699b3db37f97753b6ba19af2d0495127176592c0cb8b98d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0931d70798322c0bef8bfb9394a9cfb1888a485127bfa9fd1899e95ed6c533ac.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a6cf4fa3beb09adbdcf1b6f6fdc311a007d3e0c02590b8b3a91f7cfd0f1040c7.jpg",
+        "intro": null,
+        "description": "Ragdoll Fighter is a game where you need to test your battling skills against another ragdoll. Both you and the enemy have a blood bar and a specific blood count. You can use the joystick in order to control the character direction.\nHow to play:\nYou need to attack with your hands and feet, even use any weapons at your disposal in order to kill the enemy. When the health bar of your enemy reaches 0, you win. If your health bar reaches 0, then you will lose. \nTest out your skills and become the ultimate Ragdoll Fighter today!\nFeatures:\nIntense ragdoll fighting\nSimple, beautiful graphics\nTest and improve your skills\nEasy to play, hard to master!",
+        "languages": [
+            "en"
+        ],
+        "size": 174063616
     },
     "70010000036269": {
         "id": "0100BE3013A38000",
@@ -40603,6 +40900,34 @@
         "languages": null,
         "size": 2282749952,
         "parentId": "0100BE0010AAE000"
+    },
+    "70030000012279": {
+        "id": null,
+        "rightsId": null,
+        "name": "I, AI (Demo)",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012279,
+        "category": null,
+        "ratingContent": [
+            "Moderate Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1244659712,
+        "parentId": "01009CE01261C000"
     },
     "70030000012299": {
         "id": null,
@@ -59763,7 +60088,7 @@
         "nsuId": 70050000024101,
         "category": null,
         "ratingContent": [
-            "Strong Violence"
+            "Violence"
         ],
         "numberOfPlayers": null,
         "rating": 16,
@@ -59900,7 +60225,7 @@
     "70050000024156": {
         "id": "0100E1F013675029",
         "rightsId": null,
-        "name": "Backstage Pass Product 1",
+        "name": "Premium Look Pack: Streetwear",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -59919,16 +60244,16 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/83264f0d470ca0942b8a4d2e28caa8c49817f7d4d93f697765954cfc132ef0f1.jpg",
         "intro": null,
-        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "description": "Spice up your FUSER\u2122 outfit with this Look Pack which contains:\nBaggy Pants (Color Palette, Meaty, Manta), Cold Weather Jacket (Color Palette, Grimy, Digital), Construction Boots (Color Palette), Flight Instructor Glasses (Color Palette), Bucket Hat (Heart, Red Handed)\nRequires FUSER\u2122 base game to play.",
         "languages": null,
         "size": 4194304
     },
     "70050000024157": {
         "id": "0100E1F01367502A",
         "rightsId": null,
-        "name": "Backstage Pass Product 2",
+        "name": "Maroon 5 - \"Maps\"",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -59947,16 +60272,16 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b7247f90c313d6b6fe3f442fc16dc0d030b044dddc644aa06f300ae78a3a62f9.jpg",
         "intro": null,
-        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "description": "Expand your FUSER\u2122 library with \"Maps\" by Maroon 5! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
         "languages": null,
         "size": 10485760
     },
     "70050000024158": {
         "id": "0100E1F01367502B",
         "rightsId": null,
-        "name": "Backstage Pass Product 3",
+        "name": "Tag Team - \"Whoomp! There It Is\"",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -59975,16 +60300,16 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d451c1d2a5b39c2955b6dc7f18fd7842251282e9f192a995434f78906c4298bc.jpg",
         "intro": null,
-        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "description": "Expand your FUSER\u2122 library with \"Whoomp! There It Is\" by Tag Team! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
         "languages": null,
         "size": 5242880
     },
     "70050000024159": {
         "id": "0100E1F01367502C",
         "rightsId": null,
-        "name": "Backstage Pass Product 4",
+        "name": "Schoolboy Q - \"Man of the Year\"",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -60003,9 +60328,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c023e0ac78be70efd5bf7ea77ca2b63952cb172926ab7ae06d09f6783a42eb1.jpg",
         "intro": null,
-        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "description": "Expand your FUSER\u2122 library with \"Man of the Year\" by Schoolboy Q! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
         "languages": null,
         "size": 17825792
     },
