@@ -4715,8 +4715,9 @@
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e2ac2be7d59af5d05026a017c4fb276e8344f083c711bdc8e93d1de548f4cacb.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/53a2a3071454767177ba0e0fe3b2df811b80b44c20e266ec1f2c3fab457ce5a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/513932407f7670385570dd483ee3e5cafaf0576b3b26b80e4b84d467e8efbead.jpg",
             "https://img-eshop.cdn.nintendo.net/i/a75de92a3dec4d26e341c452182f298210d07bddc710f2cc071c1b03f600c045.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/c085ca58c5a1ed869183f0a48a647065af73c09bcea7603fb1033b7b4278a2f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a74e44c6bcea93a0bcc84ceb1c542c4966f89f482a1ad617d0d362ae686e295.jpg",
             "https://img-eshop.cdn.nintendo.net/i/6fe49c696defab59c16317f63da2a1b8ad1a32bb6d409cb0c159f3a060de2679.jpg",
             "https://img-eshop.cdn.nintendo.net/i/bd722931617bf28e9df4198282e2b864b396b91080121142a180de1ba7c181bf.jpg"
         ],
@@ -4728,6 +4729,7 @@
             "en",
             "pt",
             "fr",
+            "de",
             "ru",
             "ko",
             "zh",
@@ -6000,7 +6002,7 @@
             "nl",
             "ru"
         ],
-        "size": 15759048704
+        "size": 16086204416
     },
     "70010000021939": {
         "id": "0100B1500EF32000",
@@ -17473,6 +17475,50 @@
         ],
         "size": 267386880
     },
+    "70010000030072": {
+        "id": "0100448011BC4000",
+        "rightsId": null,
+        "name": "Let's Cook Together",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201126,
+        "nsuId": 70010000030072,
+        "category": [
+            "Comunicazione",
+            "Multiplayer",
+            "Party",
+            "Strategia"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Yellow Dot",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dd1c8572bdfad332ba91501951c3ec815c4d6136f7fde052815a2979e0152804.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3dbcdf48b9136890a2e814a363f4e7dc60db38488fcdb658586fc00061e16880.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ebb94d1424d00976337e840695cd5e8851e5a8bc417351891986723f8c323621.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e18b36e3047b3579517dc93885d76f44711838e2cb10d3d748f45b64a91c61b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/870bb73ec7cd494378b10488c39049afc123388ad6776f8527dabe203ffd7654.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed60dabb490c3f7fc6431a33755717af7e4b04e723095ab96dbdd74f0c1be34c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3030641d5722df17cec059c9060a161441cc64ab41469019d02f4d15b33a2e1f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/86867e14c57cbb28580b3dc134d3739b95edf158a0ecd3fded7e02195f1d0d69.jpg",
+        "intro": "2 cuochi, 1 scopo - collaborare \u00e8 la cosa pi\u00f9 importante!",
+        "description": "Alcuni giochi, proprio come il cibo, sono pi\u00f9 gustosi in buona compagnia. Quindi prendi un te stesso, aggiungi un partner, mescola bene con il cibo volante e condisci con un pizzico di sfida... Pronto! Ecco Let's Cook Together \u2013 una cooperativa da divano per due giocatori che salda i rapporti!\n\nLANCIA, PRENDI, PARLA!\nTu e il tuo partner \u2013 chef alle prime armi \u2013 finite in una cucina commerciale ben poco pratica. Siete separati l'uno dall'altro da un lungo ripiano, e i prodotti e gli strumenti di cui avete bisogno si trovano sui lati opposti della stanza. Il vostro compito \u00e8 collaborare \u2013 cucinare insieme ed eseguire gli ordini di deliziosi piatti fumanti. Trita, mescola e friggi tutto ci\u00f2 che puoi mentre lanci al (o sul) tuo partner gli ingredienti che gli servono. Dimostra che cucinare \u00e8 un gioco da ragazzi se lo fate insieme!\n\nCARATTERISTICHE\n\u2022 Pu\u00f2 provare chiunque. Il gioco \u00e8 destinato a bambini, ragazzi, adulti e anziani. Rendi la cucina un'occasione per creare nuove relazioni e migliorare quelle esistenti.\n\u2022 Usa la zucca. Per realizzare gli ordini nel modo pi\u00f9 efficiente possibile, usa le tue capacit\u00e0 di programmazione e comunicazione. Riflessione e agilit\u00e0 qui saranno la ciliegina sulla torta.\n\u2022  Nuove fresche sfide ogni giorno. Ogni livello presenta nuovi ingredienti, apparecchi e ricette che aumentano gradualmente il livello di difficolt\u00e0.\n\u2022 Diversi tipi di alimenti richiedono diversi approcci. Conquista le stelle per progredire nel gioco. Sblocca nuovi ristoranti, migliora la tua attrezzatura da cucina per soddisfare standard di cucina in continua evoluzione e ottieni l'accesso a nuove skin dei personaggi.\n\u2022  Non fare indigestione di divertimento. Ogni volta che sei sazio di collaborazione, prova modalit\u00e0 di gioco alternative tra cui \"Battaglia\" e \"Senza fine\".",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it"
+        ],
+        "size": 243269632
+    },
     "70010000030074": {
         "id": "010083E011BC8000",
         "rightsId": null,
@@ -20106,6 +20152,52 @@
             "zh"
         ],
         "size": 405798912
+    },
+    "70010000031012": {
+        "id": "0100B0601205E000",
+        "rightsId": null,
+        "name": "Door Kickers",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201226,
+        "nsuId": 70010000031012,
+        "category": [
+            "Strategia",
+            "Azione",
+            "Sparatutto",
+            "Simulazione"
+        ],
+        "ratingContent": [
+            "Violenza contenuta"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "QubicGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dca5c300eb4bb3ca9413d6e01e07b75869e1b4620e48c72387b6d5604cef808b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/848b942b3a7fb07f73f439625f38a3d08f4d42791f61b07b0219734c9e695d63.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a438f307b9d47df41e71b3930aa70f68008a2ca378606ef49653a07fd59e898.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/85a049146337bd49b51deb68183d4aceae700d57df045597a92fb610b9225260.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9faf6b4a296dd5abebda66eab47c545c8e1510bc35aaa471ae176532acb0a622.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f22210a3ce0bb5520ce42b7c0a9c1d88a8e197676858426b014a008fb4e9c593.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e9239e8bb29e25138273c18194d0754254110a38a9bfeb43c6b03db1c454da2d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a315b7132c6f03c250dac84298684bffd6eb03a09316ae16b85eaba0fa3e1a45.jpg",
+        "intro": "Door Kickers is an innovative real-time strategy game that puts you in charge of a SWAT team and lets you command them during a tactical intervention. ",
+        "description": "\u201cI don\u2019t have to draw a line in the sand. I already have one. It\u2019s thin. It\u2019s blue. It\u2019s mine and if you cross it, I will protect it.\u201d Anonymous Author\n\nBecome the commander of an elite anti-terrorist squad and lead them on the most dangerous missions. Remember you are the good guy, but sometimes it's better to pull the trigger and go home on your own than to be carried. Yours and your men\u2019ssquad life are the most important.\n\nAnalyze the situation, plan team routes, choose equipment, breach points and coordinate multiple troopers to reach the hostage room before the bad guys get to press that trigger.\n\nIt may sound daunting and like real world CQB combat. But most levels can be completed in minutes and on the fly - improvisation works. Achieving the perfect planning, getting the mission done with no false steps, that\u2019s a skill hard to master.\n\nFEATURES:\n- 2D, Top Down for optimal tactical analysis\n- Real-time with combat pause\n- No turns, no hexes, no action points or awkward interfaces\n- Realistic but action-packed\n- Non-linear levels\n- Unlimited gameplay via mission generator\n- Freeform tactics -  improvise, adapt, overcome\n- Prepare your squad, chose equipment and weapon\n- 5 trooper classes \n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 1134559232
     },
     "70010000031022": {
         "id": "0100A59012070000",
@@ -22905,6 +22997,7 @@
         "intro": null,
         "description": "Morbid: The Seven Acolytes \u00e8 un RPG d'azione dallo stile horror punk ricco di orrori lovecraftiani e sangue cronenbergiano; la pi\u00f9 macabra interpretazione del genere souls-like mai vista finora!\n\nImpersonerai l'ultima combattente di Dibrom. Il tuo compito, per il quale ti prepari da tutta la vita, sar\u00e0 sconfiggere i Sette Accoliti, esseri potenti e maledetti, posseduti da divinit\u00e0 maligne chiamate Gahar. \n\nNel mondo di Morbid troverai nemici impegnativi, mini boss e battaglie boss memorabili su larga scala con musiche completamente orchestrate. Per superare questi ostacoli, dovrai padroneggiare le tecniche di combattimento e migliorare il tuo personaggio e il suo equipaggiamento attraverso una serie di elementi come missioni, benefici, rune, potenziamenti e saccheggi.\n\nI Gahar hanno legato le loro menti deviate alla carne dei Setti Accoliti, poich\u00e9 non possono sopravvivere senza qualcuno che li ospiti. Dovrai uccidere gli Accoliti per privare i Gahar dei loro corpi. Se ci riuscirai, libererai il regno dalla loro morsa del terrore. In caso contrario, la follia prevarr\u00e0 sotto il regno delle divinit\u00e0 maligne e degli Accoliti.\n\n\nCaratteristiche\n- Affronta boss epici e brutali ed esplora vari tipi di ambientazioni \n- Sistema di benefici con diversi modi per migliorare il proprio personaggio\n- Folklore profondo e immersivo e tanti PNG disseminati per il mondo\n- Gestione dei valori di salute, resistenza e sanit\u00e0 mentale durante l'avventura",
         "languages": [
+            "ja",
             "en",
             "es",
             "fr",
@@ -33178,6 +33271,51 @@
         ],
         "size": 874512384
     },
+    "70010000033887": {
+        "id": "0100D6B012DE8000",
+        "rightsId": null,
+        "name": "Candy 2048 Challenge",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201225,
+        "nsuId": 70010000033887,
+        "category": [
+            "Puzzle",
+            "Multiplayer",
+            "Strategia"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Mindscape",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6033e5ad3d8e96a251c2a1163e8d21bed94f5788b05b30ed013aaaeea14cc15a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d68e585c701f4c0c7ba982c94ec9805bcca0702590873c1f7dddd15ecd3039b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/111b9ddd64b094c2b430bf0a7ce4f5b8bfbed6fb85f446e18f5326ace6e2a77e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd74a8ea50f479af6b68c20b213fc774de816cc0bfdb147c8bed44a55278bc17.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2f9afac3b5b0fe144c267fa2d6de0bbb82c6be69c8336d56997d9f58d94ea4c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9197722534c2ca1e95a851d0ee7573fdc14d3f70cfa2e3d577e6d77fb4895745.jpg",
+        "intro": "Affronta la sfida 2048 in solitario o sfida gli amici nella modalit\u00e0 multigiocatore 1 vs 1!",
+        "description": "Candy 2048 Challenge rispolvera il grande classico 2048 con una nuova modalit\u00e0 multigiocatore. Mantiene lo stesso divertimento ad alta tensione del 2048 originale, ma ti permette di sfidare gli amici per stabilire chi \u00e8 il migliore!\n\nMetti alla prova la tua intelligenza con questo rompicapo senza fine:\n\u2022 il celeberrimo gioco 2048\n\u2022 Modalit\u00e0 multigiocatore a schermo condiviso 1 vs 1\n\u2022 Musica divertente e che ti entrer\u00e0 in testa!\n\u2022 Classifica locale",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 60817408
+    },
     "70010000033894": {
         "id": "0100272012DEC000",
         "rightsId": null,
@@ -33397,6 +33535,53 @@
             "zh"
         ],
         "size": 706740224
+    },
+    "70010000033911": {
+        "id": "0100699012DF6000",
+        "rightsId": null,
+        "name": "Match Three: Pirates! Heir to Davy Jones",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201225,
+        "nsuId": 70010000033911,
+        "category": [
+            "Puzzle",
+            "Avventura",
+            "Strategia"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Mindscape",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/722e150b69a7412f00c4dd7c7899f94db31dddc0ac266ad49231aa31e7d9b06f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/57a5b88ed0010c2f3d3f3aca04a3a9301d05f1eee15cbc8b53e2186168ba55aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97e7b276b72e2ef2397ab3e048ef1e154015e3eaa7ccc206a02340265e2f52a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dc91a091b3d8559493d5a9e6b4e52df9939349ce33e824ffbb7d04b1797853b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/29a6c72d7fdbf3d0e9146f5f391cea7477567c4c0f2188067d394f2f53100ed0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4f9082aad4240d130f355f451cd9cd45583653e9de89444c2622397e895cf10a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09a01a0e4387c905884e348d5479058a6e33cf568b04858e63cc953908929ed4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/033096ff082826d2484d6506612552fc91eac3e0f7d3fead7ab7283dff8581b9.jpg",
+        "intro": "Sfuggi alla maledizione dello Scrigno di Davy Jones in questo meraviglioso gioco di match-3 disegnato a mano!",
+        "description": "Davy Jones ha creato un mondo di avventure piratesche a non finire, dove nessuno invecchia e ignari malcapitati vengono convinti con l'inganno a entrare nel suo famigerato Scrigno. Affronta i tanti livelli di questa avventura di match-3, annulla la maledizione di Davy Jones e salva i tuoi amici.\n\nQuali tesori ti aspettano in Match Three Pirates?\n\u2022 Spiega le vele e vivi emozionanti storie piratesche\n\u2022 Completa 100 livelli impegnativi\n\u2022 Personalizza la tua nave\n\u2022 Sfrutta i vantaggi dei numerosi potenziamenti\n\u2022 Grafiche disegnate con grande cura\n\u2022 Canti pirateschi coinvolgenti e suoni dell'oceano reali",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 379584512
     },
     "70010000033923": {
         "id": "01007AA012E02000",
@@ -33861,6 +34046,51 @@
             "zh"
         ],
         "size": 2040528896
+    },
+    "70010000034098": {
+        "id": "01002B700F88A000",
+        "rightsId": null,
+        "name": "Traffix",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201221,
+        "nsuId": 70010000034098,
+        "category": [
+            "Puzzle",
+            "Strategia"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Nerd Monkeys",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9b4f4373a9dd473935d4a796a8520dc13e40bd841fba295afd50e0385b2665d3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/be32828ac2eddf3334697f8825317fd4e669c079495974ccea1f435147b674ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/84a28ea562288c04503c9323dd7938b93b5634f200c123803bab3b1db4e70510.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ff3979d754ccf96dd1d7f65d5f3de52ed30018c69f2426f902dc21c3f0892e81.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ebe3939898e0c6206abbf90a219afeaeab09ba78f8b400210e19e448bab57a9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fb850d4f26e18c4217fa11b347a94a0a5952726a4884648a392aaf6c9f7593e0.jpg",
+        "intro": "Traffix is the original traffic puzzle game.\nWith simple rules and minimalist design, you'll help drivers drive through chaotic rush hours all over the world.",
+        "description": "Control the traffic lights and help guide the drivers through various city highways like Paris, Tokyo, Istanbul or Las Vegas.\nStart fighting chaos all over the world!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 386924544
     },
     "70010000034100": {
         "id": "0100708012ECC000",
@@ -34936,6 +35166,53 @@
             "en"
         ],
         "size": 1567621120
+    },
+    "70010000034375": {
+        "id": "01005E201301A000",
+        "rightsId": null,
+        "name": "Warplanes: WW1 Sky Aces",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201211,
+        "nsuId": 70010000034375,
+        "category": [
+            "Azione",
+            "Sparatutto",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Violenza implicita"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "7Levels",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ab01ff0a5361d61ce2d8c4f7a5d156dabb1107903fab640b732280e5d3efdf5c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/af5d5b218a26797d2bde28fe9811e5866a1165c2ddb22e85ac198876ac419846.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f51ce9f0b5882c495f7d90b53722335f4997873e9a48c8d577eff4d912f4a36b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ad465aee64f43f6b3812f80f3be426215c060e8ad997f1ae91695ae039e5583.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f72cb8d080b58cea45797205d3496d5d7d0aaadada118a751da43d01ccc2259.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8c4f09cb608817393c1796fd6b51e720a40e4238344c7daad08b2dc8823853b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e276e89740419001740bb7b4a3da4b4e1bc8786e65782919a7d5bf823313eebb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5fe188d398b4844111857936c2e828f0317f396a90cd542b9a4db22b5d216bdf.jpg",
+        "intro": "Become a legend of air combat at the dawn of its existence, spreading fear in the airplane battle arenas of World War I",
+        "description": "Take on the role of one of the brave pioneers testing the Wright brothers\u2019 invention in action. Examine both your flying skills and your machine\u2019s capabilities in extreme war conditions, where constructors and pilots alike were learning their plane\u2019s limits.\n\nFeel like the famous pilot Manfred von Richthofen, a.k.a. the \u201cRed Baron,\u201d when flying his Fokker Dr.I \u2013 or 30 other historical planes at your disposal! From light fighters like the Airco DH.2 to enormous 4-engine bombers like the Sikorsky Ilya Muromets. Customize and upgrade each machine to make it your own \u2013 and recognizable by your enemies from afar.\n\nChoose the flight style that matches your skillset best. In Pilot Mode, you can focus on air combat or collecting and upgrading planes. Squadron Leader Mode allows you to manage resources, hire and train pilots, and expand your base on top of crushing your opponents\u2019 planes in spectacular air battles.\n\nPick up your side and join either the Triple Entente fighting in two campaigns available or shed blood in the name of the Central Powers in a single campaign. Complete them all, and you\u2019ll get to experience all the major fronts of World War I.\n\nPilot fighters and bombers, fly over most of the countries that participated in the conflict, protect or destroy ground targets, and face mighty zeppelins and anti-aircraft artillery. Make sure your name is widely known among your enemies and change the tides of war!\n\nBECOME A SKY ACE\n\n\u2022 Experience the aerial warfare of World War I with intuitive controls and user-friendly flight mechanics.\n\n\u2022 Choose between fun-to-play Pilot Mode or the more advanced Squadron Leader Mode.\n\n\u2022 Collect over 30 planes from the times of World War I.\n\n\u2022 Join the Triple Entente or shed blood for the Central Powers in three campaigns set across all parts of the world.\n\n\u2022 Pilot fighters and bombers, customizing and upgrading each machine to make it your own.\n\n\u2022 Protect or destroy ground targets, and try to shoot down mighty zeppelins, all while avoiding the anti-aircraft artillery at the same time.\n\n\u2022 Stay alive, become a legend, and change the tides of war!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "zh"
+        ],
+        "size": 180355072
     },
     "70010000034427": {
         "id": "01006AA013086000",
@@ -36370,6 +36647,50 @@
         ],
         "size": 225443840
     },
+    "70010000034778": {
+        "id": "0100D9601322C000",
+        "rightsId": null,
+        "name": "Arcade Archives Green Beret",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201126,
+        "nsuId": 70010000034778,
+        "category": [
+            "Azione",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 7,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/899b4ec1cdadc8555f5c14b7e2c30f6b9b54f193fd34d85547d94fdd417f4393.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6f95401aa60a49e55008ae4f89fc86f4faa00b9c61de8cd705b4c2728c8a7da5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94bd10df603fd7f4f8bd8ad833f799590cea10f4cc8909f8cacda490be4a8aab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/efe4458cd25f8e345acda31fbb194b8544ae56c70b5461b05b24b232d5278958.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f641cc48ced94c96cabfadb18cbb432b5c59f9ea30f5ac56677a1e13f7c459ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b1e579ad2dfe9c0f2b33d1073067276e24cfef03e46e19159c44c3b7d1e99b8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5a205589bf79b2571c8d7096efe9d71837414caeea58a5b81024918294aed05.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9df51a7d444efdb1d4e20dd2ef0517302e7889363205b159eb666ac69a8e816a.jpg",
+        "intro": "Surviving the flames of hell, only one soldier remains.",
+        "description": "\"Green Beret\" is an action game released by KONAMI in 1985. \nInfiltrate an enemy base and get past four obstacles to rescue your comrades!\nTake out foes with a knife, or with weapons dropped from enemies.\nJump and duck to avoid attacks and make it to the goal.\nThe honor of the Green Berets depends on you!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 42991616
+    },
     "70010000034781": {
         "id": "0100B53013236000",
         "rightsId": null,
@@ -37254,6 +37575,236 @@
             "zh"
         ],
         "size": 1485832192
+    },
+    "70010000034960": {
+        "id": "0100293012D40000",
+        "rightsId": null,
+        "name": "BIT.TRIP FLUX",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201225,
+        "nsuId": 70010000034960,
+        "category": [
+            "Arcade",
+            "Musica",
+            "Azione",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "QubicGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cce60d1b0b2601a240aa3d39f3e55e1e8330a94ff56a03858b0d7031ae2be7b9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/512f45d7f0f1a2f148283d49f97bbb50cfd719051b27832b6c79189b2d67aa09.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d52545c734fe792315f3361385973d9eedaae5f15d7b9c2c2f519a51c40ec09.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8aa605c980feeb4ef63783e40c81d2ac41ac7d6974ac190fc24993d6a7f69f67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/017274e5f541de0419b46bb24757b11f7e98a71c1f3b6caa704718790765d448.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49bb5d3df7243930ad16749ceb3a987b1a7d3cec0c31bd66b16c79dad13ef03d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ab65924844ea540c1b7453e16cb9a68f0676d5d36122c8661c463883365d319e.jpg",
+        "intro": "The BIT.TRIP series comes full circle with BIT.TRIP FLUX, the final chapter of CommanderVideo\u2019s soul-searching journey.",
+        "description": "Get ready for classic paddle-based gameplay as CommanderVideo returns to the source. Enjoy new challenges presented within the familiar paddle-based gameplay which started the phenomenon known as BIT.TRIP.\n- New power-ups including the full-screen paddle!\n- New beat types including Avoid Blobs!\n- Easy, medium, and hard difficulty modes\n- 20 bite-sized challenges separate from the main game\n- Classic BIT.TRIP BEAT gameplay upgraded with the all-new Meta Mode!\n- Bit Shifter returns as the chiptune guest star!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 191889408
+    },
+    "70010000034963": {
+        "id": "0100744012D3E000",
+        "rightsId": null,
+        "name": "BIT.TRIP FATE",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201225,
+        "nsuId": 70010000034963,
+        "category": [
+            "Arcade",
+            "Musica",
+            "Azione",
+            "Sparatutto"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "QubicGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7fd7c59876d88635a811ff02a991572ee7d819cbacd1b1df9ec85e92379506c1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/56cc8cd6336a91599bb5ebdd6cabcab08601e5d04a58c059b00a2a311714d2ad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8127e73e4da68980b241353137766fadca671ba1134cc855e02f86c0d86ea61.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/299406ab50e69b3827b9c5afebf43c556eab7f562d46361ba47139c7d0046953.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62bc94a28dd4dc84811c6102fb97e6b095f379bee3baba16522a1a9a1deb639b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ea7abf6cec16a1c9e7c5ba919dfa37255fdf5ca791c4ace14a90757657be7a65.jpg",
+        "intro": "BIT.TRIP FATE is the penultimate chapter in the six-part BIT.TRIP series.\n",
+        "description": "CommanderVideo\u2019s journey is nearly complete, but the hardest part has yet to come. Guide our brave hero through a world of twin-stick shooter gameplay, strange and powerful enemies, and environments unlike any you\u2019ve ever seen before.\n- Twin-stick shooter gameplay!\n- Collect power-ups to call on CommanderVideo\u2019s friends for powerful shot upgrades!\n- Easy, medium, and hard difficulty modes\n- 20 bite-sized challenges separate from the main game\n- Chiptune artist Minusbaby helps set the tone with a special guest appearance!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 206569472
+    },
+    "70010000034968": {
+        "id": "01000AD012D3A000",
+        "rightsId": null,
+        "name": "BIT.TRIP VOID",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201225,
+        "nsuId": 70010000034968,
+        "category": [
+            "Arcade",
+            "Musica",
+            "Azione",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "QubicGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/13e919bab55eeed87b2e2198a77f69208f63236289fa5492e72f6b2cc2dd8231.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bf6aa0c7e57de7f0f9e180301be70bfb90bc07c5ea0683b71489456202c9e8d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4f5b6ce0f0a06ece6531c124e7fb246420063cf3b64ada5e22860f87c0250154.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b858ee695ea33ecd0feef3ea58660fbbd3090fdc6ea1b529356ff6ce5d18c10e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5032680751fa33dbeaaf3ac4b30ddf7828457b81792998f42d6e1505ced6c646.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18d571e8de4393b62e9de271730153ca0b7a5520d47320b278ef8dc2ffd574a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30962aa5c99dfe9204a95e97523a19c8b1b057ecf0ccd770ad0590a07d45e9f5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fd48286c27c2a31f0ddb50d6d1d5cd1e11c05b613f274e1346ee4c56e9221355.jpg",
+        "intro": "The third phase of CommanderVideo\u2019s soul quest begins in BIT.TRIP VOID.\n",
+        "description": "BIT.TRIP VOID is a synesthetic exploration of rhythm and music as they pertain to our everyday lives and moods. In a control scheme brand new to the series, yet wholly familiar to gamers, the player is given complete freedom to move about the screen wherever they desire, interacting with the music in brand new ways. The classic gameplay aesthetic remains, as color\u2014and the absence of color\u2014are explored to the fullest.\n- Epic boss battles!\n- A rockin\u2019 chiptune-inspired soundtrack with special guest Nullsleep!\n- Easy, medium, and hard difficulty modes\n- 20 bite-sized challenges separate from the main game\n- Synesthetic music/art/gameplay interaction!\n- Hyper-realistic retro cutscenes!",
+        "languages": [
+            "en"
+        ],
+        "size": 180355072
+    },
+    "70010000034969": {
+        "id": "0100E62012D3C000",
+        "rightsId": null,
+        "name": "BIT.TIP RUNNER",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201225,
+        "nsuId": 70010000034969,
+        "category": [
+            "Arcade",
+            "Musica",
+            "Azione",
+            "Piattaforme"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "QubicGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e314dcb736732179c693bfe6fc60bd1a8b076464373008d0d3946dae4cc19dd4.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e2a94c1766dc45dcfaaae74bd9cb863d94ebf991c614ef3fab3449aad5aeb858.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/358eb7f19c53dd0421b3fd53c277d73b1601429ca622ffb78e24cf5653a75040.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6cf38af2201223ae80c269f2a4fb2cace7e7a5ed2d406f9adc102163f10e997a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f45c14fa5ed6bd60516bdce2ec17d926c6044fe3416e0da8269f4dd54827d04.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9591706c970a1822b3f1299fccbe887dcdacd37faf28a30b24c65d1c01c4dd30.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa8bcb3442a71c56255eed3307036b49f617c8ebccb5331044a2a997c82a0600.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/787cec2f766215ff3601ce75fb8837ddad3a9601472450ffcfb4c8438cf051e9.jpg",
+        "intro": "CommanderVideo sprints into the fourth phase of his metaphysical journey in BIT.TRIP RUNNER.",
+        "description": "Race across the Moon, kicking down crystal walls and sliding under chomping moon-slugs! Bound through the Robotic Mines and face off against the MinerMech! Dash through the Big City on a quest to find friends and defeat the final boss together!\n- Control CommanderVideo as he runs, jumps, kicks, and slides his way to victory!\n- With exciting modern and retro challenges, you can dash your way through more than 50 levels!\n- Easy, medium, and hard difficulty modes\n- 20 bite-sized challenges separate from the main game\n- A boppin\u2019 chiptune-inspired soundtrack with special guest Anamanaguchi!\nJoin CommanderVideo in BIT.TRIP RUNNER, his most incredible journey yet!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 235929600
+    },
+    "70010000034974": {
+        "id": "0100016012D38000",
+        "rightsId": null,
+        "name": "BIT.TRIP CORE",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201225,
+        "nsuId": 70010000034974,
+        "category": [
+            "Arcade",
+            "Musica",
+            "Azione",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "QubicGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e8fcb41bd23ad3884c258643a040c1a22c309356433bce433023580928a3f7a3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a4c23552bc773c8c66b1caae6848effbb52aaf11bba295c215b4458ff7ba4735.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6719160b4a47880977e0d0279e7c60cf228e38cea2dd33702b80e6bc664f012b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e9b811ef5ada280c9448a199006046043464e832010cb8c9939f15fae23c8899.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/767de85249a39d9b7ddfd294cbda6c690d3be7828a4eb5eabc843340988c9b7f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2780adf36506ac2f8485777e47a5baa232e1861a83a6cc78fc044c4443f32632.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c898a724c2d06e3c1ef84fbb1336c3b6cfdb0d68a72e02cf4b891874d5af6eb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8063890efd94d3398f3547ac7e0924c2ba4a3ab799ecf3d7887ab9789d6c83b8.jpg",
+        "intro": "BIT.TRIP CORE marks the second phase of CommanderVideo\u2019s strange and transcendental journey.",
+        "description": "Dive controller-first into unfamiliar territory, blast your way through a barrage of beats in this rhythm-music adventure.\n- Retro-inspired controls!\n- Beautiful boss battles!\n- A thumpin\u2019 chiptune-inspired soundtrack with special guest Bubblyfish!\n- Easy, medium, and hard difficulty modes\n- 20 bite-sized challenges separate from the main game\n- Mind-melting challenges!\n- Thought-provoking cutscenes!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 182452224
+    },
+    "70010000034977": {
+        "id": "010038B012D32000",
+        "rightsId": null,
+        "name": "BIT.TRIP BEAT",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201225,
+        "nsuId": 70010000034977,
+        "category": [
+            "Arcade",
+            "Musica",
+            "Azione",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "QubicGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f4847a00350089f72856638f919c637cc65f3ce4719974c86029b876fdde8d9d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2736718362d196525be9d06713207b8b424eec327501b53ac24d768b8c19677f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec071b55039d809cc6e3d2f925d7ec3652bb4e288879d81f01e0e6bf7dacc5d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bcd5e93dd77878bb1720b9fffa2ef10146f2c598099e9be45e65fef5af5c3f4b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c1a7938bb65fc1362c9d26446df335680a841435bbe11c10b1154df724076f6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4898f3bf55191e20236df349acd03696ce3b4a33c170ee8bc6e669915ca2aedc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eb5536dfdae2313faefeac441cbe82727959009f63500a088d41d4637581fe6c.jpg",
+        "intro": "CommanderVideo\u2019s journey begins in BIT.TRIP BEAT, the first entry in the critically acclaimed and award-winning BIT.TRIP series.",
+        "description": "From gameplay to visuals to music and imagination, BIT.TRIP BEAT is inspired by classic games in every way. Get sucked into a whole new world of sights and sounds as you juggle beats and ride the vibe in this modern look at the beginning of it all.\nOriginally released for the Nintendo Wii\u2122 in 2009, BIT.TRIP BEAT makes its triumphant return to Nintendo platforms.\n- A modern reimagining of classic gameplay!\n- Brain-melting visuals!\n- Crazy boss battles!\n- Intriguing cutscenes!\n- Easy, medium, and hard difficulty modes\n- 20 bite-sized challenges separate from the main game\n- A rockin\u2019 chiptune-inspired soundtrack featuring special guest Bit Shifter!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 255852544
     },
     "70010000034987": {
         "id": "0100B8B013310000",
@@ -38692,6 +39243,45 @@
         ],
         "size": 872415232
     },
+    "70010000035441": {
+        "id": "01001EC013576000",
+        "rightsId": null,
+        "name": "Autumn's Journey",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201211,
+        "nsuId": 70010000035441,
+        "category": [
+            "Avventura",
+            "Gioco di ruolo (RPG)",
+            "Simulazione"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/734ce086fe025bb57f65f9ec61cb2cec422486bbd4c0fa8f82044bbc9214b5a8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d330db03ffb7c59e5d633908e6c8e100e47b1cad0f321cc35832f9bf13cd4acd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a964751b330a7a0f84e90dac0255a4e19980aa3fa64c3f41a5bafc32ddc607c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b257e1b2dda1964562704a892cc2e1d85c46c08b2d16124b892d72792b0d55c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b58e09d1113925e99aa569d123fba4c8fd9458d42740528220778c9d07a9a7f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/672f1c735401f149b8ae2b1db18a1e920c94ac4fae144f93545698b2ec6d80e9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20c320ce829cedd268d5b835c02a5b96ab9cab370d77880413c29d9b2880d824.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d7ebb8424da5600e77e366ebb07da7ac9cbf4722bb75cb47951b42e0394462f3.jpg",
+        "intro": "Lanciati in un\u2019avvincente avventura fantasy!",
+        "description": "Il mondo di Ishtera \u00e8 popolato da due razze: i draconici, che hanno vissuto l\u00ec da eoni, e i celestiali, che sono apparsi recentemente.\n\nAuralee, aspirante cavaliere dalla citt\u00e0 agricola di Berri, si imbatte in qualcosa di inaspettato durante una pattuglia. Dopo un\u2019introduzione alquanto inelegante, Kerr afferma di essere in realt\u00e0 un Drago Terrestre. Che le piaccia o no, Auralee \u00e8 ora coinvolta nella sua missione di riconquistare la sua forma di drago. Ed ora, con l\u2019aiuto di un compagno draconico chiamato Ilmari, il loro viaggio ha inizio\u2026\n\nCaratteristiche\n* 41 000 parole\n* Doppiaggio parziale\n* 3 finali\n* Un sacco di cose carine!",
+        "languages": [
+            "en",
+            "es"
+        ],
+        "size": 165675008
+    },
     "70010000035446": {
         "id": "010053601357E000",
         "rightsId": null,
@@ -39347,6 +39937,98 @@
         ],
         "size": 55574528
     },
+    "70010000035818": {
+        "id": "01004A0013790000",
+        "rightsId": null,
+        "name": "DungeonTop",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201226,
+        "nsuId": 70010000035818,
+        "category": [
+            "Strategia",
+            "Gioco di ruolo (RPG)",
+            "Avventura",
+            "Da tavolo"
+        ],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "QubicGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dcd48f4d1ff3a6c29d2f82dee2a503a5c05f8f4b80acd0ae6ef599e10d81e5b3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/78fb2e589ad3c48b0a7c7e05e4776c33c6ae6055f0c4bd2beffa80dd420e5d0b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/966f42df006934ac28fed7f39860a40fc69a06bcba11e2e6d44cc17e7febe51c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eba73606ae7a8e3da47957452c8cea9446ad355d3a9b6c9bf9b005bc5ff9129f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/88f9b0b1363955144dea4fac49130c4e71fc155bbf1cbc066574e08caebbc9d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7b480af7d2fc8b047a4604568adbd3b55ad28021fab125838138aac36477e7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2d883f8113b09d716c31ef985215ca50b7796527a40abcaf408b89046ef18392.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/43b7db0e618b9a857d8360a0499ab676da8d40180fe15762f9251da0009966bc.jpg",
+        "intro": "A rogue-like deck-building game with table top battles! Choose a hero and allegiance then dive into the dungeon and build your deck as you battle!",
+        "description": "DungeonTop is a fresh new take on the roguelike deckbuilding genre, bringing a flavour of tight table top battles into the mix. Employ clever board tactics to gain advantage such as range, flanking, tanking and rushing.\n\nA balance of risk to reward greets you both in an out of battle. Progression in DungeonTop could mean two things, grabbing more gold, or defeating more monsters! Play it your way. Will you build for cunning, speed, or power? Your choices in the dungeon directly influence your chance of survival!\n\nThere are shops to upgrade your cards along with ways to remove them and plenty of loot to add. Adventuring in the dungeon allows you to level your hero, find powerful weapons to equip, artifacts to use and talents to master. Build your unique fantasy hero by making careful choices on what to learn, what to discard and who to fight.\n\nThe choice of hero class will affect your play style and spells, whilst the allegiance you choose affects what minions you'll have to fight with. There are scores of achievements, treasures to find, gold to gather and more than 800 powerful cards to unlock.\n\nDungeonTop will have you exploring a plethora of deck-building options for hours on end, continually finding new inventive ways to succeed on and off the board!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 596639744
+    },
+    "70010000035820": {
+        "id": "0100E49013190000",
+        "rightsId": null,
+        "name": "Unto The End",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70010000035820,
+        "category": [
+            "Avventura",
+            "Azione",
+            "Piattaforme"
+        ],
+        "ratingContent": [
+            "Violenza intensa"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Big Sugar",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8991f5c142f5593a60747348ab5235007e86c4685b4f6a045d84bc20684694ff.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d7e4de1162b566d52fcf1b66a795c06726ee8a448c7aa31b50f810f4d256c882.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f4bcc8fb112a60b12c09b0e85788799ade7b258e5d5c0a27f3198cd8b97f8d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e4a66a6cb9e0961d94b7fe099803d1f710918350551e91ee55774ecfd701a1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e03cd4a6225716f53dd554ff31913f709cf69dec40a9dccdde8d3c790cdf688.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0a8ddc1f3ca5b859384a616bbfcb7952615497c3139be2db122022bc91d53043.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f6006aafa8006db3f0edebd3741fe75379051522c54fe8407a854218dfcf677c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d5a95748eda89bf50fe6adabd4d1ac45a5ca5fb5243bd63dcfc30db042483f20.jpg",
+        "intro": "Da solo, in difficolt\u00e0 e in inferiorit\u00e0 numerica. Una lotta disperata per tornare a casa.",
+        "description": "Unto The End \u00e8 un'avventura di combattimento impegnativa. Solo e sconfitto, un umile padre deve affrontare un viaggio disperato per tornare dalla sua famiglia. Armato di spada, pugnale e ingegno, deve superare in forza e astuzia le creature che incontra avventurandosi in terre sconosciute, dove ogni passo lo fa avvicinare sempre di pi\u00f9 a casa, ma \u00e8 anche pieno di pericoli incalcolabili.\n\nCARATTERISTICHE: \n\nCombattimento basato su osservazione e reazione: un sistema di combattimento unico nel suo genere, incentrato su abilit\u00e0 e padronanza, progettato e realizzato appositamente per il 2D. Combatti in modo intelligente e attacca tatticamente con spada e armi da tiro in feroci battaglie di gruppo e uno contro uno.\n\nIncontri con sfumature dettagliate: l'avventura si svolge attraverso incontri accuratamente realizzati, ognuno con avversari intelligenti e competenti, ciascuno con le proprie motivazioni e un posto nel mondo.\n\nAbilit\u00e0 giocatore: un'esperienza impegnativa per giocatore singolo con aiuti minimi. Tutte le abilit\u00e0 del padre sono disponibili fin dall'inizio e la padronanza di quelle abilit\u00e0, cos\u00ec come l'osservazione acuta dell'ambiente circostante, \u00e8 fondamentale per la sopravvivenza ed il successo.\n\n\nTerritorio inesorabile: dalle cavernose rovine sotterranee alle aspre vette montuose, supera le sfide ambientali e le trappole mortali mentre viaggi attraverso un mondo di paesaggi realizzati meticolosamente.\n",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "pt",
+            "es",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2251292672
+    },
     "70010000035841": {
         "id": "0100F830137AC000",
         "rightsId": null,
@@ -39827,7 +40509,7 @@
         "developer": null,
         "publisher": "Drageus Games",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8de66cee95c23204f358bee6793e7b304ab427fc53adcb72d81b27f4ea3460cb.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4da9dd63ebf076454e10cd66bd9ca9d3cbd3ddb8c3b00693c09a77dcb4cfd86f.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/9b86edbb975d0a0c37d77d16588d0ddaeb692001b89d4f4dcc2515e810867428.jpg",
             "https://img-eshop.cdn.nintendo.net/i/0ee02797077a400eefa12ffdb80c5ec5050e5a50a8ec0ecf21ef83aa21dd8f79.jpg",
@@ -39844,7 +40526,7 @@
             "es",
             "fr"
         ],
-        "size": 158334976
+        "size": 232783872
     },
     "70010000036172": {
         "id": "0100EBA01399E000",
@@ -39922,6 +40604,45 @@
             "zh"
         ],
         "size": 204472320
+    },
+    "70010000036236": {
+        "id": "0100247013722000",
+        "rightsId": null,
+        "name": "Pixel Game Maker Series STEOS -Sorrow song of Bounty hunter-",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201127,
+        "nsuId": 70010000036236,
+        "category": [
+            "Sparatutto",
+            "Azione",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Gotcha Gotcha Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c216753ec631356830d45fdd19c18587cea01ef02d25c7d790d27fc428edd277.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6b490998ca67f4571af83c6343fc9dda4548106369cde7ea6f8e478ce6ec25b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d392ac92f7db0e8527f5f802589fd5a1bb3dfac3743307d757f526ccbca02190.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9aeed29ef561b0a80fe4e47f076b7b25dea1c06524b6a9cc9b0044b1b42c75d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24c5857d2611c73cf6158ac018dfadc4d9860bcb10ad7c0e560c19ef96f298bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/33ecc649346b3556afa9b510b1bf5f417dbb9cc146d2a8482e21e0235ded4aae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a9cbfe5720bab96255869ad9708a67f790f78f6581d05914faac9e0f9d3e2ba3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1be958994ab97768c604611fff5a4be1c56150cfbca5e86c27aeb506482b68f8.jpg",
+        "intro": "\"Shooting Game?\" yes, but you are not a fighter, but a bipedal cannon. In the side-scrolling shooting action game Steos, you were loser, but now is time to fight back",
+        "description": "This game looks like a side-scrolling shooting game at first glance, but the main character is not a fighter, but a bipedal cannon.\nIt's a high-difficulty action game with a screen doesn't even scroll.\nThe distant future when AI has taken over civilization. Suddenly AI divided into Migma and Apeiron armies and started war. You are a human hired by the Migma army with the expectation that you are indeterminate element that will bring victory.\nWith only two weapons - a only horizontally and at 45 degrees bullet, and a spanking bullet that a very narrow range - you board the bipedal cannon Steos and embark on a fierce battlefield of AI.\n\n[Quickly Retry]\nYou may find yourself wreck many times in a battle against a formidable AI.\nBut don't worry. You can press the + button to retry stage immediately.\nDozens and dozens of times, you can restart and go to the battlefield.\n\n[Salary]\nYou are participating in battle between AI as a hired.\nSo, if you win, of course you will get an allowance.\nBonuses are awarded for killing the enemy before operation end, bringing back power cells, and killing the enemy without wasting bullets.\nBut the best part is the scrap collection that comes out when you destroy an enemy aircraft. This is what the Migma Army is willing to pay for.\nIn addition, press the R button to activate the gadget \u201cGetter\u201d. You can use this special device to attract scrap from the surrounding for collection.\nIt's a deadly job, so let's get paid well.\nScrap comes when you destroy aircraft, even if you destroy your friends... Oops, I think someone is coming.\n\n[All 50 stages]\nThere are 50 stages in total, spanning five locations: cities, ruins, asteroid belt, factories, and enemy headquarters.\nGimmicks of the field such as warp devices, meteorites, spinning lasers and moving floors will torment you.\nYou may come to mind at second half, but don't let your heart break for the Migma Army victory.\n\n[Hidden Mode]\nAfter completing all 50 stages, you'll be faced with a shocking truth and more hell to come...\n\n\n\"Pixel Game Maker Series\" is a series where you can enjoy games created using the action game production software \" Pixel Game Maker MV\" on Nintendo Switch\u2122.",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 275775488
     },
     "70010000036249": {
         "id": "010090F013A32000",
@@ -57061,7 +57782,14 @@
         "publisher": "SEGA",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/55c4d89027f42745e962c32fc640247274f897ddf8b5a59a14fab58224461699.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ca6f448ec287c90e65fcc23a72a0a11c5eacf78eff457dfffda85d92a0785a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9fed0b0a78183341657bb5b867c714fbe41f520ae9ddf26bc7758a5fe0dfb429.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27a78346980941fb3ec9a964c87bbcb4d96eddf0b9b526564056bad834fb3a0d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b74e4024547e51f2d18d3c6210d520eeffe084171ce7cb74574ce43464dde8c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e0df5ed21f098bb5e4c81e51a3d0e31c71a9844130732228fc739519deeff43.jpg"
+        ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/283f4d726024b8c6361df493a644a0c1e10f30e0d1bff7a09c9a957fe5cc9fc5.jpg",
         "intro": "Non perdere le esclusive carte oggetto a tema Sonic the Hedgehog",
         "description": "Potenzia la tua strategia e la tua squadra nella nuova modalit\u00e0 Battaglia tecnica di Puyo Puyo Tetris 2 con questo pacchetto di carte oggetto rare - contiene 3 carte speciali con oggetti dalla serie Sonic the Hedgehog! Questo pacchetto \u00e8 un'esclusiva dell'edizione lancio di Puyo Puyo Tetris 2. Approfittane prima che scompaia!",
@@ -63013,7 +63741,7 @@
         "intro": null,
         "description": "Migliora la tua esperienza di gioco con la GOLD EDITION che comprende il gioco, il Season Pass e contenuti in-game.\n\nPadroneggia i leggendari poteri degli dei e sconfiggi Tifone, il pi\u00f9 terribile Titano della mitologia Greca, in uno scontro epico.\n\n* SFIDA NEMICI MITOLOGICI\nAffronta mostri leggendari come il Ciclope, Medusa o il Minotauro in frenetici combattimenti aerei e corpo a corpo, utilizzando le armi e le abilit\u00e0 che ti hanno donato gli dei.\n\n* SPRIGIONA LA POTENZA DEGLI DEI\nGli dei dell'Olimpo ti hanno fatto dei doni. Usali per affrontare mostri mitologici, risolvere antichi enigmi ed esplorare un vasto mondo aperto.",
         "languages": null,
-        "size": 15775825920
+        "size": 16102981632
     },
     "70070000011303": {
         "id": null,
@@ -63234,6 +63962,38 @@
         "description": "Trova tutti i contenuti di Gear Club Unlimited 2 e scopri una nuova esperienza di sport motoristici in una nuova modalit\u00e0 di gioco incentrata sull'Endurance Championship, una gara di endurance ispirata alla 24 Ore di Le Mans, la campagna \"Endurance Championship\".\n\nGuida sul leggendario circuito della 24 Ore di Le Mans riuscendo a superare prove impegnative, guidando nuovi veicoli costruiti per questa gara leggendaria: Nissan GT-R LM Nismo, Porsche 919 Hybrid, Mercedes AMG GT3 e Bentley Continental GT3-R.\n\nSe sei abbastanza forte, salirai a bordo della mitica Ford GT40 MK I Gulf, vincitrice della 24 Ore di Le Mans nel 1968 e nel 1969!\n\nInoltre incluso: \n- Ace of the Road DLC Pack\n- Gear.Club Classics DLC Pack\n- Arrows DLC Pack\n- Checkers DLC Pack\n- Hazard DLC Pack\n- Wings DLC Pack",
         "languages": null,
         "size": 5112856576
+    },
+    "70070000011331": {
+        "id": null,
+        "rightsId": null,
+        "name": "Salad Bar Tycoon - Deluxe Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201207,
+        "nsuId": 70070000011331,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fd37379d35e420f732f2b1048470763dcf0700dca7f0b357c75da314eb8439cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b76795b7797389b9c04f6eec0a2bad974eacbd562184ba265c12d84ad3cbc55a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4877f2b3e5428a5772d200a44196279b442d18d1bee6573bc8624bc68fb4ce0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/444883de192959421247565b1aeaab8de8d4c4dedffccde59b3a6362bcefa0c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9946a3630bc193ca61bfc557df4e32f709984d5d226c3ef701126f6918e29fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/793bd197752dd820aea6bbb5602826a7c19a3164ee2c9e7ea42cbd46d4a79ed1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dd8279537c4f17f8b6d0a23823082582f1b1e4b3c355bf2f7f58219ef2b81efb.jpg",
+        "intro": "Diventa il gestore di un bar di insalate e scoprirai che non \u00e8 affatto facile!",
+        "description": "Attenzione, perch\u00e9 questo bar di insalate diventer\u00e0 ben presto il migliore della citt\u00e0!\n\nAttenzione a non confondere le ricette!\n\nMigliora il tuo bar e rendilo pi\u00f9 bello! Trova gli ingredienti della migliore qualit\u00e0!\n\nInfine, crea il migliore bar di insalate della citt\u00e0!\n\nI clienti fanno gi\u00e0 la fila, e dovrai servirli il prima possibile.\n\nFai del tuo meglio e ci riuscirai!\n\nCaratteristiche:\n\n* Oltre 70 piatti da servire\n* 3 localit\u00e0 uniche\n* Oltre 60 livelli da esplorare\n* Miglioramenti infiniti\n* Sblocca nuovi oggetti per migliorare le dotazioni della tua cucina, gli interni e gli ingredienti\n* Oltre 40 obiettivi da raggiungere\n\nIn due pacchetti di espansione per Salad Bar Tycoon, troverai:\n\n\u2022 60 nuovi livelli da esplorare\n\u2022 12 nuovi obiettivi da completare\n\nVai avanti, prova la tua abilit\u00e0!",
+        "languages": null,
+        "size": 308281344
     },
     "70070000011333": {
         "id": null,
