@@ -2153,11 +2153,12 @@
             "Gioco di ruolo (RPG)"
         ],
         "ratingContent": [
+            "Violenza moderata",
             "Interazioni degli utenti",
             "Acquisti in-game"
         ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "NIS America",
         "frontBoxArt": null,
@@ -3276,6 +3277,7 @@
         "intro": "Un incrocio tra addestramento di mostri e Metroidvania. Ottieni, allena e fai combattere i mostri in un adorabile mondo pixellato con visuale laterale.",
         "description": "Scegli il tuo spettrale famiglio e segui le orme dei tuoi antenati per diventare custode e salvare il santuario dei mostri.\n\nIntraprendi un'avventura unica usando i poteri dei mostri ottenuti e la squadra da te formata per sbloccare un mondo in costante espansione. Nel corso della tua missione per diventare il custode di mostri supremo, indagherai sulla causa di un mistero che minaccia la pace tra umani e mostri.\n\nEsplora un mondo ispirato a Metroidvania.\n\nI poteri dei tuoi mostri ti permetteranno di esplorare e ampliare il mondo. Taglia i rampicanti, distruggi i muri e plana oltre i burroni con l'aiuto dei tuoi fidati mostriciattoli.\n\nCrea la tua squadra.\n\nFai nascere e addestra mostri di tutto il mondo, poi crea la tua squadra. Ogni mostro dispone di un albero di abilit\u00e0 unico che ti consentir\u00e0 di personalizzare il tuo team.\n\nScontri tattici 3vs3.\n\nPianifica una strategia per i tuoi attacchi in modo da sfruttarli al meglio e accumula colpi per creare combo. Cerca le combo migliori per ottenere le uova pi\u00f9 rare!\n\nAffronta altri custodi di tutto il mondo!\n\nMetti alla prova le tue capacit\u00e0 nella modalit\u00e0 online contro altri giocatori! Raduna e addestra mostri, sblocca e potenzia le loro abilit\u00e0, poi affronta amici e avversari in battaglie epiche all'ultimo mostro.",
         "languages": [
+            "ja",
             "en",
             "es",
             "fr",
@@ -4551,7 +4553,7 @@
             "zh",
             "zh"
         ],
-        "size": 334495744
+        "size": 448790528
     },
     "70010000020421": {
         "id": "010057500E744000",
@@ -8939,7 +8941,7 @@
             "zh",
             "zh"
         ],
-        "size": 768606208
+        "size": 829423616
     },
     "70010000025853": {
         "id": "010076B0101A0000",
@@ -11160,8 +11162,8 @@
             "https://img-eshop.cdn.nintendo.net/i/122615713e389d4a44312eacd3bd57db14357cac6783d8f807c51343dd8095db.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f893b72e8b834a2e75a68eb72ff612984014e5ede8f21c958276478233390304.jpg",
-        "intro": "La prima simulazione di monster truck!",
-        "description": "Da Las Vegas a Orlando, sfida piloti esperti in gare di velocit\u00e0 o freestyle! Ma prima di sfoggiare doughnut, wheelie e bicycle, dovrai mettere a punto al meglio il tuo camion: un bestione tanto spettacolare e impressionante quanto estremamente difficile da guidare. Il gioco riproduce fedelmente tutte specificit\u00e0 legate al pieno controllo di questi potentissimi mezzi, come la gestione indipendente delle ruote anteriori e posteriori, l'anticipazione del trasferimento di massa nelle curve e la previsione dei rimbalzi dopo i salti.\nMa oltre alle prestazioni c'\u00e8 anche lo stile: personalizza il tuo monster truck e mostralo con orgoglio ai tuoi 7 avversari nella modalit\u00e0 online.\n\u2022 16 monster truck\n\u2022 Oltre 50 elementi personalizzabili\n\u2022 25 arene\n\u2022 3 leghe",
+        "intro": "Un'autentica simulazione di monster truck!",
+        "description": "Da Las Vegas a Orlando, sfida piloti esperti in gare di velocit\u00e0 o freestyle! Ma prima di sfoggiare doughnut, wheelie e bicycle, dovrai mettere a punto al meglio il tuo camion: un bestione tanto spettacolare quanto estremamente tecnico da guidare. Il gioco riproduce fedelmente tutte specificit\u00e0 legate al pieno controllo di questi potentissimi mezzi, come la gestione indipendente delle ruote anteriori e posteriori, l'anticipazione del trasferimento di massa nelle curve e la previsione dei rimbalzi dopo i salti.\nMa oltre alle prestazioni c'\u00e8 anche lo stile: personalizza il tuo monster truck e mostralo con orgoglio ai tuoi 7 avversari nella modalit\u00e0 online.\n\u2022 16 monster truck\n\u2022 Oltre 50 elementi personalizzabili\n\u2022 25 arene\n\u2022 3 leghe",
         "languages": [
             "en",
             "es",
@@ -12367,7 +12369,7 @@
             "ru",
             "zh"
         ],
-        "size": 1309671424
+        "size": 1351614464
     },
     "70010000028050": {
         "id": "010076C01015C000",
@@ -13692,7 +13694,7 @@
         "size": 530579456
     },
     "70010000028618": {
-        "id": null,
+        "id": "01006DC010326000",
         "rightsId": null,
         "name": "Bravely Default II",
         "version": null,
@@ -13713,7 +13715,7 @@
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
-        "iconUrl": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2aad4ebaefb3103c9322d54ec8fdda2a62c814beedcbf45a104d9a7ababae1ab.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/5a2f67fe7011f6d57e88a8c503102f362b82c751057de9e80f2020b71f886d79.jpg",
             "https://img-eshop.cdn.nintendo.net/i/2ea9b92005403c4456f8a778b453c794ce84481ad5a497efbfc2dc5f7706e81d.jpg",
@@ -13736,7 +13738,7 @@
             "zh",
             "zh"
         ],
-        "size": 0
+        "size": 13319012352
     },
     "70010000028622": {
         "id": "0100449011506000",
@@ -14303,7 +14305,7 @@
             "de",
             "zh"
         ],
-        "size": 1073741824
+        "size": 1146093568
     },
     "70010000028838": {
         "id": "0100867011618000",
@@ -17201,7 +17203,7 @@
             "fr",
             "de"
         ],
-        "size": 748683264
+        "size": 760217600
     },
     "70010000029930": {
         "id": "0100A42011B28000",
@@ -18779,7 +18781,7 @@
             "zh",
             "zh"
         ],
-        "size": 10120855552
+        "size": 11968446464
     },
     "70010000030523": {
         "id": "010004901194A000",
@@ -20214,9 +20216,11 @@
             "Azione",
             "Piattaforme"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "QUByte Interactive",
         "frontBoxArt": null,
@@ -22690,7 +22694,7 @@
             "https://img-eshop.cdn.nintendo.net/i/f98c55c896693f187039e6daf41b2650e2f56aaffa078a3b4be252e4bb63993d.jpg",
             "https://img-eshop.cdn.nintendo.net/i/cae028407a47473e24c8d428be9e8422ef05808cb321074a1382763cda50a117.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c46f23795cc7cfdd7d9fa7a4f84e6d1c39b983cfc2686c50c2ba14b16be5e998.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e6b634aae340fda79cb517f1648103f68b49d8ab61fce6d0c1404d6aa58e81b5.jpg",
         "intro": "Embark on a global adventure in this \u201890s-inspired platformer about a chubby underdog kid with wacky superpowers.",
         "description": "THE STORY\n \nOh wow, I'm actually kinda surprised you scrolled down this far...that's awesome! My name's Chris, and I'm so excited to tell you about my game! It\u2019s a \u201890s-inspired adventure platformer about the totally normal adventures I went on as a chubby kid back in 1995 - traveling the world, learning useful abilities, and, naturally, getting kidnapped and turned into a balloon by cartoon villains. Thankfully, I escaped and learned to use my transformation as a kind of superpower. I got to learn all kinds of cool stuff - how to throw fireballs and lightning, how to bounce around like a basketball and rocket around the earth. It's a neat story...I think. I really hope you'll enjoy it - I had a lot of fun making it!\n\nFEATURES\n \n \u2022 Uncover a sinister story in a quirky, cartoon-like universe.\n \u2022 Explore 9 locations around the world in any order you please, plus the Kingdom of Lost Balloons and more!\n \u2022 Build Chris from a weak kid into the ultimate hero by upgrading him with unique special moves and abilities that you can customize to your style.\n \u2022 Learn (or purchase) increasingly powerful spells and techniques.\n \u2022 Battle bizarre villains across the globe, including samurai cats, cyborg penguins and whiny vampires.\n \u2022 Float or fall through unique platforming challenges.\n \u2022 Two additional full game modes, including bonus content - a more difficult and humorous Mean Mode, and Developer Commentary.\n \u2022 A variety of unlockable content and secrets to discover, including an in-depth backstory.\n \u2022 Numerous difficulty settings, including \"Ridiculously Easy\" for players who prefer to never die, and \"Hard for No Reason\" for crazy people.\n \u2022 Snort out loud with a game chock-full of laughs.",
         "languages": [
@@ -26513,11 +26517,9 @@
             "Arcade",
             "Avventura"
         ],
-        "ratingContent": [
-            "Paura"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "Flying Islands Team",
         "frontBoxArt": null,
@@ -30476,11 +30478,9 @@
             "Sparatutto",
             "Arcade"
         ],
-        "ratingContent": [
-            "Violenza moderata"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 2,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "HAMSTER",
         "frontBoxArt": null,
@@ -31234,9 +31234,11 @@
             "Avventura",
             "Arcade"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Fantastico Studio",
         "frontBoxArt": null,
@@ -35694,9 +35696,11 @@
             "Gioco di ruolo (RPG)",
             "Avventura"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "TROOOZE",
         "frontBoxArt": null,
@@ -35723,7 +35727,7 @@
             "zh",
             "zh"
         ],
-        "size": 244318208
+        "size": 341835776
     },
     "70010000034531": {
         "id": "010076001311E000",
@@ -40410,7 +40414,7 @@
             "zh",
             "zh"
         ],
-        "size": 204472320
+        "size": 265289728
     },
     "70010000036140": {
         "id": "010049501393A000",
@@ -42033,6 +42037,32 @@
         "languages": null,
         "size": 3115319296,
         "parentId": "0100F4C009322000"
+    },
+    "70030000012460": {
+        "id": null,
+        "rightsId": null,
+        "name": "Adventures of Chris Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012460,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 435159040,
+        "parentId": "010072601233C000"
     },
     "70030000012495": {
         "id": null,
@@ -52906,7 +52936,7 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/50836287b556d9ca9a4ad797ac278d9bf02f8e12b9e18ef4ff51d1f396ac680e.jpg",
         "intro": null,
-        "description": "Fatti un nome con questo pack esclusivo! Contiene 1 design, 3 veicoli e 1 arena.\n\nIl Rebel Hunter Pack include:\n\n- 1 design esclusivo \"Rebel Hunter\": mostra a tutti chi comanda!\n- 3 diversi veicoli: Magnum, Victory e Frantic, i migliori modelli americani per dominare la competizione\n- 1 arena di corse nella citt\u00e0 di Charleston\n\nSfoggia il tuo stile e fai capire a tutti chi \u00e8 il migliore di tutte le arene.",
+        "description": "Fatti un nome con questo pack esclusivo! Contiene 1 design, 3 veicoli e 1 arena.\n\nIl Rebel Hunter Pack include:\n\n- 1 design esclusivo \"Rebel Hunter\": mostra a tutti chi comanda!\n- 3 veicoli: Magnum, Victory e Frantic, i migliori modelli americani per dominare la competizione\n- La Charleston racing arena\n\nSfoggia il tuo stile e fai capire a tutti chi \u00e8 il migliore di tutte le arene.",
         "languages": null,
         "size": 4194304
     },
@@ -57007,7 +57037,7 @@
     "70050000023316": {
         "id": null,
         "rightsId": null,
-        "name": "Mileena",
+        "name": "Rain",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -57027,16 +57057,16 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/33f34df877faf96bd25b1e45e76bfa10692729b9bb1f8d83a3f2735b0824b206.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/316d307e6ffb75439824e76d876e0073205ff89aec1068696c78c66e5f22d963.jpg",
         "intro": null,
-        "description": "Mileena \u00e8 il prodotto dei diabolici esperimenti di clonazione di Shang Tsung: il mix perfetto tra la ferocia dei Tarkata e la grazia atletica di Kitana. Dopo essere stata trasportata nel futuro da Kronika, Mileena \u00e8 venuta a conoscenza del suo tragico destino: il breve dominio come imperatrice del Regno Esterno e la morte per mano di D'Vorah e Kotal Kahn. Ora, determinata a rivendicare il trono, Mileena ha dato inizio a una nuova guerra civile nel Regno Esterno. I suoi nemici hanno due scelte: sottomissione o morte.",
+        "description": "Essere orfano limitava le prospettive future di Rain, perci\u00f2 decise di arruolarsi nell'esercito di Edenia. Il suo genio tattico gli permise di guadagnare una grande fama e una rapida promozione. Rain utilizz\u00f2 il potere derivante dalla nuova carica per cercare la vera identit\u00e0 dei suoi genitori. Lo sorprese non poco scoprire di essere il figlio illegittimo del dio Argus, il Protettore di Edenia. Argus aveva abbandonato Rain e celato la sua discendenza per evitare lo scandalo e la vergogna. Ora, armato della consapevolezza di essere un semidio, Rain si batte per rivendicare il posto che gli spetta nel pantheon di Edenia e se non gli verr\u00e0 consegnato, lo conquister\u00e0 con la forza. ",
         "languages": null,
         "size": 4194304
     },
     "70050000023317": {
         "id": null,
         "rightsId": null,
-        "name": "Rain",
+        "name": "Mileena",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -57056,9 +57086,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/316d307e6ffb75439824e76d876e0073205ff89aec1068696c78c66e5f22d963.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/33f34df877faf96bd25b1e45e76bfa10692729b9bb1f8d83a3f2735b0824b206.jpg",
         "intro": null,
-        "description": "Essere orfano limitava le prospettive future di Rain, perci\u00f2 decise di arruolarsi nell'esercito di Edenia. Il suo genio tattico gli permise di guadagnare una grande fama e una rapida promozione. Rain utilizz\u00f2 il potere derivante dalla nuova carica per cercare la vera identit\u00e0 dei suoi genitori. Lo sorprese non poco scoprire di essere il figlio illegittimo del dio Argus, il Protettore di Edenia. Argus aveva abbandonato Rain e celato la sua discendenza per evitare lo scandalo e la vergogna. Ora, armato della consapevolezza di essere un semidio, Rain si batte per rivendicare il posto che gli spetta nel pantheon di Edenia e se non gli verr\u00e0 consegnato, lo conquister\u00e0 con la forza. ",
+        "description": "Mileena \u00e8 il prodotto dei diabolici esperimenti di clonazione di Shang Tsung: il mix perfetto tra la ferocia dei Tarkata e la grazia atletica di Kitana. Dopo essere stata trasportata nel futuro da Kronika, Mileena \u00e8 venuta a conoscenza del suo tragico destino: il breve dominio come imperatrice del Regno Esterno e la morte per mano di D'Vorah e Kotal Kahn. Ora, determinata a rivendicare il trono, Mileena ha dato inizio a una nuova guerra civile nel Regno Esterno. I suoi nemici hanno due scelte: sottomissione o morte.",
         "languages": null,
         "size": 4194304
     },
@@ -63229,9 +63259,9 @@
             "https://img-eshop.cdn.nintendo.net/i/e2b8992bf9baff0c8f7bc821afc0b61ac55904673c2f11bace78498dc093566a.jpg",
             "https://img-eshop.cdn.nintendo.net/i/23e51a6696521b48c3e0bd3913c3c8d542ba0cae1080bbe597942d5265871356.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7a973fdebc9b8df82e045f1c93106a1dcd6520fdbbc5c7d0428dad018ab9448a.jpg",
-        "intro": null,
-        "description": "La prima simulazione di monster truck! L'edizione Rebel Hunter include il gioco base e i seguenti contenuti aggiuntivi:\n\n- 1 design esclusivo \"Rebel Hunter\", per mostrare a tutti chi comanda!\n- 3 diversi monster truck: Magnum, Victory e Frantic: i migliori modelli americani per dominare la competizione\n- 1 arena di corse nella citt\u00e0 di Charleston\n\nDa Las Vegas a Orlando, sfida piloti esperti in gare di velocit\u00e0 o freestyle! Ma prima di sfoggiare doughnut, wheelie e bicycle, dovrai mettere a punto al meglio il tuo camion: un bestione tanto spettacolare e impressionante quanto estremamente difficile da guidare. Il gioco riproduce fedelmente tutte specificit\u00e0 legate al pieno controllo di questi potentissimi mezzi, come la gestione indipendente delle ruote anteriori e posteriori, l'anticipazione del trasferimento di massa nelle curve e la previsione dei rimbalzi dopo i salti.",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/73bf1fbdf55b609080b2056f93ba85f09f30d1c5229785c61bdb1dd0bca77510.jpg",
+        "intro": "Un'autentica simulazione di monster truck! ",
+        "description": "L'edizione Rebel Hunter include il gioco base e i seguenti contenuti aggiuntivi:\n\n- 1 design esclusivo \"Rebel Hunter\", per mostrare a tutti chi comanda!\n- 3 monster truck: Magnum, Victory e Frantic: i migliori modelli americani per dominare la competizione\n- La Charleston racing arena\n\nDa Las Vegas a Orlando, sfida piloti esperti in gare di velocit\u00e0 o freestyle! Ma prima di sfoggiare doughnut, wheelie e bicycle, dovrai mettere a punto al meglio il tuo camion: un bestione tanto spettacolare quanto estremamente tecnico da guidare. Il gioco riproduce fedelmente tutte specificit\u00e0 legate al pieno controllo di questi potentissimi mezzi, come la gestione indipendente delle ruote anteriori e posteriori, l'anticipazione del trasferimento di massa nelle curve e la previsione dei rimbalzi dopo i salti.",
         "languages": null,
         "size": 3156213760
     },
