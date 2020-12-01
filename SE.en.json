@@ -5653,7 +5653,7 @@
             "zh",
             "zh"
         ],
-        "size": 204472320
+        "size": 255852544
     },
     "70010000021706": {
         "id": "010081700EDF4000",
@@ -35396,6 +35396,51 @@
         ],
         "size": 177209344
     },
+    "70010000034450": {
+        "id": "01007CC0130C6000",
+        "rightsId": null,
+        "name": "Renzo Racer",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000034450,
+        "category": [
+            "Racing",
+            "Party",
+            "Multiplayer",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Joindots",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ba789b37b928a217edbc4b3304ec2bc94ebb922e5ffc8b0b08b7c973729b1a1d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/51d81758612c4b93c8039cba0df8e5de8e877056d32acfaf98579679841dc869.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7036ecf978f13cbeb2221f4ee91add4bf1797daca65ab0f4c956bf675c05606.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6eb470eb3c5f0e0a4b8e45aa18d021937945f3f07a3c25f3ec6a2ddaf776e8c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c71f89d205818b9e4ce9c06f199267917d725075723f2c392155edae785013c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/00bf9e4de3a249a6ca508b19b638c74dc7b07e6263e3bbda9e671d72c680d878.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/148adad57d6878c407abf217cf35ea1cfc20a20fed4fa777f850a0b9ea9e4338.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/07a0dba102ff7da2598c96cbd7af89e5cd016eb37326510280eec087faa5b4f2.jpg",
+        "intro": "Renzo Racer is a fast-paced cartoon style racing game challenging your maneuverability and driving skills to cross the finish line first! ",
+        "description": "Are you ready for some throttle mashing, missile blasting, kart smashing fun?\n\nRenzo Racer is a fast-paced cartoon style racing game challenging your maneuverability and driving skills to cross the finish line first! \n\nChoose your driver from a selection of 16 comical personalities and race down 20 exciting tracks full of twists and turns, hazardous obstacles and unexpected surprises. Plow through destructible objects, jump off ramps and watch out for scattered rocks, fallen trees, black ice and oil slicks! \n\nHit the road, put the pedal to the metal, and enjoy the intense action worthy of a true racing champion. Play individual tracks or tournaments against the AI cars or also against a friend in local 2 player mode.\n\n- 16 Comical Drivers with Unique Personalities\n- 20 Challenging Race Tracks\n- Race Karts or Boats!\n- Destructible Objects, Rockets, Bombs, Nitro and more\n- Obstacles & Surprises\n- Local 2 Player Mode to Enjoy with a Friend\n- Fast and Furious Racing Action",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl"
+        ],
+        "size": 1314914304
+    },
     "70010000034477": {
         "id": "01008050130EE000",
         "rightsId": null,
@@ -37657,7 +37702,7 @@
     "70010000034969": {
         "id": "0100E62012D3C000",
         "rightsId": null,
-        "name": "BIT.TIP RUNNER",
+        "name": "BIT.TRIP RUNNER",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -37692,6 +37737,46 @@
             "en"
         ],
         "size": 235929600
+    },
+    "70010000034973": {
+        "id": "010091E01330C000",
+        "rightsId": null,
+        "name": "Heroes of Loot",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201208,
+        "nsuId": 70010000034973,
+        "category": [
+            "Arcade",
+            "RPG",
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Orange Pixel",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0f67aadc7fa4e72417a8b4a3ca394be47e2897aca6224861cf2232c11a7fbc98.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/06760b3e724d655f18179b66dba45da2f2c8ac6df2ee06f147d7bc77bcef83ec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/06496168631c74da3d2a40d7a62e091026d3972da71fb980359847c8a2221b78.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c6e35476a61e5b3970fcbd5171ff0e92ddb5265d35ee862afc8d60f68a17d51b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/436321124f0f8f8bff37bb53febbcdd22dc04ed6252197f259d1f230beb0f2b3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/265ba3951571b96ced93264a52965f36fcd61d8ce5682740a45245dd7a987b6a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d07302ba307051a54a21a94a1826323e68f1df44e666c364feeb4a42f52ae03e.jpg",
+        "intro": "A brutal mix between dungeon-crawler and shoot-em up. The dungeon will learn from you and become more dangerous every-time you play!",
+        "description": "Heroes of Loot combines the action of twin-stick shooters with the dungeon crawling of rogue-likes. You\u2019ll find yourself in the middle of hordes of ghosts, skulls, cyclops, critters and much more.. survive using quick reflexes, level up to improve your weapon, and if you have time complete some quests for extra loot and upgrades.\n\nHeroes of Loot gets a lot of the inspiration from the original 80\u2019s classic Gauntlet games.\n\nThere are various secrets to uncover, hidden rooms full of special items to find, and perma-items to find and collect for extra power.\nSo, how deep into the dungeon can you go?\n\nPlay it alone, or with a co-op buddy.. just be sure to share the loot, healing potions, weapons, and shields\u2026\n\u2026or not, and sacrifice your buddy for your own gain!\n\nHeroes of Loot is a dungeon-game like no other: every time you play the dungeon will be different, every time you become better, the dungeon will also grow and become more dangerous..\n\nthis game will learn from you!\n\nFeatures:\n\n* Unlimited amount of randomly generated dungeons\n* Random quests to reward you with extra loot, items, experience, and more\n* Four classes to choose from: Elf, Warrior, Wizard and Valkyrie\n* Special fifth class to unlock for the real gamers\n* Secret area\u2019s\n* Special mysterious dungeon items and obstacles\n* A large collection of loot and items to acquire and aid you in your quest\n* Always changing gameplay\n* This rogue-like walks a fine line between dungeon-crawler and shoot-em up.",
+        "languages": [
+            "en"
+        ],
+        "size": 47185920
     },
     "70010000034974": {
         "id": "0100016012D38000",
@@ -40078,6 +40163,46 @@
             "en"
         ],
         "size": 7614758912
+    },
+    "70010000035909": {
+        "id": "0100FED0137FE000",
+        "rightsId": null,
+        "name": "Boot Hill Heroes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201215,
+        "nsuId": 70010000035909,
+        "category": [
+            "RPG",
+            "Adventure",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Experimental Gamer Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/694153c74d67c9a78baae1d280f6bb1f87110a4ad84486f3b38d5c9c3752955b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a9d0a79cdefba63ba830b9905a7ca78f44e78c31172d7fcc4410b95f4a616a44.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd80cddca0391932b0ea148724e56efe88f21059bb9aceee422c8bbb7585b989.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db7f89062852269cf284b1656bcb8d39c1600118a55c66b9991ac1068f645938.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/85d991974dc979d2ccf4abcf8f285429ccc71bacbb9bab02dd017f4599b2746a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9310b204233e168d4fe86933e296ff6c80d1aa7a2422f9889615ce925d1c4119.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8410164173bd59eb69cb13927b55a62a98aace895bd555f53d7aeb5f4a29d80c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4d96a015d5ea1be2dac80a83512af30c212062474955078fec7171f6f32a2a7b.jpg",
+        "intro": "Jump into a Western adventure inspired by the classic JRPGs of yore and and the legendary American Wild West! ",
+        "description": "Boot Hill Heroes is the first game in a series that fuses elements of spaghetti western film - gunslinging outlaws, brave lawmen, and the untamed wilderness - with classic RPG storyline and gameplay. It's an epic Wild West adventure packed with excitement, intrigue and a dose of humor.\n\n-Retro Refresh: An experimental combination of old and new ideas that brings unique experience to modern gamers and old-school fans alike. Boot Hill Bounties fuses elements of spaghetti westerns - gunslinging outlaws, brave lawmen, and the untamed wilderness - with classic RPG storyline and gameplay\n\n-4 Player Co-op: Play single player or up to four player local co-op. Friends can seamlessly drop-in and take control of one or more of the four characters! \n\n-No Random Battles: Enemies can be seen and avoided, and previously defeated enemies move out of your way. Fight outlaws and animals! Can you stop a barroom brawl? Can you defeat a gang of raccoons hoarding precious garbage?\n\n-Active Combat: Typical turn-based combat is replaced with a fast and engaging real-time system where all players must follow the battle at all times and adapt to new strategies!",
+        "languages": [
+            "en"
+        ],
+        "size": 1902116864
     },
     "70010000035922": {
         "id": "0100690013826000",
