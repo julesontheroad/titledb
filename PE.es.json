@@ -958,7 +958,7 @@
             "it",
             "zh"
         ],
-        "size": 1083179008
+        "size": 1238368256
     },
     "70010000001515": {
         "id": "010095300212A000",
@@ -2031,7 +2031,7 @@
             "zh",
             "zh"
         ],
-        "size": 6986661888
+        "size": 7021264896
     },
     "70010000005382": {
         "id": "0100FFA0093E8000",
@@ -2707,7 +2707,7 @@
             "ru",
             "ko"
         ],
-        "size": 13365149696
+        "size": 13947109376
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -3280,7 +3280,7 @@
             "zh",
             "zh"
         ],
-        "size": 1697644544
+        "size": 1882193920
     },
     "70010000013704": {
         "id": "010044500C182000",
@@ -3331,7 +3331,7 @@
             "zh",
             "zh"
         ],
-        "size": 9012510720
+        "size": 9032433664
     },
     "70010000014081": {
         "id": "0100C9F009F7A000",
@@ -3704,7 +3704,7 @@
             "zh",
             "zh"
         ],
-        "size": 34847326208
+        "size": 34971058176
     },
     "70010000015307": {
         "id": "01003BD00CAAE000",
@@ -5136,7 +5136,7 @@
             "de",
             "ru"
         ],
-        "size": 1320157184
+        "size": 1329594368
     },
     "70010000020281": {
         "id": "0100A4200DA76000",
@@ -5736,7 +5736,7 @@
             "zh",
             "zh"
         ],
-        "size": 9366929408
+        "size": 9992929280
     },
     "70010000022226": {
         "id": "01002C000E35E000",
@@ -6529,7 +6529,7 @@
             "https://img-eshop.cdn.nintendo.net/i/2f6a5666f8421a74cb4f31d41a91abcb0dd90fc9a9495b985b182358e6ab9c3a.jpg",
             "https://img-eshop.cdn.nintendo.net/i/13cbcaf110c837563e279a0361e1f2f07c12d99e301681980a0e11d7937a50ad.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/33f5de69e8d6ccb5fc08a020a26d0e9e00983bda587e9bce1216c515da33c9ab.jpg",
         "intro": "Escapa a tu propia isla paradisiaca",
         "description": "Escapa a una isla desierta y crea tu propio para\u00edso mientras exploras, creas y personalizas en el juego Animal Crossing: New Horizons. Tu isla cuenta con riquezas naturales que podr\u00e1s utilizar para construir de todo, desde herramientas hasta objetos que har\u00e1n tu vida m\u00e1s placentera. Podr\u00e1s cazar insectos al amanecer, decorar tu peque\u00f1o para\u00edso durante el d\u00eda o disfrutar del atardecer en la playa mientras pescas en el oc\u00e9ano. La hora del d\u00eda y la estaci\u00f3n coinciden con las de la vida real, as\u00ed que cada d\u00eda en la isla es una oportunidad para encontrar y descubrir sorpresas. \n\nMuestra tu isla a tu familia y amigos, o empaca tus cosas y visita la de ellos. Ya sea que juegues en l\u00ednea* o con otros a tu lado**, la vida isle\u00f1a es mucho mejor cuando la puedes compartir. Sin necesidad de subirte a un avi\u00f3n podr\u00e1s conocer a un elenco de encantadores residentes llenos de personalidad. Algunas caras conocidas como Tom Nook y Canela brindar\u00e1n sus servicios y con todo gusto te ayudar\u00e1n a construir tu comunidad. Date una escapada a tu isla\u2026 como quieras, cuando quieras y donde quieras.\n\n\u2022\tConstruye tu comunidad desde cero en una isla desierta rebosante de oportunidades\n\u2022\tCrea tus propias vacaciones y personaliza a tu personaje, tu hogar, tus decoraciones e incluso el paisaje\n\u2022\t\u00a1Recolecta materiales para construir desde muebles hasta herramientas! Luego, utiliza lo que creaste para darle a tu isla un toque personal\n\u2022\tObserva c\u00f3mo la hora del d\u00eda y las estaciones coinciden con la vida real, \u00a1incluso en tu hemisferio! Cada d\u00eda podr\u00edas sorprenderte realizar descubrimientos\n\u2022\t \u00a1Conoce a los residentes de la isla, realiza algo de jardiner\u00eda, pesca, decoraci\u00f3n, ve en busca de f\u00f3siles y mucho m\u00e1s!\n\u2022\tPresume tu isla, disfruta del juego en la misma consola con otros usuarios para un total de 4 jugadores** o juega en l\u00ednea o a trav\u00e9s de la comunicaci\u00f3n local** para hasta 8 jugadores\n",
         "languages": [
@@ -6545,7 +6545,7 @@
             "zh",
             "zh"
         ],
-        "size": 7354712064
+        "size": 7471104000
     },
     "70010000027969": {
         "id": "0100DD30110CC000",
@@ -7162,7 +7162,7 @@
             "zh",
             "zh"
         ],
-        "size": 2501902336
+        "size": 2500853760
     },
     "70010000029721": {
         "id": "0100B0500FE4E000",
@@ -7413,6 +7413,55 @@
         ],
         "size": 4358930432
     },
+    "70010000033131": {
+        "id": "0100535012974000",
+        "rightsId": null,
+        "name": "Hades",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70010000033131,
+        "category": [
+            "Acci\u00f3n",
+            "Aventura",
+            "Juego de rol"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Supergiant Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3c5b17aa63fb7060af7135a5318ec305f126539ad2e389f7e409be5625a6655c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2a8ec2edcb7e498d599f21aa937baa5c39ff14a8b0d1f489c685b3a6eb52c37b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/93004a4a44bcf83c5b6a62b0f5a4c974b1e44f7d03d2299646f5ff4f6fac34fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a3a4b5fe7e9a1ea2f3fe2b75708413273a1ce215a41ab9ff956d2595c4cf9af2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5521882ad669c26da844b4668eb7e9c754d157211d5b992b549b0fb9592e91fc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bfb04be87f9f727e319a75857b4cbb894d288c90c6ecb0a5c4003b30b3dcf9de.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b87b3c2d336d32ea15d7b890689e71f670f81e158705b50b5f7bbd9ed2e4da3b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dbc8c55a21688b446a5c57711b726956483a14ef8c5ddb861f897c0595ccb6b5.jpg",
+        "intro": "Desaf\u00eda al dios de los muertos y protagoniza una salvaje fuga del Inframundo en este juego de exploraci\u00f3n de mazmorras de los creadores de Bastion y Transistor.",
+        "description": "COMBATE PARA ESCAPAR DEL INFIERNO\nComo el pr\u00edncipe inmortal del Inframundo, tendr\u00e1s a tu disposici\u00f3n los poderes y las armas m\u00edticas del Olimpo para liberarte de las garras del mism\u00edsimo dios de los muertos, al tiempo que te vas haciendo m\u00e1s fuerte y descubres m\u00e1s piezas de la historia con cada intento de fuga.\n\nDESATA LA IRA DEL OLIMPO\n\u00a1Los dioses del Olimpo est\u00e1n de tu lado! Conoce a Zeus, Atenea, Poseid\u00f3n y muchos m\u00e1s, y elige entre decenas de poderosas bendiciones que potenciar\u00e1n tus habilidades. Hay miles de arquetipos de personaje viables que ir\u00e1s descubriendo a medida que juegues.\n\nAL\u00cdATE CON DIOSES, FANTASMAS Y MONSTRUOS\nDisfruta con las voces de un elenco de personajes verdaderamente carism\u00e1ticos y deseosos de conocerte. Desarrolla tus relaciones con ellos y experimenta cientos de eventos de historia \u00fanicos, a medida que vas descubriendo los secretos de esta enorme y disfuncional familia.\n\nDISE\u00d1ADO PARA SER REJUGABLE\nTe esperan nuevas sorpresas cada vez que te adentres en el siempre cambiante Inframundo, cuyos jefes guardianes te recordar\u00e1n entre partida y partida. Usa el poderoso Espejo de la Noche para adquirir mejoras permanentes y aguantar un poco m\u00e1s la pr\u00f3xima vez que intentes huir.\n\nNO HAY NADA IMPOSIBLE\nGracias a las mejoras permanentes, no hace falta ser un dios para experimentar la emoci\u00f3n de los combates y la fascinante historia. Pero si lo eres, aumenta el nivel de desaf\u00edo y prep\u00e1rate para una dosis de acci\u00f3n salvaje que pondr\u00e1 a prueba tus habilidades hasta l\u00edmites insospechados.\n\nEL ESTILO CARACTER\u00cdSTICO DE SUPERGIANT\nLa cuidada presentaci\u00f3n atmosf\u00e9rica y la fusi\u00f3n \u00fanica de jugabilidad y narrativa que han formado parte de todos los juegos de Supergiant se desarrolla aqu\u00ed en su m\u00e1ximo esplendor: los impresionantes entornos dibujados a mano y la intensa banda sonora original consiguen que el Inframundo cobre vida de forma espectacular.",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 6023020544
+    },
     "70010000034439": {
         "id": null,
         "rightsId": null,
@@ -7559,6 +7608,52 @@
         ],
         "size": 1196425216
     },
+    "70010000034736": {
+        "id": "0100F38011CFE000",
+        "rightsId": null,
+        "name": "Transferencia de islas de Animal Crossing: New Horizons",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201118,
+        "nsuId": 70010000034736,
+        "category": [
+            "Herramientas",
+            "Otros"
+        ],
+        "ratingContent": [
+            "Sin Descriptores"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4310ef9dabb57caed54a390dfc1189d3b62d58da49f08c09c458f107c3415953.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ef3b8a15f400a9b714c139dd160e6836c288649979683c6debe30eb84816a861.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ffdeb2b7679b0d4bb0418729f33499d19c3ed862462eb77509db2cc7ffebf3b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/54dbc475d2ec4fc138fbeab1e705d251bfb8cc975e1c1330bca30e7fc8713d96.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d47ee62bdad19839993ef74d883a6a42510d7a732c657e6fe691271e8c881e5b.jpg",
+        "intro": "Transfiere tu isla de Animal Crossing \u2122: New Horizons a otra consola Nintendo Switch",
+        "description": "Usa este programa para transferir los datos completos de tu isla del juego Animal Crossing: New Horizons de una consola Nintendo Switch a otra. Descarga este programa en ambas consolas Nintendo Switch para poder transferir tu isla. Podr\u00e1s encontrar m\u00e1s informaci\u00f3n acerca del proceso de transferencia en la p\u00e1gina de soporte de Nintendo. https://support.nintendo.com/",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 49283072
+    },
     "70010000034760": {
         "id": "01002B00111A2000",
         "rightsId": null,
@@ -7593,7 +7688,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/655ee297a993058234742a93050db5e07554c5c69c2eb9ad1dd408976ab733c3.jpg",
         "intro": "Descubre el Hyrule de 100 a\u00f1os antes del juego The Legend of Zelda: Breath of the Wild y experimenta los eventos del gran cataclismo",
-        "description": "\u00danete a la lucha que puso a Hyrule de rodillas. Conoce m\u00e1s a Zelda, a los cuatro campeones, al rey de Hyrule y mucho m\u00e1s a trav\u00e9s de dram\u00e1ticas animaciones mientras intentas salvar el reino del Cataclismo. El juego Hyrule Warriors: Age of Calamity es la \u00fanica manera ver lo que pas\u00f3 hace 100 a\u00f1os.\n\n- Lucha contra las hordas m\u00e1s formidables de Hyrule -\n\nDesde los barb\u00e1ricos bokoblin hasta los imponentes centale\u00f3n, amenazantes monstruos han emergido en manadas. Adem\u00e1s de Link y Zelda, asume el control de los cuatro campeones y la joven Impa. Usa sus distintas habilidades para atravesar cientos de enemigos y as\u00ed salvar Hyrule del inminente cataclismo.\n\n- Bonificaciones de compra -\n\nAdquiere la versi\u00f3n digital del juego Hyrule Warriors: Age of Calamity para recibir un arma de bonificaci\u00f3n para el juego, \u00a1la cuchara de la suerte*! Usa esta espada con forma de cuchara (junto con una tapa de cacerola) y equ\u00edpala para la batalla o fusi\u00f3nala con otras armas para potenciar sus par\u00e1metros.\n\nSi tienes datos de guardado del juego The Legend of Zelda: Breath of the Wild, podr\u00e1s obtener la espada de principiante como objeto de bonificaci\u00f3n. Equipa esta arma y autom\u00e1ticamente empu\u00f1aras una tapa de cacerola como escudo. \u00a1Esta combinaci\u00f3n puede activar ocasionalmente una defensa perfecta!\n\n*Este art\u00edculo no est\u00e1 incluido en la versi\u00f3n f\u00edsica del juego pero podr\u00eda estar disponible como contenido descargable de pago en el futuro.",
+        "description": "\u00danete a la lucha que puso a Hyrule de rodillas. Conoce m\u00e1s a Zelda, a los cuatro campeones, al rey de Hyrule y mucho m\u00e1s a trav\u00e9s de dram\u00e1ticas animaciones mientras intentas salvar el reino del Cataclismo. El juego Hyrule Warriors: Age of Calamity es la \u00fanica manera ver lo que pas\u00f3 hace 100 a\u00f1os.\n\n- Lucha contra las hordas m\u00e1s formidables de Hyrule -\n\nDesde los barb\u00e1ricos bokoblin hasta los imponentes centale\u00f3n, amenazantes monstruos han emergido en manadas. Adem\u00e1s de Link y Zelda, asume el control de los cuatro campeones y la joven Impa. Usa sus distintas habilidades para atravesar cientos de enemigos y as\u00ed salvar Hyrule del inminente cataclismo.\n\n\nSi tienes datos de guardado del juego The Legend of Zelda: Breath of the Wild, podr\u00e1s obtener la espada de principiante como objeto de bonificaci\u00f3n. Equipa esta arma y autom\u00e1ticamente empu\u00f1aras una tapa de cacerola como escudo. \u00a1Esta combinaci\u00f3n puede activar ocasionalmente una defensa perfecta!\n\n",
         "languages": [
             "ja",
             "en",
@@ -7606,7 +7701,7 @@
             "zh",
             "zh"
         ],
-        "size": 11441012736
+        "size": 11700011008
     },
     "70010000035030": {
         "id": "0100073011382000",
@@ -8447,7 +8542,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 3079667712,
+        "size": 3115319296,
         "parentId": "0100F4C009322000"
     },
     "70030000012478": {
@@ -12817,7 +12912,7 @@
         "intro": "Levanta tu mejor imperio en Nintendo Switch\u2122",
         "description": "Paquete de expansi\u00f3n que combina Rise and Fall y Gathering Storm y lleva este cl\u00e1sico de la estrategia por turnos a una nueva dimensi\u00f3n. Forjar el imperio m\u00e1s grande es m\u00e1s emocionante que nunca con 16 civilizaciones y 18 l\u00edderes nuevos y mejoras al sistema de juego, como Grandes Eras y un planeta activo donde la geolog\u00eda y el clima presentan nuevos retos.\n\nEl Civilization VI Paquete de expansi\u00f3n tiene todas las caracter\u00edsticas de Rise and Fall y Gathering Storm: \n\n\u2022NUEVOS L\u00cdDERES Y CIVILIZACIONES: 16 civilizaciones y 18 l\u00edderes nuevos, con bonificaciones y sistemas de juego \u00fanicos, adem\u00e1s de unidades, distritos, maravillas, edificios exclusivos y mucho m\u00e1s.\n\n\u2022GRANDES ERAS: seg\u00fan tu civilizaci\u00f3n pase por altibajos y alcances momentos hist\u00f3ricos clave, avanzar\u00e1s hacia una \u00e9poca oscura o una edad de oro, cada una con retos y bonificaciones espec\u00edficas en funci\u00f3n de tus acciones. Resurge de una \u00e9poca oscura y tu siguiente edad de oro ser\u00e1 una \u00e9poca heroica.\n\n\u2022LOYALTY: las ciudades te muestran su Loyalty: si baja demasiado, tendr\u00e1s rendimientos escasos, revueltas y la posible independencia de una ciudad. Pero la p\u00e9rdida puede ser favorable si inspiras lealtad a las ciudades del mapa y expandes m\u00e1s tus fronteras.\n\n\u2022GOBERNADORES: recluta, nombra y mejora a personajes poderosos con sus bonificaciones de especializaci\u00f3n y \u00e1rboles de ascenso para modelar tus ciudades y reforzar su lealtad.\n\n\u2022ALIANZAS MEJORADAS: un sistema avanzado de coaliciones permite formar alianzas y conseguir bonificaciones.\n\n\u2022EMERGENCIAS: cuando una civilizaci\u00f3n se vuelve demasiado poderosa, otras pueden pactar para acabar con ella y obtener recompensas o penalizaciones.\n\n\u2022CRONOLOG\u00cdA: repasa tu historia con esta funci\u00f3n, un viaje visual por los momentos hist\u00f3ricos en tu camino a la victoria.\n\n\u2022EFECTOS MEDIOAMBIENTALES: volcanes, tormentas de arena, ventiscas, cambio clim\u00e1tico, inundaciones y sequ\u00edas dan vida al mundo; lo que elija tu asentamiento ser\u00e1 muy importante para equilibrar riesgos y recompensas. \n\n\u2022ENERG\u00cdA Y RECURSOS CONSUMIBLES: los recursos estrat\u00e9gicos tienen se consumen ahora en plantas el\u00e9ctricas para generar energ\u00eda que necesitar\u00e1s generar en los edificios m\u00e1s avanzados quemando recursos de carbono, como el petr\u00f3leo y el carb\u00f3n, pero tambi\u00e9n desbloquear\u00e1s energ\u00edas renovables a medida que avances en las tecnolog\u00edas actuales. Tus elecciones sobre los recursos afectar\u00e1n a la temperatura del mundo y pueden hacer que los casquetes se derritan y suba el nivel del mar. \n\n\u2022DISE\u00d1O DE PROYECTOS: forma el mundo que rodea tu imperio para superar condiciones del terreno con canales, presas, t\u00faneles y ferrocarriles. Al fundar ciudades, no ignores el riesgo de inundaci\u00f3n de las zonas costeras, pero piensa que al final contar\u00e1s con nuevas tecnolog\u00edas para protegerlas.\n\n\u2022CONGRESO MUNDIAL: haz que tu voz se escuche. Gana Favor diplom\u00e1tico con alianzas, influye en las ciudades-estado, compite en los Juegos mundiales y muchas cosas m\u00e1s. \u00dasalo para que los dem\u00e1s l\u00edderes te hagan promesas, votar resoluciones, convocar una Sesi\u00f3n especial para solucionar una emergencia y aumentar el peso de tus votos para conseguir la victoria diplom\u00e1tica. \n\n\u2022PRINCIPIOS Y TECNOLOG\u00cdAS DEL SIGLO XXI: se a\u00f1adi\u00f3 una nueva \u00e9poca al \u00e1rbol tecnol\u00f3gico y de principios. Combate los nuevos efectos medioambientales reubicando la poblaci\u00f3n en ciudades flotantes y desarrollando tecnolog\u00edas para capturar emisiones de carbono.",
         "languages": null,
-        "size": 3666870272
+        "size": 3733979136
     },
     "70050000015201": {
         "id": "0100B6400CA57064",
@@ -17052,7 +17147,7 @@
         "intro": null,
         "description": "Este pack de contenido incluye a Menelik\u00a0II como l\u00edder de Etiop\u00eda. Esta naci\u00f3n se centra en las ciudades construidas en Colinas, en producir Fe y en usar la habilidad Consejo de Ministros de Menelik para impulsar la Ciencia y la Cultura. Incorpora adem\u00e1s el modo de juego Sociedades secretas, en el que los jugadores se encuentran con organizaciones misteriosas que ofrecer\u00e1n habilidades poderosas a su civilizaci\u00f3n.\n\nIncluye la civilizaci\u00f3n de Etiop\u00eda con Menelik\u00a0II, la unidad exclusiva de la Caballer\u00eda oromo y la mejora de casilla Iglesia tallada en la roca.\n\u2022\tHabilidad exclusiva de la civilizaci\u00f3n: Legado de Aksum. Las ciudades ganan Fe adicional por los recursos, y m\u00e1s cuando las rutas comerciales internacionales se originan en ciudades ricas en recursos. Etiop\u00eda puede adquirir Museos de arqueolog\u00eda y Arque\u00f3logos con Fe.\n\u2022\tHabilidad exclusiva del l\u00edder: Consejo de Ministros. Menelik\u00a0II obtiene m\u00e1s Cultura y Ciencia seg\u00fan la Fe que den las ciudades fundadas en Colinas. Sus unidades tambi\u00e9n reciben Fuerza de combate adicional cuando luchan en Colinas.\n\u2022\tUnidad exclusiva: la Caballer\u00eda oromo tiene Fuerza de combate y Visual mejoradas y no sufre penalizaciones al movimiento al desplazarse por Colinas.\n\u2022\tMejora de casilla exclusiva: la Iglesia tallada en la roca solo se puede construir en Colinas o Suelo volc\u00e1nico. Da Fe, y m\u00e1s Fe por Monta\u00f1as y Colinas. Los desastres naturales solo pueden saquearla, no destruirla.\n\nNuevo modo de juego Sociedades secretas (requiere el lote de expansi\u00f3n de Civilization VI)\n\u2022\tEs un modo de juego opcional y especializado con cambios de reglas exclusivos:\n\u2022\tA\u00f1ade cuatro sociedades secretas al juego.\n\u2022\tCada sociedad secreta ofrece a los jugadores un gobernador especializado que aplica sus bonificaciones en toda la civilizaci\u00f3n.\n\u2022\tLas sociedades secretas pueden ofrecer a los jugadores nuevos recursos, bonificaciones pasivas, unidades y edificios exclusivos o proyectos para conseguir los fines de estas.\n\u2022\tAprovecha que eres miembro de una para mejorar la disposici\u00f3n y las alianzas con otros l\u00edderes.\n\nNuevo distrito Barrio diplom\u00e1tico y nuevos edificios\n\u2022\tConstruye el Barrio diplom\u00e1tico, un distrito que solo se puede erigir una vez por civilizaci\u00f3n y se centra en las relaciones con el extranjero.\n\u2022\tMejora el Barrio diplom\u00e1tico construyendo los edificios del Consulado y la Canciller\u00eda.",
         "languages": null,
-        "size": 404750336
+        "size": 407896064
     },
     "70050000020785": {
         "id": "010044500C183007",
@@ -17083,7 +17178,7 @@
         "intro": null,
         "description": "El pack de los bizantinos y galos introduce a Basilio\u00a0II como l\u00edder de Bizancio y a Ambi\u00f3rix como l\u00edder de la Galia. El Imperio bizantino puede subyugar a los enemigos con su poder\u00edo religioso y militar, apoyado por dos unidades exclusivas: la Dr\u00f3mona y el Tagma. La horda gala se centra en la flexibilidad militar, reforzada por un esqueleto de Cultura y Producci\u00f3n con su distrito exclusivo del Oppidum. Incluye adem\u00e1s el nuevo modo de juego \u00c9pocas espectaculares, otro tipo de mapa (el Altiplano) y dos maravillas del mundo m\u00e1s (la Biosfera y la Estatua de Zeus).\n",
         "languages": null,
-        "size": 559939584
+        "size": 562036736
     },
     "70050000020786": {
         "id": "010044500C183006",
@@ -17114,7 +17209,7 @@
         "intro": null,
         "description": "El paquete de Babilonia introduce a Hammurabi liderando Babilonia. La civilizaci\u00f3n babil\u00f3nica destaca tanto en ciencia como en gobierno e infraestructura. Adem\u00e1s incluye el nuevo modo de juego H\u00e9roes y leyendas, dos mejoras (el Mahavihara y el Bazar abovedado), seis ciudades-estado m\u00e1s y 24 Grandes personajes nuevos.",
         "languages": null,
-        "size": 6291456
+        "size": 442499072
     },
     "70050000020787": {
         "id": "010044500C18300B",
@@ -18434,7 +18529,7 @@
     "70050000023321": {
         "id": "0100F2200C98501D",
         "rightsId": null,
-        "name": "Mileena",
+        "name": "Rain",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -18456,16 +18551,16 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/33f34df877faf96bd25b1e45e76bfa10692729b9bb1f8d83a3f2735b0824b206.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/316d307e6ffb75439824e76d876e0073205ff89aec1068696c78c66e5f22d963.jpg",
         "intro": null,
-        "description": "Mileena es el producto de los diab\u00f3licos experimentos de clonaci\u00f3n de Shang Tsung: la mezcla perfecta de la ferocidad tarkatana con la gracia atl\u00e9tica de Kitana. Al ser transportada al futuro por Kronika descubri\u00f3 su tr\u00e1gico destino: su breve reinado como la emperatriz del Mundo Exterior y su muerte a manos de D'Vorah y Kotal Kahn. Determinada a reclamar su trono, Mileena inici\u00f3 una nueva guerra civil en el Mundo Exterior. Sus enemigos deben someterse o morir\u00e1n.",
+        "description": "Como hu\u00e9rfano, las opciones de Rain eran limitadas. Para superarse, se uni\u00f3 al ej\u00e9rcito edeniano. Su genio estrat\u00e9gico le trajo fama y un ascenso r\u00e1pido. Rain aprovech\u00f3 su nueva posici\u00f3n para averiguar la identidad de sus padres biol\u00f3gicos. Qued\u00f3 sorprendido al descubrir que era el hijo bastardo del dios Argus, protector de Edenia. Argus lo abandon\u00f3 y mantuvo su paternidad oculta para evitar la verg\u00fcenza y el esc\u00e1ndalo. Ahora, sabiendo que es un semidi\u00f3s, Rain lucha por su lugar entre los dioses de Edenia. Si no se lo dan, lo tomar\u00e1 por la fuerza.",
         "languages": null,
         "size": 4194304
     },
     "70050000023322": {
         "id": "0100F2200C98501C",
         "rightsId": null,
-        "name": "Rain",
+        "name": "Mileena",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -18487,9 +18582,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/316d307e6ffb75439824e76d876e0073205ff89aec1068696c78c66e5f22d963.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/33f34df877faf96bd25b1e45e76bfa10692729b9bb1f8d83a3f2735b0824b206.jpg",
         "intro": null,
-        "description": "Como hu\u00e9rfano, las opciones de Rain eran limitadas. Para superarse, se uni\u00f3 al ej\u00e9rcito edeniano. Su genio estrat\u00e9gico le trajo fama y un ascenso r\u00e1pido. Rain aprovech\u00f3 su nueva posici\u00f3n para averiguar la identidad de sus padres biol\u00f3gicos. Qued\u00f3 sorprendido al descubrir que era el hijo bastardo del dios Argus, protector de Edenia. Argus lo abandon\u00f3 y mantuvo su paternidad oculta para evitar la verg\u00fcenza y el esc\u00e1ndalo. Ahora, sabiendo que es un semidi\u00f3s, Rain lucha por su lugar entre los dioses de Edenia. Si no se lo dan, lo tomar\u00e1 por la fuerza.",
+        "description": "Mileena es el producto de los diab\u00f3licos experimentos de clonaci\u00f3n de Shang Tsung: la mezcla perfecta de la ferocidad tarkatana con la gracia atl\u00e9tica de Kitana. Al ser transportada al futuro por Kronika descubri\u00f3 su tr\u00e1gico destino: su breve reinado como la emperatriz del Mundo Exterior y su muerte a manos de D'Vorah y Kotal Kahn. Determinada a reclamar su trono, Mileena inici\u00f3 una nueva guerra civil en el Mundo Exterior. Sus enemigos deben someterse o morir\u00e1n.",
         "languages": null,
         "size": 4194304
     },
@@ -18587,6 +18682,37 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/30af6919961c083b1ef852c4f5e8f02e3c237414b5bc48c3e1ba3cb5c9a45bac.jpg",
         "intro": "Objeto dentro del juego:  cuchara de la suerte",
         "description": "Esta es una de las armas que Link puede usar en el juego. Equ\u00edpala junto con la tapa de cacerola, o fusi\u00f3nala con otra arma para mejorarla.\n\n*Este objeto no estar\u00e1 disponible inmediatamente para los usuarios que adquieran la versi\u00f3n f\u00edsica del juego, pero podr\u00eda estar disponible m\u00e1s adelante como contenido de pago. ",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000024088": {
+        "id": "0100F2200C98501F",
+        "rightsId": null,
+        "name": "Paquete de Skins Pel\u00edcula kl\u00e1sica de MK",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201124,
+        "nsuId": 70050000024088,
+        "category": null,
+        "ratingContent": [
+            "Derramamiento de sangre",
+            "Violencia intensa",
+            "Lenguaje fuerte",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bb8fc73824c104c15e40c52cbdf645afa967bf0dd3e336b79ce439c707d72dba.jpg",
+        "intro": null,
+        "description": "Viaja de vuelta a los\u00a090 con este tributo a la pel\u00edcula original de MK. El Paquete de Skins Pel\u00edcula kl\u00e1sica de MK incluye la imagen y voces de los personajes de la pel\u00edcula de 1995. Christopher Lambert como Raiden Protector de la Tierra, Linden Ashby como Johnny Cage Kombatiente de Hollywood y Bridgette Wilson-Sampras como Sonya Blade Rumbo a la isla.",
         "languages": null,
         "size": 4194304
     },
@@ -20272,8 +20398,11 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd2b31900908fa299444d35836d4ae468c0462160e35d36cf218482ac4ffca9b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4524887798f608d939aaf41f8fbcd14e8e4bf826df2149b0b86abe90d236d9a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1082a43a1566dc88b875faca980969916b30976213b2d5c8636e18ab9ccfd6c2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b0d3f0ed1a2c1060f2731113633658fe66b8f13b8eed56f0610554b892b8fd69.jpg",
         "intro": "\u00a1Expande tu elenco de combatientes con el pase de combatientes VOL. 2 de Super Smash Bros.\u2122 Ultimate!",
         "description": "\u00a1Expande tu elenco de combatientes con el pase de combatientes vol. 2 de Super Smash Bros.\u2122 Ultimate para el juego Super Smash Bros.\u2122 Ultimate! Tras adquirir el pase de combatientes tendr\u00e1s acceso a contenido adicional que incluye seis combatientes jugables, m\u00e1s escenarios y temas musicales una vez que est\u00e9n disponibles. \u00a1Los combatientes adicionales incluyen a Min Min del juego ARMS\u2122 as\u00ed como a Steve y Alex de Minecraft\u2122!\n\nEl pase de combatientes VOL. 2 de Super Smash Bros. Ultimate es un set que incluye seis paquetes de combatientes.\n\nEl contenido del paquete de combatiente 8 hasta el paquete de combatiente 11 a\u00fan no han sido anunciado, pero se incluye con la compra de este pase de combatientes.\n\nEl paquete de combatiente 6 incluye a Min Min como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 7 incluye a Steve y Alex como combatiente jugable, un escenario y varias melod\u00edas.\n\nEn la compra de este pase de combatientes vol. 2 no se incluye el contenido del paquete de combatiente 1 hasta el paquete de combatiente 5 del anterior pase de combatientes para Super Smash Bros. Ultimate que se vende por separado.\n\n\n",
         "languages": null,
@@ -20440,7 +20569,7 @@
         "intro": null,
         "description": "Prosigue tu misi\u00f3n de crear el mayor imperio con Civilization VI - Pase de nuevas fronteras, que cuenta con ocho civilizaciones adicionales, nueve l\u00edderes m\u00e1s y gran variedad de contenido, incluidos seis nuevos modos de juego. El Pase de nuevas fronteras entregar\u00e1 seis packs de contenido descargable de manera bimestral entre mayo de 2020 y marzo de 2021, que incluyen:\n\n\u2022 Pack 1: pack de los mayas y la Gran Colombia. A\u00f1ade dos civilizaciones y dos l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s ciudades-estado, recursos y maravillas naturales. Disponible en mayo de 2020.\n\u2022 Pack 2: pack de Etiop\u00eda. A\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional*, un distrito y dos edificios m\u00e1s. Disponible en julio de 2020.\n\u2022 Pack 3: a\u00f1ade dos civilizaciones y l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s maravillas naturales y un mapa nuevo. Disponible en septiembre de 2020.\n\u2022 Pack 4: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s ciudades-estado y numerosos grandes personajes. Disponible en noviembre de 2020.\n\u2022 Pack 5: a\u00f1ade una civilizaci\u00f3n y dos l\u00edderes nuevos**, un modo de juego adicional, un distrito y dos edificios m\u00e1s. Disponible en enero de 2021.\n\u2022 Pack 6: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s maravillas del mundo y un mapa nuevo. Disponible en marzo de 2021. \n\n*Para jugar a este nuevo modo se requiere el lote de expansi\u00f3n de Civilization VI.\n**Para jugar con este l\u00edder nuevo se requiere el lote de expansi\u00f3n de Civilization VI.\n\nLos modos de juego pueden incluir contenido adicional \u2013como nuevas unidades, edificios o mejoras\u2013 y pueden activarse o desactivarse durante la configuraci\u00f3n de la partida para aplicar cambios importantes y de gran impacto en las reglas del juego.\n\nBonificaci\u00f3n exclusiva: packs de personalidades de Teddy Roosevelt y de Catalina de M\u00e9dici. Cada pack de personalidades contiene una aproximaci\u00f3n distinta a un l\u00edder favorito, con nuevos modelos, trasfondos y bonificaciones de juego y una agenda actualizada que refleja los cambios en la personalidad del l\u00edder. Los packs de personalidades est\u00e1n disponibles en exclusiva para quienes tengan el New Frontier Pass y se entregar\u00e1n con el segundo pack de a\u00f1adidos.",
         "languages": null,
-        "size": 1603272704
+        "size": 2051014656
     },
     "70070000010681": {
         "id": null,
@@ -20475,7 +20604,7 @@
         "intro": "\u00a1Lucha sin l\u00edmites!",
         "description": "El mundo de la WWE es tu campo de batalla. \u00danete a intensos combates arcade nunca vistos y haz que tus Superstars y leyendas preferidas luchen entre s\u00ed en peculiares entornos interactivos con un arsenal de movimientos, habilidades y potenciadores. \u00a1Libra tus combates preferidos, Steel Cage, Royal Rumble, Fatal 4-Way y muchos m\u00e1s, mientras Mauro Ranallo y Jerry \"The King\" Lawler comentan el caos!\nDesata el infierno con Stone Cold Steve Austin, reparte golpes a diestra y siniestra con la versi\u00f3n de The Rock de la Attitude Era y arma un buen esc\u00e1ndalo con Ronda Rousey. WWE 2K Battlegrounds Digital Deluxe Edition incluye tres versiones de cada Superstar, adem\u00e1s de la bonificaci\u00f3n de reserva: Edge. Tambi\u00e9n viene con 1100 Golden Bucks extra para desbloquear m\u00e1s leyendas y Superstars de la WWE.",
         "languages": null,
-        "size": 9366929408
+        "size": 9992929280
     },
     "70070000010881": {
         "id": null,
@@ -20719,7 +20848,7 @@
         "intro": null,
         "description": "\u00a1La experiencia MK11 definitiva! Juega como los protectores de la Tierra en 2\u00a0aclamadas historias donde el tiempo se distorsiona en una lucha para impedir que Kronika regrese el tiempo y reinicie la historia. Con el reparto completo de 37\u00a0luchadores, incluyendo a Rain, Mileena y Rambo.\n\nIncluye MK11, el Paquete\u00a0de\u00a0Kombate\u00a01, la expansi\u00f3n Aftermath y el Paquete\u00a0de\u00a0Kombate\u00a02.\n\n\u2022 Disfruta de las 2\u00a0historias aclamadas por la cr\u00edtica: MK11 y MK11: Aftermath\n\u2022 Juega como cada uno de los 37\u00a0personajes, incluyendo a los recientemente a\u00f1adidos Mileena, Rain y Rambo\n\u2022 Miles de skins, armas y equipo que te ofrecen un nivel de personalizaci\u00f3n sin precedentes\n\u2022 Incluye a todos los invitados previos: Terminator, el Guas\u00f3n, Spawn y RoboCop\n\u2022 Todos los modos, incluyendo las Torres del Tiempo, la Kripta, En l\u00ednea, Torres Kl\u00e1sicas, etc.\n\u2022 Todas las arenas, Fatalities de arena, Brutalities, y los ic\u00f3nicos Fatalities y Friendships",
         "languages": null,
-        "size": 34947989504
+        "size": 35071721472
     },
     "70070000011197": {
         "id": null,
