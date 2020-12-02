@@ -2346,7 +2346,7 @@
         "numberOfPlayers": 4,
         "rating": 16,
         "developer": null,
-        "publisher": "AwesomeIndustries",
+        "publisher": "Plot Twist",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1e317b4dc49c70357b74ca5d389dc9dca569a3eae330d3f9f590ff045565fb9a.jpg",
         "screenshots": [
@@ -3101,6 +3101,54 @@
             "zh"
         ],
         "size": 467664896
+    },
+    "70010000018022": {
+        "id": "0100B1A00D8CE000",
+        "rightsId": null,
+        "name": "DOOM\u00ae Eternal",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201208,
+        "nsuId": 70010000018022,
+        "category": [
+            "Sparatutto",
+            "Azione"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Bethesda",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b9ac599f7915b7c1bace5e22fae109d1c657b8b1848d984db2f6c3a818918cfd.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3369fd0d77e2859b085ec197b55d169a0313611306605db4dd9dbb652d2c9c24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bc43f02601c55714bc5f62260c2fedda63ec6c089bf52f163ef9289e5aa5744.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17dbf4726676a7dec8a5362f95a692222b1b4e68a2a851a6c1e7c705fe080077.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6edcf1c1ef3fbe458140bbb2e91cce8f02f40c500ef746726f2740b57819bc00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/500f18b19b7c68260eb18a0443bb1c5016188c50460eb821afe5113ab33f6198.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/09fde58766118f7aec9f6ff30f3a8d6e7ba37ace336e79097643431c911d99c1.jpg",
+        "intro": "Incenerisci l\u2019Inferno",
+        "description": "DOOM\u00ae Eternal, titolo pluripremiato nonch\u00e9 \u201cuno dei migliori sparatutto in prima persona di sempre\u201d secondo GameRevolution, approda su Nintendo Switch. Sviluppato da id Software e Panic Button, DOOM Eternal \u00e8 il seguito diretto di DOOM\u00ae, premiato nel 2016 come miglior gioco d\u2019azione ai Game Awards. \n\nLe armate infernali hanno invaso la Terra. Vesti i panni dello Slayer in un\u2019epica campagna per giocatore singolo, sconfiggi i demoni attraverso le dimensioni e ferma la distruzione definitiva dell\u2019umanit\u00e0. L\u2019unica cosa che temono... sei tu. ",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 18796773376
     },
     "70010000018076": {
         "id": null,
@@ -3964,7 +4012,7 @@
         "numberOfPlayers": 6,
         "rating": 3,
         "developer": null,
-        "publisher": "Acram",
+        "publisher": "Acram Digital",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0610c85b4037129fe12fed5147066b213bd11f2b4d7a737559b6f536efd395f6.jpg",
         "screenshots": [
@@ -7226,7 +7274,7 @@
             "ru",
             "zh"
         ],
-        "size": 2993684480
+        "size": 2594177024
     },
     "70010000022994": {
         "id": null,
@@ -13916,7 +13964,7 @@
             "it",
             "ru"
         ],
-        "size": 2196766720
+        "size": 2409627648
     },
     "70010000028702": {
         "id": "0100AAD011592000",
@@ -29684,7 +29732,7 @@
             "de",
             "it"
         ],
-        "size": 660602880
+        "size": 749731840
     },
     "70010000033084": {
         "id": "0100A1F012948000",
@@ -32175,7 +32223,7 @@
             "ko",
             "zh"
         ],
-        "size": 1317011456
+        "size": 1434451968
     },
     "70010000033619": {
         "id": "01005BC012C66000",
@@ -34751,6 +34799,46 @@
             "en"
         ],
         "size": 216006656
+    },
+    "70010000034319": {
+        "id": "0100CAB012FCC000",
+        "rightsId": null,
+        "name": "Dungeon Limbus",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201221,
+        "nsuId": 70010000034319,
+        "category": [
+            "Gioco di ruolo (RPG)",
+            "Avventura",
+            "Azione",
+            "Strategia"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "TROOOZE",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c8d7281786fd191d2b7ae06ff332e99cfc3c1ff8d1073dbbb61bc86f4947d3e2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/56c60e3fa66ba976ee634dfc77479a502ead6fbc955ab777cf185a724bb7625b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/57091fb7f72682ca08a15887124818ca9d987fa34d487b249d3cf5ebd54d22b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04e070aaeb7d98408f41232cd42e54a804513fb9a151cadce2f4a0b3b307e61d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c34485f15bf043491d9ff81187483bd24d01a1b7f02e84592979bfbe3b30a05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e9a56fc7a04fadb5f73cd384841a0e8c6c87e90bedc967751f0b9ff68c1949c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b01b06ce6b8876f8dc6ad75145aee18360a460aa6ac449251e12082cc7bc83c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/818b6befab538cdf6e21f66ce0640ef5e91f6c2fc9030549cbe7e3700714782b.jpg",
+        "intro": "Pixel art! Classic Roguelike! tile maps and turns! Infinite dungeon randomly generated! Interesting collection elements and multi-endings to grow villages & weapon!",
+        "description": "A young woman who manages a mysterious blacksmith's shop and a village of resurrection that she meets on the border between death and life.\nAdventure deep into the dungeon in search of lost memories.\nRepeated deaths will make you stronger.\n\n1. Different spaces between death and life\nA mysterious world that stays for a while between death and resurrection.\nThis blacksmith living in a different space will hand over his weapons to you.\nYou can make stronger weapons with the crystal collected in the dungeon.\nYou can request weapons in advance for the next generation.\nAiming to clear various quests\nPlease decide the goal of the play.\n\n2. Growing village together\nWhen rescued the peoples in dungeon you can enjoy more food.\nWe hire friends with special abilities.\nYou can also develop new magic skills.\nThe growth of the village will lead to your growth.\n\n3. Strategic play using magic skills\nA variety of magical skills that add strategic features to the turn-based game.\nYou can move immediately across walls or install traps.\nYou can attack enemies at long distances or move fast.\nIt's not a simple recovery and attack, but a variety of magical skills.\nEnjoy strategic play.\n\n4. Support for your peers\nThey opened the locked door,\nand they lit up the lights,\nThey look for stairs, etc.\nWe've got a lot of different capabilities.\nYou can hire up to three people.\nBy combining your peers, you can play strategically for yourself.\n\nThe Dungeon Limbus is a turn-Roguelike\nLet's capture the dungeon while growing the village and its weapons through repeated deaths.\n\u00b7It's Simple play of turn-only operation performed on tile maps\n\u00b7Character growth through equipment and weapons production\n\u00b7Use of friends, magic skills, and cooking through the village card deck configuration\n\u00b7Fun differently every time with random maps of various themes\n\u00b7Strategic battle with giant bosses with battle patterns\n\u00b7Collection elements and multi-endings that you can enjoy for a long time\n\nEven if you die, you will come back to life again...\nIs this a blessing or a curse?\nGo on an adventure now to find the answer!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 392167424
     },
     "70010000034331": {
         "id": "01007FC012FD4000",
@@ -54229,6 +54317,60 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000022583": {
+        "id": "0100B1A00D8CF003",
+        "rightsId": null,
+        "name": "DOOM\u00ae Eternal (Campaign)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201208,
+        "nsuId": 70050000022583,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Bethesda",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/09fde58766118f7aec9f6ff30f3a8d6e7ba37ace336e79097643431c911d99c1.jpg",
+        "intro": "Incenerisci l\u2019Inferno",
+        "description": "DOOM\u00ae Eternal, titolo pluripremiato nonch\u00e9 \u201cuno dei migliori sparatutto in prima persona di sempre\u201d secondo GameRevolution, approda su Nintendo Switch. Sviluppato da id Software e Panic Button, DOOM Eternal \u00e8 il seguito diretto di DOOM\u00ae, premiato nel 2016 come miglior gioco d\u2019azione ai Game Awards.\n\nLe armate infernali hanno invaso la Terra. Vesti i panni dello Slayer in un\u2019epica campagna per giocatore singolo, sconfiggi i demoni attraverso le dimensioni e ferma la distruzione definitiva dell\u2019umanit\u00e0. L\u2019unica cosa che temono... sei tu.\n\nCARATTERISTICHE:  \n\nMinaccia Slayer al livello massimo\nProva la combinazione suprema di velocit\u00e0 e potenza in DOOM Eternal, l\u2019innovativo sparatutto in prima persona basato sul motore grafico idTech 7. Armato di lanciafiamme da spalla, lama da polso, armi da fuoco potenziate, nuove abilit\u00e0 e tanto altro, sei lo sterminatore di demoni pi\u00f9 implacabile mai esistito.\n\nCombattimento incalzante\nPrendi ci\u00f2 di cui hai bisogno dai tuoi nemici. Recupera salute dai demoni con le uccisioni epiche, inceneriscili per ottenere armatura e falli a fette con la motosega per far scorta di munizioni. \n\nMira con giroscopio disponibile\nMigliora la tua mira con un\u2019opzione che ti consente di sfruttare la funzione giroscopica dei controller. L\u2019opzione pu\u00f2 essere usata insieme allo stick del Joy-Con, per una perfetta combinazione di immersione e precisione.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022584": {
+        "id": "0100B1A00D8CF001",
+        "rightsId": null,
+        "name": "DOOM\u00ae Eternal: Rip and Tear Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201222,
+        "nsuId": 70050000022584,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Bethesda",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0fc70497cfb63d51952383d18627a1a1619f9ec7dbcc7e5d5250fd24bf1caa3b.jpg",
+        "intro": null,
+        "description": "Incenerisci l\u2019Inferno con il pacchetto Rip and Tear e ottieni oggetti estetici nel gioco oltre ad altri contenuti per singolo giocatore. Il pacchetto contiene:\n\n-Skin DOOT Revenant da usare in BATTLEMODE\n\n- Livello Master \u201cBase dei seguaci\u201d- Una versione speciale del livello della campagna \u201cBase dei seguaci\u201d, con nuove sfide e sorprese\n\n- Skin arma \u201cFlashback\u201d per il fucile- Usa il fucile classico di DOOM per sbaragliare le orde dei demoni",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000022588": {
         "id": null,
         "rightsId": null,
@@ -62766,6 +62908,39 @@
         "description": "Summer 2020 includes:\n\n- Free Pack with one, bigger image - 96 and 150 pieces! \n- Ocean Views with 5 beautiful aquatic views.\n- Mountains Pack with 10 stunning landscapes. \n- Special Square Pack with square puzzle and 3 unusual shapes of images and 10 new arts.\n\nPuzzle Book is fun for everyone! It\u2019s great for children and also for adults! The controls are very simple - use Joy-Con\u2122 or just simply touch the screen! It can also connect generations, share Joy-Con\u2122 with someone and start doing puzzles together on one console! \n",
         "languages": null,
         "size": 41943040
+    },
+    "70070000011030": {
+        "id": null,
+        "rightsId": null,
+        "name": "DOOM\u00ae Eternal",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201208,
+        "nsuId": 70070000011030,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Bethesda",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3369fd0d77e2859b085ec197b55d169a0313611306605db4dd9dbb652d2c9c24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bc43f02601c55714bc5f62260c2fedda63ec6c089bf52f163ef9289e5aa5744.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17dbf4726676a7dec8a5362f95a692222b1b4e68a2a851a6c1e7c705fe080077.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6edcf1c1ef3fbe458140bbb2e91cce8f02f40c500ef746726f2740b57819bc00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/500f18b19b7c68260eb18a0443bb1c5016188c50460eb821afe5113ab33f6198.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/09fde58766118f7aec9f6ff30f3a8d6e7ba37ace336e79097643431c911d99c1.jpg",
+        "intro": "Incenerisci l\u2019Inferno",
+        "description": "DOOM\u00ae Eternal, titolo pluripremiato nonch\u00e9 \u201cuno dei migliori sparatutto in prima persona di sempre\u201d secondo GameRevolution, approda su Nintendo Switch. Sviluppato da id Software e Panic Button, DOOM Eternal \u00e8 il seguito diretto di DOOM\u00ae, premiato nel 2016 come miglior gioco d\u2019azione ai Game Awards.\n\nLe armate infernali hanno invaso la Terra. Vesti i panni dello Slayer in un\u2019epica campagna per giocatore singolo, sconfiggi i demoni attraverso le dimensioni e ferma la distruzione definitiva dell\u2019umanit\u00e0. L\u2019unica cosa che temono... sei tu.\n\nCARATTERISTICHE:  \n\nMinaccia Slayer al livello massimo\nProva la combinazione suprema di velocit\u00e0 e potenza in DOOM Eternal, l\u2019innovativo sparatutto in prima persona basato sul motore grafico idTech 7. Armato di lanciafiamme da spalla, lama da polso, armi da fuoco potenziate, nuove abilit\u00e0 e tanto altro, sei lo sterminatore di demoni pi\u00f9 implacabile mai esistito.\n\nCombattimento incalzante\nPrendi ci\u00f2 di cui hai bisogno dai tuoi nemici. Recupera salute dai demoni con le uccisioni epiche, inceneriscili per ottenere armatura e falli a fette con la motosega per far scorta di munizioni. \n\nMira con giroscopio disponibile\nMigliora la tua mira con un\u2019opzione che ti consente di sfruttare la funzione giroscopica dei controller. L\u2019opzione pu\u00f2 essere usata insieme allo stick del Joy-Con, per una perfetta combinazione di immersione e precisione.\n\nArriva BATTLEMODE\nUna nuova esperienza multigiocatore 2 vs 1 mette l'uno contro gli altri un DOOM Slayer armato fino ai denti e due demoni controllati da giocatori, che si affronteranno in uno scontro al meglio dei 5 round all\u2019insegna del combattimento in prima persona pi\u00f9 adrenalinico che esista.",
+        "languages": null,
+        "size": 18800967680
     },
     "70070000011041": {
         "id": null,

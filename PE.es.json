@@ -3182,7 +3182,7 @@
             "fr",
             "pt"
         ],
-        "size": 149946368
+        "size": 150994944
     },
     "70010000013359": {
         "id": "0100A4400BE74000",
@@ -6732,7 +6732,7 @@
         "size": 8876195840
     },
     "70010000028643": {
-        "id": null,
+        "id": "01006DC010326000",
         "rightsId": null,
         "name": "BRAVELY DEFAULT\u2122 II",
         "version": null,
@@ -6755,7 +6755,7 @@
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
-        "iconUrl": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2aad4ebaefb3103c9322d54ec8fdda2a62c814beedcbf45a104d9a7ababae1ab.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/c81531cbc6509556ea8b30a603fc10010c46948b0c97b4c06dca9938f7159be5.jpg",
             "https://img-eshop.cdn.nintendo.net/i/6c49fff3d64fb37f6840a685241e03761eb1d0499ede44700f9bf6493632b961.jpg",
@@ -6778,7 +6778,7 @@
             "zh",
             "zh"
         ],
-        "size": 0
+        "size": 13319012352
     },
     "70010000028673": {
         "id": "010075701153A000",
