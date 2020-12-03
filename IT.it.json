@@ -3457,7 +3457,7 @@
             "de",
             "it"
         ],
-        "size": 14346616832
+        "size": 15128854528
     },
     "70010000018568": {
         "id": "0100E8200DAF4000",
@@ -4123,6 +4123,53 @@
         ],
         "size": 931135488
     },
+    "70010000019601": {
+        "id": "010006800E13A000",
+        "rightsId": null,
+        "name": "Chronos: Before the Ashes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201201,
+        "nsuId": 70010000019601,
+        "category": [
+            "Arcade",
+            "Avventura"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "THQ Nordic",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/013c47688768d21a0e742c9f27c929d2363c149074f6117d0cb7927f713ccd12.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fb206ba400dc87092a36c2d42ff786921aaf220e11b6918eee6708333277b68e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14784ee8c97c1ac5b07d356c7d6ffc12e36ef48ba073f77fd9dc6d9529e3b2ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ff46f6bed20824004a0122b38b298434712a69d70cdcbd72d6ff73c9df5965b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9414cb8afba6e6dcecd207c40b4dc77e1528fb7b638bedfefd9ce8bdfc5456ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22bfa439d649d6b12638d43ab35f4cda4428b1ec50e8c139f65757048d8a110e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a6fce72f039b97d43ce04b695e1f4cf0b91adbdd963ddd931f0de83890be736d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2b6f12b50d52e174e374faa4c55c8071d595c4218e3c435ec57a129403a45310.jpg",
+        "intro": null,
+        "description": "Chronos: Before the Ashes \u00e8 un gioco di ruolo immersivo nel quale seguirai la vita di un eroe che si batte per proteggere la propria terra dal male. Diventa pi\u00f9 forte, saggio e potente esplorando le profondit\u00e0 del misterioso labirinto. Ma ricorda, l'esplorazione del labirinto comporta sacrifici: ogni volta che l'eroe muore, invecchier\u00e0 di un anno!\n\nAvventura RPG: una coinvolgente combinazione di elementi di esplorazione con meccaniche di gioco di ruolo.\n\nProfondo sistema di combattimento: scopri una grande variet\u00e0 di armi, abilit\u00e0 e poteri nel corso dell'avventura. \n\nUnica meccanica di invecchiamento: ogni volta che il giocatore muore, invecchia di un anno. All'inizio della partita l'eroe \u00e8 giovane e scattante, ma col progredire del gioco diventer\u00e0 pi\u00f9 saggio e affine alla magia.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 2941255680
+    },
     "70010000019739": {
         "id": "010089D00E28A000",
         "rightsId": null,
@@ -4505,7 +4552,7 @@
             "de",
             "ru"
         ],
-        "size": 5326766080
+        "size": 10596909056
     },
     "70010000020157": {
         "id": null,
@@ -14772,9 +14819,11 @@
             "Multiplayer",
             "Strategia"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza implicita"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "QUByte Interactive",
         "frontBoxArt": null,
@@ -23289,9 +23338,11 @@
             "Sparatutto",
             "Arcade"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "HAMSTER",
         "frontBoxArt": null,
@@ -23981,9 +24032,11 @@
             "Multiplayer",
             "Azione"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza implicita"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "QUByte Interactive",
         "frontBoxArt": null,
@@ -28677,9 +28730,11 @@
             "Educativo",
             "Gioco di ruolo (RPG)"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Red Octopus",
         "frontBoxArt": null,
@@ -29540,7 +29595,7 @@
             "https://img-eshop.cdn.nintendo.net/i/c9c6a2d2364d61eeed9e3d036d17592fd67ec864aaf2dc28c3568fb35993d894.jpg",
             "https://img-eshop.cdn.nintendo.net/i/1fbfcaeca377bffa701e6427bb43ca7a0d68261a06f27b56b94c9d004cbc760d.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/97a880641c43ea68f93c19f6dd0ece2b9bc2a532ab90604c8903c03fb6670cb7.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d44c02199ef2338aa0267c59ed39c858c2843e3b200c7de86df268e9f3a65ec2.jpg",
         "intro": "Competi con la famiglia e gli amici nel gioco di scacchi pi\u00f9 epico mai realizzato",
         "description": "Sei pronto a diventare un campione? Scegli il tuo eroe e sfida altri giocatori in questo gioco per famiglie con un vivace stile cartone animato. Allena la mente e rinforza il legame con i tuoi cari allo stesso tempo!\n\nIn questo mondo fantastico, uno degli eroi coraggiosi guida il tuo esercito di scacchi verso la vittoria.\n\nBrawl Chess permette a grandi e piccoli di divertirsi insieme in un gioco multiplayer, e insieme la modalit\u00e0 giocatore singolo far\u00e0 divertire i giocatori di qualunque et\u00e0. Ci sono 5 livelli di difficolt\u00e0. Il primo \u00e8 ottimo per insegnare ai bambini a giocare. Il quinto \u00e8 adatto ai veterani degli scacchi che sono alla ricerca di una sfida seria.\nBrawl Chess collega generazioni in un multiplayer, ma un singolo giocatore far\u00e0 anche appello a giocatori di tutte le et\u00e0. Ci sono 5 livelli di difficolt\u00e0. Il primo \u00e8 ottimo per i bambini di imparare. Il quinto \u00e8 adatto ai veterani degli scacchi che sono alla ricerca di una sfida seria.\nCaratteristiche principali:\nMULTIPLAYER LOCALE. La tua famiglia adorer\u00e0 assolutamente questa versione di scacchi. Hai voglia di una divertente competizione tra genitori e figli? \u00c8 possibile. Invita anche i nonni, sicuramente conoscono le regole\nKIDS-friendly. \u00c8 un gioco per tutta la famiglia, facile da imparare e allegro. Gioca a prescindere dall'et\u00e0. Grazie al vivace stile cartoon, anche i bambini si uniranno al divertimento.\nALLENAMENTO DEL CERVELLO. Ma in modo divertente! Brawl Chess ha un aspetto moderno pur essendo uno dei giochi pi\u00f9 antichi e popolari al mondo con tutti i suoi vantaggi. Aumenta il QI, migliora le capacit\u00e0 aritmetiche, insegna il pensiero analitico e critico. Allenati per usare entrambi gli emisferi del cervello.\nINCREMENTO DELLA CREATIVIT\u00c0. Il divertimento non deve finire dopo aver spento la console. Quando il padre gioca come un fantasma e il figlio gioca come un principe, possono impersonare questi personaggi dopo la fine della partita e proseguire il divertimento!",
         "languages": [
@@ -36286,7 +36341,6 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ebbf4606a32f539a1ff3066f4ffacb5808aff246724aaa88fce51f291c0c6414.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/a4945da77adb544e8418e590d0cb6b36ea08cab7925ee765836150643a155694.jpg",
             "https://img-eshop.cdn.nintendo.net/i/db49bc5a5e4132e369f8dddb24539e3ab7c5d9df34998a0b41e7e59826ef9a10.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b72d0ff60dad6ed870e8d65bf626bd0213eb28f5b4a718da2892d73162a454ee.jpg",
             "https://img-eshop.cdn.nintendo.net/i/4b150f9ba9ce491998bd8d36280bf3c978c539984ee4cdcaa56ab63dd40a37ba.jpg",
@@ -38690,6 +38744,46 @@
         ],
         "size": 170917888
     },
+    "70010000035157": {
+        "id": "010099E013430000",
+        "rightsId": null,
+        "name": "Void Source",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201228,
+        "nsuId": 70010000035157,
+        "category": [
+            "Sparatutto",
+            "Azione",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "TERNOX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fb978d00a4fab7cf61f195eeb33c0a340263b106657d6767f8514839a43867cb.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bd440e3f4804d573f559238e744a02342165d48d42db86b3bad6255f58485496.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d61519be4847b93fbe5f35783c4379c7514488bae19b02bf102c8e2b846b0ba3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c2451d7f329334c496c49a69755ecf51ea88e337530203fe35451693b13f5a5c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d5e0bf0eb539f0d32c0c776f0d245acd5e229f488610eadc4e6e5e6a5dded48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6cb917ae1540badd7637255fab8939f25d14ec9d18ad53df93865a0a739649ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/089f58d30891056500d9878ea6f07c1041033a20a942a91c7d07924e0765f236.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fe17bc5585bf3eef3bf6d43673a8d1dd6e67eef125a17b2c1fe483e5c486e4bf.jpg",
+        "intro": "Classic multi-directional (360\u00b0) shoot 'em up. Navigate your UFO through hazardous environments with dangerous enemies and beat huge bosses!",
+        "description": "Features:\n- Levels full of non-stop action, including highly hazardous environments: Underwater, Volcano, Space, Dark Cave, Railroad\n- Huge bosses that pack a punch. Boss rush extra mode.\n- Optional scanline screen FX, as seen in trailer.\n25 weapons (two same weapons stack up to higher power).\n- Dozens of new weapons, developed via technology tree between the levels.",
+        "languages": [
+            "ja",
+            "en",
+            "ru"
+        ],
+        "size": 250609664
+    },
     "70010000035238": {
         "id": "01005300128E2000",
         "rightsId": null,
@@ -39418,7 +39512,7 @@
             "it",
             "ru"
         ],
-        "size": 872415232
+        "size": 878706688
     },
     "70010000035441": {
         "id": "01001EC013576000",
@@ -40595,10 +40689,10 @@
             "Avventura"
         ],
         "ratingContent": [
-            "Violenza moderata"
+            "Violenza contenuta"
         ],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 12,
         "developer": null,
         "publisher": "QubicGames",
         "frontBoxArt": null,
@@ -40772,7 +40866,7 @@
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/42ac46f2ed09bddaa8e14e821ddfbe35a9b08decb5f682d819f16b54e4148e01.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/1ea6e1ed0c478ac5aa72130b07d25b4b620ee717d15c51db09c40d372bccc0f4.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/1fd77e5bce3a0e0b49eed8d0cc9c1038c4655e2e529c4cbb6210988efdb37952.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e28acc7fb590151bc770d88c7ed3b5a1498ecee3b9e5276d6476e7f67ea68cc4.jpg",
             "https://img-eshop.cdn.nintendo.net/i/d4215dbd317a259adc2b76ba36eaced89b1169648246ffdb70466a5aa3ae2405.jpg",
             "https://img-eshop.cdn.nintendo.net/i/a1f385f7a24afc9d9540c73455bc8045aab41561a51815d888be9984a08bdd55.jpg",
             "https://img-eshop.cdn.nintendo.net/i/134b7f595dcab2f6b12a25b6b40bcd6796005ffa3145acd71d88fce2bfd6c814.jpg"
@@ -42420,6 +42514,34 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00089c9d44c19eeb86ad3b1c3c0b81457ee4c97b70876c1a933d380815b8d95d.jpg",
         "intro": null,
         "description": "Descend Beyond \u00e8 un nuovo capitolo di Dead by Daylight, contenente un killer (la Piaga) e un sopravvissuto (Felix Richter). Acquistando il DLC, sbloccherai il nuovo killer, il nuovo sopravvissuto e un oggetto esclusivo: la giacca Eleganza internazionale di Felix.\n\nIl nuovo killer \u00e8 la Piaga, un geniale e ambizioso alchimista che desiderava potenziare il genere umano usando uno dei suoi potenti composti. Un'ambizione che lo rese schiavo della ricerca. Quando gli venne sottratta, la Piaga fin\u00ec nel regno dell'Entit\u00e0 con la promessa di nuove conoscenze proibite. Il nuovo sopravvissuto \u00e8 Felix Richter, architetto eccentrico e con una visione estrosa. Tornato sull'isola misteriosa dove scomparve suo padre, Felix si addentr\u00f2 in un'oscurit\u00e0 ultraterrena da cui non fece mai ritorno.  ",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000012258": {
+        "id": null,
+        "rightsId": null,
+        "name": "Dead by Daylight: Capitolo A Nightmare on Elm Street\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201201,
+        "nsuId": 70050000012258,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Behaviour Interactive",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa0654aa28a2edfd5e5f49745ace6e676a521450c0c7168aaf0ebcb1b23a0586.jpg",
+        "intro": null,
+        "description": "Chi l'avrebbe mai detto che i sogni possono fare davvero male? Un male fisico che causa dolore? Paura e sofferenza hanno origine da un'anima sfregiata che cerca vendetta per una punizione meritata. Che tu sia sveglio o dorma, Freddy Krueger non verr\u00e0 mai dimenticato.\n\nA Nightmare on Elm Street \u00e8 un capitolo di Dead by Daylight. Include un nuovo killer, un nuovo sopravvissuto e una nuova mappa.",
         "languages": null,
         "size": 4194304
     },
@@ -61533,6 +61655,34 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000024308": {
+        "id": null,
+        "rightsId": null,
+        "name": "Dead by Daylight: A BINDING OF KIN",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201201,
+        "nsuId": 70050000024308,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Behaviour Interactive",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5e42404109893d115d7844c8e7c6c811cd5ee9c094c83b37586414e81d9c5fd1.jpg",
+        "intro": null,
+        "description": "A Binding of Kin \u00e8 un nuovo capitolo di Dead by Daylight. Include un killer eccezionale composto da due personaggi: i Gemelli (Charlotte e Victor) e una sopravvissuta, \u00c9lodie Rakoto. Acquistando il DLC sbloccherai il nuovo killer, il nuovo sopravvissuto e un oggetto esclusivo per il sopravvissuto: la maglia crepuscolo di \u00c9lodie.\n\nIl nuovo killer scende in campo in coppia: Charlotte e Victor Deshayes, gemelli siamesi della Francia del 17\u00b0 secolo, avevano un legame emotivo come nessun altro. Dopo una vita di sofferenze e difficolt\u00e0, l'Entit\u00e0 aveva tramutato il loro amore fraterno in qualcosa di terrificante. La nuova sopravvissuta \u00e8 \u00c9lodie Rakoto. Astuta e tenace, \u00c9lodie Rakoto trascorse tutta la vita tentando di fare luce sulla scomparsa dei suoi genitori finch\u00e9, pervasa dal dolore e dal senso di colpa, si spinse nel mondo dell'occulto alla ricerca delle risposte che cercava. ",
+        "languages": null,
+        "size": 4194304
+    },
     "70070000010486": {
         "id": null,
         "rightsId": null,
@@ -63266,7 +63416,35 @@
         "intro": null,
         "description": "Passa alla Deluxe Edition e ottieni il Mobster Pack, che include quattro gangster reclutabili e giocabili, il Golden Weapon Set, che contiene tre skin arma esclusive pi\u00f9 gli effetti sonori della pistola \"Romero\" e l'animazione unica dell'esecuzione del boss, la Curb Stomp Execution.\n\nEmpire of Sin \u00e8 un nuovo gioco di strategia offerto da Romero Games e Paradox Interactive che ti trasporta nel cuore dello spietato mondo criminale all'epoca del proibizionismo nella Chicago del 1920. Calati nei panni di uno dei quattordici storici boss mafiosi come Al Capone, Stephanie St. Clair o Goldie Garneau e metti insieme una banda di gentaglia, crea e gestisci il tuo impero criminale e difendi il tuo territorio dalle bandi rivali. Sta a te scegliere se aprirti la strada per la vetta a suon di truffe, intimidazioni e buon uso del carisma e fare qualsiasi cosa serva per restarci... In bocca al lupo!",
         "languages": null,
-        "size": 5330960384
+        "size": 10601103360
+    },
+    "70070000011111": {
+        "id": null,
+        "rightsId": null,
+        "name": "Empire of Sin - Expansion Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201201,
+        "nsuId": 70070000011111,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "ParadoxInteractive",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2a0ef885c2045e2d9bd95d42379ee4236faf2a0d08197c190c18ab366e33d35b.jpg",
+        "intro": null,
+        "description": "Con l'Expansion Pass i giocatori hanno accesso a due espansioni post-lancio e ottengono subito lo stiloso costume Pelliccia di Al Capone. ",
+        "languages": null,
+        "size": 12582912
     },
     "70070000011112": {
         "id": null,
@@ -63370,7 +63548,7 @@
         "intro": null,
         "description": "La Premium Edition d\u00e0 accesso a tutti i contenuti della Deluxe Edition, ossia il Mobster Pack, il Golden Weapon Set e l'uccisione Curb Stomp Execution, pi\u00f9 due espansioni post-lancio e lo stiloso costume Pelliccia di Al Capone.\n\nEmpire of Sin \u00e8 un nuovo gioco di strategia offerto da Romero Games e Paradox Interactive che ti trasporta nel cuore dello spietato mondo criminale all'epoca del proibizionismo nella Chicago del 1920. Calati nei panni di uno dei quattordici storici boss mafiosi come Al Capone, Stephanie St. Clair o Goldie Garneau e metti insieme una banda di gentaglia, crea e gestisci il tuo impero criminale e difendi il tuo territorio dalle bandi rivali. Sta a te scegliere se aprirti la strada per la vetta a suon di truffe, intimidazioni e buon uso del carisma e fare qualsiasi cosa serva per restarci... In bocca al lupo!",
         "languages": null,
-        "size": 5343543296
+        "size": 10613686272
     },
     "70070000011123": {
         "id": null,

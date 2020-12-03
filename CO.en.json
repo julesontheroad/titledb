@@ -2635,7 +2635,7 @@
         "developer": null,
         "publisher": "Epic Games",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3dc2515fd170f60ce85cb5dbb9f4a9cb5d9328dc7ee5996a2af755466752922f.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3aabc2abf3d3d4e8547a4c0233f34ad22eb4a1dd8a932bb469d025ac52cd825e.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/c38d3ec79655355192ecc06e0b415aba5229c048070bb54550d96b557ea56a6b.jpg",
             "https://img-eshop.cdn.nintendo.net/i/3ac367380e6b48c4420a6b5f6393179352d5943edc0b0e111c1b09c0a9fe74cf.jpg",
@@ -2644,9 +2644,9 @@
             "https://img-eshop.cdn.nintendo.net/i/0b79e705e7168c14f8b5103326fc2679451623a93bbf4f5d70b2fe0304b6610f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/a950fc699d39354c4af313e1f31577d63848b22e1d6d322b69218f6ee40ce74f.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bfe390b0a9da51f97add4cd72af143df2158143c0e74bd4c50d3ee556191951c.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/70b8573e004a6039f1f61622ff4e2ec2d293f16381932bc6b2d496cca573c5de.jpg",
         "intro": "Squad up and play the #1 Battle Royale game! ",
-        "description": "Drop into Fortnite Chapter 2 - Season 4: Nexus War and join forces with the Heroes and Villians of Marvel. Suit up as Iron Man, Thor, Storm and more as you prepare to stop Galactus, the Devourer of Worlds. Take on new super-powers, equip the Stark Industries Assault Rifle, and explore iconic locations from the world of Marvel.\n\nJump in to be the last one standing in the free 100-player Battle Royale. Build huge forts. Outwit your opponents. Earn your Victory. Squad up together online with friends in the same room or around the world!\n\n\u2022\tBUILD & DESTROY - Shape the battlefield by building your own cover. Opponent hiding behind a wall? Take out their cover to get the edge.\n\u2022\tGEAR UP - Board the battle bus and drop in on your favorite zone. Gather resources, collect gear, and battle your opponents!\n\u2022\tSQUAD UP WITH FRIENDS - Team up online with your friends around the world or in the same room!\n\u2022\tWEEKLY UPDATES & EVENTS -  Updates constantly fuel the fun with new gameplay modes, outfits, weapons and items.",
+        "description": "Jump in to be the last one standing in the free 100-player Battle Royale. Build huge forts. Outwit your opponents. Earn your Victory. Squad up together online with friends in the same room or around the world!\n\n\u2022\tBUILD & DESTROY - Shape the battlefield by building your own cover. Opponent hiding behind a wall? Take out their cover to get the edge.\n\u2022\tGEAR UP - Board the battle bus and drop in on your favorite zone. Gather resources, collect gear, and battle your opponents!\n\u2022\tSQUAD UP WITH FRIENDS - Team up online with your friends around the world or in the same room!\n\u2022\tWEEKLY UPDATES & EVENTS -  Updates constantly fuel the fun with new gameplay modes, outfits, weapons and items.",
         "languages": [
             "ja",
             "en",
@@ -2658,7 +2658,7 @@
             "ru",
             "ko"
         ],
-        "size": 13947109376
+        "size": 12056526848
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -5002,6 +5002,7 @@
         "intro": null,
         "description": "Hotline Miami Collection contains both legendary games in the neon-soaked, brutally-challenging Hotline Miami series from Dennaton Games. ",
         "languages": [
+            "ja",
             "en",
             "pt",
             "es",
@@ -5173,7 +5174,7 @@
         "numberOfPlayers": 1,
         "rating": 10,
         "developer": null,
-        "publisher": "En Masse Entertainment",
+        "publisher": "BonusXP",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4d454c00cb7e443423fd0400ba8def69e3d0c6ce97ba122e4b64db7da47555c0.jpg",
         "screenshots": [
@@ -6111,7 +6112,7 @@
             "pt",
             "fr"
         ],
-        "size": 13931380736
+        "size": 14684258304
     },
     "70010000027023": {
         "id": "0100DBF01000A000",
@@ -20554,7 +20555,7 @@
         "intro": "Super plays clash in soccer action game Captain Tsubasa!",
         "description": "The Deluxe Edition includes:\n- Captain Tsubasa: Rise of New Champions (full game)\n- Character Pass\n\nDeluxe Edition Bonus:\n- V Jump accessories\n\nCaptain Tsubasa: Rise of New Champions, based on the globally beloved anime series, is an action soccer game featuring the latest graphics and super plays anyone can enjoy.",
         "languages": null,
-        "size": 13977518080
+        "size": 14730395648
     },
     "70070000010923": {
         "id": null,

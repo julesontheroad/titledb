@@ -3457,7 +3457,7 @@
             "de",
             "it"
         ],
-        "size": 14346616832
+        "size": 15128854528
     },
     "70010000018568": {
         "id": "0100E8200DAF4000",
@@ -4123,6 +4123,53 @@
         ],
         "size": 931135488
     },
+    "70010000019601": {
+        "id": "010006800E13A000",
+        "rightsId": null,
+        "name": "Chronos: Before the Ashes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201201,
+        "nsuId": 70010000019601,
+        "category": [
+            "Arcade",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "THQ Nordic",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/013c47688768d21a0e742c9f27c929d2363c149074f6117d0cb7927f713ccd12.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fb206ba400dc87092a36c2d42ff786921aaf220e11b6918eee6708333277b68e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14784ee8c97c1ac5b07d356c7d6ffc12e36ef48ba073f77fd9dc6d9529e3b2ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ff46f6bed20824004a0122b38b298434712a69d70cdcbd72d6ff73c9df5965b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9414cb8afba6e6dcecd207c40b4dc77e1528fb7b638bedfefd9ce8bdfc5456ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22bfa439d649d6b12638d43ab35f4cda4428b1ec50e8c139f65757048d8a110e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a6fce72f039b97d43ce04b695e1f4cf0b91adbdd963ddd931f0de83890be736d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2b6f12b50d52e174e374faa4c55c8071d595c4218e3c435ec57a129403a45310.jpg",
+        "intro": null,
+        "description": "Chronos: Before the Ashes is an atmospheric RPG that chronicles a hero\u2019s lifelong quest to save their homeland from a great evil. Grow wiser, stronger and more powerful as you explore the depths of the mysterious labyrinth. But beware, the labyrinth takes a heavy toll \u2013 each time your hero dies, they lose a year of their life!\n\nAdventure RPG - Refreshing combination of Adventure Game elements and RPG mechanics.\n\nDeep Combat \u2013 A variety of weapons, abilities and powers are available to the player in the pursuit of their quest.\n\nUnique Aging Mechanic \u2013 Every time the player dies they age one year. Player\u2019s must adapt to their advancing age as they progress their character; starting the game young, nimble and quick, and ending wise and more attuned to magic.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 2941255680
+    },
     "70010000019739": {
         "id": "010089D00E28A000",
         "rightsId": null,
@@ -4505,7 +4552,7 @@
             "de",
             "ru"
         ],
-        "size": 5326766080
+        "size": 10596909056
     },
     "70010000020157": {
         "id": null,
@@ -14772,9 +14819,11 @@
             "Multiplayer",
             "Strategy"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Implied Violence"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "QUByte Interactive",
         "frontBoxArt": null,
@@ -23289,9 +23338,11 @@
             "Shooter",
             "Arcade"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "HAMSTER",
         "frontBoxArt": null,
@@ -23942,9 +23993,11 @@
             "Multiplayer",
             "Action"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Implied Violence"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "QUByte Interactive",
         "frontBoxArt": null,
@@ -28637,9 +28690,11 @@
             "Education",
             "RPG"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Red Octopus",
         "frontBoxArt": null,
@@ -36246,7 +36301,6 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ebbf4606a32f539a1ff3066f4ffacb5808aff246724aaa88fce51f291c0c6414.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/a4945da77adb544e8418e590d0cb6b36ea08cab7925ee765836150643a155694.jpg",
             "https://img-eshop.cdn.nintendo.net/i/db49bc5a5e4132e369f8dddb24539e3ab7c5d9df34998a0b41e7e59826ef9a10.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b72d0ff60dad6ed870e8d65bf626bd0213eb28f5b4a718da2892d73162a454ee.jpg",
             "https://img-eshop.cdn.nintendo.net/i/4b150f9ba9ce491998bd8d36280bf3c978c539984ee4cdcaa56ab63dd40a37ba.jpg",
@@ -38650,6 +38704,46 @@
         ],
         "size": 170917888
     },
+    "70010000035157": {
+        "id": "010099E013430000",
+        "rightsId": null,
+        "name": "Void Source",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201228,
+        "nsuId": 70010000035157,
+        "category": [
+            "Shooter",
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "TERNOX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fb978d00a4fab7cf61f195eeb33c0a340263b106657d6767f8514839a43867cb.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bd440e3f4804d573f559238e744a02342165d48d42db86b3bad6255f58485496.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d61519be4847b93fbe5f35783c4379c7514488bae19b02bf102c8e2b846b0ba3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c2451d7f329334c496c49a69755ecf51ea88e337530203fe35451693b13f5a5c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d5e0bf0eb539f0d32c0c776f0d245acd5e229f488610eadc4e6e5e6a5dded48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6cb917ae1540badd7637255fab8939f25d14ec9d18ad53df93865a0a739649ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/089f58d30891056500d9878ea6f07c1041033a20a942a91c7d07924e0765f236.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fe17bc5585bf3eef3bf6d43673a8d1dd6e67eef125a17b2c1fe483e5c486e4bf.jpg",
+        "intro": "Classic multi-directional (360\u00c2\u00b0) shoot 'em up. Navigate your UFO through hazardous environments with dangerous enemies and beat huge bosses!",
+        "description": "Features:\n- Levels full of non-stop action, including highly hazardous environments: Underwater, Volcano, Space, Dark Cave, Railroad\n- Huge bosses that pack a punch. Boss rush extra mode.\n- Optional scanline screen FX, as seen in trailer.\n25 weapons (two same weapons stack up to higher power).\n- Dozens of new weapons, developed via technology tree between the levels.",
+        "languages": [
+            "ja",
+            "en",
+            "ru"
+        ],
+        "size": 250609664
+    },
     "70010000035238": {
         "id": "01005300128E2000",
         "rightsId": null,
@@ -39335,7 +39429,7 @@
             "it",
             "ru"
         ],
-        "size": 872415232
+        "size": 878706688
     },
     "70010000035441": {
         "id": "01001EC013576000",
@@ -40512,10 +40606,10 @@
             "Adventure"
         ],
         "ratingContent": [
-            "Mild Violence"
+            "Moderate Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 12,
         "developer": null,
         "publisher": "QubicGames",
         "frontBoxArt": null,
@@ -42337,6 +42431,34 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00089c9d44c19eeb86ad3b1c3c0b81457ee4c97b70876c1a933d380815b8d95d.jpg",
         "intro": null,
         "description": "Descend Beyond is a new Chapter for Dead by Daylight. It includes a Killer, The Blight, and a Survivor, Felix Richter. Purchasing the add-on will unlock its new Killer, new Survivor, and an exclusive item for the survivor:  Felix's The World Class jacket.\n\nThe Blight, a bright and ambitious chemist who sought to enhance humanity through the use of his compounds, only to become a victim of his own ambitions, is the new Killer. After his research was stolen, The Blight was lured into the Realm of the Entity by the promise of new, forbidden knowledge. The new survivor is Felix Richter, an eccentric architect with a unique vision. Returning to the mysterious island where his father had disappeared, Felix descended into the darkness beyond and was never seen again. ",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000012258": {
+        "id": null,
+        "rightsId": null,
+        "name": "Dead by Daylight: A Nightmare on Elm Street\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201201,
+        "nsuId": 70050000012258,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Behaviour Interactive",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa0654aa28a2edfd5e5f49745ace6e676a521450c0c7168aaf0ebcb1b23a0586.jpg",
+        "intro": null,
+        "description": "Who would have thought that dreams could actually do harm? Physical, pain inducing harm? Fear and pain stemming from a scarred soul who seeks revenge for a punishment he deserved. Freddy Krueger will always be remembered - whether you are awake or asleep.\n\nA Nightmare on Elm Street is a Chapter for Dead by Daylight. It includes a new Killer, a Survivor and a Map.",
         "languages": null,
         "size": 4194304
     },
@@ -61450,6 +61572,34 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000024308": {
+        "id": null,
+        "rightsId": null,
+        "name": "Dead by Daylight: A BINDING OF KIN",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201201,
+        "nsuId": 70050000024308,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Behaviour Interactive",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5e42404109893d115d7844c8e7c6c811cd5ee9c094c83b37586414e81d9c5fd1.jpg",
+        "intro": null,
+        "description": "A Binding of Kin is a new Chapter for Dead by Daylight. It includes a unique Killer but 2 characters: The Twins (Charlotte & Victor), and a Survivor, \u00c9lodie Rakoto. Purchasing the add-on will unlock its new Killers, new Survivor, and an exclusive item for the Survivor: Elodie\u2019s Sunset Crop. \n\nThe new Killer comes as a pair: conjoined twins from 17th century France, Charlotte and Victor Deshayes formed an emotional bond like none other. After a life of hardship and suffering, The Entity has twisted their love for one another into something truly terrifying. The new Survivor is \u00c9lodie Rakoto. Cunning, smart, and resolute, \u00c9lodie Rakoto spent her life trying to uncover the mystery of her parents\u2019 disappearance. Grief-stricken and guilt-ridden, \u00c9lodie turned to the occult to find the answers she was looking for. ",
+        "languages": null,
+        "size": 4194304
+    },
     "70070000010486": {
         "id": null,
         "rightsId": null,
@@ -63149,7 +63299,35 @@
         "intro": "Find out just how far a kind word and a gun will get you.",
         "description": "Upgrade to the Deluxe Edition and receive access to the Mobster Pack which includes four recruitable and playable gangsters, the Golden Weapon Set that comes with three exclusive weapon skins plus \u201cRomero\u201d gun sound effects, and unique execution animation for your boss character - the Curb Stomp Execution.\n\nEmpire of Sin is a new strategy game brought to you by Romero Games and Paradox Interactive that puts you at the heart of the ruthless criminal underworld of 1920s Prohibition-era Chicago. Slip into the shoes of one of the fourteen real and historically inspired mob bosses such as Al Capone, Stephanie St. Clair or Goldie Garneau and assemble a rag-tag gang, build and manage your criminal empire, and defend your turf from rival gangs.\u00a0 It\u2019s up to you to hustle, charm and intimidate your way to the top and do whatever it takes to stay there - break a leg!",
         "languages": null,
-        "size": 5330960384
+        "size": 10601103360
+    },
+    "70070000011111": {
+        "id": null,
+        "rightsId": null,
+        "name": "Empire of Sin - Expansion Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201201,
+        "nsuId": 70070000011111,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "ParadoxInteractive",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2a0ef885c2045e2d9bd95d42379ee4236faf2a0d08197c190c18ab366e33d35b.jpg",
+        "intro": "Find out just how far a kind word and a gun will get you.",
+        "description": "The Expansion Pass grants players access to two post-launch expansions and instant access to the stylish Al Capone\u2019s Fur Coat costume. ",
+        "languages": null,
+        "size": 12582912
     },
     "70070000011112": {
         "id": null,
@@ -63253,7 +63431,7 @@
         "intro": "Find out just how far a kind word and a gun will get you.",
         "description": "The Premium Edition grants access to the base game and all Deluxe Edition content - the mobster pack, Golden Weapon set and Curb Stomp Execution kill - plus two post-launch expansions and the stylish Al Capone\u2019s Fur Coat costume.\n\nEmpire of Sin is a new strategy game brought to you by Romero Games and Paradox Interactive that puts you at the heart of the ruthless criminal underworld of 1920s Prohibition-era Chicago. Slip into the shoes of one of the fourteen real and historically inspired mob bosses such as Al Capone, Stephanie St. Clair or Goldie Garneau and assemble a rag-tag gang, build and manage your criminal empire, and defend your turf from rival gangs.  It\u2019s up to you to hustle, charm and intimidate your way to the top and do whatever it takes to stay there - break a leg!",
         "languages": null,
-        "size": 5343543296
+        "size": 10613686272
     },
     "70070000011123": {
         "id": null,
