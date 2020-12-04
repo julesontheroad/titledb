@@ -241,6 +241,51 @@
         ],
         "size": 8265924608
     },
+    "70010000001567": {
+        "id": null,
+        "rightsId": null,
+        "name": "DEEMO",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20170928,
+        "nsuId": 70010000001567,
+        "category": [
+            "Musica",
+            "Altro"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Flyhigh Works",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/554bf434f0e1d65bb085b0ff39989206c619c7aa9ade78abdea74d9dc1010fef.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bb510a87b8946354713d4d12f5bacd7156b20048aa9fd61cb9f68f2975871fb8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a617c5bd367aa1b20e11778d66071932af291ce1cba2764880b0cfe6928ae6f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/82735d76fec2cd69cfc53e723ef9b578782c32596338a567cfb9d34a3c2086f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb441c90de57ec53bd2e194bca94e293f3aad99218a210570aa0a0efb0c49362.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/90e171bcad5ca20daeab043a1ebba973522fbd1ebcb21482aded058307457d51.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b197acea6f7cf0be047fae8ad98a25f2c8994485142491892c2d602617ea0164.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/21f25185f920d13e28000ad553a43bada5497523df4391cc276b8190188dea21.jpg",
+        "intro": "\"Never left without saying goodbye.\"\nOne of the most memorable fantasy rhythm games now available on Nintendo Switch\u2122.",
+        "description": "\"Deemo\" is a simple rhythm game set in a fantasy world filled with beautiful imagery.\n\nTouch the \"notes\" that stream toward the screen in time with the music.\nThe system is easy to understand, and players are able to enjoy gameplay which resembles playing a piano.\n\nThere are over 200 pieces of music to choose from, with difficulty levels of EASY, NORMAL, and HARD.\nSuitable for rhythm game beginners and experienced players who need more of a challenge.\n\nMusic is created mostly by Taiwanese and Japanese composers, with a diverse selection of vocal and instrumental songs spanning a wide range of genres.\n\n[The Story]\nDeemo is a mysterious being who lives alone in a castle, playing the piano to itself.\nOne day, a little girl with no memory falls from the sky, breaking his solitude.\n\nDeemo feels compelled to help her get home to her world. \nWhile looking for a way to return her to the sky, Deemo notices a small sapling which grows the more music is played.\nIf Deemo is able to make it grow into a tree, tall enough so it would reach the window in the ceiling, she may just be able to get home.\n\nAs the two interact, Deemo learns what it means to have a friend.\nWhat awaits the two when the little girl regains her memory?\nThis is a slightly strange, touching tale.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "pt",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 3488612352
+    },
     "70010000002742": {
         "id": null,
         "rightsId": null,
@@ -3856,7 +3901,7 @@
             "zh",
             "zh"
         ],
-        "size": 1836056576
+        "size": 2339373056
     },
     "70010000018926": {
         "id": null,
@@ -7804,7 +7849,7 @@
             "zh",
             "zh"
         ],
-        "size": 1602224128
+        "size": 1823473664
     },
     "70010000023707": {
         "id": "01002E700F958000",
@@ -9719,7 +9764,7 @@
             "zh",
             "zh"
         ],
-        "size": 2183135232
+        "size": 2445279232
     },
     "70010000026474": {
         "id": "010063E0104BE000",
@@ -12097,6 +12142,55 @@
         ],
         "size": 640679936
     },
+    "70010000027876": {
+        "id": "0100382011002000",
+        "rightsId": null,
+        "name": "PixelJunk Eden 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201210,
+        "nsuId": 70010000027876,
+        "category": [
+            "Azione",
+            "Musica",
+            "Multiplayer",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Q-Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/37c7f24e43ab1ca72fad4fd03019ab4f586f2987e8be7c060365c45ad2272445.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2b7782255ff1d56012f4284a983eed2e39e5b55d3380a016d76b12af9d411ff7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4623aaa2e5e30e712713a29c13a7bbe199241ad08d2f8f15a92d995a0a1ef90.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/55d3ee81e2f3d6825a523edef10e25c593c98375d3d42d60eef991170635ac30.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40a171113eb6103a63456f80f3d900aad10b69c53d2b05addf9937961837f7d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a8b3bac22a0bebdf856ff88d8be229f6c33c7375a4686aaee34672380f2a9b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4998659bcd435adc59074f210e38bfd62b989db76b642749915b1b2e38fa1038.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b9ba20a0395b1d65e252f3a88f103f72849c5e84246c24a3899d22e89f2ff51.jpg",
+        "intro": "Salta, gira, oscilla ed esplora bellissimi mondi organici",
+        "description": "Dalla mente di Baiyon, creative director e compositore di paesaggi sonori ipnotici per i pluripremiati Pixeljunk Eden ed Eden Obscura, arriva Eden 2, un'esplorazione incentrata su vita, colore e collaborazione, in cui i Grimp rinvigoriscono e rivitalizzano il mondo a colpi di luminescenza, dipingendo su una lussureggiante tela mentre giocano.\nFai ritorno a questi spettacolari giardini in costante cambiamento e pieni di paesaggi e suoni psichedelici man mano che coltivi nuove piante e biomi, raccogli polline e aiuti i semi a germogliare nuove esotiche foglie e i fiori a sbocciare, il tutto su uno sfondo dinamico e vivace di effetti visivi suadenti e colorati.\nOscilla e gira da fili di seta, in modalit\u00e0 di gioco sia a giocatore singolo che cooperativa, con te e un amico che piroettate uno intorno all'altro in pennellate di luce e colore, mentre siete alla ricerca degli importantissimi \"Spectra\", la fonte di tutta la vita nel mondo.\n\nCaratteristiche:\n- Nuovi Grimp con vantaggi aggiuntivi possono essere sbloccati nel tempo, cos\u00ec fornendo altri modi di giocare e di vivere questi strani mondi nuovi.\n- Usa un'ampia gamma di \"spezie\" diverse per migliorare la raccolta di polline, passa pi\u00f9 tempo a coltivare i giardini e altera il mondo in modi incredibili!\n- Rilassati ascoltando i ritmi sinergici creati appositamente per questi mondi caleidoscopici e fantastici.\n- Con una miriade di giardini da cui scegliere e svariate varianti di ognuno, Eden 2 offre innumerevoli ore di gioco continuo.\n. Una miscela eclettica ed ampia di prelibatezze d'ambiente e sensoriali per le tue orecchie.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 751828992
+    },
     "70010000027883": {
         "id": "01009F3011004000",
         "rightsId": null,
@@ -13113,6 +13207,53 @@
             "zh"
         ],
         "size": 788529152
+    },
+    "70010000028354": {
+        "id": "0100E05011350000",
+        "rightsId": null,
+        "name": "WINGSPAN",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201229,
+        "nsuId": 70010000028354,
+        "category": [
+            "Da tavolo",
+            "Strategia",
+            "Multiplayer",
+            "Altro"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 5,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Monster Couch",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2b30d80ee862de2444b11c1e5f85b0c9cb38068a2c4ad362687b1bc6ce91988c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0a3f174a42e4dac8d1298b9bff1c646ae2daffdcd53493543f2c6caca7e86682.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6b3d54544c79bcac21ef8d5e1abd4ab1d93ef71e9e788385f0c109d447a8c265.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f82509241a6ed290586ebe2b076d310ae3fa51ec98d5a63d3e15aa90dc7e9527.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d95722ba52062047c9023aa2fa8a1eeeb4c43e7ca737bc01ed5a669e085f7004.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/88bbf526711a941515f8468018ec7230da09a83b256042fe286f251d1a54f536.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fe9eca4506f8b405f535e38f873115a84a2ccd52405a5ba67d77bd48d7072c13.jpg",
+        "intro": "Rilassante gioco di strategia sugli uccelli per 1-5 giocatori",
+        "description": "L'adattamento digitale con licenza ufficiale di Wingspan, vincitore del prestigioso premio per giochi da tavolo Kennerspiel des Jahres 2019.\n\nSiete amanti dei volatili \u2013 ricercatori, bird watcher, ornitologi e collezionisti \u2013 che mirano a scoprire e attirare nella propria rete di riserve naturali gli esemplari migliori. Ogni uccello accresce la catena di potenti combinazioni disponibili in uno dei propri habitat. Ogni habitat si concentra su un aspetto chiave della crescita delle tue riserve.\n\nIn Wingspan, fino a un massimo di 5 giocatori competono per ampliare le loro riserve naturali nel corso di un numero limitato di turni. Ciascuno splendido esemplare aggiunto a una tua riserva ti permette di deporre pi\u00f9 uova, pescare pi\u00f9 carte oppure ottenere pi\u00f9 cibo. Molti dei 170 uccelli unici presenti nel gioco hanno delle abilit\u00e0 che rispecchiano il mondo reale: i falchi cacciano, i pellicani pescano e le oche formano uno stormo.\n\nCaratteristiche\n* Rilassante gioco di carte strategico in cui scopri e attiri gli uccelli migliori.\n* Modalit\u00e0 giocatore singolo e multigiocatore per un massimo di cinque giocatori.\n* Basato sul premiato gioco di carte competitivo, di complessit\u00e0 media, engine-builder.\n* Centinaia di uccelli unici, animati con registrazioni dei loro autentici richiami.\n* Numerosi modi per accumulare punti con uccelli, carte bonus e obiettivi al termine del round.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 532676608
     },
     "70010000028356": {
         "id": "01004DE011076000",
@@ -16069,7 +16210,7 @@
             "de",
             "it"
         ],
-        "size": 1336934400
+        "size": 1896873984
     },
     "70010000029379": {
         "id": "0100A1A011944000",
@@ -18653,7 +18794,14 @@
         "publisher": "Onteca",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3eb4582e2e99584e1be1c1ae9e4660ea5ebab7226b40450298bcccdc4e637e04.jpg",
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8b65b83b2b76e24c07e85639b20d5fd74ce30c553019056d2e107d536a9cb5b3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2aa2eb65185ecceb2e01b3915fe5f046cd1afc3f9f008b5eadf81c02ac72c4c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/84407fccabb7333dfa6938eff96ac2af2ab7617adc0a72cdaa88d7b100a56534.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd1487351356a907e98bffae6a125d807102dbc8ca3b3ceabcad66420db43f89.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ce85cdc5b6de89cc3de108358a907b0fd44f8dc2a543468d80fab22a7e2d548.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f0afe77d9200b5e0ae1a3e03565450b6d4b91b5d87656c0130d7e69b7394c6f.jpg"
+        ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25e85732db54d464cfcef6aefa97bee08226726a1dcf5e7e6e1b820e89e1178b.jpg",
         "intro": "Play your way to a calmer day",
         "description": "Baby Pandas grow up fast! Chill Panda is excited to go out into the world but feels worried about exploring alone! \n\nChill Panda heads to the beautiful island of Chillville near the sea where it\u2019s said that a very calm and wise panda lives.\n\nDiscover the secrets of the island. Help Chill Panda manage fear and worry. So that nothing can stop Panda from having fun! \n\n- Fill Chill Panda\u2019s Well of Wellbeing by drinking water and chewing bamboo\n- Meet the villagers and help them out by farming and clearing the land\n- Use your senses to catch fireflies\n- Create colourful pictures and to decorate Chill Panda\u2019s home\n-  Earn coins by completing tasks to buy furniture and equipment for Panda\u2019s home and garden\n- Release energy at the beach by surfing the waves or banging on the drums\n\nAdult Section\n\nChill Panda is based on a unique mobile application championed by the National Health Service (NHS) digital app store in the UK. It was designed in collaboration with a child psychologist to teach children to manage their feelings and stay healthy. It introduces the importance of activity, relaxation and distraction to cope with difficult emotions. Chill Panda also encourages healthy habits such as regularly drinking water and sharing your feelings with others.\n",
@@ -20079,6 +20227,41 @@
             "en"
         ],
         "size": 873463808
+    },
+    "70010000030968": {
+        "id": "01009A9012022000",
+        "rightsId": null,
+        "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210129,
+        "nsuId": 70010000030968,
+        "category": [
+            "Gioco di ruolo (RPG)"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4f278bc8e46727d557182160ba49ffddadb199ba882ead965d6a45b8d7e09a65.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1d8ee48b193561e8c139bbca18aa74eddd198de80a85df7850c98faea20baf4f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/960e5a51253665d2c437e8f258e932dbcac3c6231bb3cdd264658c9d9089a94b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e7ae6ef53e3bf81d7b47e265ddd207f6e6e7bb7e554b3d7d6a10dc5f7c8792c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/391aa50b7c783bb9fa700a9709e8651723a09313fee19c38477e02d8ae9d396f.jpg",
+        "intro": "Anche se ho perso la mia forza, sar\u00f2 sempre dalla tua parte...",
+        "description": "La storia si svolge tre anni dopo gli eventi del gioco precedente, \u201cAtelier Ryza: Ever Darkness & the Secret Hideout\u201d. Tra nuovi incontri e addii, Ryza e suoi amici, di nuovo riuniti, scopriranno un tesoro inestimabile.\n \n\u300aLa storia\u300b\nSono passati tre anni dalla grande avventura segreta di Ryza su Kurken Island. Ryza, unico membro del gruppo rimasto sull'isola, riceve una lettera da un'amica riguardante i possibili effetti rovinosi derivanti dall'alchimia oltre a una misteriosa richiesta circa una pietra lucente. Il contenuto della lettera esorta Ryza a intraprendere un viaggio nella capitale del regno, Ashra-am Baird. Ryza, tuttavia, non sa ancora che questo sar\u00e0 l'inizio di una nuova fantastica avventura che implica la risoluzione del mistero delle rovine che circondano la capitale del regno e l'incontro con una strana creatura che cambier\u00e0 il corso della sua vita.\n\n\u300aCaratteristiche principali\u300b\n\n\u25a0 Esplorazione con nuove azioni sul campo!\nRyza \u00e8 ora in grado di effettuare nuove azioni sul campo come tuffarsi sott'acqua, utilizzare piante per arrampicarsi sui muri, muoversi attraverso spazi ristretti e utilizzare corde magiche per spostarsi tra aree diverse. Queste e altre abilit\u00e0 consentono a Ryza di esplorare aree e rovine diverse in modo pi\u00f9 attivo e approfondito. \n\u25a0 Pi\u00f9 battaglie piene d'azione e in tempo reale!\nAffronta i nemici utilizzando un sistema di battaglia potenziato basato sulla \"tattica in tempo reale\"pi\u00f9 veloce ed elettrizzante che mai! Passa rapidamente da un personaggio all'altro, seleziona le diverse skill e utilizza gli oggetti al momento giusto per conseguire risultati ottimali.\n\u25a0 Sintesi diretta e di facile utilizzo!\nUtilizza una nuova gamma di sistemi di sintesi fra cui il nuovo sistema \"Linkage Synthesis\" nel quale gli oggetti sono collocati in celle denominate \"Material Loops\", progettate per consentire ai nuovi giocatori di apprendere con facilit\u00e0 la sintesi e ai giocatori pi\u00f9 esperti di creare eccezionali oggetti personalizzati. \u00c8 inoltre possibile mischiare tra loro gli oggetti creati e abbinarli all'\"Evolution Link\" per realizzare oggetti completamente nuovi.\n",
+        "languages": [
+            "en"
+        ],
+        "size": 6517948416
     },
     "70010000030978": {
         "id": "0100D36011AD4000",
@@ -25247,6 +25430,47 @@
             "pt"
         ],
         "size": 190840832
+    },
+    "70010000032291": {
+        "id": "0100DD6012644000",
+        "rightsId": null,
+        "name": "Taiko no Tatsujin: Rhythmic Adventure Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000032291,
+        "category": [
+            "Musica",
+            "Gioco di ruolo (RPG)"
+        ],
+        "ratingContent": [
+            "Bad Language",
+            "Sex"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/041d4992cea490b8a3f622016a222b67d98fca0dd504749d289f91d70fcf2ca6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8bc785672186216bc610ecd6aab1ffb243aa014330ca0772a833fd38603668eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a79ca2f3f1b9ce2e29c4f7f91826a4049fe121108fb70c7928f8df2058d0689e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ba3fbcd4ae578fd3f243a17b8020115083372091e1d03678181ae94c8fbcb1c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b3eb81b23d380ed66a1ad0aa89a37e6fb899be21fe1560ffb485f7cdbdfff8d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/531f724db287c812636f33d0f70b64657d9c13297a4ce8cd8aa498e93d0d6ce5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cfcb0b201608db8d741ba517552fe1c5ec3d299beb6cc6c27a675deac0963615.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8fabcf7b8c362707b048cad090497a8eb8b0954bd9392995ebfbd31fb656d792.jpg",
+        "intro": "Cosa? Un GdR di Taiko no Tatsujin?!? Salva il mondo suonando il tamburo!",
+        "description": "\u25c8 Un GdR di Taiko no Tatsujin?!? Unisciti a DON-chan in due eccitanti avventure GdR!\nViaggiando nel passato e nel futuro, DON-chan s'imbarcher\u00e0 in una grande avventura per trascendere i confini del tempo e dello spazio e salvare il mondo da strani fenomeni nel \"Taiko no Tatsujin: Rhythmic Adventure Pack\"!\n\n\u25a0 Goditi una rilassante avventura per il mondo e controlla liberamente DON-chan nella modalit\u00e0 Storia!\nSbarazzati dei nemici affrontandoli nelle Taiko Battle!\nColpisci il Taiko a tempo per attaccare! Sbaglia e sarai tu a subire un attacco!\nCrea una squadra con i tuoi personaggi preferiti per affrontare i nemici pi\u00f9 forti!\n\n\u25a0 In \"Rhythmic Adventure 1\" farai la conoscenza di Tocky, che ha l'importante compito di... proteggere la storia.\nScoprirai che il suo amico Ticky \u00e8 stato rapito da un certo Professor Timedyne.\nLo scaltro professore intende infatti servirsi di Ticky per smantellare la storia!\nViaggia in una grande variet\u00e0 di epoche storiche e sbarazzati dei nemici!\n\n\u25a0 In \"Rhythmic Adventure 2\", i tesori che proteggono l'esistenza stessa del mondo, gli oggetti fuori dal tempo, sono stati rubati dalla losca organizzazione chiamata Hexagria Magical Society!\nPer recuperarli, DON e KATSU dovranno imbarcarsi in un'altra grande avventura!\nRiusciranno DON-chan e i suoi amici a recuperare gli oggetti fuori dal tempo e a salvare il mondo?!?\n\n\u25a0 Ovviamente, sar\u00e0 possibile giocare con la modalit\u00e0 Taiko!\nLa libreria contiene oltre 130 canzoni, comprese 6 novit\u00e0 quali \"Pretender\" di Official Hige Dandism e \"Gurenge\" da Demon Slayer: Kimetsu no Yaiba!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 2731540480
     },
     "70010000032296": {
         "id": "01005D701264A000",
@@ -32462,6 +32686,44 @@
         ],
         "size": 886046720
     },
+    "70010000033652": {
+        "id": "01004CD012C9A000",
+        "rightsId": null,
+        "name": "DOG GONE GOLFING",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70010000033652,
+        "category": [
+            "Arcade",
+            "Sport",
+            "Azione"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 8,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Vagabond Dog",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/46e12b56350ac9fcfb7ad1dfd1615526a2cf68ff337f090fd57c1eed28963246.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/48d14bf74415b76854d12fb495307701aa0de43f0e4150a3d8184a698e52c34c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c789d22003cd01e4d084f5090eeda2d93de90aee1c5323495fa1d754e8908b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a8b09035fc791ac00c7f86d5cf244fcc96a863258019a2efe35a915ed7d6d92.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/05c4ca96d525bc5e174db0f1f89164c4acd549e9bff93475a5404162ac47d6f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b130641b3307b9c03b47d1709fc861f38dc30ae9c5797e0c06933fbaa9f5faa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/00a50d87f887b41b8a49179367fad7f64d5cf14bade44122f3498e73a70c6df5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cb11eaf449c12f59f14cb03ec4a9b5c8bfea6b7228c0e62e3ff0b65c7b02ceec.jpg",
+        "intro": "DOG GONE GOLFING is a fun pick up and play arcade golf game where cute dogs slap hockey pucks around procedurallly generated worlds. Perfect for the whole family!",
+        "description": "6 EXCITING GAME MODES: \n\nPAWTTLE ROYALE - Grab up to 8 local players and compete against your friends. Tee off simultaneously as you compete to be the first to get your puck in the hole. No two matches are ever the same!\n\nWORLD TOUR - Master the art of Dog Golfing as you compete through a series of 20 unique worlds. Each world adds new challenges and features to test your skill. Compete for Dog Park supremacy and earn coins to unlock new puck skins.\n\nSHOT STREAKER - See how long you can keep your streak going in this challenge mode where you have a limited amount of shots per hole. Each time you play new holes will be generated, so no two rounds are ever the same. Only true masters will climb the ladder and become a Dog Golf hero.\n\nENDLESS JOURNEY - No hole is ever the same but all players complete holes in the same order! Play forever as you explore the infinite universe of Dog Golfing. This mode literally never ends, even the developer doesn't know what lies ahead. Will there be dog treats? Who knows?\n\nDOG GOLF ARENA - It's Dog vs. Dog in this local 2 player battle for the title of ultimate Dog Golfer. Can't find a friend? No problem! Take on one of 5 highly skilled Robotic K-9 neural network learning machines.\n\nPRACTICE GREEN - Hone your craft and learn to play Dog Golf on an unlimited number of randomized holes. Learn the unique skills of each Dog Golfer, and become a true champion in the Dog Golf community.\n",
+        "languages": [
+            "en"
+        ],
+        "size": 57671680
+    },
     "70010000033654": {
         "id": "0100F9B012C6A000",
         "rightsId": null,
@@ -34059,7 +34321,7 @@
         "languages": [
             "en"
         ],
-        "size": 693108736
+        "size": 767557632
     },
     "70010000034084": {
         "id": "0100B69012EC6000",
@@ -36221,6 +36483,47 @@
         ],
         "size": 40894464
     },
+    "70010000034606": {
+        "id": "01007A601318C000",
+        "rightsId": null,
+        "name": "Tanuki Justice",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201210,
+        "nsuId": 70010000034606,
+        "category": [
+            "Piattaforme",
+            "Azione",
+            "Avventura",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 7,
+        "developer": null,
+        "publisher": "No Gravity Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7380dd1250a4792b057024fff5bfcbb5bfdc6d684ddbc290ac57d1cbc16b80e9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0eb970bff91710466c1fa8f81364d1b1ed469e9d3038943d108bb3cc36e0b3b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a2dec82c1d832118fa8741191feb04f8ec7a60a139ee198fca52977292638679.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31a701b986abf37ab894acf6c6680c13c625a9f70b3654cb1fd520ae749372b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0eed8d6c7593df1ff42b6149d022ce4170c3dab0012e2b24ceb19163d4f1950b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c1cdc52fb8de8368618e6723eec318daf6ab35e0eb91daafe621e1c509d36474.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e432e53f178088ca0036df1144a03bdde730e27186fdb0cc8c078bb8526691a5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f300fff552f8b28085899c79f3dc0413a99267d1f4a762245a65d29854217d3c.jpg",
+        "intro": "Inconspicuous combination of a platformer bullet hell with cute, pixel graphics. Tanuki Justice will challenge your precision jumping and shuriken throwing skills!",
+        "description": "Features:\n\u2022 Dynamic gameplay with visuals that fit the atmosphere.\n\u2022 Dozens of different types of enemies.\n\u2022 Classical shurikens over the head and a giant shuriken for difficult moments.\n\u2022 Playable in single or two-player mode.\n\nDescription:\nTanuki Justice is a continuous intensive action run\u2019n gun in which you incarnate a tanuki brother and sister. You\u2019ll face hundreds of enemies in feudal Japan. Varied environments with landscapes of all kinds, retro and fast rhythmic music, numerous and difficult situations reminiscent of good old arcade games. A gameplay both simple and rich allowing spectacular actions. Possibility to play with 2 people for even more fun. And challenges that will challenge even the most skilled players. Time will be your worst enemy.\n\n",
+        "languages": [
+            "en"
+        ],
+        "size": 52428800
+    },
     "70010000034631": {
         "id": "0100277011F1A000",
         "rightsId": null,
@@ -37216,7 +37519,7 @@
             "ko",
             "zh"
         ],
-        "size": 311427072
+        "size": 356515840
     },
     "70010000034832": {
         "id": "0100C5A01327E000",
@@ -38121,7 +38424,7 @@
             "zh",
             "zh"
         ],
-        "size": 2506096640
+        "size": 3082813440
     },
     "70010000035000": {
         "id": "010066D013354000",
@@ -38466,6 +38769,81 @@
             "zh"
         ],
         "size": 189792256
+    },
+    "70010000035112": {
+        "id": "01001580133F2000",
+        "rightsId": null,
+        "name": "Taiko no Tatsujin: Rhythmic Adventure 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000035112,
+        "category": [
+            "Gioco di ruolo (RPG)",
+            "Musica"
+        ],
+        "ratingContent": [
+            "Bad Language",
+            "Sex"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1abc242a7a70a7d8c8e1bf025e0933cd4a33ec554e8b147bcdbffa18eb433f14.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b3eb81b23d380ed66a1ad0aa89a37e6fb899be21fe1560ffb485f7cdbdfff8d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/531f724db287c812636f33d0f70b64657d9c13297a4ce8cd8aa498e93d0d6ce5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5568f839aef49120a9f9263bac0e8a7b247d7bb4edf45bbb9697041e623ce7a5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/57ca84ceb11149bfe9786510ff571bd1ebddb487cb42556fe0f97207bb46c92f.jpg",
+        "intro": null,
+        "description": "DON-chan e i suoi amici s'imbarcano per una grande avventura nei luoghi pi\u00f9 misteriosi al mondo! Scopri cosa c'\u00e8 dietro un misterioso fenomeno globale e salva il pianeta!\n\n\u25a0 Una modalit\u00e0 Storia coinvolgente\nGli oggetti fuori dal tempo, dei tesori che proteggono il mondo, sono stati rubati da un gruppo molto sospetto, la Malvagia Fratellanza di Hexagaria!\nDon e Katsu devono recarsi negli angoli pi\u00f9 remoti del mondo per recuperare gli oggetti fuori dal tempo rubati!\nRiusciranno a recuperarli tutti e a salvare il mondo?\n\nMigliori saranno le tue prestazioni nelle Taiko Battle contro i mostri che incontrerai nella tua avventura, maggiori saranno i danni che infliggerai loro!\n\nI mostri da affrontare sono oltre 100 e alcuni di loro, una volta sconfitti, potranno anche diventare tuoi alleati! Crea una squadra, allenatevi e affrontate insieme i potenti e malvagi nemici!\n\n\u25a0 Ovviamente sar\u00e0 possibile giocare nella famosa modalit\u00e0 Taiko!\nLa nuova modalit\u00e0 Storia sar\u00e0 infatti affiancata dalla ormai celeberrima modalit\u00e0 Taiko!\nAlle oltre 60 canzoni iniziali, ne abbiamo aggiunte altre 3: Pretender di Official Hige Dandism, Gurenge (Red Lotus) da Demon Slayer e Inochi Ni Kirawareteiru (Hated by Life Itself) di Iori Kanzaki!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 1876951040
+    },
+    "70010000035118": {
+        "id": "01001BE0133F6000",
+        "rightsId": null,
+        "name": "Taiko no Tatsujin: Rhythmic Adventure 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000035118,
+        "category": [
+            "Musica",
+            "Gioco di ruolo (RPG)"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/94260e5e6e89e070d89fc97ee6dd5f5fd78feb0b9f2e8eea263d66dca86e5c72.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8bc785672186216bc610ecd6aab1ffb243aa014330ca0772a833fd38603668eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a79ca2f3f1b9ce2e29c4f7f91826a4049fe121108fb70c7928f8df2058d0689e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ba3fbcd4ae578fd3f243a17b8020115083372091e1d03678181ae94c8fbcb1c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3d101adb72c174acf5dc8ca15b8f6b7be0d59aba2c8b56841de6d8f2c0c91ddc.jpg",
+        "intro": null,
+        "description": "DON-chan si lascia il passato alle spalle per imbarcarsi in una grande avventura attraverso il tempo e lo spazio per giungere fino al futuro! Teletrasportati in epoche diverse per impedire ai cattivi di distruggere la storia!\n\n\u25a0 Una modalit\u00e0 Storia coinvolgente\nDon e Katsu s'imbattono in Tocky, che ha l'importante compito di proteggere il tempo. Purtroppo il suo amico Ticky \u00e8 stato rapito dal Professor Timedyne.\nIl professore vuole servirsi di Ticky per interferire con la storia.\nRecati in tante epoche diverse e impedisci al male di distruggere la storia!\n\nMigliori saranno le tue prestazioni nelle Taiko Battle contro i mostri che incontrerai nella tua avventura, maggiori saranno i danni che infliggerai loro!\n\nI mostri da affrontare sono oltre 100 e alcuni di loro, una volta sconfitti, potranno anche diventare tuoi alleati! Crea una squadra, allenatevi e affrontate insieme i potenti e malvagi nemici!\n\n\u25a0 Ovviamente sar\u00e0 possibile giocare nella famosa modalit\u00e0 Taiko!\nLa nuova modalit\u00e0 Storia sar\u00e0 infatti affiancata dalla ormai celeberrima modalit\u00e0 Taiko!\nAlle oltre 60 canzoni iniziali, ne abbiamo aggiunte altre 3: Marigold, Charles di Balloon feat. Flower e Loki di Miki and P!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 1531969536
     },
     "70010000035127": {
         "id": "01003A90133A6000",
@@ -40344,6 +40722,47 @@
         ],
         "size": 88080384
     },
+    "70010000035856": {
+        "id": "01005D10133B8000",
+        "rightsId": null,
+        "name": "Killer Chambers",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201214,
+        "nsuId": 70010000035856,
+        "category": [
+            "Piattaforme",
+            "Azione",
+            "Arcade",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Violenza intensa"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Village Bench",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/72bdda89bde33da46577b82ccbc308a6808937f07b17721894fb7f5ae3406077.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/59db7fbdd8c202873055eb4904b77603f08078443fc00693b6e0d986b1038194.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/01cde99357a11a4d2ce1b08672e85bc5dbc9c5cf5495d72497d3bdfdf99b84ab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb26139c30c49c2bbee991d155c6f7630672a85cf4fc53bde54a746fb10cc580.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dbccaa6727b19169b3d9e427bf13b1596b1846e4167f31253968d614bb4d334c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/98fa1ad1b4f2858f49c06c6b19944e34a5ad8de4d773ffd8d6b86b43e975397a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b5b1dbdaa7dcd1ac24fe7f2b34600b4e790b01e2ae6735008cefdaea4c7b325.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a61dd106f58c59ed8b03ee3c4cbbd61db8715248a9345719cfbb29f8d3bf48e7.jpg",
+        "intro": "Aiuta Brave Lord a sopravvivere nelle \"Killer Chambers\" e a sconfiggere i boss evocati da Lord Grave!",
+        "description": "Per ottenere la Corona del Re e salvare il regno, Brave Lord dovr\u00e0 affrontare lo spettrale Lord Grave e superare le mortali stanze del Palazzo Reale, ferocemente protette da innumerevoli trappole.\n\nKiller Chambers \u00e8 un ibrido tra un platform e un gioco di memoria. Bisogna sopravvivere in piccole stanze piene di trappole fino a quando la sabbia nella clessidra non sar\u00e0 finita.\nFai attenzione! Anche se vieni colpito solo una volta sei morto! Riuscirai a resistere a uno spietato bullet-hell in uno spazio ristretto?\n\nNiente \u00e8 lasciato al caso, ogni schema di trappole \u00e8 stato creato per essere impegnativo ma divertente da risolvere, non baster\u00e0 avere riflessi rapidi per sopravvivere.\nArmati di masochistica perseveranza e di buona memoria (soprattutto muscolare), la Corona del Re ti aspetta!\n\n- Un platform veloce e spietato con elementi di puzzle e \"bullet-hell\".\n- Oltre 40 stanze, ognuna con 3 livelli di difficolt\u00e0.\n- 5 piani con trappole e boss unici.\n- Pi\u00f9 di 500 schemi di trappole calibrati attentamente.\n- Una storia divertente raccontata da dialoghi in stile visual novel.\n- Innumerevoli oggetti per aiutare Brave Lord nella sua avventura.\n- 12 cappelli in grado di dare poteri speciali, purch\u00e9 non cadano dalla testa!",
+        "languages": [
+            "en"
+        ],
+        "size": 93323264
+    },
     "70010000035874": {
         "id": "0100EFF0137DA000",
         "rightsId": null,
@@ -41072,7 +41491,7 @@
         "languages": [
             "en"
         ],
-        "size": 920649728
+        "size": 1035993088
     },
     "70010000036402": {
         "id": "0100F4E013AAE000",
@@ -42992,6 +43411,62 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8850c83aeae8dd4e85cc3362834ff4e5b3c2b7995746e18878b33ce1ab128bb5.jpg",
         "intro": null,
         "description": "Il Maestro Muten, fondatore della Scuola della Tartaruga, sbarca finalmente in DRAGON BALL FighterZ!\n\nQuesti contenuti includono:\n\u2022 Maestro Muten come nuovo personaggio giocabile\n\u2022 5 colori diversi per la sua divisa\n\u2022 Avatar sala d'attesa Maestro Muten\n\u2022 Adesivo Z Maestro Muten ",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018690": {
+        "id": null,
+        "rightsId": null,
+        "name": "DRAGON BALL FIGHTERZ - FighterZ Pass 3 DLC 4",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 202103,
+        "nsuId": 70050000018690,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6e805faf75fbdcb8c06d2b7da8315d529c212801aec30ecb7505f69a036def2c.jpg",
+        "intro": null,
+        "description": "Gioca con questo nuovo personaggio",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018691": {
+        "id": null,
+        "rightsId": null,
+        "name": "DRAGON BALL FIGHTERZ - FighterZ Pass 3 DLC 5",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 202103,
+        "nsuId": 70050000018691,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ecce9c12130346747b6030da0b45dc105b3d946d278c7ab5b454c86739345e19.jpg",
+        "intro": null,
+        "description": "Gioca con questo nuovo personaggio",
         "languages": null,
         "size": 4194304
     },
@@ -46070,6 +46545,33 @@
         "languages": null,
         "size": 442499072
     },
+    "70050000020795": {
+        "id": null,
+        "rightsId": null,
+        "name": "Civilization VI - Pass New Frontier (5)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210331,
+        "nsuId": 70050000020795,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
+        "intro": null,
+        "description": "Continua la tua missione e dai vita al pi\u00f9 grande impero della storia con il Pass New Frontier di Civilization VI, che contiene 8 nuove civilt\u00e0, 9 leader e una vasta gamma di nuove dinamiche, tra cui sei modalit\u00e0 di gioco. Il Pass New Frontier contiene 6 pacchetti DLC che saranno rilasciati con cadenza bimestrale da maggio 2020 a marzo 2021:\n\n\u2022 Pacchetto #1: Maya e Grande Colombia. Introduce 2 nuove civilt\u00e0 e leader, una modalit\u00e0 di gioco*, nuove citt\u00e0-stato, risorse e Meraviglie naturali. Disponibile a maggio 2020.\n\u2022 Pacchetto #2: Etiopia. Introduce una nuova civilt\u00e0 e leader, una modalit\u00e0 di gioco*, un nuovo distretto e due nuovi edifici. Disponibile a luglio 2020.\n\u2022 Pacchetto #3: Introduce 2 nuove civilt\u00e0 e leader, una modalit\u00e0 di gioco*, nuove Grandi Meraviglie e una mappa. Disponibile a settembre 2020.\n\u2022 Pacchetto #4: Introduce una nuova civilt\u00e0 e leader, una modalit\u00e0 di gioco, nuove citt\u00e0-stato e molti Grandi Personaggi. Disponibile a novembre 2020.\n\u2022 Pacchetto #5: Introduce 1 nuova civilt\u00e0 e 2 leader**, una modalit\u00e0 di gioco, un nuovo distretto e due nuovi edifici. Disponibile a gennaio 2021.\n\u2022 Pacchetto #6: Introduce una nuova civilt\u00e0 e leader, una modalit\u00e0 di gioco, nuove Grandi Meraviglie e una mappa. Disponibile a marzo 2021. \n\n*La nuova modalit\u00e0 di gioco richiede il Bundle di espansioni Civilization VI.\n**Il nuovo leader richiede il Bundle di espansioni Civilization VI.\n\nLe nuove modalit\u00e0 di gioco possono includere contenuti come unit\u00e0, edifici o miglioramenti e si possono attivare durante la configurazione della partita per introdurre significativi cambiamenti alle regole del gioco.\n\nBonus esclusivo: Pacchetti personaggio Teddy Roosevelt e Caterina de' Medici. Ogni Pacchetto personaggio contiene una nuova rivisitazione di uno dei leader pi\u00f9 famosi e include il modello del leader, uno sfondo, nuovi bonus nel gioco e un'agenda che riflette le modifiche apportate alla personalit\u00e0 del leader stesso. I Pacchetti personaggio sono disponibili esclusivamente come parte del Pass New Frontier e saranno rilasciati insieme al secondo pacchetto aggiuntivo. ",
+        "languages": null,
+        "size": 6291456
+    },
     "70050000020796": {
         "id": null,
         "rightsId": null,
@@ -49030,12 +49532,12 @@
     "70050000021350": {
         "id": "0100CCA00DAE7010",
         "rightsId": null,
-        "name": "Captain Tsubasa: Rise of New Champions Football Player DLC#1",
+        "name": "Captain Tsubasa: Rise of New Champions - Stefan Levin",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20201231,
+        "releaseDate": 20201203,
         "nsuId": 70050000021350,
         "category": null,
         "ratingContent": [
@@ -49048,10 +49550,14 @@
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d61d3e32bf19b0b72d7f22e37dceee16cb5212609a9e518d496b26900928beb5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/131edf1ee412165e6ee8f490ca2873584e4be580864654f3f5702595226aa97c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d293f52baf48ae4fa5410f60d6c95593f4a2bbf212a4b4345be561bb7b48b18d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d451516f795c06f1d55862a57393c78cdae429a1e8af757b10cee590eb48290a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4314e6721abc1993d4cd563c902dbc72b1e0d2269115ed11027c62dbba378594.jpg",
         "intro": null,
-        "description": "Gioca con questo nuovo personaggio",
+        "description": "Stefan Levin \u00e8 ora disponibile come nuovo personaggio giocabile in Captain Tsubasa: Rise of New Champions.\n\nUn promettente centrocampista svedese dotato di un grande intuito per le abilit\u00e0 altrui e di splendide tecniche con cui inganna gli avversari.\n\nVisita l'America come membro del gruppo d'osservazione svedese incaricato di valutare i paesi partecipanti.\n\nUn giovane gentile che ama il calcio tanto quanto la sua ragazza.",
         "languages": null,
         "size": 4194304
     },
@@ -49086,12 +49592,12 @@
     "70050000021352": {
         "id": "0100CCA00DAE7011",
         "rightsId": null,
-        "name": "Captain Tsubasa: Rise of New Champions Football Player DLC#2",
+        "name": "Captain Tsubasa: Rise of New Champions - Singprasert Bunnaak",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20201231,
+        "releaseDate": 20201203,
         "nsuId": 70050000021352,
         "category": null,
         "ratingContent": [
@@ -49104,22 +49610,27 @@
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a3e066abed7dfcbf86013e2964517386a17639c8fc1882dbdd6c1adea15223f0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8ea4f3a59fee80903fb2a31c0360aa34f2bd8d7a212054c0e599b6cf5996f8a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27238c9795a6e7177a04ba5d386cbd7b038d836a55e0fe4dd4933731bbc9560a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0da6c3d5e5d8cf6509721db122434d36b027c298462b874bab69cf5492f8f900.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d5dd87c887274d1ada3225a243f3a57eb3c0f4b424cca5514fe1212ab9536caf.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e5992546328511a275407aa219c254a42f3284d77c886d4130ce519232649584.jpg",
         "intro": null,
-        "description": "Gioca con questo nuovo personaggio",
+        "description": "Singprasert Bunnaak \u00e8 ora disponibile come nuovo personaggio giocabile in Captain Tsubasa: Rise of New Champions.\n\nCapitano della nazionale giovanile thailandese che ha temprato corpo e spirito grazie al Muay Thai. Le sue giocate prorompenti travolgono ogni avversario.",
         "languages": null,
         "size": 4194304
     },
     "70050000021353": {
         "id": "0100CCA00DAE7012",
         "rightsId": null,
-        "name": "Captain Tsubasa: Rise of New Champions Football Player DLC#3",
+        "name": "Captain Tsubasa: Rise of New Champions - Ricardo Espadas",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20201231,
+        "releaseDate": 20201203,
         "nsuId": 70050000021353,
         "category": null,
         "ratingContent": [
@@ -49132,10 +49643,15 @@
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c2d0b826b5c59722fe24d80f7833830d28bdf4c789510c984cf1875c18c58e1e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b2835de622c996611ef6bde295c14f91113a90e6882ddca53219471918183ad0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a440210684489a3effff02bac901ca1a0ebc51de58582eb1382e8392459998f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/81f02cfd2475eb87768bdebd9cdd2ce581cfdbc8c9e955a722617da5d635c6fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bcee025f9479f31aa5884e1a6c9dd4cc67b1bb36371405ad89ce0dc0fbf4ac21.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/81b00b161ec0ec1d9ae91164285ef03be39283c0c016c4e1c6efffefc265ac01.jpg",
         "intro": null,
-        "description": "Gioca con questo nuovo personaggio",
+        "description": "Ricardo Espadas \u00e8 ora disponibile come nuovo personaggio giocabile in Captain Tsubasa: Rise of New Champions.\n\nCapitano e portiere della nazionale giovanile messicana. La sua velocit\u00e0 e i suoi riflessi straordinari sono una sicurezza, ma preferisce uno stile aggressivo e spesso lascia la porta per dribblare e tirare.",
         "languages": null,
         "size": 4194304
     },
@@ -59918,6 +60434,35 @@
         "languages": null,
         "size": 10485760
     },
+    "70050000023717": {
+        "id": "01009A90120232BC",
+        "rightsId": null,
+        "name": "\"Nostalgic Straw Hat\" Accessory for Ryza",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210129,
+        "nsuId": 70050000023717,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0ef5109edff84bbe1e038c57b298b1bf430d31dcb17c2876ba7522c868ee0d64.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/75bc13959b21ffe5e40b15f00394bb7217b51f26446941dee9b2e6b1c221d4bf.jpg",
+        "intro": "Cambia il cappello di Ryza con un accattivante cappello di paglia!",
+        "description": "\"Con il \u201cNostalgic Straw Hat\u201d per Ryza sar\u00e0 possibile cambiare il cappello di Ryza con un elegante cappello di paglia.\n\nNota:\n- \u00c8 possibile cambiare i cappelli nella \"Changing Room\" accessibile tramite la scrivania nell'Atelier.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n",
+        "languages": null,
+        "size": 5242880
+    },
     "70050000023720": {
         "id": "0100E1F013675012",
         "rightsId": null,
@@ -60742,6 +61287,159 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023857": {
+        "id": "01009A90120230CC",
+        "rightsId": null,
+        "name": "Summer Fashion Costume Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210129,
+        "nsuId": 70050000023857,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/68d7a44db423d0c03321947f349e6e31807b41c23d7d7aa7c1128816b119ecbf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b6f09d516c451840a113a149be2890ca93efe4e56b169cd94e46304a40152a2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/050cc332f5f384281aedd354a634a1287f5aade63deda1cec197a1472efcaeb3.jpg",
+        "intro": "Vivi una nuova avventura estiva al massimo dell'eleganza!",
+        "description": "Il \u201cSummer Fashion Costume Set\u201d contiene un totale di 7 costumi, uno per ciascuno dei seguenti personaggi: Ryza, Lent, Tao, Klaudia, Patricia, Serri e Clifford.\n\n[Costumi presenti]\nRyza: Sea Breeze Blouse\nKlaudia: Light Summer Heat\nLent: Journeying Under the Sun\nTao: Summer Camp\nPatricia: Formal Summer Dress\nClifford: Hunter's Holiday\nSerri: Oren's Short Summer\n\nNota: \n- \u00c8 possibile cambiare tutti i costumi nella \"Changing Room\" accessibile tramite la scrivania nell'Atelier. Per cambiare costume i personaggi devono prima unirsi alla squadra.\n- \u00c8 possibile che gli articoli contenuti in questo set vengano messi in vendita separatamente in data futura.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n",
+        "languages": null,
+        "size": 37748736
+    },
+    "70050000023865": {
+        "id": "01009A9012023258",
+        "rightsId": null,
+        "name": "Kurken Island Gathering Tour",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210129,
+        "nsuId": 70050000023865,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/57f583ee224b2bef9ae41b07ab202ec91819578f642aa0cc0c17fb2e77c7dc4e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11e378982e18f8d239e430788dac58e16b5372251ccb3a1440c4dc03d302a7cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f0f5d0542c4a1e96f4a3e3113fc7d7c559019382f21f0c16d22476dd238f0ac.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f5eac822fb4fa186e2b9126eb08f88477023c1d21340e08f1c0ae82fffec655.jpg",
+        "intro": "Esplora aree all'insegna della nostalgia!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \"Atelier Ryza 2: Lost Legends & the Secret Fairy Digital Deluxe Edition\u201d e \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d.\n\n\nAlcune delle aree di raccolta del titolo precedente \"Atelier Ryza\" verranno sbloccate una volta raggiunto un determinato punto della storia.\n\nAree presenti:\nTraveler's Road (da Shipyard);\nPixie Forest (da Flower Guard's Garden);\nMaple Delta (da Sweet River);\nWeissberg Volcano (da Smoky Mountain Path);\nMeteor Castle (da Heatwave Gate).\n\nNota:\n- Le aree supplementari saranno accessibili da un Guidepost in una determinata area dopo avere ottenuto la \"Compass of Recollection\" e avere fatto ritorno nell'Atelier.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n\n\n\n",
+        "languages": null,
+        "size": 817889280
+    },
+    "70050000023869": {
+        "id": "01009A90120230CA",
+        "rightsId": null,
+        "name": "Another Style Costume Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210129,
+        "nsuId": 70050000023869,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0eaca400fedeb3e13960b602103f7f4ecd92180765f120472510c40b48e2c611.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0be2de23d213a2d65ffe3d4fe985707954d50a9ac6c51a80ef1097b91e27e267.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/83586019b0d7d5b24ac8780568b8bdd643d67864ade61ae664397bbb1fe87214.jpg",
+        "intro": "Dai una sferzata al tuo umore cambiando colore!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \"Atelier Ryza 2: Lost Legends & the Secret Fairy Digital Deluxe Edition\u201d e \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d.\n\nUn set di 21 costumi, 3 per ciascuno dei seguenti personaggi. Ryza, Lent, Tao, Klaudia, Patricia, Serri e Clifford.\n\n[Costumi inclusi]\nRyza: Retro, Danger Zone, Capital Orange.\nKlaudia: Jade Dress, Reisalin Color, White Bird of the East.\nLent: Aquamarine Dawn, Old Travel Clothes, Red Copper Armor.\nTao: Falling Sky, Passion Jacket, Academy Uniform (formal).\nPatricia: Urban Sailor, Evening Ball, Cool Chocolate Mint.\nClifford: Hide in the Woods, Desert Wanderer, Night Shade.\nSerri: Firerat Leather, Dandelion, Nightfall.\n\nNota:\n\u00c8 possibile cambiare i costumi nella \"Changing Room\" accessibile tramite la scrivania nell'Atelier. Per cambiare costume i personaggi devono prima unirsi alla squadra.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n",
+        "languages": null,
+        "size": 116391936
+    },
+    "70050000023871": {
+        "id": "01009A90120230CB",
+        "rightsId": null,
+        "name": "Summer Memories Costume Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210129,
+        "nsuId": 70050000023871,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/05054a4a540899baf5201786687716566133430ec6f07b3fa41fd6b82ccffb04.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ecc44e8a0cbf32d20e62f20e301caa18c523474865421541429a6ac44f11f98f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9d74fd49f6e1ed8189655ca8b93a81b9116ed4d16e25b89f46956bcb8a3890a8.jpg",
+        "intro": "Vecchio look, nuove avventure!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \"Atelier Ryza 2: Lost Legends & the Secret Fairy Digital Deluxe Edition\u201d e  \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d.\n\n\nCostume \u201cSummer Adventure!\u201d per Ryza, presente in precedenza come bonus acquisto anticipato; set costumi \u201cAnother Fashion\u201d e set costumi \u201cSummer Style\u201d presenti nella Digital Deluxe edition del titolo precedente. 16 costumi, 4 ciascuno, per Ryza, Lent, Tao e Klaudia.\n\n[Costumi inclusi]\nRyza: Summer Adventure!, Midnight Black, Blue Skies, Sunny Smile.\nKlaudia: Summer Memories, White Princess, Pure Maiden, Strawberry Parfait.\nLent: Warrior's Day Off, Gothic Wolf, Forest Guardian, Desert Squall.\nTao: Island Explorer, Twilight Raconteur, Wonder Pastel, Book Fairy.\n\nNota:\n\u00c8 possibile cambiare i costumi nella \"Changing Room\" accessibile tramite la scrivania nell'Atelier. Per cambiare costume i personaggi devono prima unirsi alla squadra.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n",
+        "languages": null,
+        "size": 91226112
+    },
+    "70050000023873": {
+        "id": "01009A9012023190",
+        "rightsId": null,
+        "name": "Helpful Items Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210129,
+        "nsuId": 70050000023873,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c850dc8fefe0145c98a80174de52b579277223cc5328d3c36434cb8d7f5b4996.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/28d4fe745c3e96f818b90535d344a67992ddcb59a2bfba1a684220ad90713196.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c8a18b887680c15086e765eae13c486721837123722b2591a0966439cc5bd729.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/55150d7b26edacd5e52d5cdbb21c7d836696d735de10cbc48ddba2e66c10e853.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a7a987438dddd4db2d765b9f0832577e3467039437126577ee678de5d67ec861.jpg",
+        "intro": "Oggetti utili con un'ampia gamma di effetti!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \"Atelier Ryza 2: Lost Legends & the Secret Fairy Digital Deluxe Edition\u201d e \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d.\n\nUn set di quattro oggetti differenti per aiutarti nelle prime fasi del gioco. Verranno aggiunti al Container nell'Atelier.\n\n[Oggetti inclusi]\nWind Shoes (aumenta la velocit\u00e0 di movimento)\nTraveler's Coat (aumenta il guadagno di EXP)\nTrue Handmade Staff (aumenta il guadagno di AP)\n Uni Charm (incrementa le statistiche, il recupero della salute e la potenza delle skill [3%]).\n\nNota:\n- Gli oggetti verranno aggiunti al Container nell'Atelier.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000023876": {
         "id": null,
         "rightsId": null,
@@ -60864,6 +61562,390 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023900": {
+        "id": "01009A90120230CD",
+        "rightsId": null,
+        "name": "\"Mysterious Book Alchemist\" Costume for Ryza",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210129,
+        "nsuId": 70050000023900,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3d58907dcd9a0e7613c5331b42aca70af0214d6446600cc6c62488244691871c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15b4401a2cc654ff650884e8131599b2c3c7535a80fdf39689a4451d42fa35ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c8f23ee0eba5a7a7443b539b382948421bd588655047f8c1fc8528733f31881d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0bae66b5d7ab5bf4b67c3b1d591f636aa587f8e6951a75800348b21b7e1ec16c.jpg",
+        "intro": "Vivi la nuova avventura vestita come questo celebre personaggio!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \u201cAtelier Ryza 2 Season Pass\u201d e \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d.\n\nCostume \u201cMysterious Book Alchemist\u201d per Ryza, basato su Sophie in \u201cAtelier Sophie: The Alchemist of the Mysterious Book.\u201d\n\nNota:\n\u00c8 possibile cambiare i costumi nella \"Changing Room\" accessibile tramite la scrivania nell'Atelier.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n\n\n",
+        "languages": null,
+        "size": 9437184
+    },
+    "70050000023902": {
+        "id": "01009A90120230CF",
+        "rightsId": null,
+        "name": "Ryza's Swimsuit \"Tropical Summer\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210430,
+        "nsuId": 70050000023902,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/391aa50b7c783bb9fa700a9709e8651723a09313fee19c38477e02d8ae9d396f.jpg",
+        "intro": "Un costume da bagno per Ryza!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \u201cAtelier Ryza 2 Season Pass\u201d e \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d.\n\nAggiunto il costume da bagno \"Tropical Summer\" per Ryza.\n\nNota:\n- L'uscita di questo contenuto \u00e8 programmata entro fine aprile 2021. La data di uscita \u00e8 suscettibile di variazioni.\n\u00c8 possibile cambiare i costumi nella \"Changing Room\" accessibile tramite la scrivania nell'Atelier. Per cambiare costume i personaggi devono prima unirsi alla squadra.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023904": {
+        "id": "01009A90120230D0",
+        "rightsId": null,
+        "name": "Lent's Swimsuit \"Beach Flag King\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210430,
+        "nsuId": 70050000023904,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/391aa50b7c783bb9fa700a9709e8651723a09313fee19c38477e02d8ae9d396f.jpg",
+        "intro": "Un costume da bagno per Lent!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \u201cAtelier Ryza 2 Season Pass\u201d e \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d.\n\nAggiunto il costume da bagno \"Beach Flag King\"\" per Lent.\n\nNota:\n- L'uscita di questo contenuto \u00e8 programmata entro fine aprile 2021. La data di uscita \u00e8 suscettibile di variazioni.\n\u00c8 possibile cambiare i costumi nella \"Changing Room\" accessibile tramite la scrivania nell'Atelier. Per cambiare costume i personaggi devono prima unirsi alla squadra.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023906": {
+        "id": "01009A90120230D1",
+        "rightsId": null,
+        "name": "Tao's Swimsuit \"School Trip\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210430,
+        "nsuId": 70050000023906,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/391aa50b7c783bb9fa700a9709e8651723a09313fee19c38477e02d8ae9d396f.jpg",
+        "intro": "Un costume da bagno per Tao!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \u201cAtelier Ryza 2 Season Pass\u201d e \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d.\n\nAggiunto il costume da bagno \"School Trip\" per Tao.\n\nNota:\n- L'uscita di questo contenuto \u00e8 programmata entro fine aprile 2021. La data di uscita \u00e8 suscettibile di variazioni.\n\u00c8 possibile cambiare i costumi nella \"Changing Room\" accessibile tramite la scrivania nell'Atelier. Per cambiare costume i personaggi devono prima unirsi alla squadra.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023908": {
+        "id": "01009A90120230D2",
+        "rightsId": null,
+        "name": "Klaudia's Swimsuit \"Black Monokini\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210430,
+        "nsuId": 70050000023908,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/391aa50b7c783bb9fa700a9709e8651723a09313fee19c38477e02d8ae9d396f.jpg",
+        "intro": "Un costume da bagno per Klaudia!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \u201cAtelier Ryza 2 Season Pass\u201d e \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d.\n\nAggiunto il costume da bagno \"Black Monokini\" per Klaudia.\n\nNota:\n- L'uscita di questo contenuto \u00e8 programmata entro fine aprile 2021. La data di uscita \u00e8 suscettibile di variazioni.\n\u00c8 possibile cambiare i costumi nella \"Changing Room\" accessibile tramite la scrivania nell'Atelier. Per cambiare costume i personaggi devono prima unirsi alla squadra.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023910": {
+        "id": "01009A90120230D3",
+        "rightsId": null,
+        "name": "Patricia's Swimsuit \"White Beach Corset\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210430,
+        "nsuId": 70050000023910,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/391aa50b7c783bb9fa700a9709e8651723a09313fee19c38477e02d8ae9d396f.jpg",
+        "intro": "Un costume da bagno per Patty!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \u201cAtelier Ryza 2 Season Pass\u201d e  \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d.\n\nAggiunto il costume da bagno \"White Beach Corset\" per Patricia.\n\nNota:\n- L'uscita di questo contenuto \u00e8 programmata entro fine aprile 2021. La data di uscita \u00e8 suscettibile di variazioni.\n\u00c8 possibile cambiare i costumi nella \"Changing Room\" accessibile tramite la scrivania nell'Atelier. Per cambiare costume i personaggi devono prima unirsi alla squadra.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023912": {
+        "id": "01009A90120230D4",
+        "rightsId": null,
+        "name": "Clifford's Swimsuit \"Ocean Treasure\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210430,
+        "nsuId": 70050000023912,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/391aa50b7c783bb9fa700a9709e8651723a09313fee19c38477e02d8ae9d396f.jpg",
+        "intro": "Un costume da bagno per Clifford!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \u201cAtelier Ryza 2 Season Pass\u201d e  \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d.\n\nAggiunto il costume da bagno \"Ocean Treasure\" per Clifford.\n\nNota:\n- L'uscita di questo contenuto \u00e8 programmata entro fine aprile 2021. La data di uscita \u00e8 suscettibile di variazioni.\n\u00c8 possibile cambiare i costumi nella \"Changing Room\" accessibile tramite la scrivania nell'Atelier. Per cambiare costume i personaggi devono prima unirsi alla squadra.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023914": {
+        "id": "01009A90120230D5",
+        "rightsId": null,
+        "name": "Serri's Swimsuit \"Bitter Chocolate\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210430,
+        "nsuId": 70050000023914,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/391aa50b7c783bb9fa700a9709e8651723a09313fee19c38477e02d8ae9d396f.jpg",
+        "intro": "Un costume da bagno per Serri!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \u201cAtelier Ryza 2 Season Pass\u201d e \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d.\n\nAggiunto il costume da bagno \"Bitter Chocolate\" per Serri.\n\nNota:\n- L'uscita di questo contenuto \u00e8 programmata entro fine aprile 2021. La data di uscita \u00e8 suscettibile di variazioni.\n\u00c8 possibile cambiare i costumi nella \"Changing Room\" accessibile tramite la scrivania nell'Atelier. Per cambiare costume i personaggi devono prima unirsi alla squadra.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023916": {
+        "id": "01009A90120232BD",
+        "rightsId": null,
+        "name": "Recipe Expansion Pack \"The Art of Synthesis\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210430,
+        "nsuId": 70050000023916,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/391aa50b7c783bb9fa700a9709e8651723a09313fee19c38477e02d8ae9d396f.jpg",
+        "intro": "Nuove recipe per padroneggiare la synthesis!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \u201cAtelier Ryza 2 Season Pass\u201d e  \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d.\n\nAggiunto nuovo materiale e Essence recipe.\n\nNota:\n- L'uscita di questo contenuto \u00e8 programmata entro fine aprile 2021. La data di uscita \u00e8 suscettibile di variazioni.\n- Questi oggetti verranno sbloccati una volta raggiunto un determinato punto del gioco.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n\n\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023918": {
+        "id": "01009A90120232BE",
+        "rightsId": null,
+        "name": "Recipe Expansion Pack \"The Art of Battle\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210531,
+        "nsuId": 70050000023918,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/391aa50b7c783bb9fa700a9709e8651723a09313fee19c38477e02d8ae9d396f.jpg",
+        "intro": "Nuove recipe per armi e altri oggetti utili!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \u201cAtelier Ryza 2 Season Pass\u201d e \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d\n\nAggiunte nuove recipe per gli oggetti occorrenti in battaglia, armature, accessori e 7 armi per i personaggi della squadra: Ryza, Lent, Tao, Klaudia, Patricia, Clifford e Serri.\n\nNota:\n- L'uscita di questo contenuto \u00e8 programmata entro fine maggio 2021. La data di uscita \u00e8 suscettibile di variazioni.\n- Questi oggetti verranno sbloccati una volta raggiunto un determinato punto del gioco.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023920": {
+        "id": "01009A9012023259",
+        "rightsId": null,
+        "name": "Additional Area \"Keldorah Castle\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210430,
+        "nsuId": 70050000023920,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/391aa50b7c783bb9fa700a9709e8651723a09313fee19c38477e02d8ae9d396f.jpg",
+        "intro": "Un nuovo set di rovine tutto da esplorare!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \u201cAtelier Ryza 2 Season Pass\u201d e \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d\n\nAggiunto un nuovo set di rovine da esplorare e relativi intermezzi.\n\nNota:\n- L'uscita di questo contenuto \u00e8 programmata entro fine aprile 2021. La data di uscita \u00e8 suscettibile di variazioni.\n- Gli intermezzi non contengono voci fuori campo.\n- Questo contenuto verr\u00e0 sbloccato una volta raggiunto un determinato punto del gioco.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023922": {
+        "id": "01009A901202325A",
+        "rightsId": null,
+        "name": "High-difficulty Area \"Flame Sun Island\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210531,
+        "nsuId": 70050000023922,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/391aa50b7c783bb9fa700a9709e8651723a09313fee19c38477e02d8ae9d396f.jpg",
+        "intro": "Un'area ad alta difficolt\u00e0 per veri avventurieri!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \u201cAtelier Ryza 2 Season Pass\u201d e  \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d \n\nAggiunto un nuovo set ad alta difficolt\u00e0 di rovine da esplorare e relativi intermezzi.\n\nNota:\n- L'uscita di questo contenuto \u00e8 programmata entro fine maggio 2021. La data di uscita \u00e8 suscettibile di variazioni.\n- Gli intermezzi non contengono voci fuori campo.\n- Questo contenuto verr\u00e0 sbloccato una volta terminato il gioco principale. (\u00c8 necessario il salvataggio dei dati di conclusione del gioco.)\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n\n\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023923": {
+        "id": "01009A901202312D",
+        "rightsId": null,
+        "name": "Gust Extra BGM Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210430,
+        "nsuId": 70050000023923,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/391aa50b7c783bb9fa700a9709e8651723a09313fee19c38477e02d8ae9d396f.jpg",
+        "intro": "Cambia le musiche di sottofondo con quelle dei tuoi titoli Gust preferiti!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \u201cAtelier Ryza 2 Season Pass\u201d e \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d\n\nAggiunti brani di musiche di sottofondo supplementari provenienti dai titoli Gust (contiene brani da \u201cAtelier Ryza\u201d, \u201cBLUE REFLECTION\u201d e tanti altri).\"\n\nNota:\n- L'uscita di questo contenuto \u00e8 programmata entro fine aprile 2021. La data di uscita \u00e8 suscettibile di variazioni.\n- L'elenco dei brani in aggiunta \u00e8 suscettibile di variazioni.\n- \u00c8 possibile cambiare le musiche di sottofondo presso la scrivania nell'Atelier.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023927": {
+        "id": "01009A9012023191",
+        "rightsId": null,
+        "name": "All You Need! Gem Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210129,
+        "nsuId": 70050000023927,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7eded34493de05dce8c7a4ba7af2dffd699db3def40ddb9e16f647c12a9dfd5c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5af1343056bb6cdd55bb1e312aa2b20ad07f052469d7daeba147b806c3108577.jpg",
+        "intro": "100.000 pratiche gem!",
+        "description": "*Questo oggetto \u00e8 incluso nei set \"Atelier Ryza 2: Lost Legends & the Secret Fairy Digital Deluxe Edition\u201d e \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition\u201d.\n\n100.000 gem utilizzabili per item rebuild e tanto altro ancora.\n\nNota:\n- Le gem saranno disponibili man mano che si progredisce nel gioco e permettono di sbloccare il prezioso oggetto sullo skill tree. \n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000023928": {
         "id": null,
         "rightsId": null,
@@ -60898,6 +61980,40 @@
         "description": "A DLC pack for GROOVE COASTER WAI WAI PARTY!!!! that includes 10 popular songs, navigators and avatars from Muse Dash and various music games.\n\nThis pack includes the following content.\n\u25a0Song Pack (10 songs)\n\u30fbLights of Muse\n\u30fbStargazer\n\u30fbXING\n\u30fbFunkotsu Saishin Casinou\n\u30fbGift box\n\u30fb\u042fUBY:LINTe\n\u30fbAltale\n\u30fbGOODBOUNCE\n\u30fbPunai Punai Taisou\n\u30fb???(Secret)\n\n\u25a0Navigator\n\u30fbRin *with voice\n\u30fbBuro *with voice\n\u30fbMarija *with voice\n\n\u25a0Avatar\n\u30fbRIN(2D)\n\u30fbBURO(2D)\n\u30fbMARIJA(2D)\n\u30fbTERUYAMA(2D)\n\n*Some content will be unlocked via missions after downloading.",
         "languages": null,
         "size": 54525952
+    },
+    "70050000023930": {
+        "id": "010076B011EC9005",
+        "rightsId": null,
+        "name": "Baila Latino Bonus Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70050000023930,
+        "category": null,
+        "ratingContent": [
+            "Allusioni sessuali",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "My World",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a24195452829817b3cc8b68abdbaad45a5d9c285288930ff33a506c99261ae54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c829ac346daa1a4446d8f54ca6633e696aafedc60e8e13dd90029fdcd552ab4c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/55878a227812198f3bfb6eb12356366eb11d886c55b5ca9baf051a37540a8ba3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/76d6b6b515ad8678011aa6e9f9fb6486dfa6f2096eabde30aa67ac086e11bce3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bec0cb5f0b9e5d49ac678c9081694c55a5574d6ab0de3de94f0af1b156fe6829.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0401805723b6b66618f2db7a5091ff623e8222c7de757d645a7ada84cd60e169.jpg",
+        "intro": "Cinque nuove fantastiche danze gratis per i giocatori di Baila Latino.",
+        "description": "Le cinque tracce musicali sono:\n\n1. Cecilia Gayle: El Tipitipitero\n2. La Familia Loca: El Talism\u00e1n\n3. La Familia Loca: Se Acab\u00f3 La Malanga\n4. La Familia Loca: Sin Ti No Puedo\n5. Los Locos: Tic Tic Tac\n\nBuon divertimento!",
+        "languages": null,
+        "size": 684720128
     },
     "70050000023934": {
         "id": "0100E1F013675022",
@@ -61624,6 +62740,37 @@
         "description": "Il traffico di Natale \u00e8 quello pi\u00f9 gioioso!\n\nAiuta Babbo Natale a portare i regali agli abitanti di Urban City!\n\nDivertiti con i nuovi veicoli, l'autopompa e la spazzaneve!\nGioca 20 nuovi livelli!\nGoditi il tema invernale e la nuova musica!",
         "languages": null,
         "size": 4194304
+    },
+    "70050000024210": {
+        "id": null,
+        "rightsId": null,
+        "name": "DEEMO x DJMAX collaboration pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201126,
+        "nsuId": 70050000024210,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Flyhigh Works",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7b2bd37026627aedfa490a5f09e18aa151bd1a05e1a4943e2a9a1cce79f2d0c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77dfbf19e3da6849beacb63c0afc6cdccf1d8cd73cc537d4cb80f685089167a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f247bf1fa94cc8c190336b87be1024b9ce5f92c096b83e0f29d164a28a488b8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c5918e076d8579ea31745131ec2226360be401a769dbcec324d64931b777a664.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77051ae660e4bcac34a53a4e8ee1afecec90ed93ce9e9a6c16306142d785aa82.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/601aaeb6df65f71084d97ee7d4d086ef2cabd324d01789ecb9a561ec8b3261fc.jpg",
+        "intro": null,
+        "description": "The following five tracks are included.\n\nglory day (Deemo Arr.)\nFar East Princess (Deemo Arr.)\nOBLIVION (Deemo Arr.)\nHeart of Witch (Deemo Arr.)\nNightmare (Deemo Arr.)",
+        "languages": null,
+        "size": 42991616
     },
     "70050000024212": {
         "id": "01004A600EC0B00C",
@@ -64251,6 +65398,36 @@
         "languages": null,
         "size": 16102981632
     },
+    "70070000011298": {
+        "id": null,
+        "rightsId": null,
+        "name": "IMMORTALS FENYX RISING - SEASON PASS",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70070000011298,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "Violence",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/881c63857dce7c1a0c8d20a879b3688681386dcaf12471ab689ef4b94d12c355.jpg",
+        "intro": null,
+        "description": "Amplia la tua avventura di Immortals Fenyx Rising con il Season Pass, che include 3 DLC narrativi, per vivere storie ed enigmi ancora pi\u00f9 epici.\nUna nuova divinit\u00e0: Nei panni di Fenyx, supera le prove degli dei dell'Olimpo per entrare nel pantheon greco e compiere il tuo destino.\nMiti del regno d'oriente:  Affronta una storia tutta nuova ispirata alla mitologia cinese, dove nei panni di un nuovo eroe incontrerai nuovi dei e combatterai mostri esotici in una terra lontana.\nGli dei perduti: Prova un nuovo stile di combattimento con visuale dall'alto! Fai la conoscenza di una nuova eroina, imbarcandoti in un'epica avventura per riunire gli dei greci. \n\nAcquista oggi stesso il Season Pass, ricevi la missione bonus Quando la strada si fa impervia e ottieni ricompense di gioco esclusive.",
+        "languages": null,
+        "size": 16777216
+    },
     "70070000011303": {
         "id": null,
         "rightsId": null,
@@ -64313,6 +65490,71 @@
         "description": "Amplia la tua raccolta di brani di FUSER\u2122 con 25 canzoni. Dai un tocco tutto nuovo ai tuoi mix con queste tracce aggiuntive, disponibili subito in-game. Richiede il gioco base di FUSER\u2122. Per l'elenco di brani, visita www.fuser.com.",
         "languages": null,
         "size": 238026752
+    },
+    "70070000011310": {
+        "id": null,
+        "rightsId": null,
+        "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy Digital Deluxe Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210129,
+        "nsuId": 70070000011310,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1d8ee48b193561e8c139bbca18aa74eddd198de80a85df7850c98faea20baf4f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/960e5a51253665d2c437e8f258e932dbcac3c6231bb3cdd264658c9d9089a94b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e7ae6ef53e3bf81d7b47e265ddd207f6e6e7bb7e554b3d7d6a10dc5f7c8792c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6743bf075f959060c8c7c8e59c76fdfb0916f0aa0b9e72aeed5182d673c0be29.jpg",
+        "intro": "Anche se ho perso la mia forza, sar\u00f2 sempre dalla tua parte...",
+        "description": "La storia si svolge tre anni dopo gli eventi del gioco precedente, \u201cAtelier Ryza: Ever Darkness & the Secret Hideout\u201d. Tra nuovi incontri e addii, Ryza e suoi amici, di nuovo riuniti, scopriranno un tesoro inestimabile. \n\n[Contenuto set]\n\u25cf Il gioco principale \u201cAtelier Ryza 2: Lost Legends & the Secret Fairy\u201d \n\u25cf Kurken Island Gathering Tour\nRaggiungi un determinato punto del gioco per sbloccare alcune delle aree di raccolta del titolo precedente \"Atelier Ryza\".\nAree presenti: Traveler's Road (da Shipyard), Pixie Forest (da Flower Guard's Garden), Maple Delta (da Sweet River), Weissberg Volcano (da Smoky Mountain Path), Meteor Castle (da Heatwave Gate)\nAnother Style Costume Set\nUn set di 21 costumi, 3 per ciascuno dei seguenti personaggi. Ryza, Lent, Tao, Klaudia, Patricia, Serri e Clifford. \n\u25cfSummer Memories Costume Set\nInclude: costume \u201cSummer Adventure!\u201d per Ryza, presente come bonus acquisto anticipato per il titolo precedente; set costumi \u201cAnother Fashion\u201d e set costumi \u201cSummer Style\u201d presenti nella Digital Deluxe edition. 16 costumi, 4 ciascuno, per Ryza, Lent, Tao e Klaudia.\n\u25cfHelpful Items Set\nUn set di quattro oggetti differenti per aiutarti nelle prime fasi del gioco. Verranno aggiunti al Container nell'Atelier.\nOggetti presenti: Wind Shoes (aumenta la velocit\u00e0 di movimento), Traveler's Coat (aumenta il guadagno di EXP), True Handmade Staff (aumenta il guadagno di AP), Uni Charm (incrementa le statistiche, il recupero della salute e la potenza delle skill).\n\u25cf All You Need! Gem Pack\n100.000 gem utilizzabili per item rebuild e tanto altro ancora. Le gem saranno disponibili man mano che si progredisce nel gioco.\n",
+        "languages": null,
+        "size": 7551844352
+    },
+    "70070000011311": {
+        "id": null,
+        "rightsId": null,
+        "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210129,
+        "nsuId": 70070000011311,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1d8ee48b193561e8c139bbca18aa74eddd198de80a85df7850c98faea20baf4f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/960e5a51253665d2c437e8f258e932dbcac3c6231bb3cdd264658c9d9089a94b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e7ae6ef53e3bf81d7b47e265ddd207f6e6e7bb7e554b3d7d6a10dc5f7c8792c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d58907dcd9a0e7613c5331b42aca70af0214d6446600cc6c62488244691871c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15b4401a2cc654ff650884e8131599b2c3c7535a80fdf39689a4451d42fa35ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c8f23ee0eba5a7a7443b539b382948421bd588655047f8c1fc8528733f31881d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e974c56dffedcfa5ff3b266b910fca3456be08b47de21dea235578c3b5c50828.jpg",
+        "intro": "Anche se ho perso la mia forza, sar\u00f2 sempre dalla tua parte...",
+        "description": "La storia si svolge tre anni dopo gli eventi del gioco precedente, \u201cAtelier Ryza: Ever Darkness & the Secret Hideout\u201d. Tra nuovi incontri e addii, Ryza e suoi amici, di nuovo riuniti, scopriranno un tesoro inestimabile. \n\n[Contenuto set]\n\u25cf Atelier Ryza 2: Lost Legends & the Secret Fairy Digital Deluxe Edition\n\u25cf Atelier Ryza 2: Season Pass: contiene 12 contenuti scaricabili che usciranno in pi\u00f9 fasi a partire da marzo 2021.\n\n[Contenuto incluso nel Season Pass]\n\u2460 Ryza's Swimsuit \"Tropical Summer\"\n\u2461 Lent's Swimsuit \"Beach Flag King\"\n\u2462 Tao's Swimsuit \"School Trip\"\n\u2463 Klaudia's Swimsuit \"Black Monokini\"\n\u2464 Patricia's Swimsuit \"White Beach Corset\"\n\u2465 Clifford's Swimsuit \"Ocean Treasure\"\n\u2466 Serri's Swimsuit \"Bitter Chocolate\"\n\u2467 Recipe Expansion Pack \"The Art of Synthesis\"\n\u2468 Recipe Expansion Pack \"The Art of Battle\"\n\u2469 Additional Area \"Keldorah Castle\"\n\u246a High-difficulty Area \"Flame Sun Island\"\n\u246b Gust Extra BGM Pack\n\nNota:\n- L'uscita di \u2460 - \u2467\u2469\u246b \u00e8 prevista entro la fine di aprile 2021; l'uscita di \u2468\u246a \u00e8 prevista entro la fine di maggio 2021.\n- Per ulteriori informazioni sul contenuto presente, visita il sito ufficiale: https://www.koeitecmoeurope.com/ryza2/\n I contenuti del Season Pass, le date e l'ordine di uscita sono suscettibili di variazioni senza preventiva comunicazione. \n\n- \u2460 - \u2466 costumi personali per i personaggi.\n- \u2467 nuovo materiale ed Essence recipe.\n- \u2468 nuove recipe per gli oggetti occorrenti in battaglia, armature, accessori e 7 armi per i personaggi della squadra.\n- \u2469 nuovo set di rovine da esplorare (contiene intermezzi senza parlato).\n- \u246a nuovo set di rovine da esplorare ad alta difficolt\u00e0 (contiene intermezzi senza parlato).\n- \u246b brani BGM supplementari provenienti dai titoli Gust (contiene brani da \u201cAtelier Ryza\u201d, \u201cBLUE REFLECTION\u201d e tanti altri).\"\n",
+        "languages": null,
+        "size": 7611613184
     },
     "70070000011313": {
         "id": null,
