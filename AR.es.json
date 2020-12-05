@@ -6924,7 +6924,7 @@
             "ko",
             "zh"
         ],
-        "size": 14771290112
+        "size": 14893973504
     },
     "70010000029278": {
         "id": "010029B0118E8000",
@@ -7801,6 +7801,55 @@
             "zh"
         ],
         "size": 3082813440
+    },
+    "70010000035641": {
+        "id": "0100E1F013674000",
+        "rightsId": null,
+        "name": "FUSER\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201125,
+        "nsuId": 70010000035641,
+        "category": [
+            "M\u00fasica",
+            "Fiesta",
+            "Multijugador",
+            "Estilo de vida"
+        ],
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0f4628c9de3b23a315b3912aae0b7d5030c1a2cb1b87cd4f84b6c68b653e4012.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/36334a8103212a587d1008df7456886b58887721acfb7f21c37242288a418cea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0f7874310a25335445e894a3c6d13f8157e935ddf55157805bc14e05ac476cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c9007d28c8ef710979602c369c31e362b7e697b0490d485a97c1de7c82350e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/860d07f346c3dd9b66a0dcc838bdcefca82e2d8c300f2a14d712399ad77a2dab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/87c3321598114673fd983dcaaed5beb794b2ddcb6d5c2a44189f8ff08d4a0cbf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58330b97c4cfa04a93b99d0973a9d34da0ef605d3d4546881bd4e984de65733d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1d29d8f24e715e7139ae4a58f20baebf08c548fbf1a75fed28d27cab4aef2e93.jpg",
+        "intro": "De los creadores de Rock Band\u2122 y Dance Central\u2122 llega FUSER\u2122: \u00a1un festival de m\u00fasica virtual interminable donde t\u00fa controlas la m\u00fasica!",
+        "description": "De los creadores de Rock Band\u2122 y Dance Central\u2122 llega FUSER\u2122: \u00a1un festival de m\u00fasica virtual interminable donde t\u00fa controlas la m\u00fasica! Combina elementos de las canciones m\u00e1s populares del mundo para crear tu propio sonido o j\u00fantate con amigos para hacer colaboraciones \u00e9picas. \u00a1Y comparte tus incre\u00edbles mezclas y alucinantes actuaciones con todo el mundo!\n\nFUSER Features:\n\n- Juega con una biblioteca de m\u00e1s de 100 canciones que incluyen temas de los mejores artistas del mundo.\n- Supera desaf\u00edos para desbloquear nuevas habilidades y contenido en el modo Campa\u00f1a.\n- Explora, descubre y crea mezclas incre\u00edbles y efectos personalizados en el modo Estilo libre.\n- Colabora o compite con jugadores de todo el mundo en el modo Multijugador.\n- Usa las opciones de personalizaci\u00f3n para adaptar el aspecto y la onda de tu estilo individual particular.",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 6192889856
     },
     "70010000035838": {
         "id": "0100A12011CC8000",
@@ -9410,7 +9459,8 @@
             "Referencia a drogas",
             "Lenguaje",
             "Violencia moderada",
-            "Temas insinuantes"
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -9446,7 +9496,8 @@
             "Referencia a drogas",
             "Lenguaje",
             "Violencia moderada",
-            "Temas insinuantes"
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -17937,12 +17988,12 @@
     "70050000022223": {
         "id": "0100EAE010561010",
         "rightsId": null,
-        "name": "Captain Tsubasa: Rise of New Champions Car\u00e1cter 1",
+        "name": "Captain Tsubasa: Rise of New Champions: Stefan Levin",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20201231,
+        "releaseDate": 20201203,
         "nsuId": 70050000022223,
         "category": null,
         "ratingContent": [
@@ -17958,22 +18009,26 @@
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/15c298dec03e41dc48436f81f9466d16704e1c1b3cade2fb29698b227ae2de7b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4658a983cf6a48bc13c0493446122a60b6f354b3131d8422b5066970ef83e76b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bc3e879baa78bcd044e7759de918b88f4ff39a0a072a5e072ee2f0eb5f71f356.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e79789897a4af04504e18bb8c8960ca611808154b7a61e2fa083b5485a717dc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/022648185876c145499a0504bdb309e8d71b2afb7ad0ea2b327641efa9b1df4a.jpg",
         "intro": null,
-        "description": "Obt\u00e9n acceso a este personaje adicional.",
+        "description": "Stefan Levin est\u00e1 disponible como personaje nuevo para jugar en Captain Tsubasa: Rise of New Champions.",
         "languages": null,
         "size": 4194304
     },
     "70050000022224": {
         "id": "0100EAE010561011",
         "rightsId": null,
-        "name": "Captain Tsubasa: Rise of New Champions Car\u00e1cter 2",
+        "name": "Captain Tsubasa: Rise of New Champions: Singprasert Bunnaak",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20201231,
+        "releaseDate": 20201203,
         "nsuId": 70050000022224,
         "category": null,
         "ratingContent": [
@@ -17989,22 +18044,27 @@
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d026d77b171bee06105c8a9bcfc683ad96d5923d48c0f0466e377647ac9038c3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/432a8957b9e391589c5a9e6d4917c9780943d7fbd1feafa84f46b75148cd3019.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/496f604d552baba75a79d7cab65dbd8c26161cd0d7b8d357a69d162c0b8c8e00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c48c84bc8cd89acffe2a7ff7d482d04fc98cb37cb22aac0a2768cd4a3d977a50.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f8d30291197c7bede3b70837ad64ca4a98599a854b60405ef7d3485185323ca.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/facd341d1b8e5bdcb427b4d3bbe9e8dde14484e0618786e2a48a3aa6fe2a8548.jpg",
         "intro": null,
-        "description": "Obt\u00e9n acceso a este personaje adicional.",
+        "description": "Singprasert Bunnaak est\u00e1 disponible como personaje nuevo para jugar en Captain Tsubasa: Rise of New Champions.",
         "languages": null,
         "size": 4194304
     },
     "70050000022225": {
         "id": "0100EAE010561012",
         "rightsId": null,
-        "name": "Captain Tsubasa: Rise of New Champions Car\u00e1cter 3",
+        "name": "Captain Tsubasa: Rise of New Champions: Ricardo Espadas",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20201231,
+        "releaseDate": 20201203,
         "nsuId": 70050000022225,
         "category": null,
         "ratingContent": [
@@ -18020,10 +18080,15 @@
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2b53884f6518eeee7113f08d82b11ad1d75e6a688aae6f225091605ebcff84eb.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0acee2410188b8280ba33eecbf134fc2be2a3549d5391f8a1c8872cdf526be0a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e89a9da561246767178db59a1d43a8f775d0f3c89116fd879a40e50e437db47c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8cc4472ad56eeeca3f36cb5920b471f7e4e86d5fc62cef079bd36cf35f0fb5d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c3f7cd9e6669fc742261e2a71fe6fef89fee09aa390bc68bcdfb6bd0a5db8424.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1a4c045f1e22179143f693ee335821f43e8c8650581c210db07652e8579fcda4.jpg",
         "intro": null,
-        "description": "Obt\u00e9n acceso a este personaje adicional.",
+        "description": "Ricardo Espadas est\u00e1 disponible como personaje nuevo para jugar en Captain Tsubasa: Rise of New Champions.",
         "languages": null,
         "size": 4194304
     },

@@ -5859,10 +5859,11 @@
             "Platformer"
         ],
         "ratingContent": [
+            "Mild Violence",
             "Users Interact"
         ],
         "numberOfPlayers": 4,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Dan Fornace",
         "frontBoxArt": null,
@@ -5923,7 +5924,7 @@
             "de",
             "it"
         ],
-        "size": 350224384
+        "size": 427819008
     },
     "70010000021849": {
         "id": "01002A900EE8A000",
@@ -13522,7 +13523,7 @@
             "it",
             "ru"
         ],
-        "size": 6904872960
+        "size": 6903824384
     },
     "70010000028461": {
         "id": "01002AC0113DE000",
@@ -15067,7 +15068,7 @@
             "ko",
             "zh"
         ],
-        "size": 14771290112
+        "size": 14893973504
     },
     "70010000029026": {
         "id": "0100A5D01174C000",
@@ -16639,7 +16640,7 @@
             "de",
             "it"
         ],
-        "size": 3758096384
+        "size": 3755999232
     },
     "70010000029625": {
         "id": "0100F0C011A0C000",
@@ -19580,7 +19581,7 @@
             "de",
             "it"
         ],
-        "size": 838860800
+        "size": 846200832
     },
     "70010000030736": {
         "id": "01002EC011DA6000",
@@ -21631,7 +21632,7 @@
             "Action"
         ],
         "ratingContent": [
-            "Implied Violence"
+            "Mild Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -25902,6 +25903,44 @@
         ],
         "size": 67108864
     },
+    "70010000032348": {
+        "id": "010008C01010A000",
+        "rightsId": null,
+        "name": "Traditional Tactics Ne+",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70010000032348,
+        "category": [
+            "Simulation",
+            "RPG"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Daidai",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cda8c844e6d7aafe4bbb6e2d73e57f461746d155b932c52dbed7d2dfe0bab110.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7cf274047635759f85ad126ebfbceb7e5b7e92596af4931d115bd9385c23064b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c24deb0e81ffb7a73cb0bd3ce4e2d5791c989d532ea9b2b64bfd971fbdd73c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/28d71711b2e019ed5243bb253dc0b1c533219812e021357d70dc25b234c50cd2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d4499a68ac90cd6410f767385750590cf163ab24bc7f82f4bed63384a59c11e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca90079b83737e47eca089a2781a08e63f8ae1f17aec6f0a9951e80da1282c0c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f3522ae9458aed6b330b74d3ba2d1d5c3e21b2123c65e5993ba289dc01ef6b74.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b4ba4dd4352753f87a8c1633aaa3c4c9bfbb905b8c2643d97049c5052ffcad63.jpg",
+        "intro": "This is Simulation(Strategic) RPG.\nSimple and Reasonable, but Not Easy.\nSo it's just Traditional!",
+        "description": "You are \"Prince Natri\", explore the dungeon \"Royal Tomb\" to be the king. In there, many spirits are waiting to make a trial of your courage. Let's fight and try the simulation battle with your units!\n\n***** Features *****\nThis is turn-based Simulation RPG. You and enemy take turns playing like Chess. Move your units on the map and beat the enemy to clear each stage. The rules of this game are so simple that you can understand easily, and there are many features for beginners. \nExample :\n(1) You can do Save at anytime.\n(2) Your units don't vanish even if defeated.\n(3) Useful item \"Support Card\" helps you.\n\nBut, it's never easy to complete all stages.\nSo you should remember that...\n\nThe most important thing is\n\"Thinking Carefully\"\n\n***** Language *****\nEnglish and Japanese are available.\n",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 160432128
+    },
     "70010000032360": {
         "id": "0100C4801223C000",
         "rightsId": null,
@@ -28586,7 +28625,7 @@
             "zh",
             "zh"
         ],
-        "size": 1454374912
+        "size": 1518338048
     },
     "70010000032847": {
         "id": "0100AB90129CA000",
@@ -32893,7 +32932,7 @@
         "languages": [
             "en"
         ],
-        "size": 526385152
+        "size": 563085312
     },
     "70010000033709": {
         "id": "010076F012CD8000",
@@ -34252,7 +34291,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20201208,
+        "releaseDate": 20201215,
         "nsuId": 70010000034080,
         "category": [
             "Party",
@@ -34279,7 +34318,18 @@
         "intro": null,
         "description": "Shakes on a Plane is a chaotic co-op shaking game for one to four players. Flying on various planes with your flight crew, serve up a variety of tasty shakes, burgers, fries and many more dishes before the plane lands on the airport and your passengers rate your services. \nBut it is not only you who creates all the mess. Aliens always had a look on our shiny planet with its weird citizens but undeniable and delicious food they are creating and cooking. The intergalactic community competes in fame rewarding cooking competitions and the species with the most sophisticated meal wins. This is when humanity can play its part in this extraordinary event and show the galaxy what real fast food can taste and look like.\n\nFeatures:\n-\tServe your passengers with up to four players and cooperate in convincing them that flying with you is always a good decision.\n\n-\tThe orders vary from shakes, burgers, coffee and even a greater variety of fast food which underlines only the best quality you offer for your passengers.\n\n-\tTime is essential and your guests have a high demand of multiple goods all the flight long. Grab tablets to solve various orders at the same time and don\u00e2\u20ac\u2122t let them wait too long.\n\n-\tNot only turmoils might occur during your flights, walking passengers, moving tables and many more things will complicate your accomplishments on your planes.\n",
         "languages": [
-            "en"
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
         ],
         "size": 767557632
     },
@@ -35202,7 +35252,7 @@
             "ru",
             "zh"
         ],
-        "size": 202375168
+        "size": 207618048
     },
     "70010000034340": {
         "id": "0100EEE012FE4000",
@@ -35844,7 +35894,7 @@
             "it",
             "nl"
         ],
-        "size": 1314914304
+        "size": 1362100224
     },
     "70010000034477": {
         "id": "01008050130EE000",
@@ -36595,10 +36645,10 @@
             "Other"
         ],
         "ratingContent": [
-            "Moderate Violence"
+            "Implied Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 12,
+        "rating": 7,
         "developer": null,
         "publisher": "Badland Publishing",
         "frontBoxArt": null,
@@ -37194,6 +37244,48 @@
         ],
         "size": 274726912
     },
+    "70010000034787": {
+        "id": "01007F701323E000",
+        "rightsId": null,
+        "name": "Arcade Archives The Fairyland Story",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70010000034787,
+        "category": [
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8d769e771d3d0e7966e7a4aa59e0dc9f029353688795c89a6f2913475525e5f2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ebb6f937e11d184cef21abba1dc06f51cf8f9b818f8e1b269eac03093bb2f71f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de69ab6efacc88e6f06e0d8011b2359c77b1d0e1fe436e9f23631a62946cf313.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac06870e53630a1c19c86f1af19a39919cf85fccddd2753437f182b28c48a564.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4d96994f78bdaa4a829461ca901ce24475425723310388ef7f0b8b8e47f83bf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afe945bd8d9444f996b33d0d554c78933ff7af983c086989d66e1521843aaaaf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f86ae3a2475683e2b5f515ecd4388f554d039117d1a87c5269844cd233d66078.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ca62797008c1f16dab034fa7a66e62fffd799ebb285bd0f269ec985cdbf123cd.jpg",
+        "intro": "A grand adventure with over 101 stages! How many can you clear?",
+        "description": "\"The Fairyland Story\" is an action game released by TAITO in 1985. Take control of a young witch and battle against monsters deep within the castle. Master various magics and techniques to overcome your enemies.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 71303168
+    },
     "70010000034792": {
         "id": "0100706013240000",
         "rightsId": null,
@@ -37686,6 +37778,46 @@
             "en"
         ],
         "size": 5011144704
+    },
+    "70010000034853": {
+        "id": "0100D9F013102000",
+        "rightsId": null,
+        "name": "Outbreak Lost Hope",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70010000034853,
+        "category": [
+            "Action",
+            "Adventure",
+            "RPG",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Strong Language",
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Dead Drop Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c31d47c1212863e81434a99ddb45160617f0a287e9498d5684c254f48149affa.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b12cee1543e1af08f3592f16a36670ea8579f87958cd44f4a58bd3acd4cf80d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/deb3563ac3f5474258d081823b2163a05ba0f2e1ab8cc6fce2fb1ea7a389137d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d82c77fb51c1e46311347374cdb49160e197aab089304824c625d0b39a4ac021.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb4376ac40283eaf10fb612cbda1594ca9dec270d10b2792cc23aec2c841652e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ce3ad3f02045f286c7e98e06084fd09fe6f627b66107d1a0fc5120886ae52a37.jpg",
+        "intro": "Experience a mother's desperate search for her daughter in the midst of a nation-wide undead epidemic.",
+        "description": "Experience a mother's desperate search for her daughter in the midst of a nation-wide epidemic. Taking place in the Outbreak universe by Dead Drop Studios, this story follows Gwen just after her harrowing escape from an urban center during the outbreak. A terrible accident causes her to get separated from her daughter Hope and she has to fight the undead to survive... and save her daughter.",
+        "languages": [
+            "en"
+        ],
+        "size": 3293577216
     },
     "70010000034854": {
         "id": "0100C850130FE000",
@@ -38805,6 +38937,46 @@
         ],
         "size": 1531969536
     },
+    "70010000035125": {
+        "id": "0100A790133FC000",
+        "rightsId": null,
+        "name": "Mercenaries Blaze: Dawn of the Twin Dragons",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70010000035125,
+        "category": [
+            "Strategy",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Strong Language",
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "CIRCLE Ent.",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/90cf7beecb8dc01e3fe2b27e1d203758508a749df34b636bce0c49d47eda6742.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1f5634255f572e6789c81bdce6ee7873b428e52698683f3dd891dcc5f28c25b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14a8062757466bb992315f7ad7013bf160081b3de0cca72801aa84cb4c7f0f92.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d2fba091c473e5ff4c2bb5a76a750307c244e35b71201d502384ff34f96f22c5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e45bbfeacf13536996043de3fdbeca8451ff90a0ae0516bfae42d91baaab820a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c2feebac4cf1adc469db88460c0b94a6d9dae75712dc78698c4e7fcc973282e7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1573d75b2c8f6447482389b18ff0f8cec76d3536ee2d7f02fc13269d04158c9d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0731050b41bb4868d5dcb52b74a9dba1b0bc1ea9ecf05c7c5e4b524c3e96494f.jpg",
+        "intro": "Mercenaries Blaze: Dawn of the Twin Dragons is a tactical RPG from Rideon, and is the 5th \u2018Mercenaries\u2019 title on Nintendo Switch\u2122!",
+        "description": "Experience a lengthy and challenging story campaign, an enthralling tale full of emotive writing, plot twists and high stakes moments. Grow with your team by clearing strategic turn-based battles, with many optional missions and details to consider \u2013 which class will you upgrade for each character, and what equipment or skills will you prioritise?\n\nDeveloper Rideon\u2019s highly-regarded turn-based strategy battles are carried out from an isometric viewpoint, and are characterized by increased depth as you position characters not just in terms of elevation and enemies, but also to maximise attacks and defence depending on the direction you face. Varied weapons and skills are all tools that need to be utilised smartly for the best results.\n\nNew to the series for Mercenaries Blaze: Dawn of the Twin Dragons are fully 3D Battle Maps, along with improved visuals and audio. Character designs are from Mr. Masayoshi Nishimura, with the varied cast telling an exciting and surprising story.\n\nFeatures:\n\n\u25cf Experience an amazing story with two distinct paths and a diverse cast of characters.\n\u25cf Lots of optional battles that allow you to see more of the world and level up your team.\n\u25cf 3D Battle Maps, giving greater control and depth in strategic play.\n\u25cf Use Blaze Exceed, a key power that can turn the tide of battle.\n\u25cf Incredible depth beyond battles, as you carefully manage equipment, skills and classes for your team.",
+        "languages": [
+            "en"
+        ],
+        "size": 514850816
+    },
     "70010000035127": {
         "id": "01003A90133A6000",
         "rightsId": null,
@@ -39122,6 +39294,49 @@
         ],
         "size": 250609664
     },
+    "70010000035228": {
+        "id": "0100A0401346A000",
+        "rightsId": null,
+        "name": "Persian Nights 2: The Moonlight Veil",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201211,
+        "nsuId": 70010000035228,
+        "category": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Moderate Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Artifex Mundi",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dfa54775e569062a6e6430ee72318e3143940250280c930d1cd2bf31f5462117.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/25ec87fd9425084aecf34ec396fbac50f07b0703874986659013d4fc1eb08ab8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d07439832b2b2f90a29691ce14f46533ceb7a948ee17f7f75a8d466a415d757.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9e94f22f036694d281938ca3a0a1eb2d0d3e4aed1dc007c119bec5cfbef19ea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af21361fe0df3f543621be0870d0bc916206c586968d65ed3fe249b6574451e6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/003315fb8788af43de73968cf1c3d25fc9f462ae6bb7331604f3f064f8c7d074.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b1201b0fa099e6052d261f23f85046dbbf803746c0f0f932454cae8c032bcf0d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/092c70f2e0aee81f09c76cac9bdf550716713b576bdbda474a6c7972340ec709.jpg",
+        "intro": "Between two moons and one love.",
+        "description": "Travel to the magical land of Persian Nights and save your sister from a dire fate. Feel the taste of orient in this sumptuous and beguiling hidden object adventure.\n\nThe day of Mathab is coming to an end. During this time the aura of two moons forbids spellcasting, and the magic community must rely on previously enchanted artifacts. This year, the Academy was full of uncanny accidents which lead to the scrutinous investigation led by the mysteriously looking individual. On top of that, your sister vanishes under unclear circumstances. Unfortunately, it's just the beginning of a heap of troubles that you'll be facing in the far-off orient land!\n\nWelcome to the fascinating, exotic world of Persian tales and legends. Tame mythical creatures called moonlings and meet other including the fabled simurgh, experiment with magic amulets, traverse through the Academy exploring all its secrets, and reveal who's behind all the atrocities!\n\nGet ready for a highly immersive, enchanting adventure which brings to memory such classics as Arabian Nights, dealing with the orient theme in its own, unique way.\n\nSolving the mystery behind the accidents and saving sister rests upon your shoulders!",
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 1147142144
+    },
     "70010000035238": {
         "id": "01005300128E2000",
         "rightsId": null,
@@ -39203,6 +39418,51 @@
             "en"
         ],
         "size": 66060288
+    },
+    "70010000035274": {
+        "id": "010033B0134A2000",
+        "rightsId": null,
+        "name": "Freddy Spaghetti",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201218,
+        "nsuId": 70010000035274,
+        "category": [
+            "Adventure",
+            "Action",
+            "Arcade",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/abc39d47d19dd0fe109d6564e69b5ae657ecf47795ffd6096c1bbe97d8ad6217.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1e1a530773d33f734260f4e1ea02ddb382d09484a50e45c7f3179bff20b7a9f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1de3d27e313b4d8c2e272c24180b6ac6a565a83952ae9d86e74c8fe733c8f4c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4e4d8e2d1b961485281458a744e8564ae24f23163f316569b797c171f08f5a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ef712304277f44f2a62e39353f945685ab83fd2870d6e0dd547765bb802cd607.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b37027a990d38f72465fc3afb214e6d28efac039c744052a212481c270c1cf06.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a852e49ca09f7bab9ceb9d13194bcf7d2d67d72b9dac612326c126fca87ca9c3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a4eacc80aeb490537577445ee5e3777499ef0a44d31599fc837c9ba739aeec8c.jpg",
+        "intro": "Meet Freddy. Freddy is spaghetti. Oh, and conscious. ",
+        "description": "Follow along Freddy's story as you plunge head first into challenges and obstacles. Created in a laboratory machine by the brilliant Dr. P Starr, Freddy\u2019s story turned out to be quite the adventure that would follow.\n\nFreddy uses rope physics to simulate a squishy, stretchy, ropey character. Walk, Run, Jump, Slide, Slap, Smash, Kick, Dodge and Epic Fail your way to the Goal. Overcome the environment, master your spaghetti!\n\nFeatures\n* Fun and easy controls\n* Physics all over the place\n* Unique levels\n* Hilarious and captivating story\n* Professional narration\n* Heaps of personality",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it"
+        ],
+        "size": 449839104
     },
     "70010000035284": {
         "id": "01000E50134A4000",
@@ -39437,6 +39697,55 @@
             "zh"
         ],
         "size": 2810183680
+    },
+    "70010000035346": {
+        "id": "01000650134FE000",
+        "rightsId": null,
+        "name": "Splashy Cube",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201211,
+        "nsuId": 70010000035346,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Arcade",
+            "Lifestyle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "No Gravity Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/12c4850f9a3ea6b4fc6277bd8f84bd56442cc30546468f902bc79467e047296a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8e43a7941770ff53d65c3069e3f52583003de279744b02c1c5e00fabb8598415.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18065586dee8e2823ecb4d450cd3205289b48f3d2a050ef1ca79f9b642fc6725.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/28a42585b102e1dfc08b74ba4dbd1faef26e9a3f89afcffb2fb0fd29ba63e3c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0df8770057367e62b0f0bc72bfe313d8cf7d089dd3d2f96c9e59b33b5aa2f6ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/43758fb1bd2ef76a3f1602cd3d7a2044214d59c71cbe248c9736ebc3605de7e7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/32645482e09cd5c82ab67eb4e9c411b4c2207785d56d3e724308ae80901f8e04.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/03e0346c64d086844ab5f3cbd5b23fb62e8765dbe5230a94d5e316ac858039f2.jpg",
+        "intro": "Become a blob-eating cube! Splashy Cube is a puzzle game dressed in minimalistic, yet cute and colorful graphics. Embark on an exciting adventure through the colorful labyrinth. ",
+        "description": "FEATURES:\n\u2022 lots of colorful levels;\n\u2022 simple gameplay;\n\u2022 cute graphics;\n\u2022 unlockable skins!\n\u2022 highscores!\n\nABOUT THE GAME:\nHave you ever wondered how it's like to be a cube with a sweet tooth for blobs with the same color as you and allergic to blobs in different colors? Now you have a chance to find out!\nSplashy Cube is a simple puzzle game, where you travel through a series of colorful labyrinths. Avoid blobs in any other color than you, pointy spikes and falling down the abyss. Eat as many tasty blobs to gain points and lead on the scoreboard.\nLet yourself sink into this surreal world and complete \"just one more\" level!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 111149056
     },
     "70010000035373": {
         "id": "01007D1013512000",
@@ -39780,6 +40089,7 @@
         ],
         "ratingContent": [
             "Mild Swearing",
+            "Moderate Violence",
             "Sexual Innuendo"
         ],
         "numberOfPlayers": 1,
@@ -40143,7 +40453,7 @@
         "languages": [
             "en"
         ],
-        "size": 66060288
+        "size": 111149056
     },
     "70010000035697": {
         "id": "01009D20136CC000",
@@ -52420,6 +52730,33 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000022073": {
+        "id": null,
+        "rightsId": null,
+        "name": "Polar Travel Outfit (Noel)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70050000022073,
+        "category": null,
+        "ratingContent": [
+            "Mild Swearing"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "althi",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ef02cbd9efa39efc257f1b228be3783d66e5044eb1221c05c61b20d1bf371651.jpg",
+        "intro": null,
+        "description": "Contents:\n - Polar Travel Outfit: Noel \"Travel garb created based on traditional clothing from the far northern Nuit region.\"\n - Polar Kid Traveler: Noel \"Travel garb for kids created based on traditional clothing from the far northern Nuit region.\"\n *You can buy it at any time in the game shop (Clothing Store in Castle St.) when you purchase it.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000022117": {
         "id": null,
         "rightsId": null,
@@ -62626,6 +62963,230 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000024162": {
+        "id": "0100E1F01367502D",
+        "rightsId": null,
+        "name": "Backstage Pass Product 5",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70050000024162,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000024163": {
+        "id": "0100E1F01367502E",
+        "rightsId": null,
+        "name": "Backstage Pass Product 6",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70050000024163,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 10485760
+    },
+    "70050000024165": {
+        "id": "0100E1F013675030",
+        "rightsId": null,
+        "name": "Backstage Pass Product 8",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70050000024165,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 6291456
+    },
+    "70050000024166": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 9",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201210,
+        "nsuId": 70050000024166,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024167": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 10",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201210,
+        "nsuId": 70050000024167,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024169": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 12",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201210,
+        "nsuId": 70050000024169,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024170": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 13",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201210,
+        "nsuId": 70050000024170,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024171": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 14",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024171,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
     "70050000024192": {
         "id": null,
         "rightsId": null,
@@ -65528,7 +66089,7 @@
         "intro": null,
         "description": "Grab your microphone for the best singing game experience with Let\u2019s Sing 2021 Platinum Edition! This includes a copy of the Let\u2019s Sing 2021 game and the Let\u2019s Sing 2021 Song Pass which allows you to sing all of the DLC Content!\nBecome the star of your party or sing your heart out solo! Offering hits right off the Billboard charts as well as classic hits like: \nBillie Eilish with \u201cBad Guy\u201d, TONES AND I with \u201cDance Monkey\u201d, Jonas Brothers with \u201cSucker\u201d, Panic! at the Disco with \u201cHigh Hopes\u201d or Ariana Grande with \u201cThank U, Next\u201d. If you are looking for a blast from the past, how about Genesis with \u201cI Can\u2019t Dance\u201d or Seal with \u201cKiss From A Rose\u201d...and many more.\n- 85 international songs\n- Sing solo or with up to four players\n- Eight exciting game modes!\n-New Legend Solo game mode!\n-New mini game in Let\u2019s Party called \u201cPop Chicken\"!\n- Microphone-App: use your phone as microphone",
         "languages": null,
-        "size": 6869221376
+        "size": 6867124224
     },
     "70070000011319": {
         "id": null,
