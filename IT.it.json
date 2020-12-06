@@ -7543,6 +7543,56 @@
         ],
         "size": 721420288
     },
+    "70010000023223": {
+        "id": "010070100F782000",
+        "rightsId": null,
+        "name": "60 Seconds! Reatomized",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201218,
+        "nsuId": 70010000023223,
+        "category": [
+            "Avventura",
+            "Simulazione",
+            "Strategia",
+            "Altro"
+        ],
+        "ratingContent": [
+            "Imprecazioni moderate"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Robot Gentleman",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/83815ab881ac618f92f2b828bf634ddb1fb497be8e49cc905d382f5f3018969c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7c90cad5c9d0a50bfe3eb76e4cbcb6aad0d8ebab8d0fdbce9a6fcbed125574a8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce01f25327cd2496385ccb8cb43c5a5157816f04ce2c0a000d8ba7b2935989f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c4d9c2aeb2f42598441c7fffeb5c7ea3c1379c4a23f672b9d85775b8432a388.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/32237c4e67f5c663f5b19dd5916c93898d1e47c089d8816224daf651e821d940.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ec2ab7525dce07e54ee9cf886fbcb06c2d77efd387d89e8c35b4a7d31475dcd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/acad1d50dcce569bc7c0c56f9d3d6605e0c0bbd6ed6b9bf24d1242c08c47d9df.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/275e5c3f6212f6e8892b0c3ffc62b34d35a8842836bd1b46fc0a2a1464cf77ef.jpg",
+        "intro": "La commedia post-apocalittica \u00e8 tornata: rimasterizzata e ancora pi\u00f9 radioattiva!",
+        "description": "Cerca provviste, salva la tua famiglia e sopravvivi nel tuo rifugio. Prendi decisioni difficili, dai la caccia a scarafaggi mutanti... e forse sopravvivrai. O forse no.\n\nDolores, Ted, Mary Jane e Timmy tornano ad affrontare l'apocalisse nucleare in questa nuova, rimasterizzata edizione della classica avventura atomica: 60 Seconds! Reatomized, con grafica 2D aggiornata e texture 3D disegnate a mano, un nuovo menu interattivo, IU migliorata, aggiornamenti tecnici e s\u00ec... nuovi contenuti!\n\n\u2219 NUOVA MODALIT\u00c0 DI GIOCO\nSfide sopravvivenza. Storie brevi e uniche che metteranno alla prova le tua abilit\u00e0 di sopravvivenza!\n\n\u2219 NUOVE OPPORTUNIT\u00c0\ndi scappare dalla landa desolata sotto forma di una storia che si snoda tra molti scenari possibili! Riuscirai a scappare dalla landa desolata con stile?\n\n\u2219 NUOVO SISTEMA DI RELAZIONI\npi\u00f9 storie e pazze interazioni tra i membri della famiglia McDoodle!\n\n\u2219 NUOVI SUONI E CONTENUTI VISIVI\nsbloccabili che ti permettono di aggiungere un tocco di colore al tuo rifugio antiatomico!\n\n\u2219 NUOVE RICOMPENSE!\n\nA soli 60 secondi dall'impatto, lanciati in una corsa frenetica per la casa alla ricerca della famiglia e di provviste utili. Avrai tutto contro: il tempo, i mobili, la casa che cambia a ogni partita. E la domanda cruciale: cosa prendere e cosa lasciare?\n\nRaggiungere il rifugio antiatomico sani e salvi sar\u00e0 solo l'inizio. Ogni cosa procurata e messa da parte giocher\u00e0 un ruolo vitale per la tua sopravvivenza. Ogni storia sar\u00e0 diversa e ogni giorno ti sorprender\u00e0 con eventi inaspettati. Tutte queste storie finiranno bene? Dipender\u00e0 da te. Raziona cibo e acqua, fai buon uso delle tue provviste, affronta scelte difficili e avventurati nella landa desolata.\n\nBuona fortuna.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 433061888
+    },
     "70010000023320": {
         "id": "010044000F7F2000",
         "rightsId": null,
@@ -9241,7 +9291,7 @@
             "Azione"
         ],
         "ratingContent": [
-            "Paura"
+            "Violenza moderata"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -15914,7 +15964,7 @@
             "ru",
             "zh"
         ],
-        "size": 8615100416
+        "size": 8619294720
     },
     "70010000029301": {
         "id": "010094100A55A000",
@@ -16088,7 +16138,7 @@
             "ru",
             "zh"
         ],
-        "size": 3420454912
+        "size": 3466592256
     },
     "70010000029346": {
         "id": "01002E4011924000",
@@ -20918,9 +20968,11 @@
             "Strategia",
             "Training"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Paura"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "QUByte Interactive",
         "frontBoxArt": null,
@@ -29510,11 +29562,9 @@
             "Azione",
             "Arcade"
         ],
-        "ratingContent": [
-            "Violenza moderata"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "eastasiasoft",
         "frontBoxArt": null,
@@ -31690,9 +31740,11 @@
             "Azione",
             "Arcade"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza implicita"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Toward",
         "frontBoxArt": null,
@@ -34977,9 +35029,11 @@
             "Strategia",
             "Puzzle"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "HandyGames",
         "frontBoxArt": null,
@@ -39559,11 +39613,10 @@
             "Altro"
         ],
         "ratingContent": [
-            "Allusioni sessuali",
             "Scene di nudo"
         ],
         "numberOfPlayers": 1,
-        "rating": 12,
+        "rating": 16,
         "developer": null,
         "publisher": "MoeNovel",
         "frontBoxArt": null,
@@ -41237,6 +41290,48 @@
             "en"
         ],
         "size": 242221056
+    },
+    "70010000035972": {
+        "id": "01000B20117B8000",
+        "rightsId": null,
+        "name": "Re:ZERO -Starting Life in Another World- The Prophecy of the Throne",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210205,
+        "nsuId": 70010000035972,
+        "category": [
+            "Avventura",
+            "Gioco di ruolo (RPG)",
+            "Strategia"
+        ],
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Spike Chunsoft US",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e350494d18634518a76f776a193d9fcc9697054b6d2d60443544d35d73cde789.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f004cd35a6fb0a394dcbf8cd1a9eb1a0d013fd9f89bec38f5f45d9d960f264c6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4745a2f0e43e21d9df539446c01400e371940fd6223f856a5ffc31633eb5794f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23520919c0f50d7f012a553e537219922aa9fd9e223cb78b6d03dc872d176d53.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9f52667fea79bc9a78168ecc1fa5fcb1417db60e977ad90b62e1e5667072061.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a47e9967d3278b8c3f6848d31268dad1e997be4d7a21c7c559682f1be0f5dfc2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/160fb6a6ba4d99b32e1d8c306c1a7db99b5822a26dcec99e90813c51e5a0ef2d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0fac29aa9050a8d5d2fb8ab689b3c128c70a49d405bd99311c29324d4e956a25.jpg",
+        "intro": "Sei candidati, un impostore e una cospirazione che intrappola l'intero regno ...",
+        "description": "\u00c8 passato un mese dall'inizio della vita di Subaru in un altro mondo, quando un emissario informa la candidata Emilia che la selezione reale \u00e8 stata rimandata. Una suora chiamata Melty Pristis si \u00e8 presentata come la sesta misteriosa candidata al trono, sfidando la profezia. Con l'arrivo di Melty a gettare dubbi sulla legittimit\u00e0 delle altre candidate e il Culto della Strega che trama nell'ombra, riuscir\u00e0 Subaru a proteggere coloro che ama?\n \n \u30fb\u00c8 in arrivo una nuova storia di Re:ZERO, sotto la completa supervisione dell'autore della serie Tappei Nagatsuki.\n \n \u30fbIl design dei personaggi \u00e8 a cura dell'artista originale, Shinichirou Otsuka!\n \n \u30fbAiuta Emilia utilizzando ogni informazione per navigare tra i pericoli!",
+        "languages": [
+            "en"
+        ],
+        "size": 3336568832
     },
     "70010000035985": {
         "id": "0100BCC013864000",
@@ -63102,6 +63197,34 @@
         "languages": null,
         "size": 10485760
     },
+    "70050000024164": {
+        "id": "0100E1F01367502F",
+        "rightsId": null,
+        "name": "Backstage Pass Product 7",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70050000024164,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Porta qualcosa di nuovo nel tuo gioco. Richiede il gioco base di FUSER. Per l'elenco di brani, visita www.fuser.com.",
+        "languages": null,
+        "size": 11534336
+    },
     "70050000024165": {
         "id": "0100E1F013675030",
         "rightsId": null,
@@ -63186,6 +63309,34 @@
         "languages": null,
         "size": 0
     },
+    "70050000024168": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 11",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201210,
+        "nsuId": 70050000024168,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Porta qualcosa di nuovo nel tuo gioco. Richiede il gioco base di FUSER. Per l'elenco di brani, visita www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
     "70050000024169": {
         "id": null,
         "rightsId": null,
@@ -63252,6 +63403,342 @@
         "region": null,
         "releaseDate": 20201217,
         "nsuId": 70050000024171,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Porta qualcosa di nuovo nel tuo gioco. Richiede il gioco base di FUSER. Per l'elenco di brani, visita www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024172": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 15",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024172,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Porta qualcosa di nuovo nel tuo gioco. Richiede il gioco base di FUSER. Per l'elenco di brani, visita www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024173": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 16",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024173,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Porta qualcosa di nuovo nel tuo gioco. Richiede il gioco base di FUSER. Per l'elenco di brani, visita www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024174": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 17",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024174,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Porta qualcosa di nuovo nel tuo gioco. Richiede il gioco base di FUSER. Per l'elenco di brani, visita www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024175": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 18",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201222,
+        "nsuId": 70050000024175,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Porta qualcosa di nuovo nel tuo gioco. Richiede il gioco base di FUSER. Per l'elenco di brani, visita www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024176": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 19",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201222,
+        "nsuId": 70050000024176,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Porta qualcosa di nuovo nel tuo gioco. Richiede il gioco base di FUSER. Per l'elenco di brani, visita www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024177": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 20",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201222,
+        "nsuId": 70050000024177,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Porta qualcosa di nuovo nel tuo gioco. Richiede il gioco base di FUSER. Per l'elenco di brani, visita www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024178": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 21",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201222,
+        "nsuId": 70050000024178,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Porta qualcosa di nuovo nel tuo gioco. Richiede il gioco base di FUSER. Per l'elenco di brani, visita www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024179": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 22",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201229,
+        "nsuId": 70050000024179,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Porta qualcosa di nuovo nel tuo gioco. Richiede il gioco base di FUSER. Per l'elenco di brani, visita www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024180": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 23",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201229,
+        "nsuId": 70050000024180,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Porta qualcosa di nuovo nel tuo gioco. Richiede il gioco base di FUSER. Per l'elenco di brani, visita www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024181": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 24",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201229,
+        "nsuId": 70050000024181,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Porta qualcosa di nuovo nel tuo gioco. Richiede il gioco base di FUSER. Per l'elenco di brani, visita www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024182": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 25",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201229,
+        "nsuId": 70050000024182,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Porta qualcosa di nuovo nel tuo gioco. Richiede il gioco base di FUSER. Per l'elenco di brani, visita www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024183": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 26",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201229,
+        "nsuId": 70050000024183,
         "category": null,
         "ratingContent": [
             "Bad Language",
@@ -66332,6 +66819,34 @@
         "description": "Indossa la tua armatura e gioca come un potente barbaro o prendi un arco come un elfo guerriero. Guida l'esercito nei panni di un nano dal cuore d'oro o di una dolce fata che sogna di sconfiggere i nemici. E se ti piace una festa elettrizzante, un fantastico fantasma ti sta gi\u00e0 aspettando. Pronto per la battaglia?",
         "languages": null,
         "size": 20971520
+    },
+    "70070000011350": {
+        "id": null,
+        "rightsId": null,
+        "name": "2020 FUSER\u2122 Backstage Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70070000011350,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Acquisti in-game"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5f0d73e7cb1336d3cf6b4672278873e605d0e4712f1b1fb97ef2261f053edd8f.jpg",
+        "intro": null,
+        "description": "I giocatori che acquistano il FUSER\u2122 2020 Backstage Pass avranno sempre diritto a tutti i nuovi contenuti acquistabili rilasciati tra il 19 novembre 2020 e il 31 dicembre 2020. Acquistandolo, riceveranno in totale 21 nuovi brani e 9 pacchetti estetici entro il 31 dicembre 2020. Richiede il gioco base di FUSER. Per l'elenco di brani, visita www.fuser.com.",
+        "languages": null,
+        "size": 103809024
     },
     "70070000011396": {
         "id": null,

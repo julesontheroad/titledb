@@ -7543,6 +7543,56 @@
         ],
         "size": 721420288
     },
+    "70010000023223": {
+        "id": "010070100F782000",
+        "rightsId": null,
+        "name": "60 Seconds! Reatomized",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201218,
+        "nsuId": 70010000023223,
+        "category": [
+            "Adventure",
+            "Simulation",
+            "Strategy",
+            "Other"
+        ],
+        "ratingContent": [
+            "Mild Swearing"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Robot Gentleman",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/83815ab881ac618f92f2b828bf634ddb1fb497be8e49cc905d382f5f3018969c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7c90cad5c9d0a50bfe3eb76e4cbcb6aad0d8ebab8d0fdbce9a6fcbed125574a8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce01f25327cd2496385ccb8cb43c5a5157816f04ce2c0a000d8ba7b2935989f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1bed67b5199cd6d391f71ddd8283d92b01b4eb15e10e9f3d737a56499a237548.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/32237c4e67f5c663f5b19dd5916c93898d1e47c089d8816224daf651e821d940.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ec2ab7525dce07e54ee9cf886fbcb06c2d77efd387d89e8c35b4a7d31475dcd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69bb6abf134c801004d02ba50e145b54a5e238e86af23692b8ded136e3f3b93d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/275e5c3f6212f6e8892b0c3ffc62b34d35a8842836bd1b46fc0a2a1464cf77ef.jpg",
+        "intro": "The post-apocalyptic dark comedy is back - remastered and even more radioactive than before!",
+        "description": "Scavenge supplies, rescue your family, and stay alive in your fallout shelter. Make difficult decisions, hunt mutant roaches... and maybe survive. Or not.\n\nDolores, Ted, Mary Jane and Timmy return to face the nuclear apocalypse in this new, remastered edition of the classic atomic adventure - 60 Seconds! Reatomized, featuring refreshed 2D graphics and hand-drawn 3D textures, new interactive menu, improved UI system, a technical refresh, and of course... new content!\n\n\u2219 NEW GAMEPLAY MODE\nSurvival Challenges - unique, short storylines which will put your survival skills to the test!\n\n\u2219 NEW OPPORTUNITIES\nto escape the wasteland in form of a storyline spanning across multiple playthroughs! Can you escape the wasteland in style?\n\n\u2219 NEW RELATIONSHIP SYSTEM\nmore stories and crazy interactions between the McDoodle family members!\n\n\u2219 NEW SOUNDS, ART AND UNLOCKABLE VISUAL CONTENT\nallowing you to add a little color to your fallout shelter!\n\n\u2219 NEW ACHIEVEMENTS!\n\nWith only 60 seconds left to impact, go on a mad dash through the house in search of family members and useful supplies. Everything will be against you: time, your very own furniture, a house that's different every time you play, and the fundamental question... what to take with you and who to leave behind?\n\nReaching the fallout shelter in time, alive, is only the beginning. Whatever you scavenged and whoever you saved will play a vital role in your survival. Each survival story will be different, with every day surprising you with unexpected events. Will all of these stories end well? It's up to you. Ration food and water, make best use of your supplies, face difficult choices and even venture into the wasteland.\n\nGood luck.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 433061888
+    },
     "70010000023320": {
         "id": "010044000F7F2000",
         "rightsId": null,
@@ -9241,7 +9291,7 @@
             "Action"
         ],
         "ratingContent": [
-            "Fear"
+            "Mild Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -15914,7 +15964,7 @@
             "ru",
             "zh"
         ],
-        "size": 8615100416
+        "size": 8619294720
     },
     "70010000029301": {
         "id": "010094100A55A000",
@@ -16088,7 +16138,7 @@
             "ru",
             "zh"
         ],
-        "size": 3420454912
+        "size": 3466592256
     },
     "70010000029346": {
         "id": "01002E4011924000",
@@ -20918,9 +20968,11 @@
             "Strategy",
             "Training"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Fear"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "QUByte Interactive",
         "frontBoxArt": null,
@@ -29470,11 +29522,9 @@
             "Action",
             "Arcade"
         ],
-        "ratingContent": [
-            "Mild Violence"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "eastasiasoft",
         "frontBoxArt": null,
@@ -31650,9 +31700,11 @@
             "Action",
             "Arcade"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Implied Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Toward",
         "frontBoxArt": null,
@@ -34937,9 +34989,11 @@
             "Strategy",
             "Puzzle"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "HandyGames",
         "frontBoxArt": null,
@@ -41154,6 +41208,48 @@
             "en"
         ],
         "size": 242221056
+    },
+    "70010000035972": {
+        "id": "01000B20117B8000",
+        "rightsId": null,
+        "name": "Re:ZERO -Starting Life in Another World- The Prophecy of the Throne",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210205,
+        "nsuId": 70010000035972,
+        "category": [
+            "Adventure",
+            "RPG",
+            "Strategy"
+        ],
+        "ratingContent": [
+            "Bad Language",
+            "Sex",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Spike Chunsoft US",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e350494d18634518a76f776a193d9fcc9697054b6d2d60443544d35d73cde789.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f004cd35a6fb0a394dcbf8cd1a9eb1a0d013fd9f89bec38f5f45d9d960f264c6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4745a2f0e43e21d9df539446c01400e371940fd6223f856a5ffc31633eb5794f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23520919c0f50d7f012a553e537219922aa9fd9e223cb78b6d03dc872d176d53.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9f52667fea79bc9a78168ecc1fa5fcb1417db60e977ad90b62e1e5667072061.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a47e9967d3278b8c3f6848d31268dad1e997be4d7a21c7c559682f1be0f5dfc2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/160fb6a6ba4d99b32e1d8c306c1a7db99b5822a26dcec99e90813c51e5a0ef2d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0fac29aa9050a8d5d2fb8ab689b3c128c70a49d405bd99311c29324d4e956a25.jpg",
+        "intro": "Six candidates, one imposter, and a conspiracy that ensnares the entire kingdom...",
+        "description": "One month after Subaru's life in another world began, an emissary brings news to royal candidate Emilia that the royal selection is postponed. A nun named Melty Pristis has appeared to defy prophecy as the mysterious sixth candidate seeking the throne. With Melty's arrival casting doubt on each candidate's legitimacy and the Witch Cult plotting in the shadows, will Subaru be able to protect all those he holds dear?\n\n\u30fbNew Re:ZERO storyline, fully supervised by the series author Tappei Nagatsuki!\n\n\u30fbCharacters designed by the original artist Shinichirou Otsuka!\n\n\u30fbHelp Emilia by using intel to wade through peril!",
+        "languages": [
+            "en"
+        ],
+        "size": 3336568832
     },
     "70010000035985": {
         "id": "0100BCC013864000",
@@ -63019,6 +63115,34 @@
         "languages": null,
         "size": 10485760
     },
+    "70050000024164": {
+        "id": "0100E1F01367502F",
+        "rightsId": null,
+        "name": "Backstage Pass Product 7",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201203,
+        "nsuId": 70050000024164,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 11534336
+    },
     "70050000024165": {
         "id": "0100E1F013675030",
         "rightsId": null,
@@ -63103,6 +63227,34 @@
         "languages": null,
         "size": 0
     },
+    "70050000024168": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 11",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201210,
+        "nsuId": 70050000024168,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
     "70050000024169": {
         "id": null,
         "rightsId": null,
@@ -63169,6 +63321,342 @@
         "region": null,
         "releaseDate": 20201217,
         "nsuId": 70050000024171,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024172": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 15",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024172,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024173": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 16",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024173,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024174": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 17",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024174,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024175": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 18",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201222,
+        "nsuId": 70050000024175,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024176": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 19",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201222,
+        "nsuId": 70050000024176,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024177": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 20",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201222,
+        "nsuId": 70050000024177,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024178": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 21",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201222,
+        "nsuId": 70050000024178,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024179": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 22",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201229,
+        "nsuId": 70050000024179,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024180": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 23",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201229,
+        "nsuId": 70050000024180,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024181": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 24",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201229,
+        "nsuId": 70050000024181,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024182": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 25",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201229,
+        "nsuId": 70050000024182,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "intro": null,
+        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000024183": {
+        "id": null,
+        "rightsId": null,
+        "name": "Backstage Pass Product 26",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201229,
+        "nsuId": 70050000024183,
         "category": null,
         "ratingContent": [
             "Bad Language",
@@ -66215,6 +66703,34 @@
         "description": "Put on your armor and play as a powerful barbarian or grab a bow as a warrior elf. Head the army as a golden-hearted dwarf or a sweet fairy who dreams of defeating enemies. And if you like a thrilling party, a cool ghost is already waiting for you. Ready for battle?",
         "languages": null,
         "size": 20971520
+    },
+    "70070000011350": {
+        "id": null,
+        "rightsId": null,
+        "name": "2020 FUSER\u2122 Backstage Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201119,
+        "nsuId": 70070000011350,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5f0d73e7cb1336d3cf6b4672278873e605d0e4712f1b1fb97ef2261f053edd8f.jpg",
+        "intro": null,
+        "description": "Players who purchase the FUSER\u2122 2020 Backstage Pass will be granted a permanent entitlement to all new purchasable content released between 19th November 2020 and 31st December 2020. Purchasers will receive a total of 21 new songs and 9 cosmetic packs by 31st December 2020. Requires FUSER base game to play. For music credits, visit www.fuser.com.",
+        "languages": null,
+        "size": 103809024
     },
     "70070000011396": {
         "id": null,
