@@ -23012,9 +23012,11 @@
             "Avventura",
             "Puzzle"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Graffiti Games",
         "frontBoxArt": null,
@@ -35316,12 +35318,9 @@
             "Avventura",
             "Puzzle"
         ],
-        "ratingContent": [
-            "Paura",
-            "Violenza moderata"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "TimothyvanderHoeven",
         "frontBoxArt": null,
@@ -43180,9 +43179,11 @@
         "releaseDate": null,
         "nsuId": 70030000012460,
         "category": null,
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
         "numberOfPlayers": null,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": null,
         "frontBoxArt": null,
