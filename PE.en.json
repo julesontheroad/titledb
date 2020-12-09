@@ -342,7 +342,8 @@
             "Multiplayer"
         ],
         "ratingContent": [
-            "Mild Cartoon Violence"
+            "Mild Cartoon Violence",
+            "Users Interact"
         ],
         "numberOfPlayers": 2,
         "rating": 6,
@@ -384,7 +385,8 @@
             "Multiplayer"
         ],
         "ratingContent": [
-            "Mild Cartoon Violence"
+            "Mild Cartoon Violence",
+            "Users Interact"
         ],
         "numberOfPlayers": 2,
         "rating": 6,
@@ -976,8 +978,8 @@
         "ratingContent": [
             "Blood and Gore",
             "Intense Violence",
-            "Online Interactions Not Rated by the ESRB",
-            "Strong Language"
+            "Strong Language",
+            "Users Interact"
         ],
         "numberOfPlayers": 2,
         "rating": 17,
@@ -999,11 +1001,11 @@
         "languages": [
             "ja",
             "en",
+            "pt",
             "es",
             "fr",
             "de",
             "it",
-            "pt",
             "ru",
             "ko",
             "zh"
@@ -3521,7 +3523,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20181108,
+        "releaseDate": 20201207,
         "nsuId": 70010000014303,
         "category": [
             "Video"
@@ -4947,7 +4949,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20201113,
         "nsuId": 70010000019989,
         "category": [
             "Sports"
@@ -4983,7 +4985,7 @@
             "zh",
             "zh"
         ],
-        "size": 44376784896
+        "size": 44377833472
     },
     "70010000020030": {
         "id": "010076D00E4BA000",
@@ -5290,7 +5292,8 @@
             "Action"
         ],
         "ratingContent": [
-            "Comic Mischief",
+            "Alcohol Reference",
+            "Crude Humor",
             "Fantasy Violence",
             "Mild Language"
         ],
@@ -5606,7 +5609,8 @@
         ],
         "ratingContent": [
             "Fantasy Violence",
-            "Users Interact"
+            "Users Interact",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": 4,
         "rating": 10,
@@ -5738,6 +5742,54 @@
             "zh"
         ],
         "size": 9992929280
+    },
+    "70010000021933": {
+        "id": "01004A600EC0A000",
+        "rightsId": null,
+        "name": "Immortals Fenyx Rising\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201207,
+        "nsuId": 70010000021933,
+        "category": [
+            "Action"
+        ],
+        "ratingContent": [
+            "Language",
+            "Suggestive Themes",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/60064f20bd80b9938eb2bb375a3d4477d5e91ad1c5c186d926c0bbd3305b6831.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6b098446d060de81a585f2be3b1037e802dcce4646546593d989d8b94d8e640e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39d00170f5c00e973d33ad6e449cb1b17624d6374f6e59287b3eb8aef3993b4d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4fb755ba557cf13e1743e1d54bea4c9f03c1ca7da9d3e1424d0e27657117ebbc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03ae6f7ab7ba8ee7c3f6be65d79f4d2e8095971831292348ec7032797f3fb2e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db2d7c416c6b696a86c89a146f8e81647bab92047fbacac7d296bb9db10a7952.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c53ad2b39a5911e89fc48cadb879c81b6f959e9058d3d063404e8b29657d3ec.jpg",
+        "intro": null,
+        "description": "Immortals Fenyx Rising\u2122 brings grand mythological adventure to life. \n\nPlay as Fenyx, a new, winged demigod, on a quest to save the Greek gods. The fate of the world is at stake \u2013 you are the gods\u2019 last hope.\n\n- Wield the powers of the gods like Achilles' sword and Daidalos' wings to battle powerful enemies and solve ancient puzzles.\n- Fight iconic mythological beasts like Cyclops and Medusa in dynamic combat in the air and on the ground. \n- Use your skills and diverse weapons, including self-guided arrows, telekinesis, and more, for devastating damage.  \n- Discover a stylized open world across seven unique regions, each inspired by the gods.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru"
+        ],
+        "size": 16086204416
     },
     "70010000022226": {
         "id": "01002C000E35E000",
@@ -7296,6 +7348,57 @@
         ],
         "size": 5307891712
     },
+    "70010000030011": {
+        "id": "0100BF9011B52000",
+        "rightsId": null,
+        "name": "Just Dance\u00ae 2021",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70010000030011,
+        "category": [
+            "Music"
+        ],
+        "ratingContent": [
+            "Mild Lyrics",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 6,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/92d331673b8fe8163e9fa7aa4fbaba1d4aa2aa3dc8ca353210fcd4848b8fe761.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dc46f49643ab9aa0c1f0de2b461b35798e5a6561d18c564c3a229039f86feab2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/413f8aba66e47135b36e2aed362c3c4b4c682a2978cb6e5a8b5baa8765617f03.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dc0aa86b7268762199dcc5a5965d913d921b724a5f403eaf1d683154b627bd47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ff7445a89e9d4bba24b04db84a9326a4dbca9331c5db66f2b1a2f9beea9d0016.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/468b43626beea968a5be0b2d37e08b2ea46b036471b4e9bbaba7dec0ea56b5ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/385bce7e42a71bfb7c2f407a90fce2d19d2f4d51767160ad9988db57028e6c3b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/424bac11eaecab41534a2be4106a6ae66bae28a1a7d4600d7ba97bc22ebfd467.jpg",
+        "intro": null,
+        "description": "Just Dance\u00ae 2021 is the ultimate dance game, with 40 hot new tracks from chart-topping hits like \"\"Rain On Me\"\" by Lady Gaga & Ariana Grande, \"\"Kick It\"\" by NCT 127, and \"\"Ice Cream\"\" by BLACKPINK x Selena Gomez. Start a dance party your friends and family can enjoy!\n\n- Dance to over 600 songs with the Just Dance\u00ae Unlimited subscription streaming service. One month FREE included with the game!\n- Play with friends and share the fun with co-op mode!\n- Dance the way you like by creating your own personalized custom playlists. \n- Enjoy eight new kid-friendly songs and choreographies for a family-fun experience.\n- Use your smartphone to track moves with the Just Dance Controller app \u2013 no additional accessories required! Up to six players can join!\n\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 7402946560
+    },
     "70010000030293": {
         "id": "0100B6801137E000",
         "rightsId": null,
@@ -7739,7 +7842,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2a87f28902b884794ee4fcd7dc332be749c311435e0f3e9bcba23c38cc6cb530.jpg",
         "intro": "Work out at home and punch to the beat",
-        "description": "Jab, uppercut, dodge, and more to catchy pop tunes in this rhythmic boxing game! Dodges, ducks and step moves turn fitness boxing into a full-body workout. Pass a Joy-Con\u2122 controller to an exercise buddy and box to the beat together.\n\nCustomize your workout with the help of a virtual instructor\n\nChoose from nine virtual instructors, select a challenge level from light to heavy and have a workout prepared for you by your trainer, or create one all by yourself from scratch in Free Training. Check out detailed examples, practice specific moves, and receive helpful feedback from your instructor to get the most out of your workout! \n\nWarm up with the original Fitness Boxing game or the Fitness Boxing 2: Rhythm & Exercise demo and then transfer your profile to the full game\n\nKeep your progress from the original Fitness Boxing game and transfer your profile to the Fitness Boxing 2: Rhythm & Exercise game. Give the Fitness Boxing 2: Rhythm & Exercise demo a try and carry over your progress to the full game, once purchased!\n\n\nGet your daily workout on and box (and bop) to the beat. Pass a Joy-Con controller (or two) to a workout partner to enjoy a 2-player boxing session lead by your in-game instructor. These virtual trainers have different personalities and styles, so try them out and find the one that suits you best! Complete achievements to receive tickets you can redeem for outfits to deck out your trainer in fitness fashion.\n\nWhatever difficulty you play on, you can revisit specific exercises for practice or watch detailed animations to observe perfect form.\n\nFitness Boxing 2: Rhythm & Exercise is a way to get in a guided workout, track your activity, and listen to some popular, upbeat jams. Get a taste of the rhythmic action by downloading the Fitness Boxing 2: Rhythm & Exercise demo from Nintendo eShop. \n",
+        "description": "Jab, uppercut, dodge, and more to catchy pop tunes in this rhythmic boxing game! Dodges, ducks and step moves turn fitness boxing into a full-body workout. Pass a Joy-Con\u2122 controller to an exercise buddy and box to the beat together.\n\nCustomize your workout with the help of a virtual instructor\n\nChoose from nine virtual instructors, select a challenge level from light to heavy and have a workout prepared for you by your trainer, or create one all by yourself from scratch in Free Training. Check out detailed examples, practice specific moves, and receive helpful feedback from your instructor to get the most out of your workout! \n\nWarm up with the original Fitness Boxing game or the Fitness Boxing 2: Rhythm & Exercise demo and then transfer your profile to the full game\n\nKeep your progress from the original Fitness Boxing game and transfer your profile to the Fitness Boxing 2: Rhythm & Exercise game. Give the Fitness Boxing 2: Rhythm & Exercise demo a try and carry over your progress to the full game, once purchased!\n\n\nGet your daily workout on and box (and bop) to the beat. Pass a Joy-Con controller (or two) to a workout partner to enjoy a 2-player boxing session lead by your in-game instructor. These virtual trainers have different personalities and styles, so try them out and find the one that suits you best! Complete achievements to receive tickets you can redeem for outfits to deck out your trainer in fitness fashion.\n\nIf you\u2019re seeking a more intense workout, look no further than No Mercy mode*. Even the instructors get a little feisty when you are playing at this difficulty. Don\u2019t worry, you can always change back! Whatever difficulty you play on, you can revisit specific exercises for practice or watch detailed animations to observe perfect form.\n\nFitness Boxing 2: Rhythm & Exercise is a way to get in a guided workout, track your activity, and listen to some popular, upbeat jams. Get a taste of the rhythmic action by downloading the Fitness Boxing 2: Rhythm & Exercise demo from Nintendo eShop. \n\n*Software update required.",
         "languages": [
             "ja",
             "en",
@@ -15490,7 +15593,8 @@
         "category": null,
         "ratingContent": [
             "Fantasy Violence",
-            "Users Interact"
+            "Users Interact",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -15524,7 +15628,8 @@
         "category": null,
         "ratingContent": [
             "Fantasy Violence",
-            "Users Interact"
+            "Users Interact",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -17538,7 +17643,7 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/67a8f16d62a2b78fad11683e1f2dbbb15fc3d8341f09be2cb04db3e2689c1f14.jpg",
         "intro": null,
-        "description": "This DLC contains the Heihach Outfit and Wig.",
+        "description": "This DLC contains the Heihachi Outfit and Wig.",
         "languages": null,
         "size": 4194304
     },
@@ -18751,6 +18856,99 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023829": {
+        "id": "01004A600EC0B001",
+        "rightsId": null,
+        "name": "IMMORTALS FENYX RISING - A New god",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 2021,
+        "nsuId": 70050000023829,
+        "category": null,
+        "ratingContent": [
+            "Language",
+            "Suggestive Themes",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/355912c3d2451e479d8a725a041a3be667db8a5e708215437ae5af2c062dfe28.jpg",
+        "intro": null,
+        "description": "As Fenyx, overcome the trials of the gods of Olympos to join the Greek Pantheon and fulfill your destiny.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023830": {
+        "id": "01004A600EC0B002",
+        "rightsId": null,
+        "name": "IMMORTALS FENYX RISING - Myths of the Eastern Realm",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000023830,
+        "category": null,
+        "ratingContent": [
+            "Language",
+            "Suggestive Themes",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/233e88836e07ae64c3b92c5651f548c34ce5d1134fd2c806bd2a26361d48fd53.jpg",
+        "intro": null,
+        "description": "Play a brand new story inspired by Chinese mythology, where you'll encounter new gods and fight exotic monsters in a distant land, as a new hero.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023831": {
+        "id": "01004A600EC0B003",
+        "rightsId": null,
+        "name": "IMMORTALS FENYX RISING - The Lost gods",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000023831,
+        "category": null,
+        "ratingContent": [
+            "Language",
+            "Suggestive Themes",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f50b078619255d34b97141bc94f3d75c2076f1ca23efbbd78a773fa295d9e72b.jpg",
+        "intro": null,
+        "description": "Experience a new brawler-style of combat in a top-down view! Meet a new hero embarking on an epic adventure to reunite the Greek gods.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000024088": {
         "id": "0100F2200C98501F",
         "rightsId": null,
@@ -18781,6 +18979,97 @@
         "description": "Travel back to the '90s with this tribute to the original MK Movie. The Klassic MK Movie Skin Pack includes character likeness & voice from the1995 film. Christopher Lambert as Protector of Earthrealm Raiden, Linden Ashby as Hollywood Kombatant Johnny Cage, and Bridgette Wilson-Sampras as Island Bound Sonya Blade.",
         "languages": null,
         "size": 4194304
+    },
+    "70050000024265": {
+        "id": "0100073011383001",
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Rhythm & Exercise No Mercy intensity: Lin",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201207,
+        "nsuId": 70050000024265,
+        "category": null,
+        "ratingContent": [
+            "No Descriptors"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e8c936c70866fcd7106ae1c2b60e9ce7146e2c925058b9c359961126f9c6e4e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3cb0df5f10a76c3cfbb48e5fba1cf44ff351139aab53dc7a82d05f8f61f72ef2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/17ecef2cbcb7749eee92434f1d8434c4e2701b72a12ea14e5e961303e5320970.jpg",
+        "intro": "Lin\u2019s holding nothing back!",
+        "description": "A new exercise intensity has been added for Lin! \n\nNow you can try Low, High, and the new No Mercy intensity. \nThe instructor you know as good-natured and mellow will show you her ruthless side. She\u2019s ready to put you through your paces!",
+        "languages": null,
+        "size": 11534336
+    },
+    "70050000024400": {
+        "id": "01004A600EC0B00C",
+        "rightsId": null,
+        "name": "Immortals Fenyx Rising - When The Road Gets Rocky",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000024400,
+        "category": null,
+        "ratingContent": [
+            "Language",
+            "Suggestive Themes",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a355dd7020d8fb8aa49896d1efd9aa7920daa46ec8ae9a81ffdf10cfa356b3cc.jpg",
+        "intro": null,
+        "description": "Receive the bonus quest \"When the Road Gets Rocky\" and earn dedicated in-game rewards when you purchase the season pass today.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000024643": {
+        "id": "0100073011383006",
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Rhythm & Exercise No Mercy intensity: Evan",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201207,
+        "nsuId": 70050000024643,
+        "category": null,
+        "ratingContent": [
+            "No Descriptors"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fcd260797ba7a1284c14ca5fdaa35194c064590d1e8fbe0005bd6efc2ac626cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c254f8621e06b0f8ce1587873ea917f0eeca107a007f1b5c1a2ac91a4bab5866.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af6d04530f6c55d038925227bd55731a604fd44f6e07140c1c6364d3b0b90813.jpg",
+        "intro": "Evan\u2019s holding nothing back!",
+        "description": "A new exercise intensity has been added for Evan! \n\nNow you can try Low, High, and the new No Mercy intensity. \nThe instructor you know as good-natured and mellow will show you his ruthless side. He\u2019s ready to put you through your paces!",
+        "languages": null,
+        "size": 11534336
     },
     "70070000000041": {
         "id": null,
@@ -20172,7 +20461,8 @@
         "category": null,
         "ratingContent": [
             "Fantasy Violence",
-            "Users Interact"
+            "Users Interact",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -20207,7 +20497,8 @@
         "category": null,
         "ratingContent": [
             "Fantasy Violence",
-            "Users Interact"
+            "Users Interact",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": null,
         "rating": 10,

@@ -342,7 +342,8 @@
             "Multijugador"
         ],
         "ratingContent": [
-            "Violencia moderada en caricaturas"
+            "Violencia moderada en caricaturas",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": 2,
         "rating": 6,
@@ -384,7 +385,8 @@
             "Multijugador"
         ],
         "ratingContent": [
-            "Violencia moderada en caricaturas"
+            "Violencia moderada en caricaturas",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": 2,
         "rating": 6,
@@ -859,7 +861,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e707357713efe3c09925842fc07949381799d1ef4205aa3f46a9facf8dfe8223.jpg",
         "intro": "Pok\u00e9mon llega a la consola Nintendo Switch",
-        "description": "Presentando el primer juego de Pok\u00e9mon para la consola Nintendo Switch. Toma control de uno de los 21 preciados luchadores Pok\u00e9mon para derrotar a otros Pok\u00e9mon en la arena de combate. Llama al Pok\u00e9mon de apoyo para que asista en el combate, luego desencadena el excepcional ataque de r\u00e1faga de tu Pok\u00e9mon para subir de rango. Con muchos modos y maneras nuevas de combatir con tus amigos, \u00a1esta es tu oportunidad de convertirte en el campe\u00f3n de la regi\u00f3n Ferrum!  ",
+        "description": "Presentando el primer juego de Pok\u00e9mon para la consola Nintendo Switch. Toma control de uno de los 21 preciados luchadores Pok\u00e9mon para derrotar a otros Pok\u00e9mon en la arena de combate. Llama al Pok\u00e9mon de apoyo para que asista en el combate, luego desencadena el excepcional ataque de r\u00e1faga de tu Pok\u00e9mon para subir de rango. \n\nCon muchos modos y maneras nuevas de combatir con tus amigos, \u00a1esta es tu oportunidad de convertirte en el campe\u00f3n de la regi\u00f3n Ferrum!  ",
         "languages": [
             "ja",
             "en",
@@ -976,8 +978,8 @@
         "ratingContent": [
             "Derramamiento de sangre",
             "Violencia intensa",
-            "Interacciones en linea no estan clasificadas por la ESRB",
-            "Lenguaje fuerte"
+            "Lenguaje fuerte",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": 2,
         "rating": 17,
@@ -999,11 +1001,11 @@
         "languages": [
             "ja",
             "en",
+            "pt",
             "es",
             "fr",
             "de",
             "it",
-            "pt",
             "ru",
             "ko",
             "zh"
@@ -3521,7 +3523,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20181108,
+        "releaseDate": 20201207,
         "nsuId": 70010000014303,
         "category": [
             "Video"
@@ -4947,7 +4949,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20201113,
         "nsuId": 70010000019989,
         "category": [
             "Deportes"
@@ -4983,7 +4985,7 @@
             "zh",
             "zh"
         ],
-        "size": 44376784896
+        "size": 44377833472
     },
     "70010000020030": {
         "id": "010076D00E4BA000",
@@ -5290,7 +5292,8 @@
             "Acci\u00f3n"
         ],
         "ratingContent": [
-            "Travesuras comicas",
+            "Referencia al alcohol",
+            "Humor vulgar",
             "Violencia de fantasia",
             "Lenguaje moderado"
         ],
@@ -5606,7 +5609,8 @@
         ],
         "ratingContent": [
             "Violencia de fantasia",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": 4,
         "rating": 10,
@@ -5738,6 +5742,54 @@
             "zh"
         ],
         "size": 9992929280
+    },
+    "70010000021933": {
+        "id": "01004A600EC0A000",
+        "rightsId": null,
+        "name": "Immortals Fenyx Rising\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201207,
+        "nsuId": 70010000021933,
+        "category": [
+            "Acci\u00f3n"
+        ],
+        "ratingContent": [
+            "Lenguaje",
+            "Temas insinuantes",
+            "Violencia",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/60064f20bd80b9938eb2bb375a3d4477d5e91ad1c5c186d926c0bbd3305b6831.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6b098446d060de81a585f2be3b1037e802dcce4646546593d989d8b94d8e640e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39d00170f5c00e973d33ad6e449cb1b17624d6374f6e59287b3eb8aef3993b4d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4fb755ba557cf13e1743e1d54bea4c9f03c1ca7da9d3e1424d0e27657117ebbc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03ae6f7ab7ba8ee7c3f6be65d79f4d2e8095971831292348ec7032797f3fb2e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db2d7c416c6b696a86c89a146f8e81647bab92047fbacac7d296bb9db10a7952.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c53ad2b39a5911e89fc48cadb879c81b6f959e9058d3d063404e8b29657d3ec.jpg",
+        "intro": null,
+        "description": "Immortals Fenyx Rising\u2122 trae consigo una gran aventura mitol\u00f3gica. \n\nJuega como Fenyx, un nuevo semidios alado con la misi\u00f3n de salvar a los dioses griegos. El destino del mundo est\u00e1 en juego: eres la \u00faltima esperanza de los dioses.\n\n- Aprovecha los poderes de los dioses, tales como la espada de Aquiles o las alas de D\u00e9dalo, para luchar contra poderosos enemigos y resolver antiguos rompecabezas.\n- Lucha contra ic\u00f3nicas bestias mitol\u00f3gicas como los C\u00edclopes y Medusa en un combate din\u00e1mico en tierra y aire. \n- Aprovecha tus habilidades y la variedad de armas disponibles, incluyendo flechas autoguiadas, telequinesis y mucho m\u00e1s para causar un da\u00f1o devastador.  \n- Descubre un estilizado mundo abierto que se expande por siete regiones \u00fanicas, cada una inspirada por los dioses.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru"
+        ],
+        "size": 16086204416
     },
     "70010000022226": {
         "id": "01002C000E35E000",
@@ -7296,6 +7348,57 @@
         ],
         "size": 5307891712
     },
+    "70010000030011": {
+        "id": "0100BF9011B52000",
+        "rightsId": null,
+        "name": "Just Dance\u00ae 2021",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70010000030011,
+        "category": [
+            "M\u00fasica"
+        ],
+        "ratingContent": [
+            "Letras moderadas",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 6,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/92d331673b8fe8163e9fa7aa4fbaba1d4aa2aa3dc8ca353210fcd4848b8fe761.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dc46f49643ab9aa0c1f0de2b461b35798e5a6561d18c564c3a229039f86feab2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/413f8aba66e47135b36e2aed362c3c4b4c682a2978cb6e5a8b5baa8765617f03.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dc0aa86b7268762199dcc5a5965d913d921b724a5f403eaf1d683154b627bd47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ff7445a89e9d4bba24b04db84a9326a4dbca9331c5db66f2b1a2f9beea9d0016.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/468b43626beea968a5be0b2d37e08b2ea46b036471b4e9bbaba7dec0ea56b5ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/385bce7e42a71bfb7c2f407a90fce2d19d2f4d51767160ad9988db57028e6c3b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/424bac11eaecab41534a2be4106a6ae66bae28a1a7d4600d7ba97bc22ebfd467.jpg",
+        "intro": null,
+        "description": "Just Dance\u00ae 2021 es el mayor juego de baile con 40 incre\u00edbles \u00e9xitos de las listas de popularidad como \"\"Rain On Me\"\" de Lady Gaga & Ariana Grande, \"\"Kick It\"\" de NCT 127 y \"\"Ice Cream\"\" de BLACKPINK x Selena Gomez. \u00a1Comienza una fiesta de baile que pueden disfrutar tu familia y tus amigos!\n\n- \u00a1El servicio de streaming por suscripci\u00f3n de Just Dance Unlimited te permite bailar m\u00e1s de 550 canciones diferentes! El juego incluye un mes TOTALMENTE GRATIS. \n- \u00a1Juega con tus amigos y comparte la diversi\u00f3n con el modo cooperativo!\n- Baila como prefieras al crear tus propias listas de reproducci\u00f3n personalizadas. \n- Disfruta de ocho nuevas canciones y coreograf\u00edas aptas para ni\u00f1os que brindan una experiencia para toda la familia.\n- Utiliza tu smartphone para registrar tus movimientos con la app Just Dance Controller \u00a1que no requiere de accesorios adicionales! \u00a1Se pueden unir hasta seis jugadores!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 7402946560
+    },
     "70010000030293": {
         "id": "0100B6801137E000",
         "rightsId": null,
@@ -7739,7 +7842,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a6d153ad86eba304fc3b03af3008de344172c07a87b7091cd68243603cb61cbb.jpg",
         "intro": "Entrena en casa y lanza pu\u00f1etazos al ritmo de la m\u00fasica",
-        "description": "\u00a1Lanza jabs, esquiva y practica movimientos de box al ritmo de contagiosas canciones de pop en este juego r\u00edtmico de boxeo! Los movimientos de boxeo, como dar pasos, esquivar y agacharse, permiten entrenar todo el cuerpo. Dale un control Joy-Con\u2122 a un amigo y boxeen juntos siguiendo el ritmo.\n\nPersonaliza tu entrenamiento con ayuda de un instructor virtual\n\nElige uno de los nueve instructores virtuales, selecciona el nivel de dificultad de tu rutina de ligero a intenso y tendr\u00e1s lista una rutina para trabajar con tu instructor. Tambi\u00e9n puedes crear tu propia rutina desde cero con el modo Ejercicio libre. Sigue demostraciones detalladas, practica movimientos espec\u00edficos y recibe comentarios \u00fatiles de tu instructor. \u00a1As\u00ed le sacar\u00e1s el m\u00e1ximo provecho a tu entrenamiento!\n\nComienza a prepararte con el juego original Fitness Boxing o con la versi\u00f3n de prueba de Fitness Boxing 2: Rhythm & Exercise y despu\u00e9s transfiere tu perfil a la versi\u00f3n completa del juego\n\nMant\u00e9n tu progreso del juego original Fitness Boxing transfiriendo tu perfil al juego Fitness Boxing 2: Rhythm and Exercise. \u00a1Si juegas la versi\u00f3n de prueba Fitness Boxing 2: Rhythm & Exercise, podr\u00e1s transferir tu progreso al adquirir la versi\u00f3n completa del juego!\n\n\n\u00a1Haz tu entrenamiento diario y boxea al ritmo de la m\u00fasica! Dale uno o dos controles Joy-Con a un amigo y disfruten de una sesi\u00f3n de box dirigida por un instructor del juego. Cada instructor virtual tiene su propio estilo y personalidad. Entrena con cada uno de ellos \u00a1y descubre el ideal para ti! Supera logros y recibe billetes que despu\u00e9s podr\u00e1s canjear por conjuntos de ropa para tu instructor.\n\nSin importar el nivel de dificultad que selecciones, podr\u00e1s practicar movimientos espec\u00edficos y observarlos de forma detallada en todo momento.\n\nEl juego Fitness Boxing 2: Rhythm & Exercise es una opci\u00f3n para que tengas un entrenamiento dirigido y puedas dar seguimiento a tu actividad mientras disfrutas del ritmo de la m\u00fasica y contagiosas canciones de pop. Descarga en eShop la versi\u00f3n de prueba y siente el ritmo de Fitness Boxing 2: Rhythm & Exercise.\n",
+        "description": "\u00a1Lanza jabs, esquiva y practica movimientos de box al ritmo de contagiosas canciones de pop en este juego r\u00edtmico de boxeo! Los movimientos de boxeo, como dar pasos, esquivar y agacharse, permiten entrenar todo el cuerpo. Dale un control Joy-Con\u2122 a un amigo y boxeen juntos siguiendo el ritmo.\n\nPersonaliza tu entrenamiento con ayuda de un instructor virtual\n\nElige uno de los nueve instructores virtuales, selecciona el nivel de dificultad de tu rutina de ligero a intenso y tendr\u00e1s lista una rutina para trabajar con tu instructor. Tambi\u00e9n puedes crear tu propia rutina desde cero con el modo Ejercicio libre. Sigue demostraciones detalladas, practica movimientos espec\u00edficos y recibe comentarios \u00fatiles de tu instructor. \u00a1As\u00ed le sacar\u00e1s el m\u00e1ximo provecho a tu entrenamiento!\n\nComienza a prepararte con el juego original Fitness Boxing o con la versi\u00f3n de prueba de Fitness Boxing 2: Rhythm & Exercise y despu\u00e9s transfiere tu perfil a la versi\u00f3n completa del juego\n\nMant\u00e9n tu progreso del juego original Fitness Boxing transfiriendo tu perfil al juego Fitness Boxing 2: Rhythm and Exercise. \u00a1Si juegas la versi\u00f3n de prueba Fitness Boxing 2: Rhythm & Exercise, podr\u00e1s transferir tu progreso al adquirir la versi\u00f3n completa del juego!\n\n\n\u00a1Haz tu entrenamiento diario y boxea al ritmo de la m\u00fasica! Dale uno o dos controles Joy-Con a un amigo y disfruten de una sesi\u00f3n de box dirigida por un instructor del juego. Cada instructor virtual tiene su propio estilo y personalidad. Entrena con cada uno de ellos \u00a1y descubre el ideal para ti! Supera logros y recibe billetes que despu\u00e9s podr\u00e1s canjear por conjuntos de ropa para tu instructor.\n\nSi te interesa elevar la intensidad de tu entrenamiento, lo tuyo es el Modo Infernal*. Ver\u00e1s que incluso los instructores se vuelven m\u00e1s en\u00e9rgicos en este modo. Pero no te preocupes, \u00a1siempre puedes volver al nivel en el que estabas! Sin importar el nivel de dificultad que selecciones, podr\u00e1s practicar movimientos espec\u00edficos y observarlos de forma detallada en todo momento.\n\nEl juego Fitness Boxing 2: Rhythm & Exercise es una opci\u00f3n para que tengas un entrenamiento dirigido y puedas dar seguimiento a tu actividad mientras disfrutas del ritmo de la m\u00fasica y contagiosas canciones de pop. Descarga en eShop la versi\u00f3n de prueba y siente el ritmo de Fitness Boxing 2: Rhythm & Exercise.\n\n*Es necesario actualizar el programa",
         "languages": [
             "ja",
             "en",
@@ -15490,7 +15593,8 @@
         "category": null,
         "ratingContent": [
             "Violencia de fantasia",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -15524,7 +15628,8 @@
         "category": null,
         "ratingContent": [
             "Violencia de fantasia",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -18751,6 +18856,99 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023829": {
+        "id": "01004A600EC0B001",
+        "rightsId": null,
+        "name": "IMMORTALS FENYX RISING - A New god",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 2021,
+        "nsuId": 70050000023829,
+        "category": null,
+        "ratingContent": [
+            "Lenguaje",
+            "Temas insinuantes",
+            "Violencia",
+            "Interacci\u00c3\u00b3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/355912c3d2451e479d8a725a041a3be667db8a5e708215437ae5af2c062dfe28.jpg",
+        "intro": null,
+        "description": "As Fenyx, overcome the trials of the gods of Olympos to join the Greek Pantheon and fulfill your destiny.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023830": {
+        "id": "01004A600EC0B002",
+        "rightsId": null,
+        "name": "IMMORTALS FENYX RISING - Myths of the Eastern Realm",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000023830,
+        "category": null,
+        "ratingContent": [
+            "Lenguaje",
+            "Temas insinuantes",
+            "Violencia",
+            "Interacci\u00c3\u00b3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/233e88836e07ae64c3b92c5651f548c34ce5d1134fd2c806bd2a26361d48fd53.jpg",
+        "intro": null,
+        "description": "Play a brand new story inspired by Chinese mythology, where you'll encounter new gods and fight exotic monsters in a distant land, as a new hero.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023831": {
+        "id": "01004A600EC0B003",
+        "rightsId": null,
+        "name": "IMMORTALS FENYX RISING - The Lost gods",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000023831,
+        "category": null,
+        "ratingContent": [
+            "Lenguaje",
+            "Temas insinuantes",
+            "Violencia",
+            "Interacci\u00c3\u00b3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f50b078619255d34b97141bc94f3d75c2076f1ca23efbbd78a773fa295d9e72b.jpg",
+        "intro": null,
+        "description": "Experience a new brawler-style of combat in a top-down view! Meet a new hero embarking on an epic adventure to reunite the Greek gods.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000024088": {
         "id": "0100F2200C98501F",
         "rightsId": null,
@@ -18781,6 +18979,97 @@
         "description": "Viaja de vuelta a los\u00a090 con este tributo a la pel\u00edcula original de MK. El Paquete de Skins Pel\u00edcula kl\u00e1sica de MK incluye la imagen y voces de los personajes de la pel\u00edcula de 1995. Christopher Lambert como Raiden Protector de la Tierra, Linden Ashby como Johnny Cage Kombatiente de Hollywood y Bridgette Wilson-Sampras como Sonya Blade Rumbo a la isla.",
         "languages": null,
         "size": 4194304
+    },
+    "70050000024265": {
+        "id": "0100073011383001",
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Rhythm & Exercise Modo Infernal: Lin",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201207,
+        "nsuId": 70050000024265,
+        "category": null,
+        "ratingContent": [
+            "Sin Descriptores"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e8c936c70866fcd7106ae1c2b60e9ce7146e2c925058b9c359961126f9c6e4e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3cb0df5f10a76c3cfbb48e5fba1cf44ff351139aab53dc7a82d05f8f61f72ef2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/17ecef2cbcb7749eee92434f1d8434c4e2701b72a12ea14e5e961303e5320970.jpg",
+        "intro": "\u00a1Nada detiene a Lin!",
+        "description": "\u00a1Una nueva intensidad de ejercicio se ha a\u00f1adido para Lin!\n\nAhora podr\u00e1s probar la intensidad alta y baja, as\u00ed como el nuevo Modo Infernal. La instructora bondadosa que conoces te mostrar\u00e1 su lado despiadado. Ella est\u00e1 lista para ponerte a prueba.",
+        "languages": null,
+        "size": 11534336
+    },
+    "70050000024400": {
+        "id": "01004A600EC0B00C",
+        "rightsId": null,
+        "name": "Immortals Fenyx Rising - When The Road Gets Rocky",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000024400,
+        "category": null,
+        "ratingContent": [
+            "Lenguaje",
+            "Temas insinuantes",
+            "Violencia",
+            "Interacci\u00c3\u00b3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a355dd7020d8fb8aa49896d1efd9aa7920daa46ec8ae9a81ffdf10cfa356b3cc.jpg",
+        "intro": null,
+        "description": "Receive the bonus quest \"When the Road Gets Rocky\" and earn dedicated in-game rewards when you purchase the season pass today.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000024643": {
+        "id": "0100073011383006",
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Rhythm & Exercise Modo Infernal: Evan",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201207,
+        "nsuId": 70050000024643,
+        "category": null,
+        "ratingContent": [
+            "Sin Descriptores"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fcd260797ba7a1284c14ca5fdaa35194c064590d1e8fbe0005bd6efc2ac626cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c254f8621e06b0f8ce1587873ea917f0eeca107a007f1b5c1a2ac91a4bab5866.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af6d04530f6c55d038925227bd55731a604fd44f6e07140c1c6364d3b0b90813.jpg",
+        "intro": "\u00a1Nada detiene a Evan!",
+        "description": "\u00a1Una nueva intensidad de ejercicio se ha a\u00f1adido para Evan!\n\nAhora podr\u00e1s probar la intensidad alta y baja, as\u00ed como el nuevo Modo Infernal. El instructor bondadoso que conoces te mostrar\u00e1 su lado despiadado. \u00c9l est\u00e1 listo para ponerte a prueba.",
+        "languages": null,
+        "size": 11534336
     },
     "70070000000041": {
         "id": null,
@@ -20172,7 +20461,8 @@
         "category": null,
         "ratingContent": [
             "Violencia de fantasia",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -20207,7 +20497,8 @@
         "category": null,
         "ratingContent": [
             "Violencia de fantasia",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
         "rating": 10,
