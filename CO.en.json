@@ -5665,7 +5665,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d5cd9c87ee15c32d2ea4b3db10cd553bd2dc9f68697c7c4f8decf498fc21036d.jpg",
         "intro": "The golf game for people who hate golf!",
-        "description": "An award-winning silly physics-based golf parody where every golf course is a new surprising type of golf, some brilliant or hilarious, others so absurd they will make you go: WHAT THE GOLF?\n\nBring your car to the Driving Range, golf a bird to get a Birdy, or a house and get a Home In One!\n\nChallenge a friend to the least realistic golf game ever made in the new local party mode for two. Only available on Switch.\n\n\u00c2\u00a0Features:\n- Insanely stupid and silly fun\n- Exactly what you need and not what you expect\n- More surprising new golf mechanics than you can imagine\n- Two-player local multiplayer\n- Made by people who know nothing about golf\n- First (and hopefully the last) game that let you golf a horse\n- Will NOT make you a better golf player\n- Surprises! (sorry, we spoiled it)",
+        "description": "An award-winning silly physics-based golf parody where every golf course is a new surprising type of golf, some brilliant or hilarious, others so absurd they will make you go: WHAT THE GOLF?\n\nBring your car to the Driving Range, golf a bird to get a Birdy, or a house and get a Home In One!\n\nChallenge a friend to the least realistic golf game ever made in the new local party mode for two. Only available on Switch.\n\n\u00a0Features:\n- Insanely stupid and silly fun\n- Exactly what you need and not what you expect\n- More surprising new golf mechanics than you can imagine\n- Two-player local multiplayer\n- Made by people who know nothing about golf\n- First (and hopefully the last) game that let you golf a horse\n- Will NOT make you a better golf player\n- Surprises! (sorry, we spoiled it)",
         "languages": [
             "ja",
             "en",
@@ -6475,7 +6475,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e45b639f68ff7cb111025210a223e833618cddc1c9d274e1b7f1eb4455f76d8d.jpg",
         "intro": "Exit the Gungeon is a small, spin-off 'dungeon climber' immediately following the adventures of the misfit Gungeoneers.",
-        "description": "Exit the Gungeon is a small, arcade-style, spin-off 'dungeon climber' that immediately follows the adventures of the misfit Gungeoneers attempting to survive a series of increasingly dangerous elevators and countless waves of enemies.\n\nThe Gungeon has become a paradox and is collapsing! Blessed by the magic of the Sorceress, your gun will change rapidly as you ascend the Gungeon. The better you play, and the higher your combo, the more powerful the form your gun will take.\n\nBattle against the last and most bitter of the Gundead at a frantic pace, slowing down just long enough to chat with some familiar faces\u00e2\u20ac\u00a6 and a few new ones. Shifting rooms, enemies, bosses, bizarre weapons and items all combine to ensure that no two attempts to Exit the Gungeon are the same.",
+        "description": "Exit the Gungeon is a small, arcade-style, spin-off 'dungeon climber' that immediately follows the adventures of the misfit Gungeoneers attempting to survive a series of increasingly dangerous elevators and countless waves of enemies.\n\nThe Gungeon has become a paradox and is collapsing! Blessed by the magic of the Sorceress, your gun will change rapidly as you ascend the Gungeon. The better you play, and the higher your combo, the more powerful the form your gun will take.\n\nBattle against the last and most bitter of the Gundead at a frantic pace, slowing down just long enough to chat with some familiar faces\u2026 and a few new ones. Shifting rooms, enemies, bosses, bizarre weapons and items all combine to ensure that no two attempts to Exit the Gungeon are the same.",
         "languages": [
             "ja",
             "en",
@@ -6577,7 +6577,7 @@
             "zh",
             "zh"
         ],
-        "size": 980418560
+        "size": 979369984
     },
     "70010000028540": {
         "id": "010053401147C000",
@@ -6832,7 +6832,8 @@
         ],
         "ratingContent": [
             "Mild Lyrics",
-            "Mild Violence"
+            "Mild Violence",
+            "Users Interact"
         ],
         "numberOfPlayers": 1,
         "rating": 10,
@@ -18294,7 +18295,7 @@
     "70050000023109": {
         "id": "01000A001171B005",
         "rightsId": null,
-        "name": "FIFA 21 In-Game Commentary \u00e2\u20ac\u201c Portuguese (Brazil)",
+        "name": "FIFA 21 In-Game Commentary \u2013 Portuguese (Brazil)",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -20673,6 +20674,31 @@
         "description": "Get three times the mayhem, three times the loot, and three times the action with the Borderlands Legendary Collection! Kill bandits and beasts, collect powerful weaponry, and maybe even save the universe in Borderlands: Game of the Year Edition, Borderlands 2, and Borderlands: The Pre-Sequel, along with piles of bonus add-on content for each game, adding 100+ hours of gameplay at an incredible value*.\n\u2022 Enjoy all three games solo or cooperatively with local two-player split-screen or four-player online play\n\u2022 Borderlands: Game of the Year Edition - Discover the co-op shooter-looter that started it all, crammed with content and enhancements! Equip bazillions of guns as one of four trigger-happy mercenaries, each with unique RPG skills. Take on the lawless desolate planet Pandora in pursuit of powerful alien technology rumored to be inside an ancient Vault.\n\u2022 Borderlands 2 - Play as one of six vault hunters attempting to liberate Pandora from evil mastermind and corporate CEO Handsome Jack. Make new friends, arm them with a bazillion weapons and fight alongside them in a relentless quest for revenge and redemption.\n\u2022 Borderlands: The Pre-Sequel - Discover the story behind Borderlands 2 villain, Handsome Jack, and his rise to power. Set between the events of Borderlands and Borderlands 2, The Pre-Sequel gives you a whole lotta new gameplay and features the genre-blending fusion of shooter and RPG mechanics that players have come to love.\n*Borderlands 2: Commander Lilith & the Fight for Sanctuary add-on content not included.",
         "languages": null,
         "size": 23493345280
+    },
+    "70070000010402": {
+        "id": null,
+        "rightsId": null,
+        "name": "Immortals Fenyx Rising\u2122 Season Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201204,
+        "nsuId": 70070000010402,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6a2012d13f9fad7a8fce8d1c443fa910bb1f99ac3ccb880b0237d9b106a5c6d2.jpg",
+        "intro": null,
+        "description": "Expand your Immortals Fenyx Rising\u2122 adventure with the season pass - including three narrative DLCs for even more epic adventures and puzzles: \n\"\"A New God\"\": As Fenyx, overcome the trials of the gods of Olympus to join the Greek Pantheon and fulfill your destiny. \n\"\"Myths of the Eastern Realms\"\":  Play a brand-new story inspired by Chinese mythology, where you'll encounter new gods and fight exotic monsters in a distant land as a new hero.\n\"\"The Lost Gods\"\": Experience a new brawler-style of combat in a top-down view!  Meet a new hero embarking on an epic adventure to reunite the Greek gods. \n\nReceive the bonus quest - \"\"When the Road Gets Rocky\"\" - and earn dedicated in-game rewards when you purchase the season pass today.",
+        "languages": null,
+        "size": 0
     },
     "70070000010562": {
         "id": null,

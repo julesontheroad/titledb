@@ -6738,7 +6738,7 @@
             "zh",
             "zh"
         ],
-        "size": 980418560
+        "size": 979369984
     },
     "70010000028540": {
         "id": "010053401147C000",
@@ -6993,7 +6993,8 @@
         ],
         "ratingContent": [
             "Letras moderadas",
-            "Violencia moderada"
+            "Violencia moderada",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": 1,
         "rating": 10,
@@ -8300,7 +8301,7 @@
             "Desnudez",
             "Lenguaje fuerte",
             "Temas insinuantes",
-            "Interacci\u00c3\u00b3n de usuarios"
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 17,
@@ -8360,7 +8361,7 @@
             "Derramamiento de sangre",
             "Violencia intensa",
             "Lenguaje fuerte",
-            "Interacci\u00c3\u00b3n de usuarios"
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 17,
@@ -18871,7 +18872,7 @@
             "Lenguaje",
             "Temas insinuantes",
             "Violencia",
-            "Interacci\u00c3\u00b3n de usuarios",
+            "Interacci\u00f3n de usuarios",
             "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
@@ -18902,7 +18903,7 @@
             "Lenguaje",
             "Temas insinuantes",
             "Violencia",
-            "Interacci\u00c3\u00b3n de usuarios",
+            "Interacci\u00f3n de usuarios",
             "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
@@ -18933,7 +18934,7 @@
             "Lenguaje",
             "Temas insinuantes",
             "Violencia",
-            "Interacci\u00c3\u00b3n de usuarios",
+            "Interacci\u00f3n de usuarios",
             "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
@@ -19025,7 +19026,7 @@
             "Lenguaje",
             "Temas insinuantes",
             "Violencia",
-            "Interacci\u00c3\u00b3n de usuarios",
+            "Interacci\u00f3n de usuarios",
             "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
@@ -20834,6 +20835,31 @@
         "description": "\u00a1Disfruta del triple de caos, el triple de bot\u00edn y el triple de acci\u00f3n con la Colecci\u00f3n Legendaria de Borderlands! Mata bandidos y bestias, colecciona armas poderosas y puede que hasta tengas tiempo de salvar al universo en Borderlands: Edici\u00f3n Juego del a\u00f1o, Borderlands 2 y Borderlands: The Pre-Sequel, adem\u00e1s de contenido adicional para cada juego, con m\u00e1s de 100 horas de juego extra a un precio incre\u00edble*.\n\u2022 Disfruta de los tres juegos en solitario, en modo cooperativo local de dos con la pantalla dividida o con hasta cuatro jugadores en l\u00ednea.\n\u2022 Borderlands: Edici\u00f3n Juego del a\u00f1o: \u00a1Descubre el shooter cooperativo original, repleto de contenido y mejoras! Equ\u00edpate con tropecientas armas como uno de los 4 mercenarios con habilidades \u00fanicas. \u00c1brete paso por Pandora en busca de poderosa tecnolog\u00eda alien\u00edgena: la C\u00e1mara.\n\u2022 Borderlands 2: Juega como uno de los seis buscac\u00e1maras para intentar liberar a Pandora de Jack el Guapo, presidente y genio malvado. Haz nuevos amigos, equ\u00edpalos con tropecientas armas y lucha junto a ellos en vuestra incansable b\u00fasqueda de venganza y redenci\u00f3n.\n\u2022 Borderlands: The Pre-Sequel: Descubre la historia que hay tras Jack el Guapo, el villano de Borderlands 2, y su ascenso al poder. Situada entre el Borderlands original y Borderlands 2, la precuela de la secuela te ofrece una nueva experiencia de juego en la que disfrutar\u00e1s de la caracter\u00edstica fusi\u00f3n de shooter y juego de rol que ha conquistado ya a tantos jugadores.\n*Borderlands 2: La comandante Lilith y la lucha por Sanctuary se vende por separado.",
         "languages": null,
         "size": 23493345280
+    },
+    "70070000010402": {
+        "id": null,
+        "rightsId": null,
+        "name": "Immortals Fenyx Rising\u2122 Season Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201204,
+        "nsuId": 70070000010402,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6a2012d13f9fad7a8fce8d1c443fa910bb1f99ac3ccb880b0237d9b106a5c6d2.jpg",
+        "intro": null,
+        "description": "Expand your Immortals Fenyx Rising\u2122 adventure with the season pass - including three narrative DLCs for even more epic adventures and puzzles: \n\"\"A New God\"\": As Fenyx, overcome the trials of the gods of Olympus to join the Greek Pantheon and fulfill your destiny. \n\"\"Myths of the Eastern Realms\"\":  Play a brand-new story inspired by Chinese mythology, where you'll encounter new gods and fight exotic monsters in a distant land as a new hero.\n\"\"The Lost Gods\"\": Experience a new brawler-style of combat in a top-down view!  Meet a new hero embarking on an epic adventure to reunite the Greek gods. \n\nReceive the bonus quest - \"\"When the Road Gets Rocky\"\" - and earn dedicated in-game rewards when you purchase the season pass today.",
+        "languages": null,
+        "size": 0
     },
     "70070000010562": {
         "id": null,
