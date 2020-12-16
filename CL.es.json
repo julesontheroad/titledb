@@ -3562,7 +3562,7 @@
             "zh",
             "zh"
         ],
-        "size": 138412032
+        "size": 137363456
     },
     "70010000015034": {
         "id": "010049D00C8B0000",
@@ -4303,7 +4303,7 @@
             "it",
             "ko"
         ],
-        "size": 7389315072
+        "size": 7388266496
     },
     "70010000018547": {
         "id": "010040600C5CE000",
@@ -5640,7 +5640,7 @@
             "ru",
             "ko"
         ],
-        "size": 4846518272
+        "size": 4927258624
     },
     "70010000021451": {
         "id": "01006C300E9F0000",
@@ -5789,7 +5789,7 @@
             "nl",
             "ru"
         ],
-        "size": 16086204416
+        "size": 16520314880
     },
     "70010000022226": {
         "id": "01002C000E35E000",
@@ -6782,7 +6782,7 @@
             "zh",
             "zh"
         ],
-        "size": 8876195840
+        "size": 8945401856
     },
     "70010000028643": {
         "id": null,
@@ -7904,7 +7904,7 @@
             "de",
             "it"
         ],
-        "size": 6192889856
+        "size": 6572474368
     },
     "70010000035838": {
         "id": "0100A12011CC8000",
@@ -8301,7 +8301,7 @@
             "Desnudez",
             "Lenguaje fuerte",
             "Temas insinuantes",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00c3\u00b3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 17,
@@ -8361,7 +8361,7 @@
             "Derramamiento de sangre",
             "Violencia intensa",
             "Lenguaje fuerte",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00c3\u00b3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 17,
@@ -18422,6 +18422,128 @@
         "languages": null,
         "size": 5242880
     },
+    "70050000022316": {
+        "id": "01006C100EC09004",
+        "rightsId": null,
+        "name": "Minecraft Dungeons: Monta\u00f1as aulladoras",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201209,
+        "nsuId": 70050000022316,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Mojang",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ca02f1dea7827f0855a8243cd46ee44ab6032c005911ec940f0144c665c47f75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d37db9082a93cbb467fabd875f8d6db7adb90e03c751577acee3ecd175b8066.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f0dd6173e31f0d4e7c1ba522cdf5e9c077bf1588f010ee1638b7a40c4c356fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/76ef7138b125061fa769f5e3c2168769de4d0f7938bc6ad738c5280fb1bbb779.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/72bac26978cb364c3aefcc40354706c97d0833e5e38fdf7a23f6969820cd0835.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/573a02ab648b950a8c71f6e10a900be6b40056ec7ec17c40b97a2fa0df4bf74b.jpg",
+        "intro": "El trayecto hasta la cima\n",
+        "description": "Un poder extra\u00f1o corrompi\u00f3 las monta\u00f1as de una cordillera lejana, que sol\u00edan estar abandonadas, y ahora amenaza con tomar el control del mundo entero. El trayecto hasta la cima incluye subidas y bajadas espectaculares, desde las nuevas armaduras, armas y artefactos impresionantes, hasta los nuevos enemigos feroces que encontrar\u00e1s entre los acantilados. Los nuevos enemigos, como el g\u00f3lem de r\u00e1faga y el monta\u00f1\u00e9s, esperan en la cima a cualquier personaje que se atreva a intentar robar la fuente de su poder. El g\u00f3lem de tempestad es la causa de todo este conflicto, y deber\u00e1s vencerlo antes de que se pierdan todas las esperanzas.\n- Explora tres misiones nuevas y emocionantes.\n- Enfrenta a las criaturas nuevas y aterradoras.\n- Derrota al g\u00f3lem de tempestad.\n- Resiste los vientos intensos.\n- Nuevas armas, armaduras y artefactos.\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022552": {
+        "id": "01006C100EC09005",
+        "rightsId": null,
+        "name": "Minecraft Dungeons DLC 4",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000022552,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Interacci\u00c3\u00b3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Mojang",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c6fd91a39186aabfff6f65298d8a9463d8116cb1930e20f21b10a9eb868c47d.jpg",
+        "intro": null,
+        "description": "Minecraft Dungeons DLC 4",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022553": {
+        "id": "01006C100EC09006",
+        "rightsId": null,
+        "name": "Minecraft Dungeons DLC 5",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000022553,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Interacci\u00c3\u00b3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Mojang",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c6fd91a39186aabfff6f65298d8a9463d8116cb1930e20f21b10a9eb868c47d.jpg",
+        "intro": null,
+        "description": "Minecraft Dungeons DLC 5",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022554": {
+        "id": "01006C100EC09007",
+        "rightsId": null,
+        "name": "Minecraft Dungeons DLC 6",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000022554,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Interacci\u00c3\u00b3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Mojang",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c6fd91a39186aabfff6f65298d8a9463d8116cb1930e20f21b10a9eb868c47d.jpg",
+        "intro": null,
+        "description": "Minecraft Dungeons DLC 6",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000022582": {
         "id": "0100EAE010561007",
         "rightsId": null,
@@ -18872,7 +18994,7 @@
             "Lenguaje",
             "Temas insinuantes",
             "Violencia",
-            "Interacci\u00f3n de usuarios",
+            "Interacci\u00c3\u00b3n de usuarios",
             "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
@@ -18903,7 +19025,7 @@
             "Lenguaje",
             "Temas insinuantes",
             "Violencia",
-            "Interacci\u00f3n de usuarios",
+            "Interacci\u00c3\u00b3n de usuarios",
             "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
@@ -18934,7 +19056,7 @@
             "Lenguaje",
             "Temas insinuantes",
             "Violencia",
-            "Interacci\u00f3n de usuarios",
+            "Interacci\u00c3\u00b3n de usuarios",
             "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
@@ -19026,7 +19148,7 @@
             "Lenguaje",
             "Temas insinuantes",
             "Violencia",
-            "Interacci\u00f3n de usuarios",
+            "Interacci\u00c3\u00b3n de usuarios",
             "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
@@ -20483,7 +20605,7 @@
         "intro": null,
         "description": "\"\u00a1Disfruta un juego de acci\u00f3n y aventura, inspirado en los cl\u00e1sicos de mazmorras y basado en el universo de Minecraft! \u00a1Recorre las mazmorras por tu cuenta o con tus amigos! Hasta cuatro jugadores pueden recorrer los diferentes niveles llenos de acci\u00f3n y tesoros para salvar a los aldeanos y derrotar al malvado Archillano.\n\nLa edici\u00f3n de h\u00e9roe incluye el contenido descargable La jungla se despierta, el contenido descargable El Invierno Rastrero, una capa de h\u00e9roe, dos aspectos de jugador y una gallina mascota.\n\n\u2022\tARMA TU EQUIPO: Hasta cuatro jugadores pueden combatir juntos en modo cooperativo. \n\u2022\tPREP\u00c1RATE PARA EL COMBATE: \u00a1Personaliza tu personaje y pelea con las armas cuerpo a cuerpo, utiliza los ataques a distancia o arremete contra las hordas de criaturas con armaduras pesadas! Desbloquea varias docenas de objetos \u00fanicos y encantamientos de armas para hacer ataques especiales devastadores. \n\u2022\tSOBREVIVE: \u00a1Explora los niveles llenos de acci\u00f3n y tesoros para salvar a los aldeanos y derrotar al malvado Archillano!\"\n",
         "languages": null,
-        "size": 4859101184
+        "size": 4939841536
     },
     "70070000008805": {
         "id": null,
@@ -21081,7 +21203,7 @@
         "intro": "\u00a1Un buen juego de golf!",
         "description": "La Digital Deluxe Edition incluye el Golden Touch Pack, que contiene un driver y un putter chapados en oro, adem\u00e1s del 2K/adidas CodeChaos MyPLAYER Pack, que contiene los zapatos de golf adidas CodeChaos BOA y la camiseta de polo, los pantalones y el sombrero adidas/2K CodeChaos personalizados, que dise\u00f1\u00f3 adidas exclusivamente para PGA TOUR 2K21. \u00a1Los jugadores tambi\u00e9n recibir\u00e1n 2300 monedas adicionales para desbloquear equipo de MyPLAYER adicional para jugar con estilo!",
         "languages": null,
-        "size": 8884584448
+        "size": 8953790464
     },
     "70070000010935": {
         "id": null,
@@ -21263,6 +21385,43 @@
         "description": "El Paquete de Kombate\u00a02 incluye a los luchadores Mileena, Rain y al emblem\u00e1tico invitado Rambo, con la imagen y voz del actor Sylvester\u00a0Stallone.\n\nRambo\n\nUn exsoldado de las Fuerzas Especiales turbado por su tiempo en Vietnam. Es duro, agresivo y famoso por enfrentar misiones peligrosas \u00e9l solo. Ahora, Rambo trae sus brutales habilidades a Mortal\u00a0Kombat.\n\nMileena\n\nMileena es la mezcla perfecta de la ferocidad de Baraka con la gracia de Kitana. Al transportarse al futuro, este clon ahora sabe de su tiempo como emperatriz y su muerte a manos de Kotal Kahn. Est\u00e1 determinada a reclamar su trono.\n\nRain\n\nRain se uni\u00f3 al ej\u00e9rcito para mejorar su futuro. Gracias a su genio estrat\u00e9gico, se encontr\u00f3 r\u00e1pidamente en una posici\u00f3n de mando. Rain us\u00f3 su rango para encontrar a su padre biol\u00f3gico quien result\u00f3 ser, para su sorpresa, un dios. Rain lucha por su leg\u00edtimo lugar entre los dioses de Edenia.",
         "languages": null,
         "size": 12582912
+    },
+    "70070000011279": {
+        "id": null,
+        "rightsId": null,
+        "name": "Immortals Fenyx Rising\u2122 Gold Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201204,
+        "nsuId": 70070000011279,
+        "category": null,
+        "ratingContent": [
+            "Lenguaje",
+            "Temas insinuantes",
+            "Violencia",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6b098446d060de81a585f2be3b1037e802dcce4646546593d989d8b94d8e640e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39d00170f5c00e973d33ad6e449cb1b17624d6374f6e59287b3eb8aef3993b4d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4fb755ba557cf13e1743e1d54bea4c9f03c1ca7da9d3e1424d0e27657117ebbc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03ae6f7ab7ba8ee7c3f6be65d79f4d2e8095971831292348ec7032797f3fb2e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db2d7c416c6b696a86c89a146f8e81647bab92047fbacac7d296bb9db10a7952.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7da74f79d46656c8fe4606c8fed362df5a993b7dacf22e4c0f31f392d45a00b2.jpg",
+        "intro": null,
+        "description": "Receive the game, season pass, and exclusive in-game content with the Gold Edition. \n\nImmortals Fenyx Rising\u2122 brings grand mythological adventure to life. Play as Fenyx, a new, winged demigod, on a quest to save the Greek gods. \n\n- Wield the powers of the gods like Achilles' sword and Daidalos' wings to battle powerful enemies and solve ancient puzzles.\n- Fight iconic mythological beasts like Cyclops and Medusa in dynamic combat in the air and on the ground. \n- Use your skills and diverse weapons, including self-guided arrows, telekinesis, and more, for devastating damage.  \n- Discover a stylized open world across seven unique regions, each inspired by the gods.",
+        "languages": null,
+        "size": 16520314880
     },
     "70070000011395": {
         "id": null,

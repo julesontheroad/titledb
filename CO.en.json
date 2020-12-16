@@ -3513,7 +3513,7 @@
             "zh",
             "zh"
         ],
-        "size": 138412032
+        "size": 137363456
     },
     "70010000015034": {
         "id": "010049D00C8B0000",
@@ -4254,7 +4254,7 @@
             "it",
             "ko"
         ],
-        "size": 7389315072
+        "size": 7388266496
     },
     "70010000018547": {
         "id": "010040600C5CE000",
@@ -5479,7 +5479,7 @@
             "ru",
             "ko"
         ],
-        "size": 4846518272
+        "size": 4927258624
     },
     "70010000021451": {
         "id": "01006C300E9F0000",
@@ -5628,7 +5628,7 @@
             "nl",
             "ru"
         ],
-        "size": 16086204416
+        "size": 16520314880
     },
     "70010000022226": {
         "id": "01002C000E35E000",
@@ -5665,7 +5665,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d5cd9c87ee15c32d2ea4b3db10cd553bd2dc9f68697c7c4f8decf498fc21036d.jpg",
         "intro": "The golf game for people who hate golf!",
-        "description": "An award-winning silly physics-based golf parody where every golf course is a new surprising type of golf, some brilliant or hilarious, others so absurd they will make you go: WHAT THE GOLF?\n\nBring your car to the Driving Range, golf a bird to get a Birdy, or a house and get a Home In One!\n\nChallenge a friend to the least realistic golf game ever made in the new local party mode for two. Only available on Switch.\n\n\u00a0Features:\n- Insanely stupid and silly fun\n- Exactly what you need and not what you expect\n- More surprising new golf mechanics than you can imagine\n- Two-player local multiplayer\n- Made by people who know nothing about golf\n- First (and hopefully the last) game that let you golf a horse\n- Will NOT make you a better golf player\n- Surprises! (sorry, we spoiled it)",
+        "description": "An award-winning silly physics-based golf parody where every golf course is a new surprising type of golf, some brilliant or hilarious, others so absurd they will make you go: WHAT THE GOLF?\n\nBring your car to the Driving Range, golf a bird to get a Birdy, or a house and get a Home In One!\n\nChallenge a friend to the least realistic golf game ever made in the new local party mode for two. Only available on Switch.\n\n\u00c2\u00a0Features:\n- Insanely stupid and silly fun\n- Exactly what you need and not what you expect\n- More surprising new golf mechanics than you can imagine\n- Two-player local multiplayer\n- Made by people who know nothing about golf\n- First (and hopefully the last) game that let you golf a horse\n- Will NOT make you a better golf player\n- Surprises! (sorry, we spoiled it)",
         "languages": [
             "ja",
             "en",
@@ -6475,7 +6475,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e45b639f68ff7cb111025210a223e833618cddc1c9d274e1b7f1eb4455f76d8d.jpg",
         "intro": "Exit the Gungeon is a small, spin-off 'dungeon climber' immediately following the adventures of the misfit Gungeoneers.",
-        "description": "Exit the Gungeon is a small, arcade-style, spin-off 'dungeon climber' that immediately follows the adventures of the misfit Gungeoneers attempting to survive a series of increasingly dangerous elevators and countless waves of enemies.\n\nThe Gungeon has become a paradox and is collapsing! Blessed by the magic of the Sorceress, your gun will change rapidly as you ascend the Gungeon. The better you play, and the higher your combo, the more powerful the form your gun will take.\n\nBattle against the last and most bitter of the Gundead at a frantic pace, slowing down just long enough to chat with some familiar faces\u2026 and a few new ones. Shifting rooms, enemies, bosses, bizarre weapons and items all combine to ensure that no two attempts to Exit the Gungeon are the same.",
+        "description": "Exit the Gungeon is a small, arcade-style, spin-off 'dungeon climber' that immediately follows the adventures of the misfit Gungeoneers attempting to survive a series of increasingly dangerous elevators and countless waves of enemies.\n\nThe Gungeon has become a paradox and is collapsing! Blessed by the magic of the Sorceress, your gun will change rapidly as you ascend the Gungeon. The better you play, and the higher your combo, the more powerful the form your gun will take.\n\nBattle against the last and most bitter of the Gundead at a frantic pace, slowing down just long enough to chat with some familiar faces\u00e2\u20ac\u00a6 and a few new ones. Shifting rooms, enemies, bosses, bizarre weapons and items all combine to ensure that no two attempts to Exit the Gungeon are the same.",
         "languages": [
             "ja",
             "en",
@@ -6621,7 +6621,7 @@
             "zh",
             "zh"
         ],
-        "size": 8876195840
+        "size": 8945401856
     },
     "70010000028643": {
         "id": null,
@@ -7743,7 +7743,7 @@
             "de",
             "it"
         ],
-        "size": 6192889856
+        "size": 6572474368
     },
     "70010000035838": {
         "id": "0100A12011CC8000",
@@ -18261,6 +18261,128 @@
         "languages": null,
         "size": 5242880
     },
+    "70050000022316": {
+        "id": "01006C100EC09004",
+        "rightsId": null,
+        "name": "Minecraft Dungeons: Howling Peaks",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201209,
+        "nsuId": 70050000022316,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Mojang",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ca02f1dea7827f0855a8243cd46ee44ab6032c005911ec940f0144c665c47f75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d37db9082a93cbb467fabd875f8d6db7adb90e03c751577acee3ecd175b8066.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f0dd6173e31f0d4e7c1ba522cdf5e9c077bf1588f010ee1638b7a40c4c356fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/76ef7138b125061fa769f5e3c2168769de4d0f7938bc6ad738c5280fb1bbb779.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/72bac26978cb364c3aefcc40354706c97d0833e5e38fdf7a23f6969820cd0835.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/573a02ab648b950a8c71f6e10a900be6b40056ec7ec17c40b97a2fa0df4bf74b.jpg",
+        "intro": "Trek to the Top\n",
+        "description": "A strange power has corrupted the once lonely peaks of a distant mountain range, and now it threatens to take the world by storm. The trek to the top features dramatic highs and lows, from dazzling new armour, weapons, and artifacts to vicious new foes among the cliffs. New enemies such as the Squall Golem and Mountaineer wait at the summit for anyone brave enough to steal the root of their power. Atop it all is the source of the stormy conflict, the Tempest Golem, which must be defeated before all hope is blown away.\n- Explore three exciting new missions.\n- Encounter new terrifying mobs.\n- Take down the Tempest Golem.\n- Hold your ground against sweeping winds.\n- New weapons, armour, and artifacts.\n\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022552": {
+        "id": "01006C100EC09005",
+        "rightsId": null,
+        "name": "Minecraft Dungeons DLC 4",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000022552,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Mojang",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c6fd91a39186aabfff6f65298d8a9463d8116cb1930e20f21b10a9eb868c47d.jpg",
+        "intro": null,
+        "description": "Minecraft Dungeons DLC 4",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022553": {
+        "id": "01006C100EC09006",
+        "rightsId": null,
+        "name": "Minecraft Dungeons DLC 5",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000022553,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Mojang",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c6fd91a39186aabfff6f65298d8a9463d8116cb1930e20f21b10a9eb868c47d.jpg",
+        "intro": null,
+        "description": "Minecraft Dungeons DLC 5",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022554": {
+        "id": "01006C100EC09007",
+        "rightsId": null,
+        "name": "Minecraft Dungeons DLC 6",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000022554,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Mojang",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c6fd91a39186aabfff6f65298d8a9463d8116cb1930e20f21b10a9eb868c47d.jpg",
+        "intro": null,
+        "description": "Minecraft Dungeons DLC 6",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000022582": {
         "id": "0100EAE010561007",
         "rightsId": null,
@@ -18295,7 +18417,7 @@
     "70050000023109": {
         "id": "01000A001171B005",
         "rightsId": null,
-        "name": "FIFA 21 In-Game Commentary \u2013 Portuguese (Brazil)",
+        "name": "FIFA 21 In-Game Commentary \u00e2\u20ac\u201c Portuguese (Brazil)",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -20322,7 +20444,7 @@
         "intro": null,
         "description": "\"Fight your way through an all-new action-adventure game, inspired by classic dungeon crawlers and set in the Minecraft universe! Brave the dungeons alone, or team up with friends! Up to four players can battle together through action-packed, treasure-stuffed, wildly varied levels \u2013 all in an epic quest to save the villagers and take down the evil Arch-Illager!.\n\nThe Hero Edition includes the Jungle Awakens DLC, Creeping Winter DLC, a Hero Cape, two player skins, and a chicken pet.\n\n\u2022\tUNITE - Up to four players can team up and fight together in co-op mode. \n\u2022\tFIGHT - Personalize your character, then fight up-close and personal with melee swings, hang back with ranged attacks, or tank your way through swarms of mobs, shielded by heavy armour! Unlock dozens of unique items and weapon enchantments for devastating special attacks. \n\u2022\tSURVIVE - Explore action-packed, treasure-stuffed levels in a quest to save the villagers and take down the evil Arch-Illager!. \"\n",
         "languages": null,
-        "size": 4859101184
+        "size": 4939841536
     },
     "70070000008805": {
         "id": null,
@@ -20920,7 +21042,7 @@
         "intro": "PGA TOUR 2K21 Digital Deluxe",
         "description": "The Digital Deluxe Edition that includes the Golden Touch Pack featuring a gold-plated driver and putter, as well as the 2K/adidas CodeChaos MyPLAYER Pack featuring the adidas CodeChaos BOA Golf Shoes, and custom adidas / 2K CodeChaos Polo, Pants and Hat, designed by adidas, exclusively for PGA TOUR 2K21. Players will also receive an additional 2300 currency to unlock additional MyPLAYER gear to hit the links in style!",
         "languages": null,
-        "size": 8884584448
+        "size": 8953790464
     },
     "70070000010935": {
         "id": null,
@@ -21102,6 +21224,43 @@
         "description": "Kombat Pack\u00a02 incl. fighters Mileena, Rain & iconic guest Rambo, feat. actor Sylvester Stallone's likeness & voice. \n\nRambo\n\nA former Special Forces soldier haunted by his time in Vietnam, Rambo is rough, aggressive & famous for taking on perilous missions alone. Now, he brings his brutal skills in Mortal Kombat. \n\nMileena\n\nMileena is the perfect blend of Baraka's ferocity & Kitana's grace. Brought forward in time, this clone now knows of her reign as Empress and death at Kotal Kahn's hands. She is set on retaking her throne. \n\nRain\n\nRain joined Edenia's army to improve his future. Thanks to his strategic genius, he was quickly given command. Rain used his rank to find his birth father & was shocked to learn that he was a god. Rain battles for his rightful place in Edenia's pantheon.",
         "languages": null,
         "size": 12582912
+    },
+    "70070000011279": {
+        "id": null,
+        "rightsId": null,
+        "name": "Immortals Fenyx Rising\u2122 Gold Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201204,
+        "nsuId": 70070000011279,
+        "category": null,
+        "ratingContent": [
+            "Language",
+            "Suggestive Themes",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6b098446d060de81a585f2be3b1037e802dcce4646546593d989d8b94d8e640e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39d00170f5c00e973d33ad6e449cb1b17624d6374f6e59287b3eb8aef3993b4d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4fb755ba557cf13e1743e1d54bea4c9f03c1ca7da9d3e1424d0e27657117ebbc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03ae6f7ab7ba8ee7c3f6be65d79f4d2e8095971831292348ec7032797f3fb2e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db2d7c416c6b696a86c89a146f8e81647bab92047fbacac7d296bb9db10a7952.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7da74f79d46656c8fe4606c8fed362df5a993b7dacf22e4c0f31f392d45a00b2.jpg",
+        "intro": null,
+        "description": "Receive the game, season pass, and exclusive in-game content with the Gold Edition. \n\nImmortals Fenyx Rising\u2122 brings grand mythological adventure to life. Play as Fenyx, a new, winged demigod, on a quest to save the Greek gods. \n\n- Wield the powers of the gods like Achilles' sword and Daidalos' wings to battle powerful enemies and solve ancient puzzles.\n- Fight iconic mythological beasts like Cyclops and Medusa in dynamic combat in the air and on the ground. \n- Use your skills and diverse weapons, including self-guided arrows, telekinesis, and more, for devastating damage.  \n- Discover a stylized open world across seven unique regions, each inspired by the gods.",
+        "languages": null,
+        "size": 16520314880
     },
     "70070000011395": {
         "id": null,
