@@ -2709,7 +2709,7 @@
             "ru",
             "ko"
         ],
-        "size": 12056526848
+        "size": 12320768000
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -4207,6 +4207,61 @@
         ],
         "size": 376438784
     },
+    "70010000017523": {
+        "id": "01009C200D60E000",
+        "rightsId": null,
+        "name": "Super Meat Boy Forever",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201223,
+        "nsuId": 70010000017523,
+        "category": [
+            "Plataformas",
+            "Acci\u00f3n",
+            "Aventura",
+            "Rompecabezas"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Humor vulgar",
+            "Lenguaje",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Team Meat",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/683285a563ca13e8ad0252921007c656ff1579afde7fac2318a9abae72bbde4d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d56a414e4aa10ff222f2b922bd5a71601ef4af64937910bb3a6ac12c71dbb45d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7dc00d47b8975c58fc0f47f6e09a774b620dab09f89b9c9a657fc552565d24f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08ea860fbc84bd9b8ea0e00209194cc52338b35b89faf87a00e41eb0c5b92080.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18829fab87480d73dc530c63caa4723f7781d5cfd0b3e8ef1eca373dad85c9f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c12cb382deafb0e02030dbebda51f1d29135de08e8052aa04454a699f6167bc2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c3c1e3f397077c222d4a871393f37ce246ceb0712769abecd3927d4083da04f3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0160b1495a4732732069e0e2daae76625cee6cf645aa7b140f1a15745f860867.jpg",
+        "intro": "\u00a1Super Meat Boy ha VUELTO!\n\u00a1Juega en literalmente miles de niveles!\n\u00a1Por fin ha llegado la esperad\u00edsima secuela de Super Meat Boy!",
+        "description": "Super Meat Boy Forever tiene lugar unos a\u00f1os despu\u00e9s de los acontecimientos de Super Meat Boy. Meat Boy y Bandage Girl han vivido felices y libres del Dr. Fetus durante varios a\u00f1os y ahora tienen una ni\u00f1a preciosa llamada Nugget. Nugget es la alegr\u00eda personificada y lo significa todo para Meat Boy y Bandage Girl. Un d\u00eda, mientras nuestros h\u00e9roes estaban de p\u00edcnic, el Dr. Fetus se acerc\u00f3 sigilosamente, dej\u00f3 inconscientes a Meat Boy y Bandage Girl con una pala \u00a1y secuestr\u00f3 a Nugget! Cuando nuestros h\u00e9roes despertaron y vieron que Nugget hab\u00eda desaparecido, sab\u00edan a qui\u00e9n deb\u00edan buscar. Se crujieron los nudillos y decidieron que no parar\u00edan hasta recuperar a Nugget y darle al Dr. Fetus una important\u00edsima lecci\u00f3n. Una lecci\u00f3n que solo se puede ense\u00f1ar con pu\u00f1etazos y patadas.\n \n El reto de Super Meat Boy regresa en Super Meat Boy Forever. Los niveles son brutales, la muerte es inevitable y los jugadores tendr\u00e1n esa maravillosa sensaci\u00f3n de \u00e9xito al superar un nivel. Los jugadores tendr\u00e1n que correr, saltar, dar pu\u00f1etazos y patadas para abrirse paso por entornos conocidos y mundos totalmente nuevos.\n \n \u00bfHay algo mejor que jugar a Super Meat Boy Forever hasta llegar al final? La respuesta es sencilla: jugar a Super Meat Boy Forever varias veces y tener nuevos niveles cada vez que empieces de nuevo. Los niveles se generan de forma aleatoria, y cada vez que se completa el juego aparece la opci\u00f3n de volver a jugar desde el principio, generando una experiencia totalmente nueva al ofrecer niveles diferentes con sus propias ubicaciones secretas. Hemos dise\u00f1ado literalmente miles de niveles para que los jugadores los disfruten y los conquisten. Se puede jugar varias veces a Super Meat Boy Forever de principio a fin antes de ver un nivel repetido. Es una aut\u00e9ntica proeza de la ingenier\u00eda y un ejemplo monumental de pasar por alto los l\u00edmites de la racionalidad en el dise\u00f1o y la producci\u00f3n de un juego.\n \n No dan premios \u00d3scar a los juegos, \u00a1pero seguramente empezar\u00e1n a hacerlo cuando Super Meat Boy Forever se convierta en la mejor pel\u00edcula de 2020 y 2021! Nuestra historia lleva a Meat Boy y Bandage Girl por varios mundos en busca de su querida Nugget, con maravillosas escenas cinem\u00e1ticas animadas y un acompa\u00f1amiento musical que hace que Ciudadano Kane parezca un v\u00eddeo de reacci\u00f3n al \u00abunboxing\u00bb de un trineo. Los jugadores reir\u00e1n, llorar\u00e1n, y cuando todo acabe tal vez salgan de la experiencia siendo un poco mejores que al empezar. Vale, lo m\u00e1s probable es que eso \u00faltimo no pase, pero los textos de marketing son muy dif\u00edciles de escribir.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 5895094272
+    },
     "70010000018062": {
         "id": "0100EBB00D2F4000",
         "rightsId": null,
@@ -4894,7 +4949,7 @@
             "ru",
             "ko"
         ],
-        "size": 14732492800
+        "size": 15393095680
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -6517,7 +6572,7 @@
             "pt",
             "ru"
         ],
-        "size": 1555038208
+        "size": 1598029824
     },
     "70010000027329": {
         "id": null,
@@ -7480,7 +7535,7 @@
             "zh",
             "zh"
         ],
-        "size": 43459280896
+        "size": 43770707968
     },
     "70010000030996": {
         "id": "01002120116C4000",
@@ -20414,7 +20469,7 @@
         "intro": "El futuro es ahora. \u00bfEst\u00e1s con nosotros?",
         "description": "Overwatch: Legendary Edition incluye:\n\u2022\tC\u00f3digo para canjear para la suscripci\u00f3n de 3 meses de membres\u00eda individual de Nintendo Switch Online (Se aplican t\u00e9rminos. nintendo.com/switch-online)\n\u2022\tEl juego completo\n\u2022\t5 dise\u00f1os de h\u00e9roe legendarios\n\u2022\t5 dise\u00f1os de h\u00e9roe \u00e9picos\n\u2022\t5 dise\u00f1os de h\u00e9roe Origin\nEmpieza tu guardia\n\u00danete a la lucha por el futuro en el mundo de Overwatch\u00ae y elige a tu h\u00e9roe de entre una diversa lista de soldados, cient\u00edficos, aventureros y superdotados. Manipula el tiempo, desaf\u00eda la f\u00edsica y desata una gran variedad de armas y poderes extraordinarios. Enfr\u00e9ntate a tus enemigos en ubicaciones emblem\u00e1ticas de todas partes del mundo en el juego de disparos por equipos definitivo.\nVive lo extraordinario\nAcelera y ralentiza el tiempo. Haz llover destrucci\u00f3n desde lo alto en una armadura experimental con propulsores. Acecha a tu presa como un asesino espectral que puede aparecer en cualquier lugar en cualquier momento. Desata poderes como Golpe drag\u00f3n, Trascendencia, Oleada de gravitones y muchos m\u00e1s. Cada h\u00e9roe tiene un conjunto de habilidades \u00fanicas y devastadoras capaces de alterar el curso de la partida.\nJuega con h\u00e9roes, no clases\nCada h\u00e9roe tiene una perspectiva \u00fanica en el campo de batalla y una historia detr\u00e1s de c\u00f3mo lleg\u00f3 hasta all\u00ed. Puedes ser un campe\u00f3n de una era antigua que blande su martillo propulsado en servicio del honor, un monje rob\u00f3tico que tiene como misi\u00f3n sanar las grietas entre la humanidad y las m\u00e1quinas, o un gorila dise\u00f1ado gen\u00e9ticamente que resulta ser tambi\u00e9n un brillante cient\u00edfico, entre muchos otros.\nLucha por el futuro... en equipo\nEl trabajo en equipo ser\u00e1 fundamental para la supervivencia cuando ingreses al campo de batalla con amigos y compa\u00f1eros. Una coordinaci\u00f3n minuciosa puede marcar la diferencia entre la victoria y la derrota al momento de combinar en equipo los formidables poderes que tienen a disposici\u00f3n para provocar un efecto devastador.\nCambia tu perspectiva\nJusto cuando parece que tu equipo est\u00e1 destinado a sufrir una derrota, cambia de h\u00e9roe en cualquier momento y modifica el curso de la batalla. Pero no olvides que tus oponentes pueden hacer lo mismo. Domina el juego dentro de la partida al tiempo que ambos equipos cambian de estrategia y de h\u00e9roe para obtener una ventaja sobre su rival.\nEl mundo es tu campo de batalla\nProtege los secretos del misterioso Templo de Anubis en Egipto, escolta un dispositivo PEM para que llegue a salvo a destino por King\u2019s Row en Londres y libra batallas en muchas m\u00e1s ubicaciones \u00fanicas. Todos los mapas tienen caracter\u00edsticas distintivas propias, con objetivos por equipos y estilos de juego singulares.",
         "languages": null,
-        "size": 14732492800
+        "size": 15393095680
     },
     "70070000008561": {
         "id": null,
@@ -21322,7 +21377,7 @@
         "intro": null,
         "description": "NBA 2K21 es la nueva entrega de la famosa serie superventas NBA 2K e incluye innovaciones para la pr\u00f3xima generaci\u00f3n, a la vez que sigue siendo una de las principales referencias dentro del g\u00e9nero de videojuegos de deportes en la actual generaci\u00f3n de plataformas.\n \n Gracias a las importantes mejoras realizadas en la jugabilidad, los gr\u00e1ficos, las funciones en l\u00ednea comunitarias y competitivas, y con una gran variedad de modos de juego, NBA 2K21 ofrece una experiencia \u00fanica llena de baloncesto y cultura de la NBA. Donde Este juego lo es todo.\n\nNBA 2K21 Mamba Forever Edition incluye los siguientes objetos digitales:\n \u2022 100 000 VC \n \u2022 10 000 puntos de MyTEAM\n \u2022 10 fichas de MyTEAM\n \u2022 60 potenciadores de habilidades de MyCAREER\n \u2022 40 paquetes Promoci\u00f3n de MyTEAM (10 a fecha de lanzamiento; despu\u00e9s, 3 a la semana)\n \u2022 2 cartas Zafiro de MyTEAM del deportista de portada Standard Edition\n \u2022 Colecci\u00f3n de zapatillas de MyPLAYER\n \u2022 Mochila para MyPLAYER\n \u2022 Colecci\u00f3n digital de Kobe Bryant",
         "languages": null,
-        "size": 43459280896
+        "size": 43770707968
     },
     "70070000011195": {
         "id": null,
