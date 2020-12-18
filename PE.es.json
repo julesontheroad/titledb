@@ -931,11 +931,12 @@
         "ratingContent": [
             "Sangre",
             "Referencia a drogas",
-            "Lenguaje fuerte",
+            "Lenguaje",
+            "Uso de Alcohol y Tabaco",
             "Violencia"
         ],
         "numberOfPlayers": 2,
-        "rating": 17,
+        "rating": 13,
         "developer": null,
         "publisher": "Coffee Stain",
         "frontBoxArt": null,
@@ -7620,7 +7621,7 @@
             "ko",
             "zh"
         ],
-        "size": 6023020544
+        "size": 6182404096
     },
     "70010000034439": {
         "id": null,
@@ -17764,6 +17765,37 @@
         "description": "El siguiente contenido descargable est\u00e1 disponible por tiempo limitado para los suscriptores de pago a Nintendo Switch Online. Estos objetos pueden descargarse de manera gratuita para su uso en el juego Super Smash Bros.\u2122 Ultimate.\n\nContenido del paquete:\n\u30fb3000 Goldones\n\u30fbEntradas arcade x5",
         "languages": null,
         "size": 8388608
+    },
+    "70050000021148": {
+        "id": "01006A800016F082",
+        "rightsId": null,
+        "name": "Paquete de combate del tablero de esp\u00edritus 7 - \u00a1Desaf\u00eda a fuertes adversarios!",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201216,
+        "nsuId": 70050000021148,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e3d480ed794df6f1b24be1423e211c4cdab26076d714497627488240a59f5993.jpg",
+        "intro": null,
+        "description": "El siguiente contenido descargable est\u00e1 disponible por tiempo limitado para los suscriptores de pago a Nintendo Switch Online. Estos objetos pueden descargarse de manera gratuita para su uso en el juego Super Smash Bros.\u2122 Ultimate.\n\nContenido del paquete:\n\u2022\tPuntos de esp\u00edritu: x 3000\n\u2022\tPedir revancha  x 5\n\u2022\t50 % de da\u00f1o x 5\n\u2022\tSecuaces d\u00e9biles: x 5\n\u2022\tFlor da\u00f1ina: x 5",
+        "languages": null,
+        "size": 20971520
     },
     "70050000021424": {
         "id": "010053401147D001",

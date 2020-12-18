@@ -5200,7 +5200,7 @@
             "ru",
             "zh"
         ],
-        "size": 7432306688
+        "size": 8198815744
     },
     "70010000020947": {
         "id": "0100B1600E9AE000",
@@ -11636,6 +11636,51 @@
         ],
         "size": 714080256
     },
+    "70010000027509": {
+        "id": "0100373010D26000",
+        "rightsId": null,
+        "name": "Nosferatu Lilinor",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201224,
+        "nsuId": 70010000027509,
+        "category": [
+            "Action",
+            "Puzzle",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "neon",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/38bd6368e8f4556f9050ee9cb9e417ad16cea75a66fa88ca8b7d5e09b28feb85.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5756f425c1ad0e9141467264ba0fc83373fafae4fdf481bbb6a121627bf54df5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5de028740068291a96bab36121e5e9df0312f88cdcdf3a84fe42357c7e42b89a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/90f0827ec47ad9ce33d038ca8b145865896f9e0f0a2aef840e243af2a75705b3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/287b059bc67532d98cabf5fe419bc80b42c02cca527383d0591952fc0b1ecbfe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab3c44454b4b554c8be112e7c8b9dea0659873e2febde77a4934bc968fe045a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a31bed938452a038ce12d77d738c2422e7fd1ace234adf3f953b94d2a0b739d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/77524046bc38cdb9e04cdf2563786068655b43c0fa693a3a80cb1003fed7323e.jpg",
+        "intro": "It is cute but extremely hard!\nThe immortal girl gets beaten and keeps trying again and again.",
+        "description": "The super-difficult puzzle action game Nosferatu Lilinor is coming to Nintendo Switch\u2122.\nThe game is a retro-like stage-clearing puzzle action game that leads the vampire girl Lilinor to her goal. The game's difficulty level is very high, and the game's style is to seek a clear route after multiple challenges.\n\n-STORY\nThe daughter of a vampire, Lilinor, was ravaged by vampire hunters, and she and her squire, Zasha, were on a quest to find a new stronghold.\nShe was on a journey with her squire, Zasha, to find a new stronghold.\nHowever, it was inhabited by the demons of the earlier guests ......\n'We'll go to the bottom level for now. Let's go take down the big guys and get the hierarchy straightened out.\n\n\n-MODE\n\u30fbNORMAL\nAll stages can be conquered on this level of difficulty.\n\n\u30fbEASY\nThis is a trial version of the game, which is easier to use and capture than NORMAL.\n\n\u30fbVERY EASY\nIt's like a tutorial mode. You can use skills more and more, so practice it.\n\n\n-Support 2P play system\n2P players can help Rilinoa by becoming \"Zasha\" the wolf, Rilinoa's follower.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 229638144
+    },
     "70010000027514": {
         "id": null,
         "rightsId": null,
@@ -14243,7 +14288,7 @@
             "https://img-eshop.cdn.nintendo.net/i/93147243151cf5a5a9567db836980993425e943cbdaa9eaab41907bfe8d42390.jpg",
             "https://img-eshop.cdn.nintendo.net/i/f2222a2097018f9ee23d6d043f70ba11d39ac56d6b4595131073fbe47e44cf5a.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5eaa3e063dc362a172f61db0f8693330354318754a965c4d76beb16dcede0222.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0916cd94f2c36e4a776ab051158b1fcd2076d0d910ddf96ad0fc2bf54bff8b70.jpg",
         "intro": null,
         "description": "Expect an exciting new story, a brand new world, and new Heroes of Light in this successor to the original Bravely Default. Bravely Default II will feature new music from Revo (Sound Horizon/Linked Horizon).",
         "languages": [
@@ -19588,7 +19633,7 @@
         "developer": null,
         "publisher": "Microids",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/89957479d9903506783993d74570cfa67c2cb6dfc8a2c75336cc6b5c1e3a4701.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5cf1dcfcf8ccd49db8c8126e89bd4e3f10a397b614912585fa222c1e1d0db52d.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/cd4abe09cb9100774f16980f0024848aa976e6c15add2486ede5c9209d5a2c59.jpg",
             "https://img-eshop.cdn.nintendo.net/i/111eeee7665a1909af7b27944115290de7f3ef8b73fb53cd00e796aa494efc4b.jpg",
@@ -19607,7 +19652,7 @@
             "it",
             "ru"
         ],
-        "size": 1580204032
+        "size": 1606418432
     },
     "70010000030640": {
         "id": "0100A19011EEE000",
@@ -25803,7 +25848,7 @@
             "ja",
             "en"
         ],
-        "size": 2731540480
+        "size": 2730491904
     },
     "70010000032296": {
         "id": "01005D701264A000",
@@ -27139,7 +27184,7 @@
             "https://img-eshop.cdn.nintendo.net/i/53452a166919c5ed6d013f7d1281f318bc663678f974a299479290a16f131e9e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/82d726d9b3a178c0f35d97147a91230af6cf9349f98632577e104b7c0b4a89a4.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/11c134b78413c0afc816d3d158199e8ee665d03c9e5ec1c116d32419beae2ab0.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e5328469bbbde2f67b854b2aa92048c87ebe1c79963db279ffc719022b295420.jpg",
         "intro": "Doki Doki Harlem Story Love Simulation Game for Women\u266a\nOtogei to send for women who like good-looking guys!",
         "description": "\u25a0Love story\n\"Proper ladies can do whatever they want!?\"\nYou are a so-called \"love-allergic\" girl who spends her time at home in a track suit.\n\nYou luckily get a job at the famous Misono Trading Company, but it is discovered that you are actually the heiress to the parent company's Misono family!?\n\nYou move into a mansion in order to learn how to be a proper lady,\nbut you just can't manage to get used to your glamorous lifestyle!\n\nYou continue to battle, surrounded by your kind butler,\nhot and cold fianc\u00e9, and ditzy cousin!\n\n\u25a0Here are the handsome guys you can choose from!\nYou can choose whichever guy you prefer.\n\n\u2665Masaki Fujigaya\nSuper! Cocky fianc\u00e9\n\n\u2665Hayato Aisaka\nSuper! Protective butler\n\n\u2665Kyoichi Takayanagi\nSuper! Cool strict brother in law\n\n\u2665Tsubasa Misono\nSuper! Wild boy cousin\n\n\u25a0Diamond Girl is such a game!\n\u2713This is a love story game in which relationships form between the\n\"love-allergic\" heroine who wears track suits around and the handsome men.\n\u2713This is an otome game in which the handsome men surrounding\nyou suddenly go from friend to boyfriend.\n\u2713You can simulate love scenarios you never can in real life, such as dating a butler, cocky boy, younger guy, or mean but loving boyfriend!\n\u2713In this romance simulation game for girls, you can go from a life empty of romance to one in which every day is filled with excitement and happiness.\n\u2713You can enjoy the excitement of marrying the man of your dreams!\n\u2713See that cocky boyfriend get smitten! Behind that cockiness is kindness.\n\u2713The awkward communication of a servant! Love starts with friendship!\n\u2713This is a otome romance novel game for all girls!",
         "languages": [
@@ -30729,7 +30774,7 @@
             "ko",
             "zh"
         ],
-        "size": 6023020544
+        "size": 6182404096
     },
     "70010000033148": {
         "id": "01000BF012920000",
@@ -34394,7 +34439,7 @@
             "ko",
             "zh"
         ],
-        "size": 59768832
+        "size": 102760448
     },
     "70010000033903": {
         "id": "0100383012DF2000",
@@ -34441,7 +34486,7 @@
             "ko",
             "zh"
         ],
-        "size": 193986560
+        "size": 291504128
     },
     "70010000033907": {
         "id": "01008F1012DF4000",
@@ -36261,9 +36306,11 @@
             "Arcade",
             "Action"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Implied Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Ultimate Games",
         "frontBoxArt": null,
@@ -36282,7 +36329,7 @@
         "languages": [
             "en"
         ],
-        "size": 522190848
+        "size": 556793856
     },
     "70010000034368": {
         "id": "0100F81012FFC000",
@@ -37367,6 +37414,49 @@
         ],
         "size": 1196425216
     },
+    "70010000034662": {
+        "id": "0100D850131B0000",
+        "rightsId": null,
+        "name": "Touhou Luna Nights",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70010000034662,
+        "category": [
+            "Action"
+        ],
+        "ratingContent": [
+            "Moderate Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Phoenixx",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/935b85980ce8556e1f7d35974dd697e5eec2d517889584eeb46a10ea50630346.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4b84686fad13b52552cc9744b1eee97173580b0959bbb31989ac9f2c5e9ad1e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35c3e685e40c410c0b42229e051dcbb350db9f0f76732ccb579fc0514acff06a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27317fb1a982a6da913630fab3fbd923f95a24bdd436a5b9530ef45cf1402315.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eed62fece78cfa1174e63f02b11437d14ddc1910cfed424c78b248c9c9ab73ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c3160c66c7e5b7f7c1caee35952ec2579406f96db255a9f5eb3faacdf21c889e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed3fd48697dae3ad55ce368b62598b6c371d7467b0656d8b53f264a1d798f407.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5d04a9f58f57ea93efaed19cfbcd120387802f666e9a4130d9e451458f878d8a.jpg",
+        "intro": "Explore the world of the \"Luna Nights\" with Sakuya Izayoi!",
+        "description": "Touhou Luna Nights is a Metroidvania title with a heavy emphasis on exploration and action.\u3000\nDeveloped by Team Ladybug, creators of multiple fantastic action games thus far.\n\n~ Story ~\n\n\u201c...Now, let\u2019s begin my world.\u201d\n\nRemilia Scarlet, head vampire of the Scarlet Devil Mansion sends her maid Sakuya Izayoi with no warning to a world much like Gensokyo, but not quite.\n\nA world full of strange places, filled with strange youkai and her time manipulation sealed.\nWhat could Remilia\u2019s end game be...?",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "de",
+            "ko",
+            "zh"
+        ],
+        "size": 336592896
+    },
     "70010000034664": {
         "id": "0100A290131BA000",
         "rightsId": null,
@@ -37410,7 +37500,7 @@
             "ru",
             "zh"
         ],
-        "size": 2885681152
+        "size": 2877292544
     },
     "70010000034677": {
         "id": "0100EE5013198000",
@@ -37540,7 +37630,7 @@
             "de",
             "it"
         ],
-        "size": 769654784
+        "size": 1745879040
     },
     "70010000034710": {
         "id": "01007CF013152000",
@@ -38844,7 +38934,7 @@
             "ja",
             "en"
         ],
-        "size": 1218445312
+        "size": 1312817152
     },
     "70010000034931": {
         "id": "01002490132F2000",
@@ -39713,7 +39803,7 @@
             "ja",
             "en"
         ],
-        "size": 1876951040
+        "size": 1877999616
     },
     "70010000035118": {
         "id": "01001BE0133F6000",
@@ -39750,7 +39840,7 @@
             "ja",
             "en"
         ],
-        "size": 1531969536
+        "size": 1530920960
     },
     "70010000035125": {
         "id": "0100A790133FC000",
@@ -43888,6 +43978,34 @@
         "size": 433061888,
         "parentId": "01003EA01290A000"
     },
+    "70030000012046": {
+        "id": null,
+        "rightsId": null,
+        "name": "Diamond Girl \u2605An Earnest Education in Love\u2605 Trial Version",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012046,
+        "category": null,
+        "ratingContent": [
+            "Sexual Innuendo"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 622854144,
+        "parentId": "0100B9B011DA4000"
+    },
     "70030000012182": {
         "id": null,
         "rightsId": null,
@@ -44659,6 +44777,35 @@
         "languages": null,
         "size": 2284847104,
         "parentId": "0100073011382000"
+    },
+    "70030000012811": {
+        "id": null,
+        "rightsId": null,
+        "name": "Bravely Default II Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012811,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 3459252224,
+        "parentId": "01006DC010326000"
     },
     "70050000012254": {
         "id": null,
@@ -45898,12 +46045,12 @@
     "70050000019387": {
         "id": null,
         "rightsId": null,
-        "name": "ONE PIECE: PIRATE WARRIORS 4 Character Pass DLC 3",
+        "name": "ONE PIECE: PIRATE WARRIORS 4 Land of Wano Pack",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 2020,
+        "releaseDate": 20201217,
         "nsuId": 70050000019387,
         "category": null,
         "ratingContent": [
@@ -45917,10 +46064,17 @@
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2088aff262f23d24130f74a1fe845a3bd7ef89f5308299c55c353774c26f760c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2a22a966aced84fd77dd6344328d5160a03cd7ffddc41611179192ac5999a9a4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/48444655844c74849f1b002ff9d1de3683ffa94604f6b6ee7be977b66dbce148.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b83d4a7e7d9957960016df719dc66a2eefd25fe1256bf23d6063e4ea478dfd0c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0a22df0b1f58e819edefba13b980cb32aa06f55542bbe24c4cba1486479b827f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e1dfb22582cda5b38a14e5f9ccd3540143ce530569476c779d2860506008d550.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/225a7793bf7cb0be91b9928e8b13d97e73e9bd39525f28cb1a6aa30896ca298f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/54d52e26480430cc7006d9fe547930a2aed01d9dacaac669af725885171910ab.jpg",
         "intro": null,
-        "description": "Get access to this additionnal content.",
+        "description": "Get three new playable characters in Character Pack 3!\n\nEnjoy even more ONE PIECE action with 3 characters from the Wano Country arc!\nKozuki Oden, the samurai of Wano Country, joins the battle in ONE PIECE: PIRATE WARRIORS 4!\n\nAdditional Playable Characters:\n- Kin\u2019emon\n- O-Kiku\n- Kozuki Oden",
         "languages": null,
         "size": 4194304
     },
@@ -50591,6 +50745,34 @@
         "description": "This is a special offer for Nintendo Switch Online members.\nYou can download the following items free of charge for use in Super Smash Bros. Ultimate!\n\n\u30fb 3000 Gold\n\u30fb Classic Ticket x5",
         "languages": null,
         "size": 8388608
+    },
+    "70050000021154": {
+        "id": null,
+        "rightsId": null,
+        "name": "Spirit Board Battle Set 4 - For Powerful Enemies",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000021154,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/edc8be2d6f53ed3ce3299494a6cea10f379ee0b9f17dadd789499e0c80478c29.jpg",
+        "intro": null,
+        "description": "This is a special offer for Nintendo Switch Online members.\nYou can download the following items free of charge for use in Super Smash Bros. Ultimate!\n\n\u30fb 3000 SP\n\u30fb Rematch x5\n\u30fb Damage 50% x5\n\u30fb Weaken Minions x5\n\u30fb Health Drain x5",
+        "languages": null,
+        "size": 20971520
     },
     "70050000021207": {
         "id": "0100CF900FA3F006",
@@ -65581,6 +65763,106 @@
         "description": "This is the additional puzzle pack for \"Jigsaw Masterpieces\". The following 10 puzzle images are included.\n- OKITA \uff06 SAITO\n- SAKAMOTO \uff06 TAKASUGI\n- Keisuke Otori\n- Isami Kondo\n- Toshizo Hijikata\n- Souji Okita\n- Hajime Saito\n- Susumu Yamazaki\n- Izo Okada\n- Shin\u25c6Bakumatsu Sinsengumi",
         "languages": null,
         "size": 8388608
+    },
+    "70050000024249": {
+        "id": "0100E9D00D6C3004",
+        "rightsId": null,
+        "name": "Side Story Pack Cirno Arc",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024249,
+        "category": null,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "TAITO",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e2485d951a21ace4ce02369b718a8d6ca0bc7495eb14867bbae4455025928220.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/258f26d7e91aebd669944746fb5065d9cec5909a3cf50ca15209c2fc073cb6b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d8b1b265a8c2eb5fb7d730cca8304afef22cb16b433fc6762d378b91264139b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0a419a6713d3b605b5ba65488c9789aa0f8f0ce2c2f304b232d97d1e25e3b88f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ffdfccdf573a5f7490f08975d8095b715f587cec2d59d8bfd8be46d76bffc652.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/86082dd70f3eb3fbaeee38e20c5630c1dc56e538ccf2bd8b324cb8e06226f829.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f5d839eda3fd54e632ce7de5e98695b6dc304e82ed72f611e7ff75405bb7e20e.jpg",
+        "intro": "Side Story Pack 1 is the Cirno Arc!",
+        "description": "The first Side Story is \"Side Story Pack Cirno Arc\".\n\"Team Scarlet Devil Mansion Trial Cirno\u2019s Flight Arc\" reveals just how Cirno became a professional Spell Bubbler!\n\n\u25a0Outline\nCirno overcomes the trials laid down by Remilia,but can she become a professional Spell Bubbler?!\nAll will be revealed in this Side Story!\n\nThis pack includes the following content.\n\n\u25a0New Music\n\u3000\u30fbSakkyun Light  / Sekkenya\n\u3000\u30fbHiiro Gekka, Kyousyou no Zetsu -2017- / EastNewSound\n\u3000\u30fbVampire \u2020 Kiss / void(IOSYS)\n* Songs can be played by clearing the corresponding stages.\n\n\u25a0Stages\nThe side story is broken up into 5 stages where you can battle against different oppnonents.\nThere\u2019s also Lunatic mode for those who have confidence in their skills!\n\u3000\u30fbStage 1 Aya Shameimaru (Wind God Girl)\n\u3000\u30fbStage 2 Sakura Izayoi (Sakkyun Light)\n\u3000\u30fbStage 3 Patchouli\u30fbKnowledge (IMAGINA)\n\u3000\u30fbStage 4 Flandre (Hiiro Gekka, Kyousyou no Zetsu -2017-)\n\u3000\u30fbStage 5 Remilia\u30fbScarlet (Vampire \u2020 Kiss)\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000024251": {
+        "id": "0100E9D00D6C3005",
+        "rightsId": null,
+        "name": "#Gensokyo Holoism Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024251,
+        "category": null,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "TAITO",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/07e508eec4defc475e7273591fa0a8be53faf368429d51e3e91ff2b2f9843deb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b96b413f1bf67bbac77a945f7b4128be77ae9fe28385c3c557986a8edbf0cf07.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb6ecada08e8eb8e53528da4c30e116d20eea6ceb25df916a79ae4f3f2c64f86.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b40a8b90f45c9da240920b289dc71653e0e239a8907c53d167eb592a484a4cfd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69e52b8938588bb9cf78138c6a3c363759525f6946247104b83a84677e9429e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63b1a227d107508f2a01fab579ca6f6f9b37f0f4a78ce472a999e2c4ab26a08e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6851c3534f35c63a5f8ee6b8b50fb5ac8b595792f2bd8b66f20563c05e029072.jpg",
+        "intro": "The thoroughly hyped \"#Gensokyo Holoism\" is finally out!",
+        "description": "\u201d#Gensokyo Holoism Pack\" has arrived!\nIt includes all the popular \"#Gensokyo Holoism\" arrangements.\nThe challenges in this release contain special mini-stories!\nAll the mini stories are Shichijo Lettuce (IOSYS) originals,\nbased off \"Touhou Spell Bubble\" and \"#Gensokyo Holoism.\"\nEnjoy the dual-world crossovers!\n\nThis pack includes the following content.\n\n\u25a06 Songs\n\u30fbHoi Hoi \u2606 Genso Holoism\n\u30fbCaptain Marine's Ketsu Anchor\n\u30fbShiawase Usagi, PekoMikoMarine\n\u30fbEarphone Romance\n\u30fbOver the Border\n\u30fbHelp me, ERINNNNNN!! #Gensokyo Holoism ver.\n\n\u25a06 Challenge Stages\n2 difficulty levels.\nBeginners, try out easy mode first!\nOr try hard mode if you're feeling confident!\n\n<Difficulty Level: Easy>\n\u30fbLv. 1 Angry Princess's Special Training Course (Ditching Strictly Prohibited!)\n\u3000\u3000\u3000(Shiawase Usagi, PekoMikoMarine)\n\u30fbLv. 2 Wait, Is There Actually Romance?\n\u3000\u3000\u3000(Earphone Romance)\n\u30fbLv. 3 Cirno Produces An Original Song?!\n\u3000\u3000\u3000(Captain Marine's Ketsu Anchor)\n\u30fbLv. 4 Flandre Scarlet's Crazy Talk\n\u3000\u3000\u3000(Help me, ERINNNNNN!!  #Genssokyo Holoism ver.)\n\u30fbLv. 5 \"\"Gensokyo is All-Welcoming\"\"\n\u3000\u3000\u3000(Over the Border)\n\u30fbLv. 6 Impending Doom? Protect Gensokyo From the Outside World!\n\u3000\u3000\u3000(Hoi Hoi \u2606 Gensokyo Holosim)\n\n<Difficulty Level: Hard>\n\u30fbLv. 6 Angry Princess's Special Training Course \u2605 (Ditching Strictly Prohibited!)\n\u3000\u3000\u3000(Shiawase Usagi, PekoMikoMarine)\n\u30fbLv. 7 Wait, Is There Actually Romance? \u2605\n\u3000\u3000\u3000(Earphone Romance)\n\u30fbLv. 8 Cirno Produces An Original Song?! \u2605\n\u3000\u3000\u3000(Captain Marine's Ketsu Anchor)\n\u30fbLv. 9 Flandre Scarlet's Crazy-Talk \u2605\n \u3000\u3000\u3000(Help me, ERINNNNNN!!  #Genssokyo Holoism ver.)\n\u30fbLv. 10 \"\"Gensokyo is All-Welcoming\"\" \u2605\n\u3000\u3000\u3000(Over the Border)\n\u30fbLv.10 Impending Doom? Protect Gensokyo From the Outside World! \u2605\n\u3000\u3000\u3000(Hoi Hoi \u2606 Gensokyo Holosim)\n\n*In order to play purchased songs, you need to restart the game after purchase.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000024254": {
+        "id": "0100E9D00D6C3006",
+        "rightsId": null,
+        "name": "Special Music Pack Vol. 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024254,
+        "category": null,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "TAITO",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e9a99ac22d419e653c74821ac852788d7755807e8dd74d861bde85b919bff00f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/648b29d05e9af3f0355cde89f42e2c8b78ad3a95d45ebc43a5c70188132e3bdd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7925aa8550c677b783486152ef20cbb1ed00caaee29464dcb312cda9e03f9c6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c560a18335c157adc71dc473686117051b784f1b19377915f53e74b1dde07225.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ea4227795838a0f9a29f1be0b4909dbb0d579aef3303cd96e8cc9ad2812bcdc0.jpg",
+        "intro": "Additional Music Pack, Vol. 5! A Second Volume of Favorites!",
+        "description": "This is Vol. 2! Get new arrangements of 6 popular Toho songs\naccompanied by 6 challenge stages.\nThis collection features 2 new artists:\nDiGiTAL WiNG and R-note!\n\nThis pack includes the following content.\n\n\u25a06 Songs\n\u3000\u30fbKero\u2468destiny / Silver Forest\n\u3000\u30fbParanoia / DiGiTAL WiNG\n\u3000\u30fbThe Crimson Shadow / Diao ye zong\n\u3000\u30fbThe Night Circus / Liz Triangle\n\u3000\u30fbThe Moon, You, the Eternity and / R-note\n\u3000\u30fbRESPEC FUJIN / beat Mario\n\n\u25a06 Challenge Stages\n\u3000\u30fbLv. 4 Izayoi's Moon and the Eternal You (The Moon, You, the Eternity and)\n\u3000\u30fbLv. 5 Subconscious Fantasy (Paranoia)\n\u3000\u30fbLv. 6 Does Cirno Want a Snack? (Kero\u2468destiny)\n\u3000\u30fbLv. 8 Preestablished Harmony (The Crimson Shadow)\n\u3000\u30fbLv. 9 Nighttime Training! (The Night Circus)\n\u3000\u30fbLv. 10 Let's Go! Bunbunmaru Newspaper (RESPEC FUJIN)\n\n* Game must be restarted after songs are purchased in order to use them.",
+        "languages": null,
+        "size": 4194304
     },
     "70050000024308": {
         "id": null,

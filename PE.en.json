@@ -931,11 +931,12 @@
         "ratingContent": [
             "Blood",
             "Drug Reference",
-            "Strong Language",
+            "Language",
+            "Use of Alcohol and Tobacco",
             "Violence"
         ],
         "numberOfPlayers": 2,
-        "rating": 17,
+        "rating": 13,
         "developer": null,
         "publisher": "Coffee Stain",
         "frontBoxArt": null,
@@ -7620,7 +7621,7 @@
             "ko",
             "zh"
         ],
-        "size": 6023020544
+        "size": 6182404096
     },
     "70010000034439": {
         "id": null,
@@ -17764,6 +17765,37 @@
         "description": "This is bonus content only available for active Nintendo Switch Online members. These items can be downloaded for free and used in the Super Smash Bros.\u2122 Ultimate game.\n\nThe set contains the following:\n\u30fb3000 Gold\n\u30fbTickets x5",
         "languages": null,
         "size": 8388608
+    },
+    "70050000021148": {
+        "id": "01006A800016F082",
+        "rightsId": null,
+        "name": "Spirit Board Challenge Pack 7 - Challenge Powerful Enemies! -",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201216,
+        "nsuId": 70050000021148,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/83e7987bbf7f23617c9b72b0f64cd1a0382fe2c1cb5cdf0b53271638d7da93d6.jpg",
+        "intro": null,
+        "description": "This is bonus content only available for active Nintendo Switch Online members. These items can be downloaded for free and used in the Super Smash Bros.\u2122 Ultimate game.\n\nThe set contains the following:\n\u2022\tSP: x3000 \n\u2022\tRematch: x5 \n\u2022\tDamage 50%: x5\n\u2022\tWeaken Minions: x5 \n\u2022\tHealth Drain: x5",
+        "languages": null,
+        "size": 20971520
     },
     "70050000021424": {
         "id": "010053401147D001",
