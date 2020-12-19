@@ -3006,7 +3006,7 @@
             "zh",
             "zh"
         ],
-        "size": 17207132160
+        "size": 17435721728
     },
     "70010000012523": {
         "id": "01003D200BAA2000",
@@ -3707,7 +3707,7 @@
             "zh",
             "zh"
         ],
-        "size": 34971058176
+        "size": 34896609280
     },
     "70010000015307": {
         "id": "01003BD00CAAE000",
@@ -5696,7 +5696,7 @@
             "ru",
             "ko"
         ],
-        "size": 4927258624
+        "size": 4928307200
     },
     "70010000021451": {
         "id": "01006C300E9F0000",
@@ -5797,7 +5797,7 @@
             "zh",
             "zh"
         ],
-        "size": 9992929280
+        "size": 11015290880
     },
     "70010000021933": {
         "id": "01004A600EC0A000",
@@ -5845,7 +5845,7 @@
             "nl",
             "ru"
         ],
-        "size": 16520314880
+        "size": 16521363456
     },
     "70010000022226": {
         "id": "01002C000E35E000",
@@ -13124,7 +13124,7 @@
         "intro": "Build Your Greatest Empire on Nintendo Switch\u2122",
         "description": "Sid Meier\u2019s Civilization VI Expansion Bundle, which combines both Rise and Fall and Gathering Storm expansions, takes the turn-based strategy classic to new heights. With 16 new civilizations, 18 new leaders, and major enhancements to gameplay such as Great Ages and an active planet where geology and climatology present unique new challenges, the pursuit of building the greatest empire becomes as exciting as it has ever been in the Civilization franchise.\n\nThe Civilization VI Expansion Bundle contains all features from the Rise and Fall and Gathering Storm expansions, that includes: \n\n\u2022NEW LEADERS AND CIVS: Combined together, sixteen new civilizations and eighteen new leaders are introduced. Each brings unique bonuses and gameplay, as well as unique units, districts, wonders, buildings, and more. \n\n\u2022GREAT AGES: As your civilization ebbs and flows and you reach milestone Historic Moments, you will move towards Dark Ages or Golden Ages, each providing specific challenges or bonuses based on your actions in game. Rise triumphantly from a Dark Age, and your next Golden Age will be even stronger \u2013 a Heroic Age.\n\n\u2022LOYALTY: Cities now have individual Loyalty to your leadership \u2013 let it fall too low, and face the consequences of low yields, revolts, and the potential to lose your city if it declares its own independence. But one civilization\u2019s loss can be your gain as you inspire Loyalty among cities throughout the map and further expand your borders.\n\n\u2022GOVERNORS: Recruit, appoint, and upgrade powerful characters with unique specialization bonuses and promotion trees to customize your cities, and reinforce Loyalty.\n\n\u2022ENHANCED ALLIANCES: An enhanced alliances system allows players to form different types of alliances and build bonuses over time.\n\n\u2022EMERGENCIES: When a civilization grows too powerful, other civilizations can join a pact against the threatening civilization, and earn rewards, or penalties, when the Emergency ends.\n\n\u2022TIMELINE: Review your civilization\u2019s history at any time with the new Timeline feature, a visual journey through the Historic Moments that you encountered on your path to victory. \n\n\u2022ENVIRONMENTAL EFFECTS: Volcanoes, storms (blizzards, sandstorms, tornados, hurricanes), climate change, floods, and droughts bring the world to life in a brand-new way. Your settlement choices are more important than ever as you balance high risks and high rewards. \n\n\u2022POWER AND CONSUMABLE RESOURCES: Strategic resources play an additional role. These resources are now consumed in power plants to generate electricity for your cities. Initially you\u2019ll be powering your most advanced buildings by burning carbon-based resources like Coal and Oil, but renewable energy sources also unlock as you progress to current-day technologies. Your choices about resource usage will directly affect the world\u2019s temperature and can cause melting ice caps and rising sea levels. \n\n\u2022ENGINEERING PROJECTS: Shape the world around your empire to overcome unfavorable land conditions by making improvements like canals, dams, tunnels and railroads. When settling cities, consider the flood risk to coastal lowland areas, but keep in mind that in the late-game, new technologies like Flood Barriers can be used to protect these tiles.\n\n\u2022WORLD CONGRESS: Make your voice heard among the other leaders of the world. Earn Diplomatic Favor through Alliances, influencing city-states, competing in World Games, and more. Use Diplomatic Favor to extract promises from other leaders, vote on Resolutions, call a Special Session to address an emergency, and increase the weight of your votes in your quest to achieve the new Diplomatic Victory. \n\n\u202221st CENTURY TECHNOLOGIES & CIVICS: A new era has been added to the Technology and Civics trees. Combat new environmental effects with speculative ideas such as relocating your population out to seasteads and developing technologies to recapture carbon emissions.",
         "languages": null,
-        "size": 3733979136
+        "size": 3666870272
     },
     "70050000015201": {
         "id": "0100B6400CA57064",
@@ -16751,12 +16751,12 @@
     "70050000018963": {
         "id": "01006A800016F009",
         "rightsId": null,
-        "name": "Challenger Pack 8",
+        "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 8",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20211231,
+        "releaseDate": 20201222,
         "nsuId": 70050000018963,
         "category": null,
         "ratingContent": [
@@ -16772,12 +16772,19 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/abaa78732bb18a103a6ffe0e329ce73339228a66b5c8bf347be966736aeb5fd1.jpg",
-        "intro": null,
-        "description": "This pack of downloadable content contains:\n\u3000- One New Fighter\n\u3000- One New Stage\n\u3000- Several New Music Tracks\n\nAdditional information to follow at a later date.",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f63ea055ccf19501e56551404e741e1836bc62b4370649ccf12a12095823c5f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c44d3b78a4807f1e60651b20599f9aa609b67fbdc4945d91fc5c56b4e3b588e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1254840c226b195b3a7cb34885aa1a52a90163970ca41029f4e67a68a051f85c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b82879b406fb6fd97ab03202c048b0c1201505097b85fe7a42f5052c6f2bf48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/022ba6e0e306242a73fc8a7aafb25d0252e9ab1070c94f245dea197c13e2c472.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/869dee36336ba8cb853728d238f640280e811c90a6001be9b635fb3853dd5545.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69cfd3b895d8a772e8133db18e362cb345d0c3018808c4bed6ba30c477c182c9.jpg",
+        "intro": "Sephiroth Joins the Battle!",
+        "description": "Sephiroth, armed with his ruthless Masamune sword and a desire to destroy, joins the Super Smash Bros.\u2122 Ultimate game as a part of the Super Smash Bros. Ultimate Fighters Pass Vol 2 DLC*! This silver-haired swordsman is Cloud\u2019s arch nemesis and one of the most iconic villains in gaming. Don\u2019t be fooled by his chillingly calm demeanor, his hard-hitting style can deal some white-hot damage. Included with Sephiroth is the Northern Cave stage and additional tracks. Yes, that song is included.\n\nSephiroth strikes fear into his opponent\u2019s heart by using a combination of heavy strikes and deadly magic. His neutral special attack, Flare, launches an exploding fireball. Hold it down long enough to pull off a devastating Gigaflare, but with shorter range. Nothing instils a sense a dread like Sephiroth\u2019s side special, Shadow Flare. This quick blast of energy surrounds your opponent and eventually explodes\u2014it can also be stacked 5 times!  In addition to these malicious maneuvers, Sephiroth can slash in any direction at high speed with his up special, Blade Dash / Octaslash, and he can create a protective barrier with his down special, Scintilla. \n \nWhen at a disadvantage, such has having more damage than his opponent, a wing can grow from Sephiroth\u2019s back. In this demonically angelic state, his power and movement speed is increased, Smash Attacks gain Super Armor, and he can even jump up to three times in the air. The greater disadvantage you\u2019re at, such as in damage, score, or stock, the easier it will be for the wing to grow. Sephiroth is at his most powerful when he uses his Final Smash, Supernova. After a wide slash, Sephiroth unleashes an incredible explosion that deals damage and sometimes status effects! With his Masamune blade in hand and destruction on his mind, Sephiroth is a force to be reckoned with.\n",
         "languages": null,
-        "size": 4194304
+        "size": 3145728
     },
     "70050000018964": {
         "id": "01006A800016F00A",
@@ -17361,7 +17368,7 @@
         "intro": null,
         "description": "This content pack introduces Menelik II as the leader of Ethiopia. Ethiopia focuses on cities built on Hills, generating Faith and using Menelik\u2019s \u201cCouncil of Ministers\u201d ability to boost Science and Culture. It also includes the Secret Societies game mode, where players will encounter mysterious organizations who offer their civilization their powerful skills.\n\nIncludes the Ethiopia civilization with Menelik II, the Oromo Cavalry unique unit, and the Rock-Hewn Church tile improvement.\n\u2022\tCiv Unique Ability: Aksumite Legacy. Cities earn extra Faith from resources, boosted even further when international trade routes originate from resource-rich cities. Ethiopia can purchase Archaeology Museums and Archaeologists with Faith.\n\u2022\tLeader Unique Ability: Council of Ministers. Menelik II gets extra Culture and Science based on the Faith output of cities founded on Hills. His units also get extra Combat Strength when fighting on Hills.\n\u2022\tUnique Unit: The Oromo Cavalry has improved Combat Strength and Sight, and suffers no movement penalty for moving on Hills.\n\u2022\tUnique Tile Improvement: The Rock-Hewn Church can only be built on Hills or Volcanic Soil. It provides Faith with extra Faith from Mountains and Hills. It can only be pillaged, not destroyed, by natural disasters.\n\nNew \u201cSecret Societies\u201d Game Mode (Requires the Civilization VI Expansion Bundle to play)\n\u2022\tAn optional, specialized game mode with exclusive rule changes:\n\u2022\tAdds four Secret Societies to the game.\n\u2022\tEach Secret Society offers players a specialized Governor who applies their bonuses across the entire civilization.\n\u2022\tSecret Societies may offer players new Resources, passive bonuses, unique buildings, units, or projects to further the Society\u2019s ends.\n\u2022\tUse your Secret Society membership to boost favorability and Alliances with other leaders.\n\nNew Diplomatic Quarter District and Buildings\n\u2022\tBuild the Diplomatic Quarter, a District that can only be built once per civilization, focusing on foreign relations.\n\u2022\tEnhance the Diplomatic Quarter by building the Consulate and Chancery buildings.",
         "languages": null,
-        "size": 407896064
+        "size": 404750336
     },
     "70050000020785": {
         "id": "010044500C183007",
@@ -17392,7 +17399,7 @@
         "intro": null,
         "description": "The Byzantium & Gaul Pack introduces Basil II as the leader of Byzantium and Ambiorix as the leader of Gaul. The Byzantine Empire can subjugate enemies with religious and military might, supported by their two unique units, the Dromon Ship and the Tagma. The Gallic horde focuses on military flexibility boosted by a backbone of culture and production with their unique Oppidum district. Also included is the new Dramatic Ages game mode, a new Map Type (The Highlands) and two new World Wonders (Biosphere & Statue of Zeus.)\n",
         "languages": null,
-        "size": 562036736
+        "size": 560988160
     },
     "70050000020786": {
         "id": "010044500C183006",
@@ -17423,7 +17430,7 @@
         "intro": null,
         "description": "The Babylon Pack introduces Hammurabi as the leader of Babylon. The Babylon civilization excels at Science, as well as Government and Infrastructure. Also included is the new Heroes and Legends game mode, two Unique Improvements (The Mahavihara and The Trading Dome), six new City-States, and 24 New Great People.",
         "languages": null,
-        "size": 442499072
+        "size": 436207616
     },
     "70050000020787": {
         "id": "010044500C18300B",
@@ -19281,6 +19288,66 @@
         "languages": null,
         "size": 11534336
     },
+    "70050000024754": {
+        "id": "0100073011383009",
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Rhythm & Exercise No Mercy intensity: Hiro",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024754,
+        "category": null,
+        "ratingContent": [
+            "No Descriptors"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d82a7eff67ff1f52180477bb16306fb05c6159d989bc8e9d18133a31ddb71e30.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ff612e39a64fad47dede01c22c152456e5f4b872c724c617206848ab219899a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/56928d75d3a30aa77be60ed93b4b9a6863334eaebc6fe0b0bd9cbea8b6ce2463.jpg",
+        "intro": "Hiro\u2019s holding nothing back!",
+        "description": "A new exercise intensity has been added for Hiro! \n\nNow you can try Low, High, and the new No Mercy intensity. The instructor you know as good-natured and mellow will show you his ruthless side. He\u2019s ready to put you through your paces!",
+        "languages": null,
+        "size": 11534336
+    },
+    "70050000024816": {
+        "id": "0100073011383007",
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Rhythm & Exercise No Mercy intensity: Karen",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024816,
+        "category": null,
+        "ratingContent": [
+            "No Descriptors"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b0998cbdf3686724a372042ac436ff86e9878d0d95b9591da88cd4fa113ca50a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/905d257e56d49838a0b8c0335f00b3dfddce3addec8a98776330ec6e6cf59e21.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/448425cb407cb3be1b2a3333003306b96ec2b540f514d6101eea4b51334b9f17.jpg",
+        "intro": "Karen\u2019s holding nothing back!",
+        "description": "A new exercise intensity has been added for Karen! \n\nNow you can try Low, High, and the new No Mercy intensity. The instructor you know as good-natured and mellow will show you her ruthless side. She\u2019s ready to put you through your paces!",
+        "languages": null,
+        "size": 11534336
+    },
     "70070000000041": {
         "id": null,
         "rightsId": null,
@@ -20692,7 +20759,7 @@
         "intro": null,
         "description": "\"Fight your way through an all-new action-adventure game, inspired by classic dungeon crawlers and set in the Minecraft universe! Brave the dungeons alone, or team up with friends! Up to four players can battle together through action-packed, treasure-stuffed, wildly varied levels \u2013 all in an epic quest to save the villagers and take down the evil Arch-Illager!.\n\nThe Hero Edition includes the Jungle Awakens DLC, Creeping Winter DLC, a Hero Cape, two player skins, and a chicken pet.\n\n\u2022\tUNITE - Up to four players can team up and fight together in co-op mode. \n\u2022\tFIGHT - Personalize your character, then fight up-close and personal with melee swings, hang back with ranged attacks, or tank your way through swarms of mobs, shielded by heavy armour! Unlock dozens of unique items and weapon enchantments for devastating special attacks. \n\u2022\tSURVIVE - Explore action-packed, treasure-stuffed levels in a quest to save the villagers and take down the evil Arch-Illager!. \"\n",
         "languages": null,
-        "size": 4939841536
+        "size": 4940890112
     },
     "70070000008805": {
         "id": null,
@@ -20966,14 +21033,15 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/04cecc6440568b0fc5eaf4e6b6b569e167460c29330449e9ca3b6e5ad074b9db.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/1082a43a1566dc88b875faca980969916b30976213b2d5c8636e18ab9ccfd6c2.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/8ba126dea2c82f92aa1388284624485fecf0c598a8a80836ac41b4efcea94ddd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39a117ef0605dc18f879d73d2736e210e61f690e607083d3e0de7f30e6661521.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f63ea055ccf19501e56551404e741e1836bc62b4370649ccf12a12095823c5f9.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3438f8d7eec4a0874d592167442f71c01e88b01f7a592e718f7b9f45886c17ba.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd2b31900908fa299444d35836d4ae468c0462160e35d36cf218482ac4ffca9b.jpg",
         "intro": "Expand your roster of fighters with the Super Smash Bros.\u2122 Ultimate Fighters Pass Vol. 2!",
-        "description": "Expand your roster of fighters with the Super Smash Bros.\u2122 Ultimate Fighters Pass Vol. 2 for the Super Smash Bros. Ultimate game! Purchase this Fighters Pass now to get access to six additional playable fighters, plus additional stages, and music as they release. Announced fighters include Min Min from ARMS and Steve & Alex from Minecraft\u2122! \n\nThe Super Smash Bros. Ultimate Fighters Pass VOL. 2 will contain six Challenger Packs.\n\nThe contents of Challenger Pack 8 through Challenger Pack 11 have not been announced yet, but they\u2019re still included with the purchase of this Fighters Pass.\n\nChallenger Pack 6 includes Min Min as a playable fighter, their stage, and a selection of music.\n\nChallenger Pack 7 includes Steve & Alex as a playable fighter, their stage, and a selection of music.\n\nChallenger Pack 1 through Challenger Pack 5 of the original Super Smash Bros. Ultimate Fighters Pass are not included and are sold separately.\n",
+        "description": "Expand your roster of fighters with the Super Smash Bros.\u2122 Ultimate Fighters Pass Vol. 2 for the Super Smash Bros. Ultimate game! Purchase this Fighters Pass now to get access to six additional playable fighters, plus additional stages, and music as they release. Announced fighters include Min Min from the ARMS\u2122 game and Steve & Alex from Minecraft\u2122  and Sephiroth from the Final Fantasy series! \n\nThe Super Smash Bros. Ultimate Fighters Pass VOL. 2 will contain six Challenger Packs.\n\nThe contents of Challenger Pack 9 through Challenger Pack 11 have not been announced yet, but they\u2019re still included with the purchase of this Fighters Pass.\n\nChallenger Pack 6 includes Min Min as a playable fighter, their stage, and a selection of music.\n\nChallenger Pack 7 includes Steve & Alex as a playable fighter, their stage, and a selection of music.\n\nChallenger Pack 8 includes Sephiroth as a playable fighter, their stage, and a selection of music. \n\nChallenger Pack 1 through Challenger Pack 5 of the original Super Smash Bros. Ultimate Fighters Pass are not included and are sold separately.\n",
         "languages": null,
-        "size": 29360128
+        "size": 28311552
     },
     "70070000010144": {
         "id": null,
@@ -21161,7 +21229,7 @@
         "intro": null,
         "description": "Continue your quest to build your greatest empire with the Civilization VI - New Frontier Pass, featuring eight new civilizations and nine new leaders, and a variety of new gameplay content, including six new game modes. Delivering six DLC packs on a bimonthly basis from May 2020 to March 2021, the New Frontier Pass includes:\n\n\u2022 Pack #1: Maya & Gran Colombia Pack. Adds two new civilizations and leaders, one new game mode*, new City States, Resources, and Natural Wonders. Available May 2020.\n\u2022 Pack #2: Ethiopia Pack. Adds one new civilization and leader, one new game mode*, one new District and two new Buildings. Available July 2020.\n\u2022 Pack #3: Adds two new civilizations and leaders, one new game mode*, new World Wonders, and one new map. Available September 2020.\n\u2022 Pack #4: Adds one new civilization and leader, one new game mode, new City States, and numerous new Great People. Available November 2020.\n\u2022 Pack #5: Adds one new civilization and two new leaders**, one new game mode, a new District, and two new Buildings. Available January 2021.\n\u2022 Pack #6: Adds one new civilization and leader, one new game mode, new World Wonders, and one new map. Available March 2021. \n\n*New game mode requires the Civilization VI Expansion Bundle to play.\n**New leader requires the Civilization VI Expansion Bundle to play.\n\nGame modes can include additional content such as new units, buildings, or improvements and can be turned on or off during game setup to apply significant and dramatic changes to the rules of the game.\n\nExclusive bonus: Teddy Roosevelt and Catherine De Medici Persona Packs.  Each Persona Pack contains a brand-new take on a favorite leader, with a new leader model and background, new gameplay bonuses, and an updated agenda that reflect the changes to the leader\u2019s personality. The Persona Packs are available exclusively to owners of the New Frontier Pass and will be delivered with the second add-on pack. ",
         "languages": null,
-        "size": 2051014656
+        "size": 2040528896
     },
     "70070000010681": {
         "id": null,
@@ -21196,7 +21264,7 @@
         "intro": "Brawl Without Limits!",
         "description": "The world of WWE is your battleground with all-new, over the top, in-your-face arcade action as your favorite WWE Superstars and Legends battle it out in outlandish environments with an arsenal of moves, special abilities, and power-ups. Compete in your favorite match types including Steel Cage, Royal Rumble, Fatal Four Way and more, as Mauro Ranallo and Jerry \u201cThe King\u201d Lawler call the mayhem!\nRaise some hell with Stone Cold Steve Austin, lay the SmackDown with the Attitude Era version of The Rock and get rowdy with Ronda Rousey. The WWE 2K Battlegrounds Digital Deluxe Edition includes three versions of each Superstar along with the pre-order bonus, Edge. Also includes additional 1100 Golden Bucks to unlock additional WWE Superstars and legends.",
         "languages": null,
-        "size": 9992929280
+        "size": 11015290880
     },
     "70070000010881": {
         "id": null,
@@ -21440,7 +21508,7 @@
         "intro": null,
         "description": "The definitive MK11 experience! Take control of Earthrealm's protectors in 2 acclaimed, time-bending Story Campaigns as they race to stop Kronika from rewinding time & rebooting history. Feat. the komplete 37-fighter roster, incl. Rain, Mileena & Rambo.\n\nIncl. MK11, Kombat Pack\u00a01, Aftermath Expansion & Kombat Pack\u00a02.\n\n\u2022 Experience 2 robust, critically acclaimed Story Campaigns from MK11 & MK11: Aftermath\n\u2022 Play as the komplete 37-fighter roster incl. newly added fighters Mileena, Rain & Rambo \n\u2022 Thousands of skins, weapons & gear for an unprecedented level of customization\n\u2022 Includes all previous guests: Terminator, Joker, Spawn & RoboCop\n\u2022 Every mode including Towers of Time, Krypt, Online, Klassic Towers, etc.\n\u2022 All Stages, Stage Fatalities, Brutalities, Iconic Fatalities & Friendships",
         "languages": null,
-        "size": 35071721472
+        "size": 34997272576
     },
     "70070000011197": {
         "id": null,
@@ -21508,7 +21576,7 @@
         "intro": null,
         "description": "Receive the game, season pass, and exclusive in-game content with the Gold Edition. \n\nImmortals Fenyx Rising\u2122 brings grand mythological adventure to life. Play as Fenyx, a new, winged demigod, on a quest to save the Greek gods. \n\n- Wield the powers of the gods like Achilles' sword and Daidalos' wings to battle powerful enemies and solve ancient puzzles.\n- Fight iconic mythological beasts like Cyclops and Medusa in dynamic combat in the air and on the ground. \n- Use your skills and diverse weapons, including self-guided arrows, telekinesis, and more, for devastating damage.  \n- Discover a stylized open world across seven unique regions, each inspired by the gods.",
         "languages": null,
-        "size": 16520314880
+        "size": 16521363456
     },
     "70070000011395": {
         "id": null,

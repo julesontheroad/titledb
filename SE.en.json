@@ -5980,7 +5980,7 @@
             "zh",
             "zh"
         ],
-        "size": 9992929280
+        "size": 11015290880
     },
     "70010000021735": {
         "id": "0100D2700DE7C000",
@@ -6285,7 +6285,7 @@
             "nl",
             "ru"
         ],
-        "size": 16520314880
+        "size": 16521363456
     },
     "70010000021939": {
         "id": "0100B1500EF32000",
@@ -13484,7 +13484,7 @@
             "ru",
             "zh"
         ],
-        "size": 788529152
+        "size": 931135488
     },
     "70010000028354": {
         "id": "0100E05011350000",
@@ -19398,7 +19398,7 @@
             "zh",
             "zh"
         ],
-        "size": 11968446464
+        "size": 12035555328
     },
     "70010000030523": {
         "id": "010004901194A000",
@@ -23068,6 +23068,55 @@
         ],
         "size": 67108864
     },
+    "70010000031811": {
+        "id": "01004D501230A000",
+        "rightsId": null,
+        "name": "Olija",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210128,
+        "nsuId": 70010000031811,
+        "category": [
+            "Action",
+            "Arcade",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Devolver Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3868d45c8a0051a9202e2ebb0dcd0246d2794160de222c71765b926fe1307ac8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cbca3869ade2f38daa9a5b8ab72281d41b64e5a1ed07057d88ede5d76f693160.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/50ea8fffa6c9b573d549d4f38d0f03e1063bc58d284431c2139e3f3ac0336eef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea16f9dad5004bf45bf13e9a27e275c7598633ebef7b3083dbd9a80b1452efec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/961bc2f73f9d4b55d8230c7c92964ef81ebdd4461cebf4025583411ca5310722.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9dad7df5e48daf1bac0ffe5bbd569d0f96e8ee43fe083f218fae7f3603201fd9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a948559a6ca8a30141105e48624e123a7b3a47b5ae4800870cfd7f871bd4d261.jpg",
+        "intro": "Olija is a game about Faraday's quest, a man shipwrecked then trapped in the mysterious country of Terraphage. ",
+        "description": "Armed with a legendary harpoon, he and other castaways try to leave this hostile country to return to their homelands.\n\nThrough adventurous exploration, narration and razor sharp combat, the player will discover a strange world and its inhabitants, including Olija, an enigmatic lady that Faraday finds himself bound to over time. Inspired by swashbuckling tales and cinematic adventure games, Olija is a story about facing the unknown in adversity.\n\n - Explore a mysterious and handcrafted world inspired by sailor's legends and Asian fantasy.\n\n - Wield the Harpoon of legend and rethink movement through platforming, puzzle and combat.\n\n - Rescue fellow castaways and meet curious characters to learn more about Terraphage and the enigmatic Olija.\n\n - Beautiful melancholic soundtrack inspired by Flamenco, lo-fi and traditional Japanese music.\n\n - Craft magic hats!\n\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 500170752
+    },
     "70010000031815": {
         "id": "010088801230E000",
         "rightsId": null,
@@ -26348,7 +26397,7 @@
             "https://img-eshop.cdn.nintendo.net/i/ca90079b83737e47eca089a2781a08e63f8ae1f17aec6f0a9951e80da1282c0c.jpg",
             "https://img-eshop.cdn.nintendo.net/i/f3522ae9458aed6b330b74d3ba2d1d5c3e21b2123c65e5993ba289dc01ef6b74.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b4ba4dd4352753f87a8c1633aaa3c4c9bfbb905b8c2643d97049c5052ffcad63.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7872c8386cfc7c6e67eadc25e73946e42c5a564f5339adab131700daa211301d.jpg",
         "intro": "This is Simulation(Strategic) RPG.\nSimple and Reasonable, but Not Easy.\nSo it's just Traditional!",
         "description": "You are \"Prince Natri\", explore the dungeon \"Royal Tomb\" to be the king. In there, many spirits are waiting to make a trial of your courage. Let's fight and try the simulation battle with your units!\n\n***** Features *****\nThis is turn-based Simulation RPG. You and enemy take turns playing like Chess. Move your units on the map and beat the enemy to clear each stage. The rules of this game are so simple that you can understand easily, and there are many features for beginners. \nExample :\n(1) You can do Save at anytime.\n(2) Your units don't vanish even if defeated.\n(3) Useful item \"Support Card\" helps you.\n\nBut, it's never easy to complete all stages.\nSo you should remember that...\n\nThe most important thing is\n\"Thinking Carefully\"\n\n***** Language *****\nEnglish and Japanese are available.\n",
         "languages": [
@@ -33238,9 +33287,11 @@
             "Puzzle",
             "Other"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Fear"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Dystopia Interactive",
         "frontBoxArt": null,
@@ -33269,7 +33320,7 @@
             "ko",
             "zh"
         ],
-        "size": 942669824
+        "size": 991952896
     },
     "70010000033639": {
         "id": "010059F012984000",
@@ -33485,6 +33536,54 @@
             "zh"
         ],
         "size": 634388480
+    },
+    "70010000033676": {
+        "id": "01001E3012CC2000",
+        "rightsId": null,
+        "name": "Suicide Guy Collection",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70010000033676,
+        "category": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Drugs",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "ChubbyPixel",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/de90f22a9a0c6b3c7169ccf702ab3bb03a940d98928f8068005dfdf07a3e8a05.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0d71759e5ef1d5e3ef1c1edf78189cc6f70f0f03f403301a8d48ffbdb023a261.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08074600767089d8dd423756a16ef4ebbd6a29700b1d2fd6263d7f53a180450b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3cb221af5c74dec045fc3c08023ee1249b7837114cb4890f19bd3e7ffaa66849.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9bed4ef37d674b8cd6063febf2d56c6046ffc856717eb256b691e683832e9ad3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4f157715456c4af525de9e5096d0d35af608916370f2cc5aad33e90d9b453370.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/990ba582bf716f5e47b8b607a5499dbe3713136c8d2bdfad590431cb245f98e5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/14821727d404a63993b80108de1610041c100d92517c7ded02c85fbf3e4e6937.jpg",
+        "intro": "Dreams have never been so intense!",
+        "description": "Suicide Guy and Suicide Guy: Sleepin' Deeply for the first time together in a mega bundle!\n\nSet in the incredibile and extraordinary dreams of its protagonist, this time you'll have to save not 1, but 2 beers.\n\nFeatures:\n\n\u2022 25 + 7 levels for hours of fun!\n\u2022 Physics based levels\n\u2022 Ultimate moves: be able to pick up items, throw them, activate mechanisms and even burp.\n\u2022 Funny creatures to annoy\n\u2022 Vehicles to drive\n\nThis time, to wake him up you'll need all your skills.\nDespite the title, the game is NOT at all about suicide or depression.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 3599761408
     },
     "70010000033686": {
         "id": "01009CD012CC0000",
@@ -35911,6 +36010,49 @@
         ],
         "size": 216006656
     },
+    "70010000034305": {
+        "id": "01008FA012FC0000",
+        "rightsId": null,
+        "name": "Crystal Ortha",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70010000034305,
+        "category": [
+            "RPG",
+            "Adventure",
+            "Simulation",
+            "Strategy"
+        ],
+        "ratingContent": [
+            "Mild Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "KEMCO",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b1dd337db5b226f4654c4e6fafe2a1ad6585b05229536a67f0e2ebe600c5bd6b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1f037cf77e3b2b777bf6c32fc6b1259d3217f9c00d08388b7ae934f2e4ab4d5a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3b434b9406320baba6c34fdc3c9c3ee36d53de62fe3a7d0cb0322296fa6ba8e5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5cd2fd11d6efb164ed829a31ede9caa229f19fdbdb5f119e1b4ec8a3bf309779.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a52d9264be5b8cfe99419402719eab6b74cd37ddea540d92d9b6addb58d4a80.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a462f1ebc6b9c666b0e9ab9eceb7545db937e22668172e8ed5d9ceeb56ef7415.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bbd2ba8734d505e74fe3428096826a457eb8c5ad41d17146fc0fe89b1904517d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2c3a7851e411463bc66c3d19511ed9396634a68fbdc205372285b90541552f19.jpg",
+        "intro": "Search the mother lode of legend in a fantasy RPG with immersive pixels!",
+        "description": "Today too, in the town tavern the crystal appraisers devote themselves to their business, in search of a far-off legend. Set off on a journey, with four allies who have the future on their shoulders, to find the legendary crystal mother lode!\n\nEnjoy solving puzzles in dungeons, and strike up conversations with the people around the world. Battles with bosses feature conversations, which might even give you some hints about tactics! Fill the skill slots with the skills you like to be prepared for strategic turn-based battles.\nFind the ores to craft weapons and search around pots and objects to get items for your adventure.\n\nWatch over the fate of the crystal seekers until the end of their journey!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 131072000
+    },
     "70010000034319": {
         "id": "0100CAB012FCC000",
         "rightsId": null,
@@ -37712,7 +37854,7 @@
             "it",
             "ru"
         ],
-        "size": 3079667712
+        "size": 3128950784
     },
     "70010000034726": {
         "id": "01008DD013200000",
@@ -40284,6 +40426,44 @@
         ],
         "size": 1310720000
     },
+    "70010000035269": {
+        "id": "0100CAF01349C000",
+        "rightsId": null,
+        "name": "Dark Sauce",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210122,
+        "nsuId": 70010000035269,
+        "category": [
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Victory Road",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f1706cfb8d4c1f24719fa6ac8ef0537f0facafb4c85de24f81d17b3ebe8f7358.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/213b5dda7fbc854b8148491a18c3463050d45d0a2e9666c673a96dd1800fdf4b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2ad413cf1468bc03cbc0815e144491fa07f2225325d420cf01c5a71e7c7d1b5a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b617b47a342cceb4fdcd3a18632bd0cb36db35274e0d575aa0de9dc2fd16326.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ebe9cdf3a7599e5d582181e19fa137b2a02137ee5206203e6ce74c8909855ef7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c47434ed117b1d40020ad3245e0fe225fc0682ad19858cdc39eaa5a2f7ff74b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6469e80f806ff95620b02e619b4455e6ff4fbc2a3e024f2e4a4fc6fa91067b25.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c528146fcac2dc8ac10376186c2482332830a069457777b0492efce10e906e6c.jpg",
+        "intro": null,
+        "description": "Dark Sauce is a cubical platforming game that delivers everything the true gamer needs: colourful 3D graphics with voxels, challenging levels, memorable NPCs, dungeons, dragons and valuable loot!\n\nDelve deep into the dungeon full with villainous monsters and lethal traps. Mountains of gold will be your reward, but beware \u2014 ancient and dangerous dragon relentlessly guards them.\n\nTake this challenge if you dare. You'll have to overcome complex levels and take down the powerful dragon, who keeps gold treasures safe. And one more thing \u2014 you don't have any super-abilities. You are just a small piggy who ventured deep into the dark and dangerous dungeon. Try to survive it!",
+        "languages": [
+            "en"
+        ],
+        "size": 171966464
+    },
     "70010000035271": {
         "id": "0100C850134A0000",
         "rightsId": null,
@@ -41061,7 +41241,7 @@
         "languages": [
             "en"
         ],
-        "size": 70254592
+        "size": 130023424
     },
     "70010000035434": {
         "id": "0100CD301354E000",
@@ -41582,6 +41762,47 @@
         ],
         "size": 111149056
     },
+    "70010000035695": {
+        "id": "01005C10136CA000",
+        "rightsId": null,
+        "name": "Fantasy Tavern Sextet -Vol.2 Adventurer's Days-",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210114,
+        "nsuId": 70010000035695,
+        "category": [
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Sexual Innuendo"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "qureate",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cffd733dbcb0ee4da5ad50db46fee72e2664d5da2f2ca056deac8f7651f4b9fa.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8841ceef5495a041d0ae61781d70f9effb2c84d7d8957168f0be88c22e0b3db9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6fc6a87fdb2a62ced3dc01374485620893f4990178960e32911cbf9adb51133a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ef637e5c270b0e013411599f59911833f13e497a23b0a2a2bcd4023bf1e3a62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e899ab92b6ebd3245c2cf4f2d75d3cbae06c99af21b8fcdc57c2b05d85526dd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31548254386bc2bdfba9b53369f96fe90227c1e60a570cb4fbf4f9c77b1a4844.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fccf6e748d030404630ab114eea35781b8bd15ed7b2ac850bf023dc86e121e2b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6d6b111be09e4ec01cf26ffe140324ab0ab51ffe621102a1dbb888e4a3b70a58.jpg",
+        "intro": "The 2nd part of a 3 part series!\nA run-of-the-mill guy who got transported to a fantasy world joins a witch and a lady knight together in battle?! ",
+        "description": "Set in a tavern in a fantasy world, you'll laugh and cry in this slightly naughty love-harem romantic comedy adventure game.\nThe 2nd chapter of the harem love-comedy in a fantasy world tavern available now!\n\n<STORY>\nOne day, several days after our protagonist the young cook in the back of an Akihabara maid cafe got transported to another world, our hero gets paid a visit by the lady knight Dahlia at Lupine's tavern.\n\nDahlia proclaims to the hero, \"I want you to make me a woman,\" which leads to all kinds of misunderstandings with Lupine and Daisy, who have a barrage of questions!\n\nAfter getting filled in on what she actually meant, it's revealed that Dahlia's aim is to defeat a monster who only preys on women. However, for Dahlia, who has only ever lived by the sword, femininity feels like an alien concept. \n\nTo help increase her feminine charms, Dahlia becomes a waitress at Lupine's Tavern, and her inexperience leads to all kinds of trouble with the guests!\n\nOur hero has no idea that this turn of events will lead him to help Dahlia and Veronica take down their archnemesis from the past...\n\n<STAFF>\nIllustration:WaonInui\nScenario:Linkedbrain Inc.\nProducer/Planner :Yujiro Usuda",
+        "languages": [
+            "ja",
+            "en",
+            "zh",
+            "zh"
+        ],
+        "size": 738197504
+    },
     "70010000035697": {
         "id": "01009D20136CC000",
         "rightsId": null,
@@ -41697,7 +41918,7 @@
         "languages": [
             "en"
         ],
-        "size": 169869312
+        "size": 252706816
     },
     "70010000035722": {
         "id": "0100A51013550000",
@@ -41851,8 +42072,8 @@
             "https://img-eshop.cdn.nintendo.net/i/5bf6816c525a7722dbd0078659384967f3ca408cb2bb0bb32354eee2ee44265d.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/058480a504c02c3a7b6076f32680894d30cbbb749f68527200f8af8f92522f6d.jpg",
-        "intro": "Elliot is a colourful 2D platformer inspired by 16-bit classics, with a touch of hardcore. Don't be misled by appearances: it's a colorful game, but really it's technicolor hell!",
-        "description": "About this Game\n\nYou looking for hell? Congratulations, you found it!\nWhat do you mean, impossible? Ok, let's explain...\n\nA colourful hell.\nElliot is a colourful 2D platformer inspired in 16-bit classics yet with a hardcore touch. Don't be fooled by appearances, it's a tough game! Run, jump and dash through over 60+ levels to solve the mystery surrounding the World of Elliot, Manuel and the adorable Mombas.\n\nNeed to know more?\nElliot, that loveable little blue ball, is a Momba, a wild, free, musical creature who lives alone in the natural world. Well, not entirely alone: with his friend, Manuel. But one apparently ordinary day, strange things begin to happen.\n\nHow to play?\nIt's easy: run, jump and dash in any direction. Die, come straight back and die again.\n\nWhat will you find?\n-Two loveable characters, Elliot and Manuel.\n-Collectibles to help you discover the story of Elliot's World.\n-You yourself, making titanic efforts to get through the 60-plus levels in 11 chapters.\n-Stress, frustration and possibly rage. but don't worry, the soundtrack will make everything much easier.\n-Speedrun mode, if you want to break personal records or challenge your friends.\n-Achievements, in case the ordinary game itself leaves you in need of more.\n\nLove letter to platformers:\nElliot is our lil' love letter to the genre. If you dig platforms and challenges, we promise you're gonna love this experience.",
+        "intro": "Elliot is a colourful 2D platformer inspired by 16-bit classics, with a touch of hardcore.",
+        "description": "Don't be misled by appearances: it's a colorful game, but really it's technicolor hell!\n\nYou looking for hell? Congratulations, you found it!\nWhat do you mean, impossible? Ok, let's explain...\n\nA colourful hell. \nElliot is a colourful 2D platformer inspired in 16-bit classics yet with a hardcore touch. Don't be fooled by appearances, it's a tough game! Run, jump and dash through over 60+ levels to solve the mystery surrounding the World of Elliot, Manuel and the adorable Mombas.\n\nNeed to know more?\nElliot, that loveable little blue ball, is a Momba, a wild, free, musical creature who lives alone in the natural world. Well, not entirely alone: with his friend, Manuel. But one apparently ordinary day, strange things begin to happen.\n\nHow to play?\nIt's easy: run, jump and dash in any direction. Die, come straight back and die again.\n\nWhat will you find?\n- Two loveable characters, Elliot and Manuel.\n- Collectibles to help you discover the story of Elliot's World.\n- You yourself, making titanic efforts to get through the 60-plus levels in 11 chapters.\n- Stress, frustration and possibly rage. but don't worry, the soundtrack will make everything much easier.\n- Speedrun mode, if you want to break personal records or challenge your friends.\n- Achievements, in case the ordinary game itself leaves you in need of more.\n\nLove letter to platformers:\nElliot is our lil' love letter to the genre. If you dig platforms and challenges, we promise you're gonna love this experience.\n",
         "languages": [
             "en",
             "es"
@@ -42360,6 +42581,45 @@
         ],
         "size": 242221056
     },
+    "70010000035924": {
+        "id": "0100D79013828000",
+        "rightsId": null,
+        "name": "#Xmas, Super Puzzles Dream",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201224,
+        "nsuId": 70010000035924,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Multiplayer",
+            "Education"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "JORGE BIEDMA AZUAR",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/744a2be17072493c24b61449e8d8e1a26802f1f63d60844311e33b11fb78a26e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/957c9fff5524ff2ed5c3a6e7b52ad6b17ffb26c5e26b20503fe056a8e2f65b21.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f2f4dff0c4e03d9d342586d00e13d9c29a8afca5efa1c3f4bd032dce362d47f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd5ea313e2b689503e5e7da2b1c99a6f3a9d0d5598e98bc09c78326736447d99.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c1c98882a89667d09ee3ba13a2034526d965e8344befb1dd887727c89db0ad41.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8cc9a72d36174b49502daf3f4fa75b6910c95a812368f981413d889874f98050.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/06807b272fdf6c997198f2017fd43ae927b85ec13b78409ecfe2970e5b26b0c6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/809a22df9474b7f3ea1a55bf57777ca82639a071ca6d36beca814c8c59db8034.jpg",
+        "intro": "Without fun there is no \u00ab Super Puzzles Dream \u00bb",
+        "description": "Puzzles move onto the next level with \u2018Super Puzzle Dream\u2019, a mix between classic jigsaw puzzle and a \u2018Tetromino\u2019-style dynamic mechanic.\n\n Two levels of play, 'senior' (for adults) and 'junior' (for children aged 3+), guarantee hours of entertainment for all.\n\n Become an expert and finish the puzzles in the shortest possible time and you will find yourself amongst the best in the world on the online leaderboard.\n\nHave fun working together to complete the puzzles in Cooperative (co-op) mode.\n\n You can also play with friends and family in the one-on-one split-screen competition mode. Your rival won't make it easy for you! Don't give up - fill an energy bar to perform a counterattack and put them in their place.\n\nRemember, without fun there is no \u00ab Super Puzzles Dream \u00bb",
+        "languages": [
+            "en"
+        ],
+        "size": 741343232
+    },
     "70010000035972": {
         "id": "01000B20117B8000",
         "rightsId": null,
@@ -42634,7 +42894,8 @@
         ],
         "ratingContent": [
             "Mild Violence",
-            "Digital Purchases"
+            "Digital Purchases",
+            "Users Interact"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -42656,7 +42917,7 @@
         "languages": [
             "en"
         ],
-        "size": 578813952
+        "size": 469762048
     },
     "70010000036108": {
         "id": "0100BE501382A000",
@@ -42891,6 +43152,55 @@
             "zh"
         ],
         "size": 204472320
+    },
+    "70010000036203": {
+        "id": "01004C60139DE000",
+        "rightsId": null,
+        "name": "JDM Racing - 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201224,
+        "nsuId": 70010000036203,
+        "category": [
+            "Racing",
+            "Simulation",
+            "Sports",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Nikita Alexeevich",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/84d4c6756605ed13897e84c69363ed121c54b803079882afed4263f25b8c4671.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f42b0936e867b8a999b6b9609ab200b2960adee2f6cafa1f156379498f2ed386.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c1bbcca3c42ef61115707f162c09f127cc26bff13fd1f8a552cbc81a9c372dd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f568ffa1a6fa9352cac6993d7f3b64bb51bd1056f65d29ee90d88bfc8ba25ffe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/41e8a339f045edef0a1173910505fa94644d91324552f89e182f5b106350f8cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25bdb11c7d353b5471c583c086dcb0b1b4c9ac0997efb2214166e4fdbbfb8454.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd02ff8cbc03b093a8a39da7f769f5220e439d21222817c6ac84cf2cd04d8eb3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2dbedf30a6c93df76d14578ebb125e1b0fe816f10a999e4668ce6dee7e9e8ce7.jpg",
+        "intro": "Experience the real drive, sense the speed and feel a surge of adrenaline from skidding in a new racing game from the creators of Drift Legends! ",
+        "description": "Drive legendary Japanese cars on various tracks. Beat records, take part in different racing events, rise from Beginner to Pro League driver. Collect, win, tune up, and upgrade your dream cars. \n\nFEATURES:\n- Enjoy realistic physics, simulating every aspect of car behavior\n- A variety of beautiful tracks created specifically for racing\n- Drag racing, time attack, sprint, checkpoints, street racing, survival, and other challenges\n- Career mode that allows to gain experience and discover secret cars\n- Each car is unique - experience the weight and power, find your balance\n- Make your cars unique using paint, tuning, upgrades and rims\n- Real engine sounds for every car\n- Turbocharger, gearbox and tires sounds\n- Realistic 3D graphics\n- Choose controls that suit you\n\nIf You're a Car Enthusiast, This Game is Definitely for You!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 1181745152
     },
     "70010000036223": {
         "id": "010061F013A0E000",
@@ -44778,6 +45088,32 @@
         "size": 2284847104,
         "parentId": "0100073011382000"
     },
+    "70030000012590": {
+        "id": null,
+        "rightsId": null,
+        "name": "Traditional Tactics Ne+ DEMO",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012590,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 121634816,
+        "parentId": "010008C01010A000"
+    },
     "70030000012811": {
         "id": null,
         "rightsId": null,
@@ -45151,6 +45487,33 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000018163": {
+        "id": null,
+        "rightsId": null,
+        "name": "Small Puzzles 12",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000018163,
+        "category": null,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Lightwood Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/841d4d3e5a0beae014775f855aad2ae9847a165126766c976d764ab59c36b5df.jpg",
+        "intro": null,
+        "description": "An additional pack of 30 new puzzles in smaller sizes.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000018170": {
         "id": null,
         "rightsId": null,
@@ -45281,6 +45644,33 @@
         "iconUrl": null,
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/84dfb6a8447e7ddfc1ccb836e1bc2aedfad60cb1e19de1c5a5a709ee1ff868f0.jpg",
+        "intro": null,
+        "description": "An additional pack of 30 new puzzles in larger sizes.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018175": {
+        "id": null,
+        "rightsId": null,
+        "name": "Large Puzzles 12",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000018175,
+        "category": null,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Lightwood Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a97e052f638faced272c5f09cd7baac9dee16d2bba7b6e03bdf2f06bbbf74c98.jpg",
         "intro": null,
         "description": "An additional pack of 30 new puzzles in larger sizes.",
         "languages": null,
@@ -45812,6 +46202,41 @@
         "description": "Steve and Alex from the Minecraft series are joining the battle! You can also choose to look like a Zombie or Enderman when selecting your fighter. Set out for adventure on the new stage, Minecraft World; dig for materials, craft items, and even place blocks!\n\nTravel to six different biomes in Minecraft World, including the plains and the snowy tundra. There are also seven music tracks, mainly consisting of arrangements. Mine, craft, and battle it out!\n\nIncludes:\n\u30fb Fighter: Steve/Alex/Zombie/Enderman\n\u30fb Stage: Minecraft World\n\u30fb Music: 7 tracks (*1)\n\u30fb Smash tag icons: 5\n\u30fb Spirits: Steve, Alex (*2)\n\u30fb Spirit Board additions: Other spirits from Minecraft that were added in Ver. 9.0.0. (*3) (*4)\n\n*1 Can be found in Vault \u2192 Sounds after purchase.\n*2 Can be collected via Classic Mode or the Shop on the Vault menu after purchase.\n*3 These new spirits are also available free of charge from Vault \u2192 Shop.\n*4 Check the \"Software update available: Ver. 9.0.0\" news update for details on the new spirits.",
         "languages": null,
         "size": 4194304
+    },
+    "70050000018969": {
+        "id": null,
+        "rightsId": null,
+        "name": "Sephiroth Challenger Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201223,
+        "nsuId": 70050000018969,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2bb5db7be405f24b97a43c83d6e8077deff8f50916d8bc1d33d95f9a46e29d4c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2258ccb4ee652f3fea1eb3ba48666e5f47a07edb02bc7090ceb046d585ca9945.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8250cd81b80a1e6212f8e9a411aaa49b04b0fde1015a74e2e8a94aa3995c040.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6737f301a240dd0c4e701abcbd6f1c5ce9af40d0914efaf6a42f1c3b6e5a8bb7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec72a6558fde4258aef4dd985f1de20573b8d6fa9ae6972006eb7113d035f43b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9e7f1e40fd381727576ef3ec6c8ad2478763e36eae09e2990963d33367b3bc70.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/605c1d6be87ff447c25d43c7a4d455b8427a1824179604ae21cca81788454132.jpg",
+        "intro": null,
+        "description": "Sephiroth from FINAL FANTASY VII is joining the battle! He'll appear topless in his 7th and 8th colour variations. Using the immense reach of his treasured sword Masamune, his opponents won't be able to land a scratch on him. And when the going gets tough, he'll sprout one wing and tap into great power!\nHis stage, the Northern Cave, descends into the heart of the planet; a fitting place for climactic showdowns. Nine song arrangements are also featured, so you can dominate your foes to the sweet sounds of nostalgia...\n\nThis DLC Challenger Pack includes\n\u30fb Fighter: Sephiroth\n\u30fb Stage: Northern Cave\n\u30fb Music: 9 tracks (*1)\n\u30fb Smash tag icons: 2\n\u30fb Spirits: Sephiroth (*2)\n\u30fb Spirit Board additions: Spirits from the FINAL FANTASY series to be added in Ver. 10.1.0. (*3) (*4)\n\n*1 Can be found in Vault \u2192 Sounds after purchase.\n*2 Can be collected via Classic Mode or the Shop on the Vault menu after purchase.\n*3 These new spirits will also be available free of charge from Vault \u2192 Shop.\n*4 Details on the new spirits will be available in a later news update titled \"Software update available: Ver. 10.1.0\".",
+        "languages": null,
+        "size": 3145728
     },
     "70050000019163": {
         "id": null,
@@ -48428,7 +48853,7 @@
         "intro": null,
         "description": "The Byzantium & Gaul Pack introduces Basil II as the leader of Byzantium and Ambiorix as the leader of Gaul. The Byzantine Empire can subjugate enemies with religious and military might, supported by their two unique units, the Dromon Ship and the Tagma. The Gallic horde focuses on military flexibility boosted by a backbone of culture and production with their unique Oppidum district. Also included is the new Dramatic Ages game mode, a new Map Type (The Highlands) and two new World Wonders (Biosphere & Statue of Zeus.)\n",
         "languages": null,
-        "size": 562036736
+        "size": 560988160
     },
     "70050000020794": {
         "id": null,
@@ -48456,7 +48881,7 @@
         "intro": null,
         "description": "The Babylon Pack introduces Hammurabi as the leader of Babylon. The Babylon civilization excels at Science, as well as Government and Infrastructure. Also included is the new Heroes and Legends game mode, two Unique Improvements (The Mahavihara and The Trading Dome), six new City-States, and 24 New Great People.",
         "languages": null,
-        "size": 442499072
+        "size": 436207616
     },
     "70050000020795": {
         "id": null,
@@ -65155,7 +65580,7 @@
     "70050000024171": {
         "id": "0100E1F013675036",
         "rightsId": null,
-        "name": "Backstage Pass Product 14",
+        "name": "Emotes Pack: Showpiece",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -65174,16 +65599,16 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b65e554281647bec52331d73f293a81ea6c11b4c4165a29197fc6654a8fbf4d0.jpg",
         "intro": null,
-        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "description": "Show off some fresh new moves in FUSER\u2122 with this pack of Emotes containing:\nB Boy Down, Neon Wiggle, Point It Out, Reconstruction\nRequires FUSER\u2122 base game to play.",
         "languages": null,
         "size": 4194304
     },
     "70050000024172": {
         "id": "0100E1F013675037",
         "rightsId": null,
-        "name": "Backstage Pass Product 15",
+        "name": "The Sugarhill Gang - \"Apache (2012)\"",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -65202,16 +65627,16 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aafcfb3c3c5e3d54db3e567af91c847473d2eab960850f649fccc892069f47f9.jpg",
         "intro": null,
-        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "description": "Expand your FUSER\u2122 library with \"Apache (2012)\" by The Sugarhill Gang! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
         "languages": null,
         "size": 8388608
     },
     "70050000024173": {
         "id": "0100E1F013675038",
         "rightsId": null,
-        "name": "Backstage Pass Product 16",
+        "name": "Mase - \"Feels So Good\"",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -65230,16 +65655,16 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3dbb7bdcd60a4adecae795f11a3b3f3dd6116e07bcfcdc8bfcc880713bef83f9.jpg",
         "intro": null,
-        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "description": "Expand your FUSER\u2122 library with \"Feels So Good\" by Mase! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
         "languages": null,
         "size": 7340032
     },
     "70050000024174": {
         "id": "0100E1F013675039",
         "rightsId": null,
-        "name": "Backstage Pass Product 17",
+        "name": "Wu-Tang Clan - \"Gravel Pit\"",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -65258,9 +65683,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42a4f9e5608eddd3b58c6219f11c6ffe514c8ce5e6bd547994e1296d2b1cfb42.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bdb9fb7f05019e691dcc27c10c23e04cd5c2e92e0132e3634514b03c6ed3e203.jpg",
         "intro": null,
-        "description": "Bring something new to your game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "description": "Expand your FUSER\u2122 library with \"Gravel Pit\" by Wu-Tang Clan! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
         "languages": null,
         "size": 7340032
     },
@@ -65764,6 +66189,90 @@
         "languages": null,
         "size": 8388608
     },
+    "70050000024244": {
+        "id": "01008FA012FC1001",
+        "rightsId": null,
+        "name": "Experience x3 - Crystal Ortha",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024244,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "KEMCO",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bf1b293d13b3d2bb21e4a9397edc18a8fbfbd64d4ee01ac8762d53d2350c4554.jpg",
+        "intro": null,
+        "description": "Experience gained in battles is tripled.\nSettings can be changed in the Additional Content section of the menu.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000024245": {
+        "id": "01008FA012FC1002",
+        "rightsId": null,
+        "name": "Magic Pancho - Crystal Ortha",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024245,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "KEMCO",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1156fd9f877f239e893045064e29a55aced31495aabd71beebefb02ef252ac2c.jpg",
+        "intro": null,
+        "description": "No encounters in dungeons & fast movement.\nSettings can be changed in the Additional Content section of the menu.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000024246": {
+        "id": "01008FA012FC1003",
+        "rightsId": null,
+        "name": "Damage x2 - Crystal Ortha",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024246,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "KEMCO",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7f55b82befa028c0ff93c6084e0a1a1a1d887844ad6e303e73b3364a3943fb9f.jpg",
+        "intro": null,
+        "description": "Damage dealt to enemies in battles is doubled.\nSettings can be changed in the Additional Content section of the menu.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000024249": {
         "id": "0100E9D00D6C3004",
         "rightsId": null,
@@ -65942,6 +66451,56 @@
         "languages": null,
         "size": 11534336
     },
+    "70050000024783": {
+        "id": "0100073011383009",
+        "rightsId": null,
+        "name": "No Mercy: Hiro",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024783,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ce911676df3276aad8f184c654ad599c7cf16eea51605203d3d0fb498bf4574d.jpg",
+        "intro": "Hiro\u2019s holding nothing back!",
+        "description": "A new exercise intensity has been added for Hiro! \n\nNow you can try Low, High, and the new No Mercy intensity. \nThe instructor you know as good-natured and mellow will show you his ruthless side. He\u2019s ready to put you through your paces!",
+        "languages": null,
+        "size": 11534336
+    },
+    "70050000024785": {
+        "id": "0100073011383007",
+        "rightsId": null,
+        "name": "No Mercy: Karen",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024785,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7da90a7fbc0550e0d0ce203b5ea6adb00cf9779f1b509621e22a6e6479b003eb.jpg",
+        "intro": "Karen\u2019s holding nothing back!",
+        "description": "A new exercise intensity has been added for Karen! \n\nNow you can try Low, High, and the new No Mercy intensity. \nThe instructor you know as good-natured and mellow will show you her ruthless side. She\u2019s ready to put you through your paces!",
+        "languages": null,
+        "size": 11534336
+    },
     "70070000010486": {
         "id": null,
         "rightsId": null,
@@ -66005,7 +66564,7 @@
         "intro": "Brawl Without Limits!",
         "description": "The world of WWE is your battleground with all-new, over the top, in-your-face arcade action as your favorite WWE Superstars and Legends battle it out in outlandish environments with an arsenal of moves, special abilities, and power-ups. Compete in your favorite match types including Steel Cage, Royal Rumble, Fatal Four Way and more, as Mauro Ranallo and Jerry \u201cThe King\u201d Lawler call the mayhem!\nRaise some hell with Stone Cold Steve Austin, lay the SmackDown with the Attitude Era version of The Rock and get rowdy with Ronda Rousey. The WWE 2K Battlegrounds Digital Deluxe Edition includes three versions of each Superstar along with the pre-order bonus, Edge. Also includes additional 1100 Golden Bucks to unlock additional WWE Superstars and legends.",
         "languages": null,
-        "size": 9992929280
+        "size": 11015290880
     },
     "70070000010702": {
         "id": null,
@@ -68029,7 +68588,7 @@
         "intro": null,
         "description": "The definitive MK11 experience! Take control of Earthrealm's protectors in 2 acclaimed, time-bending Story Campaigns as they race to stop Kronika from rewinding time & rebooting history. Feat. the komplete 37-fighter roster, incl. Rain, Mileena & Rambo.\n\nIncl. MK11, Kombat Pack\u00a01, Aftermath Expansion & Kombat Pack\u00a02.\n\n\u2022 Experience 2 robust, critically acclaimed Story Campaigns from MK11 & MK11: Aftermath\n\u2022 Play as the komplete 37-fighter roster incl. newly added fighters Mileena, Rain & Rambo \n\u2022 Thousands of skins, weapons & gear for an unprecedented level of customization\n\u2022 Includes all previous guests: Terminator, Joker, Spawn & RoboCop\n\u2022 Every mode including Towers of Time, Krypt, Online, Klassic Towers, etc.\n\u2022 All Stages, Stage Fatalities, Brutalities, Iconic Fatalities & Friendships",
         "languages": null,
-        "size": 35071721472
+        "size": 34997272576
     },
     "70070000011194": {
         "id": null,
@@ -68510,7 +69069,7 @@
         "intro": null,
         "description": "Upgrade your game experience with the GOLD EDITION including the game, the season pass and in-game content.\n\nMaster the legendary powers of the gods, and defeat Typhon, the deadliest Titan in Greek mythology, in an epic fight for the ages.\n\n* CONFRONT MYTHOLOGICAL ENEMIES\nFace off against legendary beasts like Cyclops, Medusa, or Minotaur, and confront them in fast-paced aerial and melee combat, combining your god-given abilities and weapons.\n\n* WIELD THE POWER OF GODS\nThe gods of Olympus have blessed you with gifts. Use them to fight mythical monsters, solve ancient puzzles, and explore the vast open world.",
         "languages": null,
-        "size": 16537092096
+        "size": 16538140672
     },
     "70070000011298": {
         "id": null,
