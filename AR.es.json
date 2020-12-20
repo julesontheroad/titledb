@@ -6085,7 +6085,7 @@
             "fr",
             "pt"
         ],
-        "size": 221249536
+        "size": 231735296
     },
     "70010000025496": {
         "id": "0100D0B00FB74000",
@@ -6706,7 +6706,7 @@
             "zh",
             "zh"
         ],
-        "size": 576716800
+        "size": 575668224
     },
     "70010000028226": {
         "id": "0100DCA011262000",
@@ -7590,7 +7590,10 @@
             "Juego de rol"
         ],
         "ratingContent": [
+            "Referencia al alcohol",
             "Sangre",
+            "Lenguaje moderado",
+            "Temas insinuantes",
             "Violencia"
         ],
         "numberOfPlayers": 1,
