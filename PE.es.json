@@ -342,7 +342,8 @@
             "Multijugador"
         ],
         "ratingContent": [
-            "Violencia moderada en caricaturas"
+            "Violencia moderada en caricaturas",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": 2,
         "rating": 6,
@@ -384,7 +385,8 @@
             "Multijugador"
         ],
         "ratingContent": [
-            "Violencia moderada en caricaturas"
+            "Violencia moderada en caricaturas",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": 2,
         "rating": 6,
@@ -859,7 +861,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e707357713efe3c09925842fc07949381799d1ef4205aa3f46a9facf8dfe8223.jpg",
         "intro": "Pok\u00e9mon llega a la consola Nintendo Switch",
-        "description": "Presentando el primer juego de Pok\u00e9mon para la consola Nintendo Switch. Toma control de uno de los 21 preciados luchadores Pok\u00e9mon para derrotar a otros Pok\u00e9mon en la arena de combate. Llama al Pok\u00e9mon de apoyo para que asista en el combate, luego desencadena el excepcional ataque de r\u00e1faga de tu Pok\u00e9mon para subir de rango. Con muchos modos y maneras nuevas de combatir con tus amigos, \u00a1esta es tu oportunidad de convertirte en el campe\u00f3n de la regi\u00f3n Ferrum!  ",
+        "description": "Presentando el primer juego de Pok\u00e9mon para la consola Nintendo Switch. Toma control de uno de los 21 preciados luchadores Pok\u00e9mon para derrotar a otros Pok\u00e9mon en la arena de combate. Llama al Pok\u00e9mon de apoyo para que asista en el combate, luego desencadena el excepcional ataque de r\u00e1faga de tu Pok\u00e9mon para subir de rango. \n\nCon muchos modos y maneras nuevas de combatir con tus amigos, \u00a1esta es tu oportunidad de convertirte en el campe\u00f3n de la regi\u00f3n Ferrum!  ",
         "languages": [
             "ja",
             "en",
@@ -929,11 +931,12 @@
         "ratingContent": [
             "Sangre",
             "Referencia a drogas",
-            "Lenguaje fuerte",
+            "Lenguaje",
+            "Uso de Alcohol y Tabaco",
             "Violencia"
         ],
         "numberOfPlayers": 2,
-        "rating": 17,
+        "rating": 13,
         "developer": null,
         "publisher": "Coffee Stain",
         "frontBoxArt": null,
@@ -976,8 +979,8 @@
         "ratingContent": [
             "Derramamiento de sangre",
             "Violencia intensa",
-            "Interacciones en linea no estan clasificadas por la ESRB",
-            "Lenguaje fuerte"
+            "Lenguaje fuerte",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": 2,
         "rating": 17,
@@ -999,11 +1002,11 @@
         "languages": [
             "ja",
             "en",
+            "pt",
             "es",
             "fr",
             "de",
             "it",
-            "pt",
             "ru",
             "ko",
             "zh"
@@ -2684,18 +2687,18 @@
         "developer": null,
         "publisher": "Epic Games",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3dc2515fd170f60ce85cb5dbb9f4a9cb5d9328dc7ee5996a2af755466752922f.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3aabc2abf3d3d4e8547a4c0233f34ad22eb4a1dd8a932bb469d025ac52cd825e.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/c38d3ec79655355192ecc06e0b415aba5229c048070bb54550d96b557ea56a6b.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/3ac367380e6b48c4420a6b5f6393179352d5943edc0b0e111c1b09c0a9fe74cf.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/67ce6920727d6529b62b48714316be4bd6a21c98caf64d07a689a3a4a9d7960b.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/a8c15bc8c2cd67f16c23763738b134e79043de7b745b717077604b8a5115f3b0.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/0b79e705e7168c14f8b5103326fc2679451623a93bbf4f5d70b2fe0304b6610f.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/a950fc699d39354c4af313e1f31577d63848b22e1d6d322b69218f6ee40ce74f.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/99d55d0142db5b57d0989983d36a1c2ffd0e81e64d049cb06685ff3fc2590700.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2096a922df62d403432d0202def44aedeedcd9a8fef8e184de62fc434c357411.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/075943986b74eb26daf7450efd3a348611cbd7db2de79b74e577be0dbf63bbfb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22917fd65ae037adc401cc147cdc025b9b5647f62d84c9bc5f9d0e041c4cd293.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4244c78b654b83c985967329b022602a521258e345b7c18f63df86fcd0528190.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61a45f1ca946e00c35fa0e969bb72a2ade4e6850a065b72f234ac448fe6ed853.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bfe390b0a9da51f97add4cd72af143df2158143c0e74bd4c50d3ee556191951c.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f6bef49f4925def5ab211be65b6641cf03dee696883486f68a682029819c07c1.jpg",
         "intro": "\u00a1Forma un escuadr\u00f3n y juega el juego n.\u00b0 1 del g\u00e9nero Battle Royale! ",
-        "description": "Juega la temporada 4 del cap\u00edtulo 2 de Fortnite: Guerra en el Nexus, y une fuerzas con los h\u00e9roes y villanos de Marvel. Ponte los trajes de Iron Man, Thor, Storm y m\u00e1s mientras te preparas para detener a Galactus, el devorador de mundos. Consigue nuevos superpoderes, equipa el rifle de asalto de Industrias Stark y explora lugares emblem\u00e1ticos del mundo de Marvel.\n\nSum\u00e9rgete para ser el \u00faltimo jugador en pie en el juego Batalla campal de 100 jugadores gratuito. S\u00e9 m\u00e1s listo que tus oponentes. Consigue la victoria. \u00a1Forma equipo con tus amigos en una misma sala o con personas de todo el mundo!\n\nCONSTRUYE Y DESTRUYE: dale forma al campo de batalla construyendo tus propias defensas. \u00bfEl enemigo se est\u00e1 escondiendo detr\u00e1s de una pared? Destruye su protecci\u00f3n para tomar la ventaja.\n\nPREP\u00c1RATE: sube al autob\u00fas de combate y cae en tu zona favorita. \u00a1Recolecta recursos, re\u00fane equipo y combate contra tus oponentes!\n\nFORMA EQUIPO CON TUS AMIGOS: \u00a1forma equipo con tus amigos de todo el mundo o de la misma sala!\n\nACTUALIZACIONES SEMANALES Y EVENTOS: las actualizaciones potencian constantemente la diversi\u00f3n con nuevos modos de juego, atuendos, armas y objetos.",
+        "description": "La caza ya empez\u00f3 durante la temporada 5 del cap\u00edtulo 2 de Fortnite: Punto Cero. \u00danete al agente Jones mientras recluta a los mejores cazadores de las realidades como el Mandaloriano para impedir que los dem\u00e1s escapen del bucle. Lucha por el honor en una antigua arena, acepta las recompensas de personajes nuevos y prueba las nuevas armas ex\u00f3ticas que adem\u00e1s son muy poderosas. Tus objetivos te esperan. \u00danete a la caza.\n\nSum\u00e9rgete para ser el \u00faltimo jugador en pie en el juego Batalla campal de 100 jugadores gratuito. S\u00e9 m\u00e1s listo que tus oponentes. Consigue la victoria. \u00a1Forma equipo con tus amigos en una misma sala o con personas de todo el mundo!\n\nCONSTRUYE Y DESTRUYE: dale forma al campo de batalla construyendo tus propias defensas. \u00bfEl enemigo se est\u00e1 escondiendo detr\u00e1s de una pared? Destruye su protecci\u00f3n para tomar la ventaja.\n\nPREP\u00c1RATE: sube al autob\u00fas de combate y cae en tu zona favorita. \u00a1Recolecta recursos, re\u00fane equipo y combate contra tus oponentes!\n\nFORMA EQUIPO CON TUS AMIGOS: \u00a1forma equipo con tus amigos de todo el mundo o de la misma sala!\n\nACTUALIZACIONES SEMANALES Y EVENTOS: las actualizaciones potencian constantemente la diversi\u00f3n con nuevos modos de juego, atuendos, armas y objetos.",
         "languages": [
             "ja",
             "en",
@@ -2707,7 +2710,7 @@
             "ru",
             "ko"
         ],
-        "size": 13947109376
+        "size": 12320768000
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -3003,7 +3006,7 @@
             "zh",
             "zh"
         ],
-        "size": 17207132160
+        "size": 17435721728
     },
     "70010000012523": {
         "id": "01003D200BAA2000",
@@ -3182,7 +3185,7 @@
             "fr",
             "pt"
         ],
-        "size": 149946368
+        "size": 150994944
     },
     "70010000013359": {
         "id": "0100A4400BE74000",
@@ -3521,7 +3524,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20181108,
+        "releaseDate": 20201207,
         "nsuId": 70010000014303,
         "category": [
             "Video"
@@ -3560,7 +3563,7 @@
             "zh",
             "zh"
         ],
-        "size": 138412032
+        "size": 137363456
     },
     "70010000015034": {
         "id": "010049D00C8B0000",
@@ -3704,7 +3707,7 @@
             "zh",
             "zh"
         ],
-        "size": 34971058176
+        "size": 34896609280
     },
     "70010000015307": {
         "id": "01003BD00CAAE000",
@@ -4205,6 +4208,61 @@
         ],
         "size": 376438784
     },
+    "70010000017523": {
+        "id": "01009C200D60E000",
+        "rightsId": null,
+        "name": "Super Meat Boy Forever",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201223,
+        "nsuId": 70010000017523,
+        "category": [
+            "Plataformas",
+            "Acci\u00f3n",
+            "Aventura",
+            "Rompecabezas"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Humor vulgar",
+            "Lenguaje",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Team Meat",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/683285a563ca13e8ad0252921007c656ff1579afde7fac2318a9abae72bbde4d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d56a414e4aa10ff222f2b922bd5a71601ef4af64937910bb3a6ac12c71dbb45d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7dc00d47b8975c58fc0f47f6e09a774b620dab09f89b9c9a657fc552565d24f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08ea860fbc84bd9b8ea0e00209194cc52338b35b89faf87a00e41eb0c5b92080.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18829fab87480d73dc530c63caa4723f7781d5cfd0b3e8ef1eca373dad85c9f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c12cb382deafb0e02030dbebda51f1d29135de08e8052aa04454a699f6167bc2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c3c1e3f397077c222d4a871393f37ce246ceb0712769abecd3927d4083da04f3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0160b1495a4732732069e0e2daae76625cee6cf645aa7b140f1a15745f860867.jpg",
+        "intro": "\u00a1Super Meat Boy ha VUELTO!\n\u00a1Juega en literalmente miles de niveles!\n\u00a1Por fin ha llegado la esperad\u00edsima secuela de Super Meat Boy!",
+        "description": "Super Meat Boy Forever tiene lugar unos a\u00f1os despu\u00e9s de los acontecimientos de Super Meat Boy. Meat Boy y Bandage Girl han vivido felices y libres del Dr. Fetus durante varios a\u00f1os y ahora tienen una ni\u00f1a preciosa llamada Nugget. Nugget es la alegr\u00eda personificada y lo significa todo para Meat Boy y Bandage Girl. Un d\u00eda, mientras nuestros h\u00e9roes estaban de p\u00edcnic, el Dr. Fetus se acerc\u00f3 sigilosamente, dej\u00f3 inconscientes a Meat Boy y Bandage Girl con una pala \u00a1y secuestr\u00f3 a Nugget! Cuando nuestros h\u00e9roes despertaron y vieron que Nugget hab\u00eda desaparecido, sab\u00edan a qui\u00e9n deb\u00edan buscar. Se crujieron los nudillos y decidieron que no parar\u00edan hasta recuperar a Nugget y darle al Dr. Fetus una important\u00edsima lecci\u00f3n. Una lecci\u00f3n que solo se puede ense\u00f1ar con pu\u00f1etazos y patadas.\n \n El reto de Super Meat Boy regresa en Super Meat Boy Forever. Los niveles son brutales, la muerte es inevitable y los jugadores tendr\u00e1n esa maravillosa sensaci\u00f3n de \u00e9xito al superar un nivel. Los jugadores tendr\u00e1n que correr, saltar, dar pu\u00f1etazos y patadas para abrirse paso por entornos conocidos y mundos totalmente nuevos.\n \n \u00bfHay algo mejor que jugar a Super Meat Boy Forever hasta llegar al final? La respuesta es sencilla: jugar a Super Meat Boy Forever varias veces y tener nuevos niveles cada vez que empieces de nuevo. Los niveles se generan de forma aleatoria, y cada vez que se completa el juego aparece la opci\u00f3n de volver a jugar desde el principio, generando una experiencia totalmente nueva al ofrecer niveles diferentes con sus propias ubicaciones secretas. Hemos dise\u00f1ado literalmente miles de niveles para que los jugadores los disfruten y los conquisten. Se puede jugar varias veces a Super Meat Boy Forever de principio a fin antes de ver un nivel repetido. Es una aut\u00e9ntica proeza de la ingenier\u00eda y un ejemplo monumental de pasar por alto los l\u00edmites de la racionalidad en el dise\u00f1o y la producci\u00f3n de un juego.\n \n No dan premios \u00d3scar a los juegos, \u00a1pero seguramente empezar\u00e1n a hacerlo cuando Super Meat Boy Forever se convierta en la mejor pel\u00edcula de 2020 y 2021! Nuestra historia lleva a Meat Boy y Bandage Girl por varios mundos en busca de su querida Nugget, con maravillosas escenas cinem\u00e1ticas animadas y un acompa\u00f1amiento musical que hace que Ciudadano Kane parezca un v\u00eddeo de reacci\u00f3n al \u00abunboxing\u00bb de un trineo. Los jugadores reir\u00e1n, llorar\u00e1n, y cuando todo acabe tal vez salgan de la experiencia siendo un poco mejores que al empezar. Vale, lo m\u00e1s probable es que eso \u00faltimo no pase, pero los textos de marketing son muy dif\u00edciles de escribir.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 5895094272
+    },
     "70010000018062": {
         "id": "0100EBB00D2F4000",
         "rightsId": null,
@@ -4301,7 +4359,7 @@
             "it",
             "ko"
         ],
-        "size": 7389315072
+        "size": 7388266496
     },
     "70010000018547": {
         "id": "010040600C5CE000",
@@ -4892,7 +4950,7 @@
             "ru",
             "ko"
         ],
-        "size": 14732492800
+        "size": 15393095680
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -4947,7 +5005,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20201113,
         "nsuId": 70010000019989,
         "category": [
             "Deportes"
@@ -4983,7 +5041,7 @@
             "zh",
             "zh"
         ],
-        "size": 44376784896
+        "size": 44377833472
     },
     "70010000020030": {
         "id": "010076D00E4BA000",
@@ -5129,6 +5187,7 @@
         "intro": null,
         "description": "Hotline Miami Collection incluye los dos juegos legendarios de la serie Hotline Miami de Dennaton Games, famosa por su ambientaci\u00f3n de luces de ne\u00f3n y su dificultad brutal.",
         "languages": [
+            "ja",
             "en",
             "pt",
             "es",
@@ -5289,7 +5348,8 @@
             "Acci\u00f3n"
         ],
         "ratingContent": [
-            "Travesuras comicas",
+            "Referencia al alcohol",
+            "Humor vulgar",
             "Violencia de fantasia",
             "Lenguaje moderado"
         ],
@@ -5334,7 +5394,7 @@
         "numberOfPlayers": 1,
         "rating": 10,
         "developer": null,
-        "publisher": "En Masse Entertainment",
+        "publisher": "BonusXP",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4d454c00cb7e443423fd0400ba8def69e3d0c6ce97ba122e4b64db7da47555c0.jpg",
         "screenshots": [
@@ -5605,7 +5665,8 @@
         ],
         "ratingContent": [
             "Violencia de fantasia",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": 4,
         "rating": 10,
@@ -5635,7 +5696,7 @@
             "ru",
             "ko"
         ],
-        "size": 4846518272
+        "size": 4928307200
     },
     "70010000021451": {
         "id": "01006C300E9F0000",
@@ -5736,7 +5797,55 @@
             "zh",
             "zh"
         ],
-        "size": 9992929280
+        "size": 11015290880
+    },
+    "70010000021933": {
+        "id": "01004A600EC0A000",
+        "rightsId": null,
+        "name": "Immortals Fenyx Rising\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201207,
+        "nsuId": 70010000021933,
+        "category": [
+            "Acci\u00f3n"
+        ],
+        "ratingContent": [
+            "Lenguaje",
+            "Temas insinuantes",
+            "Violencia",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/60064f20bd80b9938eb2bb375a3d4477d5e91ad1c5c186d926c0bbd3305b6831.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6b098446d060de81a585f2be3b1037e802dcce4646546593d989d8b94d8e640e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39d00170f5c00e973d33ad6e449cb1b17624d6374f6e59287b3eb8aef3993b4d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4fb755ba557cf13e1743e1d54bea4c9f03c1ca7da9d3e1424d0e27657117ebbc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03ae6f7ab7ba8ee7c3f6be65d79f4d2e8095971831292348ec7032797f3fb2e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db2d7c416c6b696a86c89a146f8e81647bab92047fbacac7d296bb9db10a7952.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c53ad2b39a5911e89fc48cadb879c81b6f959e9058d3d063404e8b29657d3ec.jpg",
+        "intro": null,
+        "description": "Immortals Fenyx Rising\u2122 trae consigo una gran aventura mitol\u00f3gica. \n\nJuega como Fenyx, un nuevo semidios alado con la misi\u00f3n de salvar a los dioses griegos. El destino del mundo est\u00e1 en juego: eres la \u00faltima esperanza de los dioses.\n\n- Aprovecha los poderes de los dioses, tales como la espada de Aquiles o las alas de D\u00e9dalo, para luchar contra poderosos enemigos y resolver antiguos rompecabezas.\n- Lucha contra ic\u00f3nicas bestias mitol\u00f3gicas como los C\u00edclopes y Medusa en un combate din\u00e1mico en tierra y aire. \n- Aprovecha tus habilidades y la variedad de armas disponibles, incluyendo flechas autoguiadas, telequinesis y mucho m\u00e1s para causar un da\u00f1o devastador.  \n- Descubre un estilizado mundo abierto que se expande por siete regiones \u00fanicas, cada una inspirada por los dioses.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru"
+        ],
+        "size": 16521363456
     },
     "70010000022226": {
         "id": "01002C000E35E000",
@@ -5976,7 +6085,7 @@
             "fr",
             "pt"
         ],
-        "size": 221249536
+        "size": 231735296
     },
     "70010000025496": {
         "id": "0100D0B00FB74000",
@@ -6272,7 +6381,7 @@
             "pt",
             "fr"
         ],
-        "size": 13931380736
+        "size": 14684258304
     },
     "70010000027023": {
         "id": "0100DBF01000A000",
@@ -6464,7 +6573,7 @@
             "pt",
             "ru"
         ],
-        "size": 1555038208
+        "size": 1598029824
     },
     "70010000027329": {
         "id": null,
@@ -6597,7 +6706,7 @@
             "zh",
             "zh"
         ],
-        "size": 576716800
+        "size": 575668224
     },
     "70010000028226": {
         "id": "0100DCA011262000",
@@ -6685,7 +6794,7 @@
             "zh",
             "zh"
         ],
-        "size": 980418560
+        "size": 979369984
     },
     "70010000028540": {
         "id": "010053401147C000",
@@ -6729,10 +6838,10 @@
             "zh",
             "zh"
         ],
-        "size": 8876195840
+        "size": 8945401856
     },
     "70010000028643": {
-        "id": null,
+        "id": "01006DC010326000",
         "rightsId": null,
         "name": "BRAVELY DEFAULT\u2122 II",
         "version": null,
@@ -6755,7 +6864,7 @@
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
-        "iconUrl": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2aad4ebaefb3103c9322d54ec8fdda2a62c814beedcbf45a104d9a7ababae1ab.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/c81531cbc6509556ea8b30a603fc10010c46948b0c97b4c06dca9938f7159be5.jpg",
             "https://img-eshop.cdn.nintendo.net/i/6c49fff3d64fb37f6840a685241e03761eb1d0499ede44700f9bf6493632b961.jpg",
@@ -6778,7 +6887,7 @@
             "zh",
             "zh"
         ],
-        "size": 0
+        "size": 13319012352
     },
     "70010000028673": {
         "id": "010075701153A000",
@@ -6923,7 +7032,7 @@
             "ko",
             "zh"
         ],
-        "size": 14771290112
+        "size": 14893973504
     },
     "70010000029278": {
         "id": "010029B0118E8000",
@@ -6940,7 +7049,8 @@
         ],
         "ratingContent": [
             "Letras moderadas",
-            "Violencia moderada"
+            "Violencia moderada",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": 1,
         "rating": 10,
@@ -6967,7 +7077,7 @@
             "ru",
             "zh"
         ],
-        "size": 8615100416
+        "size": 8619294720
     },
     "70010000029351": {
         "id": "0100BAC011928000",
@@ -7295,6 +7405,57 @@
         ],
         "size": 5307891712
     },
+    "70010000030011": {
+        "id": "0100BF9011B52000",
+        "rightsId": null,
+        "name": "Just Dance\u00ae 2021",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201120,
+        "nsuId": 70010000030011,
+        "category": [
+            "M\u00fasica"
+        ],
+        "ratingContent": [
+            "Letras moderadas",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 6,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/92d331673b8fe8163e9fa7aa4fbaba1d4aa2aa3dc8ca353210fcd4848b8fe761.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dc46f49643ab9aa0c1f0de2b461b35798e5a6561d18c564c3a229039f86feab2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/413f8aba66e47135b36e2aed362c3c4b4c682a2978cb6e5a8b5baa8765617f03.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dc0aa86b7268762199dcc5a5965d913d921b724a5f403eaf1d683154b627bd47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ff7445a89e9d4bba24b04db84a9326a4dbca9331c5db66f2b1a2f9beea9d0016.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/468b43626beea968a5be0b2d37e08b2ea46b036471b4e9bbaba7dec0ea56b5ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/385bce7e42a71bfb7c2f407a90fce2d19d2f4d51767160ad9988db57028e6c3b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/424bac11eaecab41534a2be4106a6ae66bae28a1a7d4600d7ba97bc22ebfd467.jpg",
+        "intro": null,
+        "description": "Just Dance\u00ae 2021 es el mayor juego de baile con 40 incre\u00edbles \u00e9xitos de las listas de popularidad como \"\"Rain On Me\"\" de Lady Gaga & Ariana Grande, \"\"Kick It\"\" de NCT 127 y \"\"Ice Cream\"\" de BLACKPINK x Selena Gomez. \u00a1Comienza una fiesta de baile que pueden disfrutar tu familia y tus amigos!\n\n- \u00a1El servicio de streaming por suscripci\u00f3n de Just Dance Unlimited te permite bailar m\u00e1s de 550 canciones diferentes! El juego incluye un mes TOTALMENTE GRATIS. \n- \u00a1Juega con tus amigos y comparte la diversi\u00f3n con el modo cooperativo!\n- Baila como prefieras al crear tus propias listas de reproducci\u00f3n personalizadas. \n- Disfruta de ocho nuevas canciones y coreograf\u00edas aptas para ni\u00f1os que brindan una experiencia para toda la familia.\n- Utiliza tu smartphone para registrar tus movimientos con la app Just Dance Controller \u00a1que no requiere de accesorios adicionales! \u00a1Se pueden unir hasta seis jugadores!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 7402946560
+    },
     "70010000030293": {
         "id": "0100B6801137E000",
         "rightsId": null,
@@ -7375,7 +7536,7 @@
             "zh",
             "zh"
         ],
-        "size": 43459280896
+        "size": 43770707968
     },
     "70010000030996": {
         "id": "01002120116C4000",
@@ -7429,7 +7590,10 @@
             "Juego de rol"
         ],
         "ratingContent": [
+            "Referencia al alcohol",
             "Sangre",
+            "Lenguaje moderado",
+            "Temas insinuantes",
             "Violencia"
         ],
         "numberOfPlayers": 1,
@@ -7460,7 +7624,7 @@
             "ko",
             "zh"
         ],
-        "size": 6023020544
+        "size": 6182404096
     },
     "70010000034439": {
         "id": null,
@@ -7738,7 +7902,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a6d153ad86eba304fc3b03af3008de344172c07a87b7091cd68243603cb61cbb.jpg",
         "intro": "Entrena en casa y lanza pu\u00f1etazos al ritmo de la m\u00fasica",
-        "description": "\u00a1Lanza jabs, esquiva y practica movimientos de box al ritmo de contagiosas canciones de pop en este juego r\u00edtmico de boxeo! Los movimientos de boxeo, como dar pasos, esquivar y agacharse, permiten entrenar todo el cuerpo. Dale un control Joy-Con\u2122 a un amigo y boxeen juntos siguiendo el ritmo.\n\nPersonaliza tu entrenamiento con ayuda de un instructor virtual\n\nElige uno de los nueve instructores virtuales, selecciona el nivel de dificultad de tu rutina de ligero a intenso y tendr\u00e1s lista una rutina para trabajar con tu instructor. Tambi\u00e9n puedes crear tu propia rutina desde cero con el modo Ejercicio libre. Sigue demostraciones detalladas, practica movimientos espec\u00edficos y recibe comentarios \u00fatiles de tu instructor. \u00a1As\u00ed le sacar\u00e1s el m\u00e1ximo provecho a tu entrenamiento!\n\nComienza a prepararte con el juego original Fitness Boxing o con la versi\u00f3n de prueba de Fitness Boxing 2: Rhythm & Exercise y despu\u00e9s transfiere tu perfil a la versi\u00f3n completa del juego\n\nMant\u00e9n tu progreso del juego original Fitness Boxing transfiriendo tu perfil al juego Fitness Boxing 2: Rhythm and Exercise. \u00a1Si juegas la versi\u00f3n de prueba Fitness Boxing 2: Rhythm & Exercise, podr\u00e1s transferir tu progreso al adquirir la versi\u00f3n completa del juego!\n\n\n\u00a1Haz tu entrenamiento diario y boxea al ritmo de la m\u00fasica! Dale uno o dos controles Joy-Con a un amigo y disfruten de una sesi\u00f3n de box dirigida por un instructor del juego. Cada instructor virtual tiene su propio estilo y personalidad. Entrena con cada uno de ellos \u00a1y descubre el ideal para ti! Supera logros y recibe billetes que despu\u00e9s podr\u00e1s canjear por conjuntos de ropa para tu instructor.\n\nSin importar el nivel de dificultad que selecciones, podr\u00e1s practicar movimientos espec\u00edficos y observarlos de forma detallada en todo momento.\n\nEl juego Fitness Boxing 2: Rhythm & Exercise es una opci\u00f3n para que tengas un entrenamiento dirigido y puedas dar seguimiento a tu actividad mientras disfrutas del ritmo de la m\u00fasica y contagiosas canciones de pop. Descarga en eShop la versi\u00f3n de prueba y siente el ritmo de Fitness Boxing 2: Rhythm & Exercise.\n",
+        "description": "\u00a1Lanza jabs, esquiva y practica movimientos de box al ritmo de contagiosas canciones de pop en este juego r\u00edtmico de boxeo! Los movimientos de boxeo, como dar pasos, esquivar y agacharse, permiten entrenar todo el cuerpo. Dale un control Joy-Con\u2122 a un amigo y boxeen juntos siguiendo el ritmo.\n\nPersonaliza tu entrenamiento con ayuda de un instructor virtual\n\nElige uno de los nueve instructores virtuales, selecciona el nivel de dificultad de tu rutina de ligero a intenso y tendr\u00e1s lista una rutina para trabajar con tu instructor. Tambi\u00e9n puedes crear tu propia rutina desde cero con el modo Ejercicio libre. Sigue demostraciones detalladas, practica movimientos espec\u00edficos y recibe comentarios \u00fatiles de tu instructor. \u00a1As\u00ed le sacar\u00e1s el m\u00e1ximo provecho a tu entrenamiento!\n\nComienza a prepararte con el juego original Fitness Boxing o con la versi\u00f3n de prueba de Fitness Boxing 2: Rhythm & Exercise y despu\u00e9s transfiere tu perfil a la versi\u00f3n completa del juego\n\nMant\u00e9n tu progreso del juego original Fitness Boxing transfiriendo tu perfil al juego Fitness Boxing 2: Rhythm and Exercise. \u00a1Si juegas la versi\u00f3n de prueba Fitness Boxing 2: Rhythm & Exercise, podr\u00e1s transferir tu progreso al adquirir la versi\u00f3n completa del juego!\n\n\n\u00a1Haz tu entrenamiento diario y boxea al ritmo de la m\u00fasica! Dale uno o dos controles Joy-Con a un amigo y disfruten de una sesi\u00f3n de box dirigida por un instructor del juego. Cada instructor virtual tiene su propio estilo y personalidad. Entrena con cada uno de ellos \u00a1y descubre el ideal para ti! Supera logros y recibe billetes que despu\u00e9s podr\u00e1s canjear por conjuntos de ropa para tu instructor.\n\nSi te interesa elevar la intensidad de tu entrenamiento, lo tuyo es el Modo Infernal*. Ver\u00e1s que incluso los instructores se vuelven m\u00e1s en\u00e9rgicos en este modo. Pero no te preocupes, \u00a1siempre puedes volver al nivel en el que estabas! Sin importar el nivel de dificultad que selecciones, podr\u00e1s practicar movimientos espec\u00edficos y observarlos de forma detallada en todo momento.\n\nEl juego Fitness Boxing 2: Rhythm & Exercise es una opci\u00f3n para que tengas un entrenamiento dirigido y puedas dar seguimiento a tu actividad mientras disfrutas del ritmo de la m\u00fasica y contagiosas canciones de pop. Descarga en eShop la versi\u00f3n de prueba y siente el ritmo de Fitness Boxing 2: Rhythm & Exercise.\n\n*Es necesario actualizar el programa",
         "languages": [
             "ja",
             "en",
@@ -7750,7 +7914,56 @@
             "zh",
             "zh"
         ],
-        "size": 2506096640
+        "size": 3082813440
+    },
+    "70010000035641": {
+        "id": "0100E1F013674000",
+        "rightsId": null,
+        "name": "FUSER\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201125,
+        "nsuId": 70010000035641,
+        "category": [
+            "M\u00fasica",
+            "Fiesta",
+            "Multijugador",
+            "Estilo de vida"
+        ],
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0f4628c9de3b23a315b3912aae0b7d5030c1a2cb1b87cd4f84b6c68b653e4012.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/36334a8103212a587d1008df7456886b58887721acfb7f21c37242288a418cea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0f7874310a25335445e894a3c6d13f8157e935ddf55157805bc14e05ac476cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c9007d28c8ef710979602c369c31e362b7e697b0490d485a97c1de7c82350e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/860d07f346c3dd9b66a0dcc838bdcefca82e2d8c300f2a14d712399ad77a2dab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/87c3321598114673fd983dcaaed5beb794b2ddcb6d5c2a44189f8ff08d4a0cbf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58330b97c4cfa04a93b99d0973a9d34da0ef605d3d4546881bd4e984de65733d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1d29d8f24e715e7139ae4a58f20baebf08c548fbf1a75fed28d27cab4aef2e93.jpg",
+        "intro": "De los creadores de Rock Band\u2122 y Dance Central\u2122 llega FUSER\u2122: \u00a1un festival de m\u00fasica virtual interminable donde t\u00fa controlas la m\u00fasica!",
+        "description": "De los creadores de Rock Band\u2122 y Dance Central\u2122 llega FUSER\u2122: \u00a1un festival de m\u00fasica virtual interminable donde t\u00fa controlas la m\u00fasica! Combina elementos de las canciones m\u00e1s populares del mundo para crear tu propio sonido o j\u00fantate con amigos para hacer colaboraciones \u00e9picas. \u00a1Y comparte tus incre\u00edbles mezclas y alucinantes actuaciones con todo el mundo!\n\nFUSER Features:\n\n- Juega con una biblioteca de m\u00e1s de 100 canciones que incluyen temas de los mejores artistas del mundo.\n- Supera desaf\u00edos para desbloquear nuevas habilidades y contenido en el modo Campa\u00f1a.\n- Explora, descubre y crea mezclas incre\u00edbles y efectos personalizados en el modo Estilo libre.\n- Colabora o compite con jugadores de todo el mundo en el modo Multijugador.\n- Usa las opciones de personalizaci\u00f3n para adaptar el aspecto y la onda de tu estilo individual particular.",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 6572474368
     },
     "70010000035838": {
         "id": "0100A12011CC8000",
@@ -9360,7 +9573,8 @@
             "Referencia a drogas",
             "Lenguaje",
             "Violencia moderada",
-            "Temas insinuantes"
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -9396,7 +9610,8 @@
             "Referencia a drogas",
             "Lenguaje",
             "Violencia moderada",
-            "Temas insinuantes"
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -12912,7 +13127,7 @@
         "intro": "Levanta tu mejor imperio en Nintendo Switch\u2122",
         "description": "Paquete de expansi\u00f3n que combina Rise and Fall y Gathering Storm y lleva este cl\u00e1sico de la estrategia por turnos a una nueva dimensi\u00f3n. Forjar el imperio m\u00e1s grande es m\u00e1s emocionante que nunca con 16 civilizaciones y 18 l\u00edderes nuevos y mejoras al sistema de juego, como Grandes Eras y un planeta activo donde la geolog\u00eda y el clima presentan nuevos retos.\n\nEl Civilization VI Paquete de expansi\u00f3n tiene todas las caracter\u00edsticas de Rise and Fall y Gathering Storm: \n\n\u2022NUEVOS L\u00cdDERES Y CIVILIZACIONES: 16 civilizaciones y 18 l\u00edderes nuevos, con bonificaciones y sistemas de juego \u00fanicos, adem\u00e1s de unidades, distritos, maravillas, edificios exclusivos y mucho m\u00e1s.\n\n\u2022GRANDES ERAS: seg\u00fan tu civilizaci\u00f3n pase por altibajos y alcances momentos hist\u00f3ricos clave, avanzar\u00e1s hacia una \u00e9poca oscura o una edad de oro, cada una con retos y bonificaciones espec\u00edficas en funci\u00f3n de tus acciones. Resurge de una \u00e9poca oscura y tu siguiente edad de oro ser\u00e1 una \u00e9poca heroica.\n\n\u2022LOYALTY: las ciudades te muestran su Loyalty: si baja demasiado, tendr\u00e1s rendimientos escasos, revueltas y la posible independencia de una ciudad. Pero la p\u00e9rdida puede ser favorable si inspiras lealtad a las ciudades del mapa y expandes m\u00e1s tus fronteras.\n\n\u2022GOBERNADORES: recluta, nombra y mejora a personajes poderosos con sus bonificaciones de especializaci\u00f3n y \u00e1rboles de ascenso para modelar tus ciudades y reforzar su lealtad.\n\n\u2022ALIANZAS MEJORADAS: un sistema avanzado de coaliciones permite formar alianzas y conseguir bonificaciones.\n\n\u2022EMERGENCIAS: cuando una civilizaci\u00f3n se vuelve demasiado poderosa, otras pueden pactar para acabar con ella y obtener recompensas o penalizaciones.\n\n\u2022CRONOLOG\u00cdA: repasa tu historia con esta funci\u00f3n, un viaje visual por los momentos hist\u00f3ricos en tu camino a la victoria.\n\n\u2022EFECTOS MEDIOAMBIENTALES: volcanes, tormentas de arena, ventiscas, cambio clim\u00e1tico, inundaciones y sequ\u00edas dan vida al mundo; lo que elija tu asentamiento ser\u00e1 muy importante para equilibrar riesgos y recompensas. \n\n\u2022ENERG\u00cdA Y RECURSOS CONSUMIBLES: los recursos estrat\u00e9gicos tienen se consumen ahora en plantas el\u00e9ctricas para generar energ\u00eda que necesitar\u00e1s generar en los edificios m\u00e1s avanzados quemando recursos de carbono, como el petr\u00f3leo y el carb\u00f3n, pero tambi\u00e9n desbloquear\u00e1s energ\u00edas renovables a medida que avances en las tecnolog\u00edas actuales. Tus elecciones sobre los recursos afectar\u00e1n a la temperatura del mundo y pueden hacer que los casquetes se derritan y suba el nivel del mar. \n\n\u2022DISE\u00d1O DE PROYECTOS: forma el mundo que rodea tu imperio para superar condiciones del terreno con canales, presas, t\u00faneles y ferrocarriles. Al fundar ciudades, no ignores el riesgo de inundaci\u00f3n de las zonas costeras, pero piensa que al final contar\u00e1s con nuevas tecnolog\u00edas para protegerlas.\n\n\u2022CONGRESO MUNDIAL: haz que tu voz se escuche. Gana Favor diplom\u00e1tico con alianzas, influye en las ciudades-estado, compite en los Juegos mundiales y muchas cosas m\u00e1s. \u00dasalo para que los dem\u00e1s l\u00edderes te hagan promesas, votar resoluciones, convocar una Sesi\u00f3n especial para solucionar una emergencia y aumentar el peso de tus votos para conseguir la victoria diplom\u00e1tica. \n\n\u2022PRINCIPIOS Y TECNOLOG\u00cdAS DEL SIGLO XXI: se a\u00f1adi\u00f3 una nueva \u00e9poca al \u00e1rbol tecnol\u00f3gico y de principios. Combate los nuevos efectos medioambientales reubicando la poblaci\u00f3n en ciudades flotantes y desarrollando tecnolog\u00edas para capturar emisiones de carbono.",
         "languages": null,
-        "size": 3733979136
+        "size": 3666870272
     },
     "70050000015201": {
         "id": "0100B6400CA57064",
@@ -15438,7 +15653,8 @@
         "category": null,
         "ratingContent": [
             "Violencia de fantasia",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -15472,7 +15688,8 @@
         "category": null,
         "ratingContent": [
             "Violencia de fantasia",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -16537,12 +16754,12 @@
     "70050000018963": {
         "id": "01006A800016F009",
         "rightsId": null,
-        "name": "Paquete de aspirante 8",
+        "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 8",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20211231,
+        "releaseDate": 20201222,
         "nsuId": 70050000018963,
         "category": null,
         "ratingContent": [
@@ -16558,12 +16775,19 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dbff3a5768321d8683c75121e0f91689c385fd08a65e70a76db9b78d08b417d8.jpg",
-        "intro": null,
-        "description": "Este paquete de contenido descargable incluye:\n\u3000- Un combatiente nuevo\n\u3000- Un escenario nuevo\n\u3000- Varios temas nuevos\n\nSe ofrecer\u00e1 informaci\u00f3n adicional en una fecha posterior.",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f63ea055ccf19501e56551404e741e1836bc62b4370649ccf12a12095823c5f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c44d3b78a4807f1e60651b20599f9aa609b67fbdc4945d91fc5c56b4e3b588e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1254840c226b195b3a7cb34885aa1a52a90163970ca41029f4e67a68a051f85c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b82879b406fb6fd97ab03202c048b0c1201505097b85fe7a42f5052c6f2bf48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/022ba6e0e306242a73fc8a7aafb25d0252e9ab1070c94f245dea197c13e2c472.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/869dee36336ba8cb853728d238f640280e811c90a6001be9b635fb3853dd5545.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9ea7e4b1fb1702f1638254b55234911f87d976a20272b76bb8d5f5d9be12bb9c.jpg",
+        "intro": "\u00a1Sephiroth se une al combate!",
+        "description": "Sephiroth, quien empu\u00f1a la espada larga Masamune y tiene una sed de destrucci\u00f3n, se une al juego Super Smash Bros. Ultimate como combatiente jugable del pase de combatientes vol. 2 de Super Smash Bros. Ultimate*! Este espadach\u00edn de cabello blanco es el archienemigo de Cloud y uno de los villanos m\u00e1s emblem\u00e1ticos del mundo de los videojuegos. No te dejes enga\u00f1ar por semblante tranquilo pues Sephiroth es capaz de causar much\u00edsimo da\u00f1o. Adem\u00e1s de Sephiroth, se incluye el escenario Cueva del Norte y temas musicales. Y s\u00ed, tambi\u00e9n se incluye ese tema.\n\nSephiroth infunde miedo en el coraz\u00f3n de sus adversarios al usar una combinaci\u00f3n de ataques potentes y magia mortal. Su ataque especial normal, Fulgor, lanza una bola de fuego explosiva. Mant\u00e9n oprimido el bot\u00f3n par cargar el ataque y su\u00e9ltalo para lanzar el devastador Gigafulgor que tiene menor alcance. Nada causa tanto temor como el especial lateral de Sephiroth, la Bengala de sombra. \u00a1Este proyectil de energ\u00eda rodea a tu adversario y explota, adem\u00e1s de que puede combinarse para hacer que hasta 5 proyectiles giren en torno a tu rival!  Adem\u00e1s de estas maniobras, Sephiroth tambi\u00e9n puede asestar un corte en cualquier direcci\u00f3n a gran velocidad con su especial hacia arriba, el Corte, as\u00ed como crear una barrera protectora con su especial hacia abajo, la Centella.\n\nSi Sephiroth se encuentra en desventaja, desplegar\u00e1 un ala en su espalda que le conferir\u00e1 m\u00e1s fuerza y velocidad, as\u00ed como la posibilidad de dar un salto a\u00e9reo adicional y realizar ataques Smash con armadura p\u00e9trea. Cuanto m\u00e1s cruda sea la situaci\u00f3n de Sephiroth, m\u00e1s f\u00e1cilmente desplegar\u00e1 su ala. El da\u00f1o recibido, la puntuaci\u00f3n actual y el n\u00famero de vidas son factores que influyen en este caso. El ataque m\u00e1s potente de Sephiroth es su Smash Final conocido como Supernova. Tras dar un corte amplio, \u00a1Sephiroth desata la explosi\u00f3n de una supernova capaz de causar da\u00f1os cuantiosos y, en ocasiones, alteraciones de estado! Con su espada Masamune en mano y su mente mal\u00e9vola, Sephiroth es un adversario dif\u00edcil de vencer.\n",
         "languages": null,
-        "size": 4194304
+        "size": 3145728
     },
     "70050000018964": {
         "id": "01006A800016F00A",
@@ -17147,7 +17371,7 @@
         "intro": null,
         "description": "Este pack de contenido incluye a Menelik\u00a0II como l\u00edder de Etiop\u00eda. Esta naci\u00f3n se centra en las ciudades construidas en Colinas, en producir Fe y en usar la habilidad Consejo de Ministros de Menelik para impulsar la Ciencia y la Cultura. Incorpora adem\u00e1s el modo de juego Sociedades secretas, en el que los jugadores se encuentran con organizaciones misteriosas que ofrecer\u00e1n habilidades poderosas a su civilizaci\u00f3n.\n\nIncluye la civilizaci\u00f3n de Etiop\u00eda con Menelik\u00a0II, la unidad exclusiva de la Caballer\u00eda oromo y la mejora de casilla Iglesia tallada en la roca.\n\u2022\tHabilidad exclusiva de la civilizaci\u00f3n: Legado de Aksum. Las ciudades ganan Fe adicional por los recursos, y m\u00e1s cuando las rutas comerciales internacionales se originan en ciudades ricas en recursos. Etiop\u00eda puede adquirir Museos de arqueolog\u00eda y Arque\u00f3logos con Fe.\n\u2022\tHabilidad exclusiva del l\u00edder: Consejo de Ministros. Menelik\u00a0II obtiene m\u00e1s Cultura y Ciencia seg\u00fan la Fe que den las ciudades fundadas en Colinas. Sus unidades tambi\u00e9n reciben Fuerza de combate adicional cuando luchan en Colinas.\n\u2022\tUnidad exclusiva: la Caballer\u00eda oromo tiene Fuerza de combate y Visual mejoradas y no sufre penalizaciones al movimiento al desplazarse por Colinas.\n\u2022\tMejora de casilla exclusiva: la Iglesia tallada en la roca solo se puede construir en Colinas o Suelo volc\u00e1nico. Da Fe, y m\u00e1s Fe por Monta\u00f1as y Colinas. Los desastres naturales solo pueden saquearla, no destruirla.\n\nNuevo modo de juego Sociedades secretas (requiere el lote de expansi\u00f3n de Civilization VI)\n\u2022\tEs un modo de juego opcional y especializado con cambios de reglas exclusivos:\n\u2022\tA\u00f1ade cuatro sociedades secretas al juego.\n\u2022\tCada sociedad secreta ofrece a los jugadores un gobernador especializado que aplica sus bonificaciones en toda la civilizaci\u00f3n.\n\u2022\tLas sociedades secretas pueden ofrecer a los jugadores nuevos recursos, bonificaciones pasivas, unidades y edificios exclusivos o proyectos para conseguir los fines de estas.\n\u2022\tAprovecha que eres miembro de una para mejorar la disposici\u00f3n y las alianzas con otros l\u00edderes.\n\nNuevo distrito Barrio diplom\u00e1tico y nuevos edificios\n\u2022\tConstruye el Barrio diplom\u00e1tico, un distrito que solo se puede erigir una vez por civilizaci\u00f3n y se centra en las relaciones con el extranjero.\n\u2022\tMejora el Barrio diplom\u00e1tico construyendo los edificios del Consulado y la Canciller\u00eda.",
         "languages": null,
-        "size": 407896064
+        "size": 404750336
     },
     "70050000020785": {
         "id": "010044500C183007",
@@ -17178,7 +17402,7 @@
         "intro": null,
         "description": "El pack de los bizantinos y galos introduce a Basilio\u00a0II como l\u00edder de Bizancio y a Ambi\u00f3rix como l\u00edder de la Galia. El Imperio bizantino puede subyugar a los enemigos con su poder\u00edo religioso y militar, apoyado por dos unidades exclusivas: la Dr\u00f3mona y el Tagma. La horda gala se centra en la flexibilidad militar, reforzada por un esqueleto de Cultura y Producci\u00f3n con su distrito exclusivo del Oppidum. Incluye adem\u00e1s el nuevo modo de juego \u00c9pocas espectaculares, otro tipo de mapa (el Altiplano) y dos maravillas del mundo m\u00e1s (la Biosfera y la Estatua de Zeus).\n",
         "languages": null,
-        "size": 562036736
+        "size": 560988160
     },
     "70050000020786": {
         "id": "010044500C183006",
@@ -17209,7 +17433,7 @@
         "intro": null,
         "description": "El paquete de Babilonia introduce a Hammurabi liderando Babilonia. La civilizaci\u00f3n babil\u00f3nica destaca tanto en ciencia como en gobierno e infraestructura. Adem\u00e1s incluye el nuevo modo de juego H\u00e9roes y leyendas, dos mejoras (el Mahavihara y el Bazar abovedado), seis ciudades-estado m\u00e1s y 24 Grandes personajes nuevos.",
         "languages": null,
-        "size": 442499072
+        "size": 436207616
     },
     "70050000020787": {
         "id": "010044500C18300B",
@@ -17552,6 +17776,37 @@
         "languages": null,
         "size": 8388608
     },
+    "70050000021148": {
+        "id": "01006A800016F082",
+        "rightsId": null,
+        "name": "Paquete de combate del tablero de esp\u00edritus 7 - \u00a1Desaf\u00eda a fuertes adversarios!",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201216,
+        "nsuId": 70050000021148,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e3d480ed794df6f1b24be1423e211c4cdab26076d714497627488240a59f5993.jpg",
+        "intro": null,
+        "description": "El siguiente contenido descargable est\u00e1 disponible por tiempo limitado para los suscriptores de pago a Nintendo Switch Online. Estos objetos pueden descargarse de manera gratuita para su uso en el juego Super Smash Bros.\u2122 Ultimate.\n\nContenido del paquete:\n\u2022\tPuntos de esp\u00edritu: x 3000\n\u2022\tPedir revancha  x 5\n\u2022\t50 % de da\u00f1o x 5\n\u2022\tSecuaces d\u00e9biles: x 5\n\u2022\tFlor da\u00f1ina: x 5",
+        "languages": null,
+        "size": 20971520
+    },
     "70050000021424": {
         "id": "010053401147D001",
         "rightsId": null,
@@ -17887,12 +18142,12 @@
     "70050000022223": {
         "id": "0100EAE010561010",
         "rightsId": null,
-        "name": "Captain Tsubasa: Rise of New Champions Car\u00e1cter 1",
+        "name": "Captain Tsubasa: Rise of New Champions: Stefan Levin",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20201231,
+        "releaseDate": 20201203,
         "nsuId": 70050000022223,
         "category": null,
         "ratingContent": [
@@ -17908,22 +18163,26 @@
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/15c298dec03e41dc48436f81f9466d16704e1c1b3cade2fb29698b227ae2de7b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4658a983cf6a48bc13c0493446122a60b6f354b3131d8422b5066970ef83e76b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bc3e879baa78bcd044e7759de918b88f4ff39a0a072a5e072ee2f0eb5f71f356.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e79789897a4af04504e18bb8c8960ca611808154b7a61e2fa083b5485a717dc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/022648185876c145499a0504bdb309e8d71b2afb7ad0ea2b327641efa9b1df4a.jpg",
         "intro": null,
-        "description": "Obt\u00e9n acceso a este personaje adicional.",
+        "description": "Stefan Levin est\u00e1 disponible como personaje nuevo para jugar en Captain Tsubasa: Rise of New Champions.",
         "languages": null,
         "size": 4194304
     },
     "70050000022224": {
         "id": "0100EAE010561011",
         "rightsId": null,
-        "name": "Captain Tsubasa: Rise of New Champions Car\u00e1cter 2",
+        "name": "Captain Tsubasa: Rise of New Champions: Singprasert Bunnaak",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20201231,
+        "releaseDate": 20201203,
         "nsuId": 70050000022224,
         "category": null,
         "ratingContent": [
@@ -17939,22 +18198,27 @@
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d026d77b171bee06105c8a9bcfc683ad96d5923d48c0f0466e377647ac9038c3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/432a8957b9e391589c5a9e6d4917c9780943d7fbd1feafa84f46b75148cd3019.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/496f604d552baba75a79d7cab65dbd8c26161cd0d7b8d357a69d162c0b8c8e00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c48c84bc8cd89acffe2a7ff7d482d04fc98cb37cb22aac0a2768cd4a3d977a50.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f8d30291197c7bede3b70837ad64ca4a98599a854b60405ef7d3485185323ca.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/facd341d1b8e5bdcb427b4d3bbe9e8dde14484e0618786e2a48a3aa6fe2a8548.jpg",
         "intro": null,
-        "description": "Obt\u00e9n acceso a este personaje adicional.",
+        "description": "Singprasert Bunnaak est\u00e1 disponible como personaje nuevo para jugar en Captain Tsubasa: Rise of New Champions.",
         "languages": null,
         "size": 4194304
     },
     "70050000022225": {
         "id": "0100EAE010561012",
         "rightsId": null,
-        "name": "Captain Tsubasa: Rise of New Champions Car\u00e1cter 3",
+        "name": "Captain Tsubasa: Rise of New Champions: Ricardo Espadas",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20201231,
+        "releaseDate": 20201203,
         "nsuId": 70050000022225,
         "category": null,
         "ratingContent": [
@@ -17970,10 +18234,15 @@
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2b53884f6518eeee7113f08d82b11ad1d75e6a688aae6f225091605ebcff84eb.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0acee2410188b8280ba33eecbf134fc2be2a3549d5391f8a1c8872cdf526be0a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e89a9da561246767178db59a1d43a8f775d0f3c89116fd879a40e50e437db47c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8cc4472ad56eeeca3f36cb5920b471f7e4e86d5fc62cef079bd36cf35f0fb5d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c3f7cd9e6669fc742261e2a71fe6fef89fee09aa390bc68bcdfb6bd0a5db8424.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1a4c045f1e22179143f693ee335821f43e8c8650581c210db07652e8579fcda4.jpg",
         "intro": null,
-        "description": "Obt\u00e9n acceso a este personaje adicional.",
+        "description": "Ricardo Espadas est\u00e1 disponible como personaje nuevo para jugar en Captain Tsubasa: Rise of New Champions.",
         "languages": null,
         "size": 4194304
     },
@@ -18249,6 +18518,128 @@
         "description": "Como una bonificaci\u00f3n por adquirir el pase de temporada, podr\u00e1s jugar con las variaciones roja y azul de Link y Zelda. Podr\u00e1s acceder a estos estilos sinf\u00f3nicos de inmediato.",
         "languages": null,
         "size": 5242880
+    },
+    "70050000022316": {
+        "id": "01006C100EC09004",
+        "rightsId": null,
+        "name": "Minecraft Dungeons: Monta\u00f1as aulladoras",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201209,
+        "nsuId": 70050000022316,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Mojang",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ca02f1dea7827f0855a8243cd46ee44ab6032c005911ec940f0144c665c47f75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d37db9082a93cbb467fabd875f8d6db7adb90e03c751577acee3ecd175b8066.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f0dd6173e31f0d4e7c1ba522cdf5e9c077bf1588f010ee1638b7a40c4c356fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/76ef7138b125061fa769f5e3c2168769de4d0f7938bc6ad738c5280fb1bbb779.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/72bac26978cb364c3aefcc40354706c97d0833e5e38fdf7a23f6969820cd0835.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/573a02ab648b950a8c71f6e10a900be6b40056ec7ec17c40b97a2fa0df4bf74b.jpg",
+        "intro": "El trayecto hasta la cima\n",
+        "description": "Un poder extra\u00f1o corrompi\u00f3 las monta\u00f1as de una cordillera lejana, que sol\u00edan estar abandonadas, y ahora amenaza con tomar el control del mundo entero. El trayecto hasta la cima incluye subidas y bajadas espectaculares, desde las nuevas armaduras, armas y artefactos impresionantes, hasta los nuevos enemigos feroces que encontrar\u00e1s entre los acantilados. Los nuevos enemigos, como el g\u00f3lem de r\u00e1faga y el monta\u00f1\u00e9s, esperan en la cima a cualquier personaje que se atreva a intentar robar la fuente de su poder. El g\u00f3lem de tempestad es la causa de todo este conflicto, y deber\u00e1s vencerlo antes de que se pierdan todas las esperanzas.\n- Explora tres misiones nuevas y emocionantes.\n- Enfrenta a las criaturas nuevas y aterradoras.\n- Derrota al g\u00f3lem de tempestad.\n- Resiste los vientos intensos.\n- Nuevas armas, armaduras y artefactos.\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022552": {
+        "id": "01006C100EC09005",
+        "rightsId": null,
+        "name": "Minecraft Dungeons DLC 4",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000022552,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Interacci\u00c3\u00b3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Mojang",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c6fd91a39186aabfff6f65298d8a9463d8116cb1930e20f21b10a9eb868c47d.jpg",
+        "intro": null,
+        "description": "Minecraft Dungeons DLC 4",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022553": {
+        "id": "01006C100EC09006",
+        "rightsId": null,
+        "name": "Minecraft Dungeons DLC 5",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000022553,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Interacci\u00c3\u00b3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Mojang",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c6fd91a39186aabfff6f65298d8a9463d8116cb1930e20f21b10a9eb868c47d.jpg",
+        "intro": null,
+        "description": "Minecraft Dungeons DLC 5",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000022554": {
+        "id": "01006C100EC09007",
+        "rightsId": null,
+        "name": "Minecraft Dungeons DLC 6",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000022554,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Interacci\u00c3\u00b3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Mojang",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c6fd91a39186aabfff6f65298d8a9463d8116cb1930e20f21b10a9eb868c47d.jpg",
+        "intro": null,
+        "description": "Minecraft Dungeons DLC 6",
+        "languages": null,
+        "size": 4194304
     },
     "70050000022582": {
         "id": "0100EAE010561007",
@@ -18685,6 +19076,99 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023829": {
+        "id": "01004A600EC0B001",
+        "rightsId": null,
+        "name": "IMMORTALS FENYX RISING - A New god",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 2021,
+        "nsuId": 70050000023829,
+        "category": null,
+        "ratingContent": [
+            "Lenguaje",
+            "Temas insinuantes",
+            "Violencia",
+            "Interacci\u00c3\u00b3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/355912c3d2451e479d8a725a041a3be667db8a5e708215437ae5af2c062dfe28.jpg",
+        "intro": null,
+        "description": "As Fenyx, overcome the trials of the gods of Olympos to join the Greek Pantheon and fulfill your destiny.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023830": {
+        "id": "01004A600EC0B002",
+        "rightsId": null,
+        "name": "IMMORTALS FENYX RISING - Myths of the Eastern Realm",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000023830,
+        "category": null,
+        "ratingContent": [
+            "Lenguaje",
+            "Temas insinuantes",
+            "Violencia",
+            "Interacci\u00c3\u00b3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/233e88836e07ae64c3b92c5651f548c34ce5d1134fd2c806bd2a26361d48fd53.jpg",
+        "intro": null,
+        "description": "Play a brand new story inspired by Chinese mythology, where you'll encounter new gods and fight exotic monsters in a distant land, as a new hero.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000023831": {
+        "id": "01004A600EC0B003",
+        "rightsId": null,
+        "name": "IMMORTALS FENYX RISING - The Lost gods",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000023831,
+        "category": null,
+        "ratingContent": [
+            "Lenguaje",
+            "Temas insinuantes",
+            "Violencia",
+            "Interacci\u00c3\u00b3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f50b078619255d34b97141bc94f3d75c2076f1ca23efbbd78a773fa295d9e72b.jpg",
+        "intro": null,
+        "description": "Experience a new brawler-style of combat in a top-down view! Meet a new hero embarking on an epic adventure to reunite the Greek gods.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000024088": {
         "id": "0100F2200C98501F",
         "rightsId": null,
@@ -18715,6 +19199,157 @@
         "description": "Viaja de vuelta a los\u00a090 con este tributo a la pel\u00edcula original de MK. El Paquete de Skins Pel\u00edcula kl\u00e1sica de MK incluye la imagen y voces de los personajes de la pel\u00edcula de 1995. Christopher Lambert como Raiden Protector de la Tierra, Linden Ashby como Johnny Cage Kombatiente de Hollywood y Bridgette Wilson-Sampras como Sonya Blade Rumbo a la isla.",
         "languages": null,
         "size": 4194304
+    },
+    "70050000024265": {
+        "id": "0100073011383001",
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Rhythm & Exercise Modo Infernal: Lin",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201207,
+        "nsuId": 70050000024265,
+        "category": null,
+        "ratingContent": [
+            "Sin Descriptores"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e8c936c70866fcd7106ae1c2b60e9ce7146e2c925058b9c359961126f9c6e4e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3cb0df5f10a76c3cfbb48e5fba1cf44ff351139aab53dc7a82d05f8f61f72ef2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/17ecef2cbcb7749eee92434f1d8434c4e2701b72a12ea14e5e961303e5320970.jpg",
+        "intro": "\u00a1Nada detiene a Lin!",
+        "description": "\u00a1Una nueva intensidad de ejercicio se ha a\u00f1adido para Lin!\n\nAhora podr\u00e1s probar la intensidad alta y baja, as\u00ed como el nuevo Modo Infernal. La instructora bondadosa que conoces te mostrar\u00e1 su lado despiadado. Ella est\u00e1 lista para ponerte a prueba.",
+        "languages": null,
+        "size": 11534336
+    },
+    "70050000024400": {
+        "id": "01004A600EC0B00C",
+        "rightsId": null,
+        "name": "Immortals Fenyx Rising - When The Road Gets Rocky",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000024400,
+        "category": null,
+        "ratingContent": [
+            "Lenguaje",
+            "Temas insinuantes",
+            "Violencia",
+            "Interacci\u00c3\u00b3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a355dd7020d8fb8aa49896d1efd9aa7920daa46ec8ae9a81ffdf10cfa356b3cc.jpg",
+        "intro": null,
+        "description": "Receive the bonus quest \"When the Road Gets Rocky\" and earn dedicated in-game rewards when you purchase the season pass today.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000024643": {
+        "id": "0100073011383006",
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Rhythm & Exercise Modo Infernal: Evan",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201207,
+        "nsuId": 70050000024643,
+        "category": null,
+        "ratingContent": [
+            "Sin Descriptores"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fcd260797ba7a1284c14ca5fdaa35194c064590d1e8fbe0005bd6efc2ac626cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c254f8621e06b0f8ce1587873ea917f0eeca107a007f1b5c1a2ac91a4bab5866.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af6d04530f6c55d038925227bd55731a604fd44f6e07140c1c6364d3b0b90813.jpg",
+        "intro": "\u00a1Nada detiene a Evan!",
+        "description": "\u00a1Una nueva intensidad de ejercicio se ha a\u00f1adido para Evan!\n\nAhora podr\u00e1s probar la intensidad alta y baja, as\u00ed como el nuevo Modo Infernal. El instructor bondadoso que conoces te mostrar\u00e1 su lado despiadado. \u00c9l est\u00e1 listo para ponerte a prueba.",
+        "languages": null,
+        "size": 11534336
+    },
+    "70050000024754": {
+        "id": "0100073011383009",
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Rhythm & Exercise Modo Infernal: Hiro",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024754,
+        "category": null,
+        "ratingContent": [
+            "Sin Descriptores"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d82a7eff67ff1f52180477bb16306fb05c6159d989bc8e9d18133a31ddb71e30.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ff612e39a64fad47dede01c22c152456e5f4b872c724c617206848ab219899a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/56928d75d3a30aa77be60ed93b4b9a6863334eaebc6fe0b0bd9cbea8b6ce2463.jpg",
+        "intro": "\u00a1Nada detiene a Hiro!",
+        "description": "\u00a1Una nueva intensidad de ejercicio se ha a\u00f1adido para Hiro!\n\nAhora podr\u00e1s probar la intensidad alta y baja, as\u00ed como el nuevo Modo Infernal. El instructor bondadoso que conoces te mostrar\u00e1 su lado despiadado. \u00c9l est\u00e1 listo para ponerte a prueba.",
+        "languages": null,
+        "size": 11534336
+    },
+    "70050000024816": {
+        "id": "0100073011383007",
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Rhythm & Exercise Modo Infernal: Karen",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201217,
+        "nsuId": 70050000024816,
+        "category": null,
+        "ratingContent": [
+            "Sin Descriptores"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b0998cbdf3686724a372042ac436ff86e9878d0d95b9591da88cd4fa113ca50a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/905d257e56d49838a0b8c0335f00b3dfddce3addec8a98776330ec6e6cf59e21.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/448425cb407cb3be1b2a3333003306b96ec2b540f514d6101eea4b51334b9f17.jpg",
+        "intro": "\u00a1Nada detiene a Karen!",
+        "description": "\u00a1Una nueva intensidad de ejercicio se ha a\u00f1adido para Karen!\n\nAhora podr\u00e1s probar la intensidad alta y baja, as\u00ed como el nuevo Modo Infernal. La instructora bondadosa que conoces te mostrar\u00e1 su lado despiadado. Ella est\u00e1 lista para ponerte a prueba.",
+        "languages": null,
+        "size": 11534336
     },
     "70070000000041": {
         "id": null,
@@ -19936,7 +20571,7 @@
         "intro": "El futuro es ahora. \u00bfEst\u00e1s con nosotros?",
         "description": "Overwatch: Legendary Edition incluye:\n\u2022\tC\u00f3digo para canjear para la suscripci\u00f3n de 3 meses de membres\u00eda individual de Nintendo Switch Online (Se aplican t\u00e9rminos. nintendo.com/switch-online)\n\u2022\tEl juego completo\n\u2022\t5 dise\u00f1os de h\u00e9roe legendarios\n\u2022\t5 dise\u00f1os de h\u00e9roe \u00e9picos\n\u2022\t5 dise\u00f1os de h\u00e9roe Origin\nEmpieza tu guardia\n\u00danete a la lucha por el futuro en el mundo de Overwatch\u00ae y elige a tu h\u00e9roe de entre una diversa lista de soldados, cient\u00edficos, aventureros y superdotados. Manipula el tiempo, desaf\u00eda la f\u00edsica y desata una gran variedad de armas y poderes extraordinarios. Enfr\u00e9ntate a tus enemigos en ubicaciones emblem\u00e1ticas de todas partes del mundo en el juego de disparos por equipos definitivo.\nVive lo extraordinario\nAcelera y ralentiza el tiempo. Haz llover destrucci\u00f3n desde lo alto en una armadura experimental con propulsores. Acecha a tu presa como un asesino espectral que puede aparecer en cualquier lugar en cualquier momento. Desata poderes como Golpe drag\u00f3n, Trascendencia, Oleada de gravitones y muchos m\u00e1s. Cada h\u00e9roe tiene un conjunto de habilidades \u00fanicas y devastadoras capaces de alterar el curso de la partida.\nJuega con h\u00e9roes, no clases\nCada h\u00e9roe tiene una perspectiva \u00fanica en el campo de batalla y una historia detr\u00e1s de c\u00f3mo lleg\u00f3 hasta all\u00ed. Puedes ser un campe\u00f3n de una era antigua que blande su martillo propulsado en servicio del honor, un monje rob\u00f3tico que tiene como misi\u00f3n sanar las grietas entre la humanidad y las m\u00e1quinas, o un gorila dise\u00f1ado gen\u00e9ticamente que resulta ser tambi\u00e9n un brillante cient\u00edfico, entre muchos otros.\nLucha por el futuro... en equipo\nEl trabajo en equipo ser\u00e1 fundamental para la supervivencia cuando ingreses al campo de batalla con amigos y compa\u00f1eros. Una coordinaci\u00f3n minuciosa puede marcar la diferencia entre la victoria y la derrota al momento de combinar en equipo los formidables poderes que tienen a disposici\u00f3n para provocar un efecto devastador.\nCambia tu perspectiva\nJusto cuando parece que tu equipo est\u00e1 destinado a sufrir una derrota, cambia de h\u00e9roe en cualquier momento y modifica el curso de la batalla. Pero no olvides que tus oponentes pueden hacer lo mismo. Domina el juego dentro de la partida al tiempo que ambos equipos cambian de estrategia y de h\u00e9roe para obtener una ventaja sobre su rival.\nEl mundo es tu campo de batalla\nProtege los secretos del misterioso Templo de Anubis en Egipto, escolta un dispositivo PEM para que llegue a salvo a destino por King\u2019s Row en Londres y libra batallas en muchas m\u00e1s ubicaciones \u00fanicas. Todos los mapas tienen caracter\u00edsticas distintivas propias, con objetivos por equipos y estilos de juego singulares.",
         "languages": null,
-        "size": 14732492800
+        "size": 15393095680
     },
     "70070000008561": {
         "id": null,
@@ -20106,7 +20741,8 @@
         "category": null,
         "ratingContent": [
             "Violencia de fantasia",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -20126,7 +20762,7 @@
         "intro": null,
         "description": "\"\u00a1Disfruta un juego de acci\u00f3n y aventura, inspirado en los cl\u00e1sicos de mazmorras y basado en el universo de Minecraft! \u00a1Recorre las mazmorras por tu cuenta o con tus amigos! Hasta cuatro jugadores pueden recorrer los diferentes niveles llenos de acci\u00f3n y tesoros para salvar a los aldeanos y derrotar al malvado Archillano.\n\nLa edici\u00f3n de h\u00e9roe incluye el contenido descargable La jungla se despierta, el contenido descargable El Invierno Rastrero, una capa de h\u00e9roe, dos aspectos de jugador y una gallina mascota.\n\n\u2022\tARMA TU EQUIPO: Hasta cuatro jugadores pueden combatir juntos en modo cooperativo. \n\u2022\tPREP\u00c1RATE PARA EL COMBATE: \u00a1Personaliza tu personaje y pelea con las armas cuerpo a cuerpo, utiliza los ataques a distancia o arremete contra las hordas de criaturas con armaduras pesadas! Desbloquea varias docenas de objetos \u00fanicos y encantamientos de armas para hacer ataques especiales devastadores. \n\u2022\tSOBREVIVE: \u00a1Explora los niveles llenos de acci\u00f3n y tesoros para salvar a los aldeanos y derrotar al malvado Archillano!\"\n",
         "languages": null,
-        "size": 4859101184
+        "size": 4940890112
     },
     "70070000008805": {
         "id": null,
@@ -20141,7 +20777,8 @@
         "category": null,
         "ratingContent": [
             "Violencia de fantasia",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -20399,14 +21036,15 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/4524887798f608d939aaf41f8fbcd14e8e4bf826df2149b0b86abe90d236d9a9.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/1082a43a1566dc88b875faca980969916b30976213b2d5c8636e18ab9ccfd6c2.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/8ba126dea2c82f92aa1388284624485fecf0c598a8a80836ac41b4efcea94ddd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39a117ef0605dc18f879d73d2736e210e61f690e607083d3e0de7f30e6661521.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f63ea055ccf19501e56551404e741e1836bc62b4370649ccf12a12095823c5f9.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b0d3f0ed1a2c1060f2731113633658fe66b8f13b8eed56f0610554b892b8fd69.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd2b31900908fa299444d35836d4ae468c0462160e35d36cf218482ac4ffca9b.jpg",
         "intro": "\u00a1Expande tu elenco de combatientes con el pase de combatientes VOL. 2 de Super Smash Bros.\u2122 Ultimate!",
-        "description": "\u00a1Expande tu elenco de combatientes con el pase de combatientes vol. 2 de Super Smash Bros.\u2122 Ultimate para el juego Super Smash Bros.\u2122 Ultimate! Tras adquirir el pase de combatientes tendr\u00e1s acceso a contenido adicional que incluye seis combatientes jugables, m\u00e1s escenarios y temas musicales una vez que est\u00e9n disponibles. \u00a1Los combatientes adicionales incluyen a Min Min del juego ARMS\u2122 as\u00ed como a Steve y Alex de Minecraft\u2122!\n\nEl pase de combatientes VOL. 2 de Super Smash Bros. Ultimate es un set que incluye seis paquetes de combatientes.\n\nEl contenido del paquete de combatiente 8 hasta el paquete de combatiente 11 a\u00fan no han sido anunciado, pero se incluye con la compra de este pase de combatientes.\n\nEl paquete de combatiente 6 incluye a Min Min como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 7 incluye a Steve y Alex como combatiente jugable, un escenario y varias melod\u00edas.\n\nEn la compra de este pase de combatientes vol. 2 no se incluye el contenido del paquete de combatiente 1 hasta el paquete de combatiente 5 del anterior pase de combatientes para Super Smash Bros. Ultimate que se vende por separado.\n\n\n",
+        "description": "\u00a1Expande tu elenco de combatientes con el pase de combatientes vol. 2 de Super Smash Bros.\u2122 Ultimate para el juego Super Smash Bros.\u2122 Ultimate! Tras adquirir el pase de combatientes tendr\u00e1s acceso a contenido adicional que incluye seis combatientes jugables, m\u00e1s escenarios y temas musicales una vez que est\u00e9n disponibles. \u00a1Los combatientes adicionales incluyen a Min Min del juego ARMS\u2122, Steve y Alex de Minecraft\u2122, as\u00ed como Sephiroth de la serie Final Fantasy!\n\nEl pase de combatientes VOL. 2 de Super Smash Bros. Ultimate es un set que incluye seis paquetes de combatientes.\n\nEl contenido del paquete de combatiente 9 hasta el paquete de combatiente 11 no ha sido anunciado, pero se incluye con la compra de este pase de combatientes.\n\nEl paquete de combatiente 6 incluye a Min Min como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 7 incluye a Steve y Alex como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 8 incluye a Sephiroth como combatiente jugable, un escenario y varias melod\u00edas. \n\nEn la compra de este pase de combatientes vol. 2 no se incluye el contenido del paquete de combatiente 1 hasta el paquete de combatiente 5 del anterior pase de combatientes para Super Smash Bros. Ultimate que se vende por separado.\n\n\n\n",
         "languages": null,
-        "size": 29360128
+        "size": 28311552
     },
     "70070000010144": {
         "id": null,
@@ -20477,6 +21115,31 @@
         "description": "\u00a1Disfruta del triple de caos, el triple de bot\u00edn y el triple de acci\u00f3n con la Colecci\u00f3n Legendaria de Borderlands! Mata bandidos y bestias, colecciona armas poderosas y puede que hasta tengas tiempo de salvar al universo en Borderlands: Edici\u00f3n Juego del a\u00f1o, Borderlands 2 y Borderlands: The Pre-Sequel, adem\u00e1s de contenido adicional para cada juego, con m\u00e1s de 100 horas de juego extra a un precio incre\u00edble*.\n\u2022 Disfruta de los tres juegos en solitario, en modo cooperativo local de dos con la pantalla dividida o con hasta cuatro jugadores en l\u00ednea.\n\u2022 Borderlands: Edici\u00f3n Juego del a\u00f1o: \u00a1Descubre el shooter cooperativo original, repleto de contenido y mejoras! Equ\u00edpate con tropecientas armas como uno de los 4 mercenarios con habilidades \u00fanicas. \u00c1brete paso por Pandora en busca de poderosa tecnolog\u00eda alien\u00edgena: la C\u00e1mara.\n\u2022 Borderlands 2: Juega como uno de los seis buscac\u00e1maras para intentar liberar a Pandora de Jack el Guapo, presidente y genio malvado. Haz nuevos amigos, equ\u00edpalos con tropecientas armas y lucha junto a ellos en vuestra incansable b\u00fasqueda de venganza y redenci\u00f3n.\n\u2022 Borderlands: The Pre-Sequel: Descubre la historia que hay tras Jack el Guapo, el villano de Borderlands 2, y su ascenso al poder. Situada entre el Borderlands original y Borderlands 2, la precuela de la secuela te ofrece una nueva experiencia de juego en la que disfrutar\u00e1s de la caracter\u00edstica fusi\u00f3n de shooter y juego de rol que ha conquistado ya a tantos jugadores.\n*Borderlands 2: La comandante Lilith y la lucha por Sanctuary se vende por separado.",
         "languages": null,
         "size": 23493345280
+    },
+    "70070000010402": {
+        "id": null,
+        "rightsId": null,
+        "name": "Immortals Fenyx Rising\u2122 Season Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201207,
+        "nsuId": 70070000010402,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6a2012d13f9fad7a8fce8d1c443fa910bb1f99ac3ccb880b0237d9b106a5c6d2.jpg",
+        "intro": null,
+        "description": "Expand your Immortals Fenyx Rising\u2122 adventure with the season pass - including three narrative DLCs for even more epic adventures and puzzles: \n\"\"A New God\"\": As Fenyx, overcome the trials of the gods of Olympus to join the Greek Pantheon and fulfill your destiny. \n\"\"Myths of the Eastern Realms\"\":  Play a brand-new story inspired by Chinese mythology, where you'll encounter new gods and fight exotic monsters in a distant land as a new hero.\n\"\"The Lost Gods\"\": Experience a new brawler-style of combat in a top-down view!  Meet a new hero embarking on an epic adventure to reunite the Greek gods. \n\nReceive the bonus quest - \"\"When the Road Gets Rocky\"\" - and earn dedicated in-game rewards when you purchase the season pass today.",
+        "languages": null,
+        "size": 0
     },
     "70070000010562": {
         "id": null,
@@ -20569,7 +21232,7 @@
         "intro": null,
         "description": "Prosigue tu misi\u00f3n de crear el mayor imperio con Civilization VI - Pase de nuevas fronteras, que cuenta con ocho civilizaciones adicionales, nueve l\u00edderes m\u00e1s y gran variedad de contenido, incluidos seis nuevos modos de juego. El Pase de nuevas fronteras entregar\u00e1 seis packs de contenido descargable de manera bimestral entre mayo de 2020 y marzo de 2021, que incluyen:\n\n\u2022 Pack 1: pack de los mayas y la Gran Colombia. A\u00f1ade dos civilizaciones y dos l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s ciudades-estado, recursos y maravillas naturales. Disponible en mayo de 2020.\n\u2022 Pack 2: pack de Etiop\u00eda. A\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional*, un distrito y dos edificios m\u00e1s. Disponible en julio de 2020.\n\u2022 Pack 3: a\u00f1ade dos civilizaciones y l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s maravillas naturales y un mapa nuevo. Disponible en septiembre de 2020.\n\u2022 Pack 4: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s ciudades-estado y numerosos grandes personajes. Disponible en noviembre de 2020.\n\u2022 Pack 5: a\u00f1ade una civilizaci\u00f3n y dos l\u00edderes nuevos**, un modo de juego adicional, un distrito y dos edificios m\u00e1s. Disponible en enero de 2021.\n\u2022 Pack 6: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s maravillas del mundo y un mapa nuevo. Disponible en marzo de 2021. \n\n*Para jugar a este nuevo modo se requiere el lote de expansi\u00f3n de Civilization VI.\n**Para jugar con este l\u00edder nuevo se requiere el lote de expansi\u00f3n de Civilization VI.\n\nLos modos de juego pueden incluir contenido adicional \u2013como nuevas unidades, edificios o mejoras\u2013 y pueden activarse o desactivarse durante la configuraci\u00f3n de la partida para aplicar cambios importantes y de gran impacto en las reglas del juego.\n\nBonificaci\u00f3n exclusiva: packs de personalidades de Teddy Roosevelt y de Catalina de M\u00e9dici. Cada pack de personalidades contiene una aproximaci\u00f3n distinta a un l\u00edder favorito, con nuevos modelos, trasfondos y bonificaciones de juego y una agenda actualizada que refleja los cambios en la personalidad del l\u00edder. Los packs de personalidades est\u00e1n disponibles en exclusiva para quienes tengan el New Frontier Pass y se entregar\u00e1n con el segundo pack de a\u00f1adidos.",
         "languages": null,
-        "size": 2051014656
+        "size": 2040528896
     },
     "70070000010681": {
         "id": null,
@@ -20604,7 +21267,7 @@
         "intro": "\u00a1Lucha sin l\u00edmites!",
         "description": "El mundo de la WWE es tu campo de batalla. \u00danete a intensos combates arcade nunca vistos y haz que tus Superstars y leyendas preferidas luchen entre s\u00ed en peculiares entornos interactivos con un arsenal de movimientos, habilidades y potenciadores. \u00a1Libra tus combates preferidos, Steel Cage, Royal Rumble, Fatal 4-Way y muchos m\u00e1s, mientras Mauro Ranallo y Jerry \"The King\" Lawler comentan el caos!\nDesata el infierno con Stone Cold Steve Austin, reparte golpes a diestra y siniestra con la versi\u00f3n de The Rock de la Attitude Era y arma un buen esc\u00e1ndalo con Ronda Rousey. WWE 2K Battlegrounds Digital Deluxe Edition incluye tres versiones de cada Superstar, adem\u00e1s de la bonificaci\u00f3n de reserva: Edge. Tambi\u00e9n viene con 1100 Golden Bucks extra para desbloquear m\u00e1s leyendas y Superstars de la WWE.",
         "languages": null,
-        "size": 9992929280
+        "size": 11015290880
     },
     "70070000010881": {
         "id": null,
@@ -20666,7 +21329,7 @@
         "intro": "\u00a1Vive un s\u00faper enfrentamiento lleno de acci\u00f3n y f\u00fatbol sin igual en Captain Tsubasa!",
         "description": "La Deluxe Edition incluye:\n- Captain Tsubasa: Rise of New Champions (juego completo)\n- Pase de personajes\n\nExtras con la Deluxe Edition:\n- Accesorios de V Jump.\n\nCaptain Tsubasa: Rise of New Champions, basado en la serie de anim\u00e9 tan aclamada en todo el mundo, es un juego de f\u00fatbol y acci\u00f3n con las gr\u00e1ficas m\u00e1s nuevas y todas las jugadas espectaculares que ser\u00e1n el deleite de chicos y grandes.",
         "languages": null,
-        "size": 13977518080
+        "size": 14730395648
     },
     "70070000010923": {
         "id": null,
@@ -20698,7 +21361,7 @@
         "intro": "\u00a1Un buen juego de golf!",
         "description": "La Digital Deluxe Edition incluye el Golden Touch Pack, que contiene un driver y un putter chapados en oro, adem\u00e1s del 2K/adidas CodeChaos MyPLAYER Pack, que contiene los zapatos de golf adidas CodeChaos BOA y la camiseta de polo, los pantalones y el sombrero adidas/2K CodeChaos personalizados, que dise\u00f1\u00f3 adidas exclusivamente para PGA TOUR 2K21. \u00a1Los jugadores tambi\u00e9n recibir\u00e1n 2300 monedas adicionales para desbloquear equipo de MyPLAYER adicional para jugar con estilo!",
         "languages": null,
-        "size": 8884584448
+        "size": 8953790464
     },
     "70070000010935": {
         "id": null,
@@ -20817,7 +21480,7 @@
         "intro": null,
         "description": "NBA 2K21 es la nueva entrega de la famosa serie superventas NBA 2K e incluye innovaciones para la pr\u00f3xima generaci\u00f3n, a la vez que sigue siendo una de las principales referencias dentro del g\u00e9nero de videojuegos de deportes en la actual generaci\u00f3n de plataformas.\n \n Gracias a las importantes mejoras realizadas en la jugabilidad, los gr\u00e1ficos, las funciones en l\u00ednea comunitarias y competitivas, y con una gran variedad de modos de juego, NBA 2K21 ofrece una experiencia \u00fanica llena de baloncesto y cultura de la NBA. Donde Este juego lo es todo.\n\nNBA 2K21 Mamba Forever Edition incluye los siguientes objetos digitales:\n \u2022 100 000 VC \n \u2022 10 000 puntos de MyTEAM\n \u2022 10 fichas de MyTEAM\n \u2022 60 potenciadores de habilidades de MyCAREER\n \u2022 40 paquetes Promoci\u00f3n de MyTEAM (10 a fecha de lanzamiento; despu\u00e9s, 3 a la semana)\n \u2022 2 cartas Zafiro de MyTEAM del deportista de portada Standard Edition\n \u2022 Colecci\u00f3n de zapatillas de MyPLAYER\n \u2022 Mochila para MyPLAYER\n \u2022 Colecci\u00f3n digital de Kobe Bryant",
         "languages": null,
-        "size": 43459280896
+        "size": 43770707968
     },
     "70070000011195": {
         "id": null,
@@ -20848,7 +21511,7 @@
         "intro": null,
         "description": "\u00a1La experiencia MK11 definitiva! Juega como los protectores de la Tierra en 2\u00a0aclamadas historias donde el tiempo se distorsiona en una lucha para impedir que Kronika regrese el tiempo y reinicie la historia. Con el reparto completo de 37\u00a0luchadores, incluyendo a Rain, Mileena y Rambo.\n\nIncluye MK11, el Paquete\u00a0de\u00a0Kombate\u00a01, la expansi\u00f3n Aftermath y el Paquete\u00a0de\u00a0Kombate\u00a02.\n\n\u2022 Disfruta de las 2\u00a0historias aclamadas por la cr\u00edtica: MK11 y MK11: Aftermath\n\u2022 Juega como cada uno de los 37\u00a0personajes, incluyendo a los recientemente a\u00f1adidos Mileena, Rain y Rambo\n\u2022 Miles de skins, armas y equipo que te ofrecen un nivel de personalizaci\u00f3n sin precedentes\n\u2022 Incluye a todos los invitados previos: Terminator, el Guas\u00f3n, Spawn y RoboCop\n\u2022 Todos los modos, incluyendo las Torres del Tiempo, la Kripta, En l\u00ednea, Torres Kl\u00e1sicas, etc.\n\u2022 Todas las arenas, Fatalities de arena, Brutalities, y los ic\u00f3nicos Fatalities y Friendships",
         "languages": null,
-        "size": 35071721472
+        "size": 34997272576
     },
     "70070000011197": {
         "id": null,
@@ -20880,6 +21543,43 @@
         "description": "El Paquete de Kombate\u00a02 incluye a los luchadores Mileena, Rain y al emblem\u00e1tico invitado Rambo, con la imagen y voz del actor Sylvester\u00a0Stallone.\n\nRambo\n\nUn exsoldado de las Fuerzas Especiales turbado por su tiempo en Vietnam. Es duro, agresivo y famoso por enfrentar misiones peligrosas \u00e9l solo. Ahora, Rambo trae sus brutales habilidades a Mortal\u00a0Kombat.\n\nMileena\n\nMileena es la mezcla perfecta de la ferocidad de Baraka con la gracia de Kitana. Al transportarse al futuro, este clon ahora sabe de su tiempo como emperatriz y su muerte a manos de Kotal Kahn. Est\u00e1 determinada a reclamar su trono.\n\nRain\n\nRain se uni\u00f3 al ej\u00e9rcito para mejorar su futuro. Gracias a su genio estrat\u00e9gico, se encontr\u00f3 r\u00e1pidamente en una posici\u00f3n de mando. Rain us\u00f3 su rango para encontrar a su padre biol\u00f3gico quien result\u00f3 ser, para su sorpresa, un dios. Rain lucha por su leg\u00edtimo lugar entre los dioses de Edenia.",
         "languages": null,
         "size": 12582912
+    },
+    "70070000011279": {
+        "id": null,
+        "rightsId": null,
+        "name": "Immortals Fenyx Rising\u2122 Gold Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201207,
+        "nsuId": 70070000011279,
+        "category": null,
+        "ratingContent": [
+            "Lenguaje",
+            "Temas insinuantes",
+            "Violencia",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6b098446d060de81a585f2be3b1037e802dcce4646546593d989d8b94d8e640e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39d00170f5c00e973d33ad6e449cb1b17624d6374f6e59287b3eb8aef3993b4d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4fb755ba557cf13e1743e1d54bea4c9f03c1ca7da9d3e1424d0e27657117ebbc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03ae6f7ab7ba8ee7c3f6be65d79f4d2e8095971831292348ec7032797f3fb2e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db2d7c416c6b696a86c89a146f8e81647bab92047fbacac7d296bb9db10a7952.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7da74f79d46656c8fe4606c8fed362df5a993b7dacf22e4c0f31f392d45a00b2.jpg",
+        "intro": null,
+        "description": "Receive the game, season pass, and exclusive in-game content with the Gold Edition. \n\nImmortals Fenyx Rising\u2122 brings grand mythological adventure to life. Play as Fenyx, a new, winged demigod, on a quest to save the Greek gods. \n\n- Wield the powers of the gods like Achilles' sword and Daidalos' wings to battle powerful enemies and solve ancient puzzles.\n- Fight iconic mythological beasts like Cyclops and Medusa in dynamic combat in the air and on the ground. \n- Use your skills and diverse weapons, including self-guided arrows, telekinesis, and more, for devastating damage.  \n- Discover a stylized open world across seven unique regions, each inspired by the gods.",
+        "languages": null,
+        "size": 16521363456
     },
     "70070000011395": {
         "id": null,
