@@ -4235,7 +4235,7 @@
         "developer": null,
         "publisher": "Team Meat",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/683285a563ca13e8ad0252921007c656ff1579afde7fac2318a9abae72bbde4d.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/56dbf8b6134be0eda646786966998098092f707b00c0bcfb8cc03f5ea928037a.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/d56a414e4aa10ff222f2b922bd5a71601ef4af64937910bb3a6ac12c71dbb45d.jpg",
             "https://img-eshop.cdn.nintendo.net/i/7dc00d47b8975c58fc0f47f6e09a774b620dab09f89b9c9a657fc552565d24f6.jpg",
@@ -4261,7 +4261,7 @@
             "zh",
             "zh"
         ],
-        "size": 5895094272
+        "size": 6845104128
     },
     "70010000018062": {
         "id": "0100EBB00D2F4000",
@@ -19201,6 +19201,66 @@
         "description": "Viaja de vuelta a los\u00a090 con este tributo a la pel\u00edcula original de MK. El Paquete de Skins Pel\u00edcula kl\u00e1sica de MK incluye la imagen y voces de los personajes de la pel\u00edcula de 1995. Christopher Lambert como Raiden Protector de la Tierra, Linden Ashby como Johnny Cage Kombatiente de Hollywood y Bridgette Wilson-Sampras como Sonya Blade Rumbo a la isla.",
         "languages": null,
         "size": 4194304
+    },
+    "70050000024150": {
+        "id": "0100E1F013675041",
+        "rightsId": null,
+        "name": "Lil Uzi Vert - \"XO Tour Llif3\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201229,
+        "nsuId": 70050000024150,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9231fb51f8de9c7c0795fb39a7b925755eb80bbb95f9f4310f9a86d364e1c101.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abXO Tour Llif3\u00bb de Lil Uzi Vert! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 6291456
+    },
+    "70050000024151": {
+        "id": "0100E1F013675042",
+        "rightsId": null,
+        "name": "Jack Harlow - \"WHATS POPPIN\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201229,
+        "nsuId": 70050000024151,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/84d139533e12b1a688f4c9de2d4b3a619793c5c8a35a2656ef6856fcbb2425a7.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abWHATS POPPIN\u00bb de Jack Harlow! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 5242880
     },
     "70050000024265": {
         "id": "0100073011383001",
