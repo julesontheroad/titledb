@@ -2710,7 +2710,7 @@
             "ru",
             "ko"
         ],
-        "size": 12320768000
+        "size": 12421431296
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -4261,7 +4261,7 @@
             "zh",
             "zh"
         ],
-        "size": 6845104128
+        "size": 6866075648
     },
     "70010000018062": {
         "id": "0100EBB00D2F4000",
@@ -4950,7 +4950,7 @@
             "ru",
             "ko"
         ],
-        "size": 15393095680
+        "size": 15744368640
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -8759,6 +8759,38 @@
         "languages": null,
         "size": 3115319296,
         "parentId": "0100F4C009322000"
+    },
+    "70030000012477": {
+        "id": null,
+        "rightsId": null,
+        "name": "Demo de Captain Tsubasa: Rise of New Champions",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012477,
+        "category": null,
+        "ratingContent": [
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Violencia moderada",
+            "Interacci\u00c3\u00b3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1668284416,
+        "parentId": "0100EAE010560000"
     },
     "70030000012478": {
         "id": null,
@@ -19081,12 +19113,12 @@
     "70050000023829": {
         "id": "01004A600EC0B001",
         "rightsId": null,
-        "name": "IMMORTALS FENYX RISING - A New god",
+        "name": "IMMORTALS FENYX RISING - Myths of the Eastern Realm",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 2021,
+        "releaseDate": 20211231,
         "nsuId": 70050000023829,
         "category": null,
         "ratingContent": [
@@ -19103,16 +19135,16 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/355912c3d2451e479d8a725a041a3be667db8a5e708215437ae5af2c062dfe28.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/233e88836e07ae64c3b92c5651f548c34ce5d1134fd2c806bd2a26361d48fd53.jpg",
         "intro": null,
-        "description": "As Fenyx, overcome the trials of the gods of Olympos to join the Greek Pantheon and fulfill your destiny.",
+        "description": "Play a brand new story inspired by Chinese mythology, where you'll encounter new gods and fight exotic monsters in a distant land, as a new hero.",
         "languages": null,
         "size": 4194304
     },
     "70050000023830": {
         "id": "01004A600EC0B002",
         "rightsId": null,
-        "name": "IMMORTALS FENYX RISING - Myths of the Eastern Realm",
+        "name": "IMMORTALS FENYX RISING - The Lost gods",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -19134,9 +19166,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/233e88836e07ae64c3b92c5651f548c34ce5d1134fd2c806bd2a26361d48fd53.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f50b078619255d34b97141bc94f3d75c2076f1ca23efbbd78a773fa295d9e72b.jpg",
         "intro": null,
-        "description": "Play a brand new story inspired by Chinese mythology, where you'll encounter new gods and fight exotic monsters in a distant land, as a new hero.",
+        "description": "Experience a new brawler-style of combat in a top-down view! Meet a new hero embarking on an epic adventure to reunite the Greek gods.",
         "languages": null,
         "size": 4194304
     },
@@ -20878,7 +20910,7 @@
         "intro": "El futuro es ahora. \u00bfEst\u00e1s con nosotros?",
         "description": "Overwatch: Legendary Edition incluye:\n\u2022\tEl juego completo\n\u2022\t5 dise\u00f1os de h\u00e9roe legendarios\n\u2022\t5 dise\u00f1os de h\u00e9roe \u00e9picos\n\u2022\t5 dise\u00f1os de h\u00e9roe Origin\nEmpieza tu guardia\n\u00danete a la lucha por el futuro en el mundo de Overwatch\u00ae y elige a tu h\u00e9roe de entre una diversa lista de soldados, cient\u00edficos, aventureros y superdotados. Manipula el tiempo, desaf\u00eda la f\u00edsica y desata una gran variedad de armas y poderes extraordinarios. Enfr\u00e9ntate a tus enemigos en ubicaciones emblem\u00e1ticas de todas partes del mundo en el juego de disparos por equipos definitivo.\nVive lo extraordinario\nAcelera y ralentiza el tiempo. Haz llover destrucci\u00f3n desde lo alto en una armadura experimental con propulsores. Acecha a tu presa como un asesino espectral que puede aparecer en cualquier lugar en cualquier momento. Desata poderes como Golpe drag\u00f3n, Trascendencia, Oleada de gravitones y muchos m\u00e1s. Cada h\u00e9roe tiene un conjunto de habilidades \u00fanicas y devastadoras capaces de alterar el curso de la partida.\nJuega con h\u00e9roes, no clases\nCada h\u00e9roe tiene una perspectiva \u00fanica en el campo de batalla y una historia detr\u00e1s de c\u00f3mo lleg\u00f3 hasta all\u00ed. Puedes ser un campe\u00f3n de una era antigua que blande su martillo propulsado en servicio del honor, un monje rob\u00f3tico que tiene como misi\u00f3n sanar las grietas entre la humanidad y las m\u00e1quinas, o un gorila dise\u00f1ado gen\u00e9ticamente que resulta ser tambi\u00e9n un brillante cient\u00edfico, entre muchos otros.\nLucha por el futuro... en equipo\nEl trabajo en equipo ser\u00e1 fundamental para la supervivencia cuando ingreses al campo de batalla con amigos y compa\u00f1eros. Una coordinaci\u00f3n minuciosa puede marcar la diferencia entre la victoria y la derrota al momento de combinar en equipo los formidables poderes que tienen a disposici\u00f3n para provocar un efecto devastador.\nCambia tu perspectiva\nJusto cuando parece que tu equipo est\u00e1 destinado a sufrir una derrota, cambia de h\u00e9roe en cualquier momento y modifica el curso de la batalla. Pero no olvides que tus oponentes pueden hacer lo mismo. Domina el juego dentro de la partida al tiempo que ambos equipos cambian de estrategia y de h\u00e9roe para obtener una ventaja sobre su rival.\nEl mundo es tu campo de batalla\nProtege los secretos del misterioso Templo de Anubis en Egipto, escolta un dispositivo PEM para que llegue a salvo a destino por King\u2019s Row en Londres y libra batallas en muchas m\u00e1s ubicaciones \u00fanicas. Todos los mapas tienen caracter\u00edsticas distintivas propias, con objetivos por equipos y estilos de juego singulares.",
         "languages": null,
-        "size": 15393095680
+        "size": 15744368640
     },
     "70070000008561": {
         "id": null,
@@ -21602,7 +21634,10 @@
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bc3e879baa78bcd044e7759de918b88f4ff39a0a072a5e072ee2f0eb5f71f356.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/496f604d552baba75a79d7cab65dbd8c26161cd0d7b8d357a69d162c0b8c8e00.jpg"
+        ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/02ebc11d42315b74c2624527bc78978663c72fe35e7a051e3e28a82556adcbd7.jpg",
         "intro": null,
         "description": "El pase de personajes te proporciona a 9 personajes que se pueden utilizar en Captain Tsubasa: Rise of New Champions.\n\nExtras con el pase de personajes:\n- Set de uniforme de nuevos campeones.",
