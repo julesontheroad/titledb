@@ -5847,7 +5847,7 @@
             "nl",
             "ru"
         ],
-        "size": 16521363456
+        "size": 16555966464
     },
     "70010000022226": {
         "id": "01002C000E35E000",
@@ -6088,6 +6088,51 @@
             "pt"
         ],
         "size": 231735296
+    },
+    "70010000024248": {
+        "id": "01008CA00FAE8000",
+        "rightsId": null,
+        "name": "STAR WARS\u2122 Jedi Knight: Jedi Academy",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210111,
+        "nsuId": 70010000024248,
+        "category": [
+            "Acci\u00f3n",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Aspyr",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ddf6d69bc68f3e450b0afe566f4a19829067e837705ff7b945719c6beb3fcf23.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/87c42c91b1b2d335ca6755188900c956d72c8324a4c3b5e98a856269c8fd6355.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/edd0ca3024c67f4af2ec14c1966a7a4bc50ed3d610500e547c6163b0b183f4fc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/459a566a86ebd3287967807247dae731cd09c26fed08ddb7dc726475a9a5bc8a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/183dd6c60ecebbccde7d752492b81b3d30b6f4dcd5ff3835c4edadb14ba3bd1a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f72d74aeec854f2bd712eb3a4535234db712039295baf51795b9f969ed62713e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e6b9b407d08711c32b0c5f735dfc74d481c0b7dc59fe4076053655c0ea179bc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5ee9a017c6ef1f075c403ed68bd9a57e1618f1ca87eedc4d5628da54a4a2f34a.jpg",
+        "intro": "Forja tu arma y sigue la senda de los Jedi",
+        "description": "\u00a1El cl\u00e1sico multijugador online llega a Nintendo Switch\u2122 con controles modernizados! Ponte en la piel de un nuevo estudiante y aprende los caminos de la Fuerza con el Maestro Jedi Luke Skywalker.\n\n- Juega hasta con 16 jugadores en seis modos multijugador online, incluidos Asedio, Captura la bandera y Todos contra todos.\n\n- Personaliza la apariencia y el g\u00e9nero de tu personaje antes de acceder a la Academia para aprender el poder y los peligros de la Fuerza.\n\n- Crea tu propio sable l\u00e1ser desde la empu\u00f1adura hasta la hoja. Al progresar, descubre el poder de blandir dos sables l\u00e1ser o el famoso sable l\u00e1ser de doble hoja de Darth Maul.\n\n- Interact\u00faa con personajes famosos de STAR WARS en escenarios cl\u00e1sicos de la saga mientras te enfrentas a la decisi\u00f3n definitiva: luchar por el bien y la libertad en el Lado Luminoso o seguir el camino del poder y el mal en el Lado Oscuro.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh"
+        ],
+        "size": 3974103040
     },
     "70010000025496": {
         "id": "0100D0B00FB74000",
@@ -19690,6 +19735,218 @@
         "languages": null,
         "size": 11534336
     },
+    "70050000024817": {
+        "id": "0100E1F013675046",
+        "rightsId": null,
+        "name": "Look Pack: Decommodification",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210114,
+        "nsuId": 70050000024817,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/581c38f2ebc2d2b0a6ef4a9a1cbed179ac3a7c97e633fe4a92a7b925c1256462.jpg",
+        "intro": null,
+        "description": "Dale un toque especial a tu atuendo FUSER\u2122 con este pack de aspecto , que contiene:\nDirty Dussel Thin Vest, Dirty Dussel Command Trouser\nRequiere el juego principal FUSER\u2122.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000024818": {
+        "id": "0100E1F013675047",
+        "rightsId": null,
+        "name": "Kat DeLuna ft. Elephant Man - \"Whine Up\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210114,
+        "nsuId": 70050000024818,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/61dd16f409e04bc86f5b4d8aff5cdde3654214da8a9c6f70829f33234e37f616.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abWhine Up\u00bb de Kat Deluna ft. Elephant Man! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 9437184
+    },
+    "70050000024819": {
+        "id": "0100E1F013675048",
+        "rightsId": null,
+        "name": "Ricky Martin - \"Livin' La Vida Loca\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210114,
+        "nsuId": 70050000024819,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/023731bbd6a50c589469a203e4ec9b5608817a7062aa60e0752ed80ab00cfd7b.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abLivin' La Vida Loca\u00bb de Ricky Martin! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 7340032
+    },
+    "70050000024820": {
+        "id": "0100E1F013675049",
+        "rightsId": null,
+        "name": "Chaka Demus & Pliers - \"Murder She Wrote\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210114,
+        "nsuId": 70050000024820,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/18e3b87e9259003880e734e8c7bf4e7f938da204b4a6ada0de0d80167a623ea1.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abMurder She Wrote\u00bb de Chaka Demus & Pliers! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 6291456
+    },
+    "70050000025013": {
+        "id": "0100073011383003",
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Rhythm & Exercise Modo Infernal: Martina",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210114,
+        "nsuId": 70050000025013,
+        "category": null,
+        "ratingContent": [
+            "Sin Descriptores"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/155eb95cc36566f047a04c95130b518affa035cd94da7255c72cbdbfb5e2265b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed11a498486d5a92dfb3ccda6f3055ceffbdd8ccb6e849341c80599524f68bd9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/438d5d91f1a5626eb5f9e717672b398f8742fdb66e5427a74e24ac3decefe097.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6bf1c9d636703c7aaafb5fa68948f8175ec1f1bf5db935879b91d1c980e31c04.jpg",
+        "intro": "\u00a1Nada detiene a Martina!",
+        "description": "\u00a1Una nueva intensidad de ejercicio se ha a\u00f1adido para Martina!\n\nAhora podr\u00e1s probar la intensidad alta y baja, as\u00ed como el nuevo Modo Infernal. La instructora bondadosa que conoces te mostrar\u00e1 su lado despiadado. Ella est\u00e1 lista para ponerte a prueba.",
+        "languages": null,
+        "size": 10485760
+    },
+    "70050000025014": {
+        "id": "0100073011383008",
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Rhythm & Exercise Modo Infernal: Janice",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210114,
+        "nsuId": 70050000025014,
+        "category": null,
+        "ratingContent": [
+            "Sin Descriptores"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1d448a01ef9fdd3ce4414007c474de7021116223280698010e8108549f40bc83.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2ff4095d9fe276ed9902a36e4e67f728ce3a9ee1b03a60d576655857907a99a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/601d37e9664b8aa6969bf669d97cb36a45d7b1bf6763a42c9939005c66c2ef91.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7e3a97a7cfb232f563fbb0dde9282f839921c24fcec60cae0f10fb308c1bd13e.jpg",
+        "intro": "\u00a1Nada detiene a Janice!",
+        "description": "\u00a1Una nueva intensidad de ejercicio se ha a\u00f1adido para Janice!\n\nAhora podr\u00e1s probar la intensidad alta y baja, as\u00ed como el nuevo Modo Infernal. La instructora bondadosa que conoces te mostrar\u00e1 su lado despiadado. Ella est\u00e1 lista para ponerte a prueba.",
+        "languages": null,
+        "size": 10485760
+    },
+    "70050000025015": {
+        "id": "0100073011383002",
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Rhythm & Exercise Modo Infernal: Sophie",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210114,
+        "nsuId": 70050000025015,
+        "category": null,
+        "ratingContent": [
+            "Sin Descriptores"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/99a42584d42f1896feb4604f4bbc04ac237af75449956149cfa7b59e053de350.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/908997784a06b79144bac44af542a76c968dcd03a6b371e17b777671fed80f7c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2abc25216bf69efb432cd21537bd898155d82512c26f973c74c5c7d8225d4dcf.jpg",
+        "intro": "\u00a1Nada detiene a Sophie!",
+        "description": "\u00a1Una nueva intensidad de ejercicio se ha a\u00f1adido para Sophie!\n\nAhora podr\u00e1s probar la intensidad alta y baja, as\u00ed como el nuevo Modo Infernal. La instructora bondadosa que conoces te mostrar\u00e1 su lado despiadado. Ella est\u00e1 lista para ponerte a prueba.",
+        "languages": null,
+        "size": 11534336
+    },
     "70070000000041": {
         "id": null,
         "rightsId": null,
@@ -21923,7 +22180,7 @@
         "intro": null,
         "description": "Receive the game, season pass, and exclusive in-game content with the Gold Edition. \n\nImmortals Fenyx Rising\u2122 brings grand mythological adventure to life. Play as Fenyx, a new, winged demigod, on a quest to save the Greek gods. \n\n- Wield the powers of the gods like Achilles' sword and Daidalos' wings to battle powerful enemies and solve ancient puzzles.\n- Fight iconic mythological beasts like Cyclops and Medusa in dynamic combat in the air and on the ground. \n- Use your skills and diverse weapons, including self-guided arrows, telekinesis, and more, for devastating damage.  \n- Discover a stylized open world across seven unique regions, each inspired by the gods.",
         "languages": null,
-        "size": 16521363456
+        "size": 16555966464
     },
     "70070000011395": {
         "id": null,
