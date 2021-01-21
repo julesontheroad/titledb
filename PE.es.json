@@ -6428,7 +6428,7 @@
             "pt",
             "fr"
         ],
-        "size": 14684258304
+        "size": 14675869696
     },
     "70010000027023": {
         "id": "0100DBF01000A000",
@@ -8921,6 +8921,37 @@
         "languages": null,
         "size": 2284847104,
         "parentId": "0100073011382000"
+    },
+    "70030000012712": {
+        "id": null,
+        "rightsId": null,
+        "name": "FUSER\u2122 Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012712,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1737490432,
+        "parentId": "0100E1F013674000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",
@@ -21930,7 +21961,7 @@
         "intro": "\u00a1Vive un s\u00faper enfrentamiento lleno de acci\u00f3n y f\u00fatbol sin igual en Captain Tsubasa!",
         "description": "La Deluxe Edition incluye:\n- Captain Tsubasa: Rise of New Champions (juego completo)\n- Pase de personajes\n\nExtras con la Deluxe Edition:\n- Accesorios de V Jump.\n\nCaptain Tsubasa: Rise of New Champions, basado en la serie de anim\u00e9 tan aclamada en todo el mundo, es un juego de f\u00fatbol y acci\u00f3n con las gr\u00e1ficas m\u00e1s nuevas y todas las jugadas espectaculares que ser\u00e1n el deleite de chicos y grandes.",
         "languages": null,
-        "size": 14730395648
+        "size": 14722007040
     },
     "70070000010923": {
         "id": null,
