@@ -998,7 +998,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/45a131c42a6c4d0923f738d6393f034a0daca4f280e17c8f193cee151921c7d8.jpg",
         "intro": "El mal observa",
-        "description": "Al comienzo de Resident Evil Revelations 2 veremos el espectacular regreso de Claire Redfield, uno de los personajes preferidos de los aficionados. Claire sobrevivi\u00f3 al incidente de Raccoon City narrado en entregas anteriores de Resident Evil y ahora trabaja para la organizaci\u00f3n antibioterrorista Terra Save. Moira Burton asiste a su fiesta de bienvenida a Terra Save cuando soldados desconocidos asaltan las oficinas. Claire y Moira pierden el conocimiento y, al despertar, se encuentran en una penitenciar\u00eda oscura y abandonada. Deber\u00e1n colaborar para descubrir qui\u00e9n las rapt\u00f3 y con qu\u00e9 siniestro fin. \u00bfLograr\u00e1n escapar con vida y descubrir por qu\u00e9 las llevaron hasta esta isla remota? Una trama llena de giros y sorpresas har\u00e1 que los jugadores no puedan saber lo que les espera.\n\nMejora a\u00fan m\u00e1s la experiencia de juego con controles de movimiento adicionales que permiten apuntar y disparar con mayor precisi\u00f3n en Nintendo Switch. ",
+        "description": "Al comienzo de Resident Evil Revelations 2 veremos el espectacular regreso de Claire Redfield, uno de los personajes preferidos de los aficionados. Claire sobrevivi\u00f3 al incidente de Raccoon City narrado en entregas anteriores de Resident Evil y ahora trabaja para la organizaci\u00f3n antibioterrorista Terra Save. Moira Burton asiste a su fiesta de bienvenida a Terra Save cuando soldados desconocidos asaltan las oficinas. Claire y Moira pierden el conocimiento y, al despertar, se encuentran en una penitenciar\u00eda oscura y abandonada. Deber\u00e1n colaborar para descubrir qui\u00e9n las rapt\u00f3 y con qu\u00e9 siniestro fin. \u00bfLograr\u00e1n escapar con vida y descubrir por qu\u00e9 las llevaron hasta esta isla remota? Una trama llena de giros y sorpresas har\u00e1 que los jugadores no puedan saber lo que les espera.\n\nMejora a\u00fan m\u00e1s la experiencia de juego con controles de movimiento adicionales que permiten apuntar y disparar con mayor precisi\u00f3n en Nintendo Switch\u2122. ",
         "languages": [
             "ja",
             "en",
@@ -19185,6 +19185,36 @@
         "description": "Esta es una de las armas que Link puede usar en el juego. Equ\u00edpala junto con la tapa de cacerola, o fusi\u00f3nala con otra arma para mejorarla.\n\n*Este objeto no estar\u00e1 disponible inmediatamente para los usuarios que adquieran la versi\u00f3n f\u00edsica del juego, pero podr\u00eda estar disponible m\u00e1s adelante como contenido de pago. ",
         "languages": null,
         "size": 4194304
+    },
+    "70050000023664": {
+        "id": "0100E1F013675001",
+        "rightsId": null,
+        "name": "Dua Lipa - \"New Rules\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210121,
+        "nsuId": 70050000023664,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/add886c033fc0a47fc606f1d4876576a4329360bf83cf631d4840cecedc40714.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abNew Rules\u00bb de Dua Lipa! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 10485760
     },
     "70050000023829": {
         "id": "01004A600EC0B001",
