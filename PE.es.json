@@ -20949,8 +20949,7 @@
             "Sangre",
             "Temas insinuantes",
             "Violencia",
-            "Interacci\u00f3n de usuarios",
-            "Compras dentro del juego"
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 13,
@@ -21784,9 +21783,15 @@
         "releaseDate": 20201207,
         "nsuId": 70070000010402,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Lenguaje",
+            "Temas insinuantes",
+            "Violencia",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 13,
         "developer": null,
         "publisher": "Ubisoft",
         "frontBoxArt": null,
@@ -22036,9 +22041,15 @@
         "releaseDate": 20200828,
         "nsuId": 70070000010935,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Violencia moderada",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 10,
         "developer": null,
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,

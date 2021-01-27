@@ -20788,8 +20788,7 @@
             "Blood",
             "Suggestive Themes",
             "Violence",
-            "Users Interact",
-            "In-Game Purchases"
+            "Users Interact"
         ],
         "numberOfPlayers": null,
         "rating": 13,
@@ -21623,9 +21622,15 @@
         "releaseDate": 20201204,
         "nsuId": 70070000010402,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Language",
+            "Suggestive Themes",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 13,
         "developer": null,
         "publisher": "Ubisoft",
         "frontBoxArt": null,
@@ -21875,9 +21880,15 @@
         "releaseDate": 20200828,
         "nsuId": 70070000010935,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Language",
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 10,
         "developer": null,
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
