@@ -1313,11 +1313,11 @@
         "releaseDate": 20180713,
         "nsuId": 70010000002722,
         "category": [
-            "Puzzle",
-            "Platformer"
+            "Rompecabezas",
+            "Plataformas"
         ],
         "ratingContent": [
-            "Mild Cartoon Violence"
+            "Violencia moderada en caricaturas"
         ],
         "numberOfPlayers": 2,
         "rating": 6,
@@ -1333,9 +1333,9 @@
             "https://img-eshop.cdn.nintendo.net/i/e5c5842d404be9becd0b07658f9021326ea3af35227bdb481daff227e428039b.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ba17251c33d0e8c1b48b17a16154b051b5bb38ca70e774820d30ca82d3ffb73e.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7d17e538e855a6214e27ce1eb782068d09bffa6ccbc75fb7a4e61773040c1ab5.jpg",
-        "intro": "Ready for adventure!",
-        "description": "Captain Toad stars in his own puzzling quest on the Nintendo Switch\u2122 system! Our stubby hero must dodge dangers and track treasures across many trap-filled courses. Survive smoldering volcanoes, hazardous steam engines, haunted houses, and even new courses based on the Super Mario Odyssey\u2122 game! Luckily, a second player can join in by tossing turnips at enemies. \n\nPlay anytime, anywhere, and anyway you want\u2014even in two-player mode using a pair of Joy-Con\u2122 controllers on one Nintendo Switch system\u2014in TV mode or Tabletop mode. You could also play alone in handheld mode! No matter what, explore each puzzling course for treasure, like hidden Super Gems and Power Stars. As you reclaim the treasure stolen by the monstrous, greedy bird, Wingo, you\u2019ll eventually be able to play as Toadette! These tiny heroes must waddle, hide, pluck, chuck, and power-up through enemy-infested locales like towers, wild-west shanties, and Goomba waterparks\u2014all bursting with secrets. Aim your head-mounted flashlight at adventure!\n\nWith a free software update for the Captain Toad game and the Toy-Con VR Goggles from Nintendo Labo\u2122: VR Kit, join Captain Toad for a bite-sized bonus experience in simple, family friendly VR*. Discover these experiences by revisiting the following courses as Captain Toad in four new mini-missions:\n\u2022\tThe Treasure at Mushroom Ruins\n\u2022\tWalleye Tumble Temple\n\u2022\tBriny Bowl Swimming Hole\n\u2022\tMine Cart Tunnel Throwdown\n",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/357bb5040180a8d684851fae0abf47f1baa0475c9a465375bf6d369d3102aa88.jpg",
+        "intro": "\u00a1Listo para la aventura!",
+        "description": "\u00a1El capit\u00e1n Toad es la estrella de su propia aventura de rompecabezas en la consola Nintendo Switch! Nuestro h\u00e9roe deber\u00e1 evadir peligros y rastrear tesoros en niveles cargados de trampas. \u00a1Sobrevive volcanes, motores de vapor, casas embrujadas e incluso niveles inspirados en el juego Super Mario Odyssey\u2122! Un jugador m\u00e1s podr\u00e1 unirse y ayudar lanzando nabos al enemigo.\n\nJuega como quieras y cuando quieras, incluso en el modo para dos jugadores utilizando un par de controles Joy-Con\u2122 y una consola Nintendo Switch en el modo televisor o semiport\u00e1til. Tambi\u00e9n podr\u00e1s jugar solo en el modo port\u00e1til. Explora laberinticos niveles y encuentra tesoros como superdiamantes e hiperestrellas.  Conforme vayas recuperando los tesoros robados por monstruos como el codicioso pajarraco y Wingo, \u00a1podr\u00e1s jugar como Toadette! Estos peque\u00f1os h\u00e9roes tendr\u00e1n que esconderse, arrancar, tirar y abrirse paso a trav\u00e9s de niveles infestados de enemigos, secretos por revelar y tesoros que encontrar. \u00a1Ilumina con la linterna tu pr\u00f3xima aventura!\n\n*Con la actualizaci\u00f3n gratuita del juego Captain Toad y el Visor VR Toy-Con de Nintendo Labo: kit de VR te unir\u00e1s al capit\u00e1n Toad en una peque\u00f1a experiencia adicional de realidad virtual que es simple y adecuada para toda la familia. Descubre esta experiencia al visitar de nuevo los siguientes niveles como el capit\u00e1n Toad en cuatro nuevas y peque\u00f1as misiones:\n\n\u2022\tEl Tesoro de las ruinas\n\u2022\tEl templo de los don Estorb\u00f3n\n\u2022\tLa pecera tropical\n\u2022\tDisparos desde la vagoneta\n\n",
         "languages": [
             "en",
             "es",
@@ -5799,7 +5799,7 @@
             "zh",
             "zh"
         ],
-        "size": 11015290880
+        "size": 11148460032
     },
     "70010000021933": {
         "id": "01004A600EC0A000",
@@ -21589,10 +21589,10 @@
         "nsuId": 70070000009668,
         "category": null,
         "ratingContent": [
-            "Travesuras comicas",
-            "Violencia moderada en caricaturas",
-            "Interacci\u00f3n de usuarios",
-            "Compras dentro del juego"
+            "Comic Mischief",
+            "Mild Cartoon Violence",
+            "Users Interact",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": null,
         "rating": 6,
@@ -21603,7 +21603,7 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/51badddf4a6a41f000454b769f9578ac151a377e713568cc94005abe3749dd63.jpg",
         "intro": null,
-        "description": "Un paquete que incluye el juego Pok\u00e9mon Sword, as\u00ed como el pase de expansi\u00f3n, que te permite acceder a todo el contenido descargable una vez que est\u00e9 disponible.\n\nLa versi\u00f3n f\u00edsica del juego Pok\u00e9mon Sword + el pase de expansi\u00f3n (disponible el 06/11/2020) incluye una bonificaci\u00f3n de compra de \u201c100 Pok\u00e9 Balls\u201d. Esta bonificaci\u00f3n no se incluye en la versi\u00f3n digital.\n\nBONIFICACI\u00d3N ESPECIAL DE COMPRA\nLos jugadores que adquieran en conjunto el juego Pok\u00e9mon Sword y el pase de expansi\u00f3n de Pok\u00e9mon Sword, o el pase de expansi\u00f3n de Pok\u00e9mon Sword por separado, recibir\u00e1n un uniforme de Pikachu y un uniforme de Eevee como bonificaci\u00f3n especial de compra. \n\nSIGUE LOS SIGUIENTES PASOS PARA RECIBIR EL UNIFORME DE PIKACHU Y EL UNIFORME DE EEVEE: \n1.\tInicia tu juego Pok\u00e9mon Sword.\n2.\tSelecciona \u201cRegalo misterioso\u201d en el men\u00fa.\n3.\tSelecciona \u201cRecibir regalo misterioso\u201d.\n4.\tSelecciona \"Recibir mediante c\u00f3digo o contrase\u00f1a\u201d para conectarte a internet.*\n5.\tIngresa tu c\u00f3digo.\n6.\tEspera a recibir el regalo en tu juego.\n7.\tAseg\u00farate de guardar la partida.\n",
+        "description": "A set including the Pok\u00e9mon Sword game as well as an expansion pass which will allow you access to all downloadable content once it is released.\n\nThe physical version of the Pok\u00e9mon Sword + Expansion Pass bundle (available on 11/6/2020) includes a purchase bonus of \u201c100 Pok\u00e9 Balls.\u201d That bonus is not included in this digital version.\n\nSPECIAL PURCHASE BONUS\nPlayers who purchase the Pok\u00e9mon Sword + Pok\u00e9mon Sword Expansion Pass or the Pok\u00e9mon Sword Expansion Pass separately, you\u2019ll be able to receive a Pikachu Uniform and an Eevee Uniform as a special purchase bonus. \n\nUSE THESE STEPS, ALONG WITH YOUR CODE, TO RECEIVE A PIKACHU UNIFORM AND AN EEVEE UNIFORM.\n1.\tLaunch your Pok\u00e9mon Sword game.\n2.\tSelect Mystery Gift on the X menu.\n3.\tSelect Get a Mystery Gift.\n4.\tSelect Get with Code/Password to connect to the internet.*\n5.\tEnter your code.\n6.\tWatch as the gift arrives in your game.\n7.\tBe sure to save your game.\n",
         "languages": null,
         "size": 13341032448
     },
@@ -21931,7 +21931,7 @@
         "intro": "\u00a1Lucha sin l\u00edmites!",
         "description": "El mundo de la WWE es tu campo de batalla. \u00danete a intensos combates arcade nunca vistos y haz que tus Superstars y leyendas preferidas luchen entre s\u00ed en peculiares entornos interactivos con un arsenal de movimientos, habilidades y potenciadores. \u00a1Libra tus combates preferidos, Steel Cage, Royal Rumble, Fatal 4-Way y muchos m\u00e1s, mientras Mauro Ranallo y Jerry \"The King\" Lawler comentan el caos!\nDesata el infierno con Stone Cold Steve Austin, reparte golpes a diestra y siniestra con la versi\u00f3n de The Rock de la Attitude Era y arma un buen esc\u00e1ndalo con Ronda Rousey. WWE 2K Battlegrounds Digital Deluxe Edition incluye tres versiones de cada Superstar, adem\u00e1s de la bonificaci\u00f3n de reserva: Edge. Tambi\u00e9n viene con 1100 Golden Bucks extra para desbloquear m\u00e1s leyendas y Superstars de la WWE.",
         "languages": null,
-        "size": 11015290880
+        "size": 11148460032
     },
     "70070000010881": {
         "id": null,

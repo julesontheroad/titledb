@@ -5799,7 +5799,7 @@
             "zh",
             "zh"
         ],
-        "size": 11015290880
+        "size": 11148460032
     },
     "70010000021933": {
         "id": "01004A600EC0A000",
@@ -19526,7 +19526,7 @@
     "70050000024365": {
         "id": "01006A800016F046",
         "rightsId": null,
-        "name": "\u3010Disfraz\u3011Gorro de Chocobo",
+        "name": "\u3010Costume\u3011Chocobo Hat",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -19535,11 +19535,11 @@
         "nsuId": 70050000024365,
         "category": null,
         "ratingContent": [
-            "Violencia de caricatura",
-            "Travesuras comicas",
-            "Temas insinuantes",
-            "Interacci\u00f3n de usuarios",
-            "Compras dentro del juego"
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -19548,9 +19548,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f15b1955dee10046f15a644c9eb0c438df5593ffa6e4172eeacb75bd561dbef4.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0cd188dc114114c6893b85f9f791eb741ec12bd566b3c483a74bcca326cb58a1.jpg",
         "intro": null,
-        "description": "\u00a1Ya puedes comprar el gorro de Chocobo de la serie FINAL FANTASY! Cambia el color de tu personaje Mii a amarillo y comb\u00ednalo con los lindos ojos y el hermoso plumaje de este gorro. \u00a1Har\u00e1s que tus adversarios se enfrenten al Chocobo de sus pesadillas!\n\nContenido\nIndumentaria para los combatientes Mii\n\u30fbGorro de Chocobo\nPuedes equiparlo en \"Juegos y dem\u00e1s\" \u2192 \"Combatientes Mii\" tras la compra.",
+        "description": "A Chocobo Hat from the FINAL FANTASY series is now available for purchase! Set your Mii character's color to yellow, and combined with the cute eyes and fluffy feathers of this hat, your opponents will live out their worst Chocobo nightmares!\n\nThis content includes\nMii Fighter Costume\n\u30fbChocobo Hat\nUsable after purchase by going to Games & More \u2192 Mii Fighter.",
         "languages": null,
         "size": 3145728
     },
@@ -21931,7 +21931,7 @@
         "intro": "Brawl Without Limits!",
         "description": "The world of WWE is your battleground with all-new, over the top, in-your-face arcade action as your favorite WWE Superstars and Legends battle it out in outlandish environments with an arsenal of moves, special abilities, and power-ups. Compete in your favorite match types including Steel Cage, Royal Rumble, Fatal Four Way and more, as Mauro Ranallo and Jerry \u201cThe King\u201d Lawler call the mayhem!\nRaise some hell with Stone Cold Steve Austin, lay the SmackDown with the Attitude Era version of The Rock and get rowdy with Ronda Rousey. The WWE 2K Battlegrounds Digital Deluxe Edition includes three versions of each Superstar along with the pre-order bonus, Edge. Also includes additional 1100 Golden Bucks to unlock additional WWE Superstars and legends.",
         "languages": null,
-        "size": 11015290880
+        "size": 11148460032
     },
     "70070000010881": {
         "id": null,

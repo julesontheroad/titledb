@@ -5054,15 +5054,15 @@
         "releaseDate": 20190830,
         "nsuId": 70010000020030,
         "category": [
-            "Action",
-            "Shooter",
-            "Multiplayer"
+            "Acci\u00f3n",
+            "Disparos",
+            "Multijugador"
         ],
         "ratingContent": [
-            "Blood",
-            "Drug Reference",
-            "Fantasy Violence",
-            "Users Interact"
+            "Sangre",
+            "Referencia a drogas",
+            "Violencia de fantasia",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": 1,
         "rating": 13,
@@ -5080,7 +5080,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0d51784eb518c452f4e6a4d2f851e61df46a0da17f01f135f2a505c26f3fbf38.jpg",
         "intro": null,
-        "description": "Escape a chaotic alien planet by fighting through hordes of frenzied monsters \u2013 with your friends, or on your own. \nCombine loot in surprising ways and master each character until you become the havoc you feared upon your first crash landing. \n\nSURVIVE AN ALIEN PLANET\nOver a dozen handcrafted locales await, each packed with challenging monsters and enormous bosses that oppose your continued existence. Fight your way to the final boss and escape or continue your run indefinitely to see just how long you can survive. A unique scaling system means both you and your foes limitlessly increase in power over the course of a game.\n\nDISCOVER POWERFUL NEW ITEMS\nMore than 110 items keep each run fresh and full of new challenge. The more items you collect, the more their effects combine, the more surprising some of those combinations might be. The more items you encounter, the more lore (and strategy) you\u2019ll discover through the logs.\n\nUNLOCK NEW WAYS TO PLAY \nUnlock a crew of ten playable survivors, each with their own unique combat style and alternate skills to master. Learn the secrets of the Artifacts to toggle gameplay modifiers like friendly fire, random survivor spawns, item selection and more. With randomized stages, enemies, and items, no run will ever be the same.\n\nPLAY SOLO OR CO-OP\nTackle the adventure solo or with up to three friends in online co-op, or compete in the rotating challenge of the Prismatic Trials. Brand new survivors like the Captain and MUL-T join classic survivors such as the Engineer, Huntress, and--of course--the Commando.\n",
+        "description": "Escapa de un planeta alien\u00edgena peleando contra hordas de monstruos fren\u00e9ticos, con tus amigos o por tu cuenta. Combina el bot\u00edn de maneras sorprendentes y domina a cada personaje hasta convertirte en el caos que tem\u00edas en tu primer aterrizaje forzoso. \n\nSOBREVIVE EN UN PLANETA ALIEN\u00cdGENA\nTe esperan m\u00e1s de una docena de lugares concebidos a mano, cada uno de ellos repleto de desafiantes monstruos y enormes jefes que se oponen a que sigas existiendo. \u00c1brete paso combatiendo hasta el jefe final y escapa o sigue corriendo indefinidamente, solo para ver cu\u00e1nto tiempo puedes sobrevivir. Un sistema \u00fanico de escalaci\u00f3n fomenta que t\u00fa y tus enemigos aumenten de poder de manera indefinida en el transcurso de una partida.\n\nDESCUBRE OBJETOS NUEVOS Y PODEROSOS\nLos m\u00e1s de 110 objetos permiten que cada juego se sienta fresco y lleno de nuevos desaf\u00edos. Mientras m\u00e1s objetos recolectes, m\u00e1s se combinan sus efectos y m\u00e1s sorprendentes ser\u00e1n algunas de esas combinaciones. Mientras m\u00e1s objetos encuentres, m\u00e1s trama (y estrategias) descubrir\u00e1s a trav\u00e9s de las bit\u00e1coras.\n\nDESBLOQUEA NUEVAS MANERAS DE JUGAR \nDesbloquea a una tripulaci\u00f3n de diez supervivientes con los que puedes jugar; cada uno tiene su estilo de combate \u00fanico y habilidades alternativas que puedes dominar. Descubre los secretos de los Artefactos para activar o desactivar modificadores de jugabilidad, como el fuego amigo, apariciones aleatorias de los supervivientes, selecci\u00f3n de objetos y m\u00e1s. Las etapas, los enemigos y los objetos aleatorios te permiten vivir una partida diferente cada vez que juegas.\n\nJUEGA EN MODO INDIVIDUAL O COOPERATIVO\nEnfrenta la aventura de manera individual o hasta con tres amigos en modo cooperativo en l\u00ednea, o compite en el desaf\u00edo rotativo de las Pruebas Pr\u00edsmicas. Nuevos supervivientes, como el Capit\u00e1n y MUL-T, se unen a los supervivientes cl\u00e1sicos, como el Ingeniero, la Cazadora y, por supuesto, el Comando.\n",
         "languages": [
             "ja",
             "en",
@@ -5799,7 +5799,7 @@
             "zh",
             "zh"
         ],
-        "size": 11015290880
+        "size": 11148460032
     },
     "70010000021933": {
         "id": "01004A600EC0A000",
@@ -8616,7 +8616,7 @@
         "nsuId": 70030000010304,
         "category": null,
         "ratingContent": [
-            "Violencia moderada en caricaturas"
+            "Mild Cartoon Violence"
         ],
         "numberOfPlayers": null,
         "rating": 6,
@@ -19198,10 +19198,10 @@
         "nsuId": 70050000023664,
         "category": null,
         "ratingContent": [
-            "Mild Lyrics",
-            "Mild Suggestive Themes",
-            "Users Interact",
-            "In-Game Purchases"
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
         "rating": 13,
@@ -19212,7 +19212,7 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/add886c033fc0a47fc606f1d4876576a4329360bf83cf631d4840cecedc40714.jpg",
         "intro": null,
-        "description": "Expand your FUSER\u2122 library with \"New Rules\" by Dua Lipa! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abNew Rules\u00bb de Dua Lipa! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
         "languages": null,
         "size": 10485760
     },
@@ -21931,7 +21931,7 @@
         "intro": "Brawl Without Limits!",
         "description": "The world of WWE is your battleground with all-new, over the top, in-your-face arcade action as your favorite WWE Superstars and Legends battle it out in outlandish environments with an arsenal of moves, special abilities, and power-ups. Compete in your favorite match types including Steel Cage, Royal Rumble, Fatal Four Way and more, as Mauro Ranallo and Jerry \u201cThe King\u201d Lawler call the mayhem!\nRaise some hell with Stone Cold Steve Austin, lay the SmackDown with the Attitude Era version of The Rock and get rowdy with Ronda Rousey. The WWE 2K Battlegrounds Digital Deluxe Edition includes three versions of each Superstar along with the pre-order bonus, Edge. Also includes additional 1100 Golden Bucks to unlock additional WWE Superstars and legends.",
         "languages": null,
-        "size": 11015290880
+        "size": 11148460032
     },
     "70070000010881": {
         "id": null,

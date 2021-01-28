@@ -5799,7 +5799,7 @@
             "zh",
             "zh"
         ],
-        "size": 11015290880
+        "size": 11148460032
     },
     "70010000021933": {
         "id": "01004A600EC0A000",
@@ -9187,7 +9187,7 @@
     "70050000001901": {
         "id": "0100E95004039002",
         "rightsId": "0100E950040390020000000000000000",
-        "name": "Pack de nuevas misiones",
+        "name": "New Quests Pack",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -9196,10 +9196,10 @@
         "nsuId": 70050000001901,
         "category": null,
         "ratingContent": [
-            "Lenguaje",
-            "Temas insinuantes",
-            "Uso de Alcohol y Tabaco",
-            "Violencia"
+            "Language",
+            "Suggestive Themes",
+            "Use of Alcohol and Tobacco",
+            "Violence"
         ],
         "numberOfPlayers": null,
         "rating": 13,
@@ -9208,9 +9208,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1009f16d52b8864c1607fd1e2484faada55e78a536e87ec97865e9bebeb8eec2.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/18701e4b95f5bb7682783cec2e3037b6a9f76f5e33970ae22def642e6d7d4c8a.jpg",
         "intro": null,
-        "description": "\u2022Tesoro hundido\n\u2022Fiebre por los dulces\n\u2022Complemento artesanal\n\u2022De relax en las termas\n\u2022El c\u00f3digo partido\n\n\u2022El herrero jubilado\n\u2022El sombrero so\u00f1ado\n\u2022La poci\u00f3n del amor\n\u2022Honor de mercenarios\n\u2022El terror de Merbah\u00eda\n\n\u2022Un juego muy adictivo\n\u2022El ladr\u00f3n de verduras\n\u2022Bajo la aurora\n\u2022Nubebr\u00fajula mejorada\n\u2022Noticias olvidadas\n\n\u2022Madera de ladrones\n\u2022El nopon perdido\n\u2022Turismo industrial\n\u2022Banquete nocturno\n\u2022El vigilante solitario",
+        "description": "\u2022Sunken Boosters\n\u2022The Trendy Patissier\n\u2022Artisanal Accessories\n\u2022Hot Spring Bonanza\n\u2022Mystery Launch Codes\n\n\u2022A Smith's Pastime\n\u2022A Hat Fit for a Lady\n\u2022Making Love Source\n\u2022A Mercenary's Honor\n\u2022Merclibay's Mightiest\n\n\u2022Nopon of Good Tastes\n\u2022Cleared of All Charges\n\u2022Beneath the Aurora\n\u2022Upgrades and Tinkering\n\u2022Most Awful News?!\n\n\u2022Passion of the Artisan\n\u2022M.I.A. Nopon\n\u2022Industrial Sort of Tour\n\u2022Midnight Feasting\n\u2022The Lone Watchman",
         "languages": null,
         "size": 6291456
     },
@@ -19198,10 +19198,10 @@
         "nsuId": 70050000023664,
         "category": null,
         "ratingContent": [
-            "Mild Lyrics",
-            "Mild Suggestive Themes",
-            "Users Interact",
-            "In-Game Purchases"
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
         "rating": 13,
@@ -19212,7 +19212,7 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/add886c033fc0a47fc606f1d4876576a4329360bf83cf631d4840cecedc40714.jpg",
         "intro": null,
-        "description": "Expand your FUSER\u2122 library with \"New Rules\" by Dua Lipa! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abNew Rules\u00bb de Dua Lipa! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
         "languages": null,
         "size": 10485760
     },
@@ -21931,7 +21931,7 @@
         "intro": "Brawl Without Limits!",
         "description": "The world of WWE is your battleground with all-new, over the top, in-your-face arcade action as your favorite WWE Superstars and Legends battle it out in outlandish environments with an arsenal of moves, special abilities, and power-ups. Compete in your favorite match types including Steel Cage, Royal Rumble, Fatal Four Way and more, as Mauro Ranallo and Jerry \u201cThe King\u201d Lawler call the mayhem!\nRaise some hell with Stone Cold Steve Austin, lay the SmackDown with the Attitude Era version of The Rock and get rowdy with Ronda Rousey. The WWE 2K Battlegrounds Digital Deluxe Edition includes three versions of each Superstar along with the pre-order bonus, Edge. Also includes additional 1100 Golden Bucks to unlock additional WWE Superstars and legends.",
         "languages": null,
-        "size": 11015290880
+        "size": 11148460032
     },
     "70070000010881": {
         "id": null,
