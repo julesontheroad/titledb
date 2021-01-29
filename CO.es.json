@@ -5054,15 +5054,15 @@
         "releaseDate": 20190830,
         "nsuId": 70010000020030,
         "category": [
-            "Acci\u00f3n",
-            "Disparos",
-            "Multijugador"
+            "Action",
+            "Shooter",
+            "Multiplayer"
         ],
         "ratingContent": [
-            "Sangre",
-            "Referencia a drogas",
-            "Violencia de fantasia",
-            "Interacci\u00f3n de usuarios"
+            "Blood",
+            "Drug Reference",
+            "Fantasy Violence",
+            "Users Interact"
         ],
         "numberOfPlayers": 1,
         "rating": 13,
@@ -5080,7 +5080,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0d51784eb518c452f4e6a4d2f851e61df46a0da17f01f135f2a505c26f3fbf38.jpg",
         "intro": null,
-        "description": "Escapa de un planeta alien\u00edgena peleando contra hordas de monstruos fren\u00e9ticos, con tus amigos o por tu cuenta. Combina el bot\u00edn de maneras sorprendentes y domina a cada personaje hasta convertirte en el caos que tem\u00edas en tu primer aterrizaje forzoso. \n\nSOBREVIVE EN UN PLANETA ALIEN\u00cdGENA\nTe esperan m\u00e1s de una docena de lugares concebidos a mano, cada uno de ellos repleto de desafiantes monstruos y enormes jefes que se oponen a que sigas existiendo. \u00c1brete paso combatiendo hasta el jefe final y escapa o sigue corriendo indefinidamente, solo para ver cu\u00e1nto tiempo puedes sobrevivir. Un sistema \u00fanico de escalaci\u00f3n fomenta que t\u00fa y tus enemigos aumenten de poder de manera indefinida en el transcurso de una partida.\n\nDESCUBRE OBJETOS NUEVOS Y PODEROSOS\nLos m\u00e1s de 110 objetos permiten que cada juego se sienta fresco y lleno de nuevos desaf\u00edos. Mientras m\u00e1s objetos recolectes, m\u00e1s se combinan sus efectos y m\u00e1s sorprendentes ser\u00e1n algunas de esas combinaciones. Mientras m\u00e1s objetos encuentres, m\u00e1s trama (y estrategias) descubrir\u00e1s a trav\u00e9s de las bit\u00e1coras.\n\nDESBLOQUEA NUEVAS MANERAS DE JUGAR \nDesbloquea a una tripulaci\u00f3n de diez supervivientes con los que puedes jugar; cada uno tiene su estilo de combate \u00fanico y habilidades alternativas que puedes dominar. Descubre los secretos de los Artefactos para activar o desactivar modificadores de jugabilidad, como el fuego amigo, apariciones aleatorias de los supervivientes, selecci\u00f3n de objetos y m\u00e1s. Las etapas, los enemigos y los objetos aleatorios te permiten vivir una partida diferente cada vez que juegas.\n\nJUEGA EN MODO INDIVIDUAL O COOPERATIVO\nEnfrenta la aventura de manera individual o hasta con tres amigos en modo cooperativo en l\u00ednea, o compite en el desaf\u00edo rotativo de las Pruebas Pr\u00edsmicas. Nuevos supervivientes, como el Capit\u00e1n y MUL-T, se unen a los supervivientes cl\u00e1sicos, como el Ingeniero, la Cazadora y, por supuesto, el Comando.\n",
+        "description": "Escape a chaotic alien planet by fighting through hordes of frenzied monsters \u2013 with your friends, or on your own. \nCombine loot in surprising ways and master each character until you become the havoc you feared upon your first crash landing. \n\nSURVIVE AN ALIEN PLANET\nOver a dozen handcrafted locales await, each packed with challenging monsters and enormous bosses that oppose your continued existence. Fight your way to the final boss and escape or continue your run indefinitely to see just how long you can survive. A unique scaling system means both you and your foes limitlessly increase in power over the course of a game.\n\nDISCOVER POWERFUL NEW ITEMS\nMore than 110 items keep each run fresh and full of new challenge. The more items you collect, the more their effects combine, the more surprising some of those combinations might be. The more items you encounter, the more lore (and strategy) you\u2019ll discover through the logs.\n\nUNLOCK NEW WAYS TO PLAY \nUnlock a crew of ten playable survivors, each with their own unique combat style and alternate skills to master. Learn the secrets of the Artifacts to toggle gameplay modifiers like friendly fire, random survivor spawns, item selection and more. With randomized stages, enemies, and items, no run will ever be the same.\n\nPLAY SOLO OR CO-OP\nTackle the adventure solo or with up to three friends in online co-op, or compete in the rotating challenge of the Prismatic Trials. Brand new survivors like the Captain and MUL-T join classic survivors such as the Engineer, Huntress, and--of course--the Commando.\n",
         "languages": [
             "ja",
             "en",
@@ -5646,7 +5646,7 @@
             "es",
             "fr"
         ],
-        "size": 1775239168
+        "size": 1773142016
     },
     "70010000021401": {
         "id": "01006C100EC08000",
@@ -6701,7 +6701,7 @@
             "zh",
             "zh"
         ],
-        "size": 7471104000
+        "size": 7522484224
     },
     "70010000027969": {
         "id": "0100DD30110CC000",
@@ -7961,7 +7961,7 @@
             "zh",
             "zh"
         ],
-        "size": 3082813440
+        "size": 3212836864
     },
     "70010000035641": {
         "id": "0100E1F013674000",
@@ -19307,7 +19307,7 @@
         "intro": null,
         "description": "Experience a new brawler-style of combat in a top-down view! Meet a new hero embarking on an epic adventure to reunite the Greek gods.",
         "languages": null,
-        "size": 4194304
+        "size": 2012217344
     },
     "70050000024088": {
         "id": "0100F2200C98501F",
@@ -22122,7 +22122,7 @@
         "intro": "Keep the beat as you save the world of the Legend of Zelda series in this rhythm action-adventure game!",
         "description": "Explore the randomly generated overworld and dungeons on a quest to save Hyrule. Use a combination of iconic Legend of Zelda\u2122 series items and spells from the Crypt of the NecroDancer as you learn and react to enemy patterns. Stay one step ahead of each enemy and boss\u2026or face the music.\n\n-Coordinate your moves and attacks to foot-tapping, head-bopping Legend of Zelda remixes-\nEvery beat of each remixed The Legend of Zelda\u2122 tune is a chance to move, attack, defend, and more. There are 25 remixed tracks in the base game, but you can look forward to 39 more songs with the included DLC!\n\n-The included DLC brings a crescendo of content\u2014characters, music, modes and more-\nThis bundle gives you access to all 3 DLC packs as they release! Five additional characters, 39 new remixes, new modes and a brand-new story featuring the mischievous Skull Kid are all included. \n\n\nIn the latest rhythmic action-adventure from Brace Yourself Games, you can enjoy the gameplay of Crypt of the NecroDancer in the setting of the Legend of Zelda\u2122 series. From character and enemy movement to attacks and dodging, gameplay relies on following the beat of the music on your journey to save Hyrule.\n\nFrom modern-looking Lynels to the Hyrulean Soldiers of old, you must master the instinctive movements of each pixel-art enemy, and strategically outstep them in rhythmic combat. You must be prepared to face Hyrule\u2019s most wicked bosses, which have been transformed into musically-monstrous forms.\n\nWant to march to the beat of your own drum? Fixed Beat Mode allows you to go at your own pace. Enemy patterns remain the same, but they won\u2019t move until you do.  \n\nWith this bundle, you can access all DLC packs as they are released. First, fight to the rhythm with five additional characters like Impa and Frederick, the shopkeeper, in DLC Pack #1. Next, enjoy 39 new remixes that you can set to any location in DLC Pack #2. Finally, Skull Kid takes center stage in the new Symphony of the Mask story in DLC Pack #3.\n",
         "languages": null,
-        "size": 1818230784
+        "size": 1816133632
     },
     "70070000011064": {
         "id": null,

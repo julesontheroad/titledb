@@ -5646,7 +5646,7 @@
             "es",
             "fr"
         ],
-        "size": 1775239168
+        "size": 1773142016
     },
     "70010000021401": {
         "id": "01006C100EC08000",
@@ -6701,7 +6701,7 @@
             "zh",
             "zh"
         ],
-        "size": 7471104000
+        "size": 7522484224
     },
     "70010000027969": {
         "id": "0100DD30110CC000",
@@ -7961,7 +7961,7 @@
             "zh",
             "zh"
         ],
-        "size": 3082813440
+        "size": 3212836864
     },
     "70010000035641": {
         "id": "0100E1F013674000",
@@ -19198,10 +19198,10 @@
         "nsuId": 70050000023664,
         "category": null,
         "ratingContent": [
-            "Letras moderadas",
-            "Temas insinuantes moderados",
-            "Interacci\u00f3n de usuarios",
-            "Compras dentro del juego"
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": null,
         "rating": 13,
@@ -19212,7 +19212,7 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/add886c033fc0a47fc606f1d4876576a4329360bf83cf631d4840cecedc40714.jpg",
         "intro": null,
-        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abNew Rules\u00bb de Dua Lipa! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "description": "Expand your FUSER\u2122 library with \"New Rules\" by Dua Lipa! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
         "languages": null,
         "size": 10485760
     },
@@ -19307,7 +19307,7 @@
         "intro": null,
         "description": "Experience a new brawler-style of combat in a top-down view! Meet a new hero embarking on an epic adventure to reunite the Greek gods.",
         "languages": null,
-        "size": 4194304
+        "size": 2012217344
     },
     "70050000024088": {
         "id": "0100F2200C98501F",
@@ -22122,7 +22122,7 @@
         "intro": "Keep the beat as you save the world of the Legend of Zelda series in this rhythm action-adventure game!",
         "description": "Explore the randomly generated overworld and dungeons on a quest to save Hyrule. Use a combination of iconic Legend of Zelda\u2122 series items and spells from the Crypt of the NecroDancer as you learn and react to enemy patterns. Stay one step ahead of each enemy and boss\u2026or face the music.\n\n-Coordinate your moves and attacks to foot-tapping, head-bopping Legend of Zelda remixes-\nEvery beat of each remixed The Legend of Zelda\u2122 tune is a chance to move, attack, defend, and more. There are 25 remixed tracks in the base game, but you can look forward to 39 more songs with the included DLC!\n\n-The included DLC brings a crescendo of content\u2014characters, music, modes and more-\nThis bundle gives you access to all 3 DLC packs as they release! Five additional characters, 39 new remixes, new modes and a brand-new story featuring the mischievous Skull Kid are all included. \n\n\nIn the latest rhythmic action-adventure from Brace Yourself Games, you can enjoy the gameplay of Crypt of the NecroDancer in the setting of the Legend of Zelda\u2122 series. From character and enemy movement to attacks and dodging, gameplay relies on following the beat of the music on your journey to save Hyrule.\n\nFrom modern-looking Lynels to the Hyrulean Soldiers of old, you must master the instinctive movements of each pixel-art enemy, and strategically outstep them in rhythmic combat. You must be prepared to face Hyrule\u2019s most wicked bosses, which have been transformed into musically-monstrous forms.\n\nWant to march to the beat of your own drum? Fixed Beat Mode allows you to go at your own pace. Enemy patterns remain the same, but they won\u2019t move until you do.  \n\nWith this bundle, you can access all DLC packs as they are released. First, fight to the rhythm with five additional characters like Impa and Frederick, the shopkeeper, in DLC Pack #1. Next, enjoy 39 new remixes that you can set to any location in DLC Pack #2. Finally, Skull Kid takes center stage in the new Symphony of the Mask story in DLC Pack #3.\n",
         "languages": null,
-        "size": 1818230784
+        "size": 1816133632
     },
     "70070000011064": {
         "id": null,

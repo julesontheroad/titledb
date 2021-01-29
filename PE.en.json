@@ -5646,7 +5646,7 @@
             "es",
             "fr"
         ],
-        "size": 1775239168
+        "size": 1773142016
     },
     "70010000021401": {
         "id": "01006C100EC08000",
@@ -6701,7 +6701,7 @@
             "zh",
             "zh"
         ],
-        "size": 7471104000
+        "size": 7522484224
     },
     "70010000027969": {
         "id": "0100DD30110CC000",
@@ -7961,7 +7961,7 @@
             "zh",
             "zh"
         ],
-        "size": 3082813440
+        "size": 3212836864
     },
     "70010000035641": {
         "id": "0100E1F013674000",
@@ -12785,7 +12785,7 @@
     "70050000014282": {
         "id": "01006C300E9F1018",
         "rightsId": null,
-        "name": "Traje de lobo",
+        "name": "Wolf Wear",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -12794,12 +12794,12 @@
         "nsuId": 70050000014282,
         "category": null,
         "ratingContent": [
-            "Humor vulgar",
-            "Violencia de fantasia",
-            "Bajo contenido de sangre",
-            "Apuestas simuladas",
-            "Temas insinuantes",
-            "Uso de alcohol"
+            "Crude Humor",
+            "Fantasy Violence",
+            "Mild Blood",
+            "Simulated Gambling",
+            "Suggestive Themes",
+            "Use of Alcohol"
         ],
         "numberOfPlayers": null,
         "rating": 13,
@@ -12808,9 +12808,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/65f2f32178fa1002c4c3ba8a05ccec93d7536dab67ff3ca9d8f1d22c42569111.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0e71578ab712b2794aa37716e3d6206cbe6d7f73ef4883f9ee2df31b6cee440d.jpg",
         "intro": null,
-        "description": "Un traje muy especial que hace que Erik sea todav\u00eda m\u00e1s carism\u00e1tico. ",
+        "description": "A special gift to thank you for playing the game! A cool costume that makes Erik look more charismatic than ever!",
         "languages": null,
         "size": 4194304
     },
@@ -19307,7 +19307,7 @@
         "intro": null,
         "description": "Experience a new brawler-style of combat in a top-down view! Meet a new hero embarking on an epic adventure to reunite the Greek gods.",
         "languages": null,
-        "size": 4194304
+        "size": 2012217344
     },
     "70050000024088": {
         "id": "0100F2200C98501F",
@@ -21589,10 +21589,10 @@
         "nsuId": 70070000009668,
         "category": null,
         "ratingContent": [
-            "Comic Mischief",
-            "Mild Cartoon Violence",
-            "Users Interact",
-            "In-Game Purchases"
+            "Travesuras comicas",
+            "Violencia moderada en caricaturas",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
         "rating": 6,
@@ -21603,7 +21603,7 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/51badddf4a6a41f000454b769f9578ac151a377e713568cc94005abe3749dd63.jpg",
         "intro": null,
-        "description": "A set including the Pok\u00e9mon Sword game as well as an expansion pass which will allow you access to all downloadable content once it is released.\n\nThe physical version of the Pok\u00e9mon Sword + Expansion Pass bundle (available on 11/6/2020) includes a purchase bonus of \u201c100 Pok\u00e9 Balls.\u201d That bonus is not included in this digital version.\n\nSPECIAL PURCHASE BONUS\nPlayers who purchase the Pok\u00e9mon Sword + Pok\u00e9mon Sword Expansion Pass or the Pok\u00e9mon Sword Expansion Pass separately, you\u2019ll be able to receive a Pikachu Uniform and an Eevee Uniform as a special purchase bonus. \n\nUSE THESE STEPS, ALONG WITH YOUR CODE, TO RECEIVE A PIKACHU UNIFORM AND AN EEVEE UNIFORM.\n1.\tLaunch your Pok\u00e9mon Sword game.\n2.\tSelect Mystery Gift on the X menu.\n3.\tSelect Get a Mystery Gift.\n4.\tSelect Get with Code/Password to connect to the internet.*\n5.\tEnter your code.\n6.\tWatch as the gift arrives in your game.\n7.\tBe sure to save your game.\n",
+        "description": "Un paquete que incluye el juego Pok\u00e9mon Sword, as\u00ed como el pase de expansi\u00f3n, que te permite acceder a todo el contenido descargable una vez que est\u00e9 disponible.\n\nLa versi\u00f3n f\u00edsica del juego Pok\u00e9mon Sword + el pase de expansi\u00f3n (disponible el 06/11/2020) incluye una bonificaci\u00f3n de compra de \u201c100 Pok\u00e9 Balls\u201d. Esta bonificaci\u00f3n no se incluye en la versi\u00f3n digital.\n\nBONIFICACI\u00d3N ESPECIAL DE COMPRA\nLos jugadores que adquieran en conjunto el juego Pok\u00e9mon Sword y el pase de expansi\u00f3n de Pok\u00e9mon Sword, o el pase de expansi\u00f3n de Pok\u00e9mon Sword por separado, recibir\u00e1n un uniforme de Pikachu y un uniforme de Eevee como bonificaci\u00f3n especial de compra. \n\nSIGUE LOS SIGUIENTES PASOS PARA RECIBIR EL UNIFORME DE PIKACHU Y EL UNIFORME DE EEVEE: \n1.\tInicia tu juego Pok\u00e9mon Sword.\n2.\tSelecciona \u201cRegalo misterioso\u201d en el men\u00fa.\n3.\tSelecciona \u201cRecibir regalo misterioso\u201d.\n4.\tSelecciona \"Recibir mediante c\u00f3digo o contrase\u00f1a\u201d para conectarte a internet.*\n5.\tIngresa tu c\u00f3digo.\n6.\tEspera a recibir el regalo en tu juego.\n7.\tAseg\u00farate de guardar la partida.\n",
         "languages": null,
         "size": 13341032448
     },
@@ -22122,7 +22122,7 @@
         "intro": "\u00a1Mant\u00e9n el ritmo mientras salvas el mundo de la serie The Legend of Zelda en este juego de acci\u00f3n y aventura!",
         "description": "Explora mundos y mazmorras generadas aleatoriamente en tu misi\u00f3n por salvar Hyrule. Usa una combinaci\u00f3n de ic\u00f3nicos objetos de la serie de The Legend of Zelda\u2122 y hechizos de Crypt of the NecroDancer mientras aprendes a reaccionar a los patrones de los enemigos. Mantente un paso adelante del enemigo y jefe, o enfr\u00e9ntate a la m\u00fasica.\n\n-Coordina tus movimientos y ataques al ritmo de la m\u00fasica de The Legend of Zelda-\nCada ritmo de cada mezcla de The Legend of Zelda\u2122 es una oportunidad para moverse, atacar, defender y mucho m\u00e1s. Hay 25 melod\u00edas en el juego original, \u00a1pero espera 39 mezclas m\u00e1s con el paquete de contenido descargable!\n\n-El contenido descargable incluido incorpora una gran cantidad de contenido, personajes, m\u00fasica, modos y mucho m\u00e1s-\n\u00a1Esta versi\u00f3n del juego incluye los 3 paquetes de contenido descargable conforme se vayan lanzando! Cinco personajes adicionales, 39 melod\u00edas, nuevos modos y una historia totalmente nueva que presenta al travieso Skull Kid. \n\n\nDisfruta la experiencia de juego de Crypt of the NecroDancer en el mundo de la serie The Legend of Zelda gracias al \u00faltimo juego de acci\u00f3n y aventura de Brace Yourself Games. Desde los movimientos de los personajes y los enemigos hasta los ataques y los movimientos defensivos, el juego seguir\u00e1 el ritmo de la m\u00fasica en esta aventura por salvar Hyrule.\n\nDesde los modernos centaleones hasta los antiguos soldados de Hyrule, domina los movimientos instintivos de cada enemigo pixelado, y sup\u00e9ralos de forma estrat\u00e9gica en un combate r\u00edtmico. Deber\u00e1s prepararte para el enfrentamiento contra los jefes m\u00e1s despiadados de Hyrule, que se han transformado usando magia \u00a1y han adquirido m\u00e1s poder y nuevas formas!\n\n\u00bfQuieres marchar al ritmo de tu propio tambor? El modo arr\u00edtmico te permite ir a tu propio paso. Los patrones del enemigo siguen igual, pero no se mover\u00e1n hasta que t\u00fa lo hagas.  \n\nTodos los paquetes de contenido descargable est\u00e1n incluidos en esta versi\u00f3n del juego. Primero, lucha al ritmo de cinco personajes adicionales como Impa y Frederick, el comerciante con el contenido descargable #1. Luego, disfruta de 39 mezclas que podr\u00e1s colocar en cualquier parte con el contenido descargable #2. Finalmente, tenemos a Skull Kid que asume el papel protag\u00f3nico en la historia La sinfon\u00eda de la m\u00e1scara con el paquete de contenido descargable #3.\n\n",
         "languages": null,
-        "size": 1818230784
+        "size": 1816133632
     },
     "70070000011064": {
         "id": null,
