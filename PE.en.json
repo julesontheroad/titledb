@@ -2710,7 +2710,7 @@
             "ru",
             "ko"
         ],
-        "size": 12408848384
+        "size": 12409896960
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -19190,6 +19190,41 @@
         "description": "Return to the award-winning shooter-looter for an all-new adventure that sets the stage for Borderlands 3. Sanctuary is under siege, the Vault Map has been stolen, and a toxic gas is poisoning Pandora. Battle new bosses, explore new areas, collect new loot (including an entirely new tier beyond Legendary), and join up with Lilith and the Crimson Raiders to take on a deranged villain hell-bent on ruling the planet. ",
         "languages": null,
         "size": 5187305472
+    },
+    "70050000023382": {
+        "id": "0100626011657001",
+        "rightsId": null,
+        "name": "The Outer Worlds: Peril on Gorgon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210210,
+        "nsuId": 70050000023382,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language",
+            "Use of Drugs"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Private Division",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0d5907b867613b43b3b4f730303aae2e8f37c29c317f1532a260e2c5717cac27.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a9cf464243e8249ce8efeff47c4d6237d3421e6c03f48007297148b1e0f4d50e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e49d0c9e2af7149fc781b07b359a0fe4248989e903906f7cb350e7ea6f1fb90c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/412fbac375c172da8e45376263503f03bd4698b9075870a13fc48e6a032bd90e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/90e05c8e0f9eb56945a119408b1ef31f3c3041f1a5b9f587ecb0185a2efde8d3.jpg",
+        "intro": "The Outer Worlds: Peril on Gorgon is the first narrative expansion to the award-winning RPG from Obsidian Entertainment and Private Division.",
+        "description": "A severed arm and a mysterious message lead the crew of the Unreliable to the Gorgon Asteroid, formerly the site of one of Halcyon\u2019s most ambitious and disastrous scientific undertakings, now a lawless den of monsters and marauders. Wealthy recluse Minnie Ambrose tasks the crew with finding answers about Dr. Olivia Ambrose, her mother and the doomed project\u2019s disgraced director, but they are soon ensnared in an intrigue that will change the colony forever.\n\nKey Features:\n\u2022        Intrigue and danger: Search an abandoned Spacer\u2019s Choice facility and encounter a cast of new characters as you uncover the mystery behind the sudden cancellation of the Gorgon Project. \n\n\u2022        New locations: Explore the treacherous canyons of the Gorgon Asteroid and encounter enemies that have been warped by science.\n\n\u2022        More science weapons: Discover three outlandish new science weapons, including the P.E.T. (Pest Extermination Tool), an exciting new melee weapon that draws in enemies for close-range attacks.\n\n\u2022        Expanded character customization and lore: An increased level cap, additional perks and flaws, wholly new armor sets, and several variants for existing gear. Plus, dig into the story of the Gorgon Asteroid with new Portable Phonograph audio logs that reveal the salacious secrets of a scientific experiment gone wrong.\n\n\nA copy of the base game The Outer Worlds is required to play expansion.",
+        "languages": null,
+        "size": 2487222272
     },
     "70050000023513": {
         "id": "01002B00111A3001",

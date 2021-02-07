@@ -2710,7 +2710,7 @@
             "ru",
             "ko"
         ],
-        "size": 12408848384
+        "size": 12409896960
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -19190,6 +19190,41 @@
         "description": "Regresa al galardonado shooter-looter para una nueva aventura que prepara el terreno para Borderlands 3. Han asediado Sanctuary, robado el mapa de la C\u00e1mara y un gas t\u00f3xico est\u00e1 envenenando Pandora. Enfr\u00e9ntate a nuevos jefes, explora nuevas zonas, consigue nuevo bot\u00edn (incluido un nuevo nivel m\u00e1s all\u00e1 del Legendario) y \u00fanete a Lilith y los Crimson Raiders para enfrentarse a un villano trastornado decidido a tomar el control del planeta. ",
         "languages": null,
         "size": 5187305472
+    },
+    "70050000023382": {
+        "id": "0100626011657001",
+        "rightsId": null,
+        "name": "The Outer Worlds: Peligro en Gorgona",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210210,
+        "nsuId": 70050000023382,
+        "category": null,
+        "ratingContent": [
+            "Derramamiento de sangre",
+            "Violencia intensa",
+            "Lenguaje fuerte",
+            "Uso de drogas"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Private Division",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0d5907b867613b43b3b4f730303aae2e8f37c29c317f1532a260e2c5717cac27.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a9cf464243e8249ce8efeff47c4d6237d3421e6c03f48007297148b1e0f4d50e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e49d0c9e2af7149fc781b07b359a0fe4248989e903906f7cb350e7ea6f1fb90c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/412fbac375c172da8e45376263503f03bd4698b9075870a13fc48e6a032bd90e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/90e05c8e0f9eb56945a119408b1ef31f3c3041f1a5b9f587ecb0185a2efde8d3.jpg",
+        "intro": "The Outer Worlds: Peligro en Gorgona es la primera expansi\u00f3n narrativa del galardonado RPG de Obsidian Entertainment y Private Division.",
+        "description": "Un brazo cortado y un misterioso mensaje dirigen a la tripulaci\u00f3n de la Falible al asteroide Gorgona, anteriormente uno de los lugares donde Halcyon llevaba a cabo sus planes cient\u00edficos m\u00e1s ambiciosos y desastrosos, hoy convertido en una ca\u00f3tica guarida de monstruos y merodeadores. La rica reclusa Minnie Ambrose encarga a la tripulaci\u00f3n la misi\u00f3n de encontrar respuestas sobre la doctora Olivia Ambrose, su madre y la pobre directora ca\u00edda en desgracia del proyecto, pero pronto se ver\u00e1n enredados en una intriga que cambiar\u00e1 la colonia para siempre.\n\nCaracter\u00edsticas clave:\n\u2022\tIntriga y peligro: investiga las instalaciones abandonadas de Ganga Espacial y encuentra personajes nuevos mientras revelas el misterio que hay detr\u00e1s de la repentina cancelaci\u00f3n del proyecto Gorgona. \n\n\u2022\tNuevas ubicaciones: explora los traicioneros ca\u00f1ones del asteroide Gorgona y enfr\u00e9ntate a enemigos alterados cient\u00edficamente.\n\n\u2022\tM\u00e1s armas de ciencia: descubre tres nuevas armas estrafalarias de ciencia, incluido el P.E.T. (arma de exterminaci\u00f3n de alima\u00f1as), una nueva y divertida arma que atrae a los enemigos para el ataque cuerpo a cuerpo.\n\n\u2022\tPersonalizaci\u00f3n de personajes e historia ampliadas: se aument\u00f3 el nivel m\u00e1ximo y se a\u00f1adieron ventajas y flaquezas, conjuntos de armadura totalmente nuevos y numerosas variantes del equipo actual. Adem\u00e1s, puedes sumergirte en la historia del asteroide Gorgona con los nuevos registros de sonido en fon\u00f3grafos portables que revelan los escabrosos secretos de un experimento que no sali\u00f3 bien.\n\nSe requiere una copia de The Outer Worlds para jugar a la expansi\u00f3n.",
+        "languages": null,
+        "size": 2487222272
     },
     "70050000023513": {
         "id": "01002B00111A3001",
