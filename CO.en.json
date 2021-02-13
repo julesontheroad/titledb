@@ -1208,7 +1208,7 @@
             "zh",
             "zh"
         ],
-        "size": 1523580928
+        "size": 1590689792
     },
     "70010000002264": {
         "id": "0100A330022C2000",
@@ -5686,7 +5686,7 @@
             "nl",
             "ru"
         ],
-        "size": 16555966464
+        "size": 16827547648
     },
     "70010000022226": {
         "id": "01002C000E35E000",
@@ -7849,7 +7849,7 @@
             "de",
             "it"
         ],
-        "size": 6572474368
+        "size": 6687817728
     },
     "70010000035838": {
         "id": "0100A12011CC8000",
@@ -20124,6 +20124,96 @@
         "languages": null,
         "size": 10485760
     },
+    "70050000025198": {
+        "id": "0100E1F013675054",
+        "rightsId": null,
+        "name": "Dua Lipa & BLACKPINK - \"Kiss and Make Up\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210211,
+        "nsuId": 70050000025198,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7206d8a5ff31c47170a79125b9f1ef8ff95898b381b81c11cf147f42a45a73c4.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"Kiss and Make Up\" by Dua Lipa & BLACKPINK! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 10485760
+    },
+    "70050000025199": {
+        "id": "0100E1F013675055",
+        "rightsId": null,
+        "name": "Surf Mesa ft. Emilee - \"ily (i love you baby)\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210211,
+        "nsuId": 70050000025199,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/33e805330004567ecec01aa4e695d959b2e1ca4f9fe533cf896753ee2c5f6286.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"ily (i love you baby)\" by Surf Mesa ft. Emilee! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 9437184
+    },
+    "70050000025200": {
+        "id": "0100E1F013675056",
+        "rightsId": null,
+        "name": "David Guetta & Sia - \"Let's Love\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210211,
+        "nsuId": 70050000025200,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/94e901c5444d2c84d1b5e3f8eff40f648469e886c4b4b23900af7cc0a3f99bc2.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"Let's Love\" by David Guetta & Sia! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 8388608
+    },
     "70050000025400": {
         "id": "0100073011383005",
         "rightsId": null,
@@ -22430,7 +22520,7 @@
         "intro": null,
         "description": "Receive the game, season pass, and exclusive in-game content with the Gold Edition. \n\nImmortals Fenyx Rising\u2122 brings grand mythological adventure to life. Play as Fenyx, a new, winged demigod, on a quest to save the Greek gods. \n\n- Wield the powers of the gods like Achilles' sword and Daidalos' wings to battle powerful enemies and solve ancient puzzles.\n- Fight iconic mythological beasts like Cyclops and Medusa in dynamic combat in the air and on the ground. \n- Use your skills and diverse weapons, including self-guided arrows, telekinesis, and more, for devastating damage.  \n- Discover a stylized open world across seven unique regions, each inspired by the gods.",
         "languages": null,
-        "size": 16555966464
+        "size": 16827547648
     },
     "70070000011395": {
         "id": null,
