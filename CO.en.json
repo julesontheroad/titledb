@@ -7342,6 +7342,50 @@
         ],
         "size": 7401897984
     },
+    "70010000030150": {
+        "id": "0100394011C30000",
+        "rightsId": null,
+        "name": "Scott Pilgrim vs. The World\u2122: The Game \u2013 Complete Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210212,
+        "nsuId": 70010000030150,
+        "category": [
+            "Action",
+            "Fighting"
+        ],
+        "ratingContent": [
+            "Cartoon Violence",
+            "Language",
+            "Mild Blood",
+            "Partial Nudity",
+            "Users Interact"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/357eedcc91f62e819aecc8a1f66347abecd1b48ed3c8c953697bb2130ed9a7b0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/11193aa34b4b8a9a7debdfb6e8b7f1d8237fe96c839b95a30be3f1faaed52612.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17d0675fe2c495773b2e227dc43113312586b1c99ddcb85d82cbacb32d9fbb03.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22c3ac8364455e2b1d49adcb38114d89fe9650f375371aac5bdbcd3765e1f86f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4be8b51e192a35e20e9dc730f4a3ca8382dd1895c8ad2e8709246933e65eb8ac.jpg",
+        "intro": null,
+        "description": "Complete Edition includes the remaster of Scott Pilgrim vs. The World\u2122: The Game and its original DLCs: the Knives Chau and Wallace Wells Add-On Packs. Rediscover the beloved 2D arcade-style beat 'em up inspired by the iconic comic book series and movie, Scott Pilgrim vs. The World.\n\nPlay as your favorite characters \u2013 Scott Pilgrim, Ramona Flowers, Knives Chau, Stephen Stills, and more. Level up and learn new awesome abilities, unlock secret items and modes, summon powerful allies, and more! \n\nTeam up with friends and combine your skills to battle your way through waves of tough enemies, or compete with them in awesome mini-games like Dodgeball, all on your way to defeat the League of Ramona's Evil Exes!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 1181745152
+    },
     "70010000030293": {
         "id": "0100B6801137E000",
         "rightsId": null,

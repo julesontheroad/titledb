@@ -7503,6 +7503,50 @@
         ],
         "size": 7401897984
     },
+    "70010000030150": {
+        "id": "0100394011C30000",
+        "rightsId": null,
+        "name": "Scott Pilgrim vs. The World\u2122: The Game \u2013 Complete Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210212,
+        "nsuId": 70010000030150,
+        "category": [
+            "Acci\u00f3n",
+            "Peleas"
+        ],
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Lenguaje",
+            "Bajo contenido de sangre",
+            "Desnudez parcial",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/357eedcc91f62e819aecc8a1f66347abecd1b48ed3c8c953697bb2130ed9a7b0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/11193aa34b4b8a9a7debdfb6e8b7f1d8237fe96c839b95a30be3f1faaed52612.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17d0675fe2c495773b2e227dc43113312586b1c99ddcb85d82cbacb32d9fbb03.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22c3ac8364455e2b1d49adcb38114d89fe9650f375371aac5bdbcd3765e1f86f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4be8b51e192a35e20e9dc730f4a3ca8382dd1895c8ad2e8709246933e65eb8ac.jpg",
+        "intro": null,
+        "description": "La edici\u00f3n Complete incluye la remasterizaci\u00f3n de Scott Pilgrim vs. The World\u2122: El juego y sus DLC originales: los paquetes adicionales Knives Chau y Wallace Wells. Redescubre el amado estilo arcade 2D, inspirado en los ic\u00f3nicos c\u00f3mics y la pel\u00edcula, Scott Pilgrim vs. The World.\n\nJuega como tus personajes favoritos: Scott Pilgrim, Ramona Flowers, Knives Chau, Stephen Stills y m\u00e1s. \u00a1Sube de nivel y aprende nuevas habilidades asombrosas, desbloquea objetos y modos secretos, invoca poderosos aliados y mucho m\u00e1s! \n\n\u00a1Haz equipo con tus amigos y combina tus habilidades para abrirte camino a trav\u00e9s de oleadas de rudos enemigos o compite junto a ellos en incre\u00edbles minijuegos como Dodgeball, todo en tu camino para derrotar a la Liga de los Ex malvados de Ramona!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 1181745152
+    },
     "70010000030293": {
         "id": "0100B6801137E000",
         "rightsId": null,
