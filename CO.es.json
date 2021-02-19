@@ -6086,7 +6086,7 @@
             "fr",
             "pt"
         ],
-        "size": 231735296
+        "size": 219152384
     },
     "70010000024248": {
         "id": "01008CA00FAE8000",
@@ -6702,6 +6702,57 @@
         ],
         "size": 7522484224
     },
+    "70010000027858": {
+        "id": "0100C56010FD8000",
+        "rightsId": null,
+        "name": "Plants vs. Zombies\u2122: La Batalla de Neighborville Edici\u00f3n Completa",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210319,
+        "nsuId": 70010000027858,
+        "category": [
+            "Acci\u00f3n",
+            "Aventura",
+            "Disparos",
+            "Multijugador"
+        ],
+        "ratingContent": [
+            "Travesuras comicas",
+            "Violencia de fantasia",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/02201d7dde750ce477c76491ffe5bac757368e31e63d84a37eb9990758c35118.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/541c8e80117faf4009ca65ad20be9458c48a87606e9d6d853f33e418c48552b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec6b943e333a4dfef19ae9b94db4e3b501609a3e28cd7a60016ce7ab1e3026b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e328b129cdafb0852ccb5f4368ab0e7278060581b496157058a8756655155649.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7af8c9cdf2122e7ec0b5e20e6b498bc34087a2443caec543af8aa0c2425debcc.jpg",
+        "intro": "\u00a1Reserva ya para propinar una plantiza con y sin conexi\u00f3n!",
+        "description": "Ahora en Nintendo Switch, enfr\u00e9ntate a misiones hilarantes y derrota a jefes \u00e9picos en el Bosque Raroso, el Monte Escarpado y el Centro de Neighborville para conseguir medallas y desbloquear atuendos estupendos. Juega con hasta tres amigos y p\u00e1salo bomba en el Parque Aventura o ad\u00e9ntrate en una partida multijugador 8c8 en Invasi\u00f3n de territorios, donde eliminar\u00e1s a los rivales, lanzar\u00e1s bombas gnomo y saltar\u00e1s en lodo rosa. \u00a1Lo m\u00e1s divertido que vivir\u00e1s desde que inventaron el pan rebanado!\n\n\u00a1Lleva tu consola a donde sea y prep\u00e1rate para una plantiza con y sin conexi\u00f3n en un conflicto entre plantas y zombis que te llevar\u00e1 a cada rinc\u00f3n de Neighborville!\n\n- Ac\u00e9rcate a los l\u00edmites exteriores de Neighborville sin conexi\u00f3n - Descubre el Parque Aventura, las regiones de exploraci\u00f3n para JcE y los modos de juego privado, todo ello sin necesidad de conexi\u00f3n a Internet. \n- Personaliza a cada personaje para la batalla - Gana monedas solo jugando y g\u00e1stalas en la tienda de Rux para desbloquear objetos de personalizaci\u00f3n, personajes y ventajas geniales. \n- Juega con tu gente favorita -Elige hasta tres amigos y divi\u00e9rtete en el Parque Aventura o sum\u00e9rgete en l\u00ednea en el modo multijugador 8c8 en Invasi\u00f3n de territorios, y elimina a los oponentes en gigantescas escaramuzas suburbanas.\n- Controles de movimiento y men\u00fas t\u00e1ctiles - Usa controles de movimiento para apuntar, con una gama completa de configuraciones para personalizar.  Interact\u00faa con los men\u00fas de la interfaz de usuario a lo largo del juego mediante la entrada t\u00e1ctil, incluido el zoom del mapa. \n- Selector de mapas de premios - Elige entre los 12 mapas de premios e interact\u00faa con ellos en cualquier momento. \u00a1Tambi\u00e9n puedes intercambiar los orbes de premios por impresihojantes recompensas!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 6797918208
+    },
     "70010000027969": {
         "id": "0100DD30110CC000",
         "rightsId": null,
@@ -6887,7 +6938,7 @@
         "size": 8963227648
     },
     "70010000028643": {
-        "id": null,
+        "id": "01006DC010326000",
         "rightsId": null,
         "name": "BRAVELY DEFAULT\u2122 II",
         "version": null,
@@ -6910,7 +6961,7 @@
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
-        "iconUrl": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2aad4ebaefb3103c9322d54ec8fdda2a62c814beedcbf45a104d9a7ababae1ab.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/c81531cbc6509556ea8b30a603fc10010c46948b0c97b4c06dca9938f7159be5.jpg",
             "https://img-eshop.cdn.nintendo.net/i/6c49fff3d64fb37f6840a685241e03761eb1d0499ede44700f9bf6493632b961.jpg",
@@ -6919,9 +6970,9 @@
             "https://img-eshop.cdn.nintendo.net/i/e478d63d46626c44332cda1608b5646ff1877a353173256adb4f27a6264c2186.jpg",
             "https://img-eshop.cdn.nintendo.net/i/9b199a3d17f875a5d93f4f70c0dc30171f4ba39834c8e26285bd5823b3ac8914.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3e6fe25a177341dbbf48625d05d945e2be487d3252767c6d344934e3b72da8d7.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a1f63cce5975c248f3c69361966b38a23183959b59d3745144528a162ff5ea0d.jpg",
         "intro": "\u00a1Una nueva saga de la serie Bravely! ",
-        "description": "Emb\u00e1rcate en la b\u00fasqueda de cuatro cristales en la \u00faltima entrega de la serie Bravely. Explora un mundo lleno de nuevos personajes, con la atm\u00f3sfera y la jugabilidad por las que la serie es conocida.\n\nCuatro nuevos H\u00e9roes de la Luz emergen \n\n\u00a1Salva el continente de Excillant con la ayuda de los H\u00e9roes de la Luz! Sigue la historia del joven marinero Seth en su gran aventura mientras conoce a muchos amigos (y enemigos) durante su viaje.\n\nEl sistema de combate Brave and Default est\u00e1 de regreso\n\nBusca el equilibrio entre riesgo y recompensa en combates por turnos. Los personajes podr\u00e1n elaborar m\u00faltiples movimientos en un solo turno, pero puede que no logren realizar otras acciones por un periodo de tiempo. La clave est\u00e1 en el balance.\n\n\u00a1Un nuevo mundo, una historia nueva y H\u00e9roes de la Luz completamente nuevos y listos para salvar a Excillant! Participa en un combate de juego de rol por turnos con un sistema de riesgo/recompensa en la pr\u00f3xima entrega de la serie Bravely de Square Enix.\n\nLa saga comienza cuando nuestro h\u00e9roe Seth, un joven marinero, es arrastrado hacia la orilla de uno de los cinco reinos de Excillant. All\u00ed conocer\u00e1 a Gloria de Musa, una princesa que huy\u00f3 de su reino cuando fue destruido por fuerzas malignas empecinadas en robar sus cristales. Tambi\u00e9n se encuentra con Elvis y Adelle, dos viajeros resueltos a descifrar un misterioso y m\u00e1gico libro. Depender\u00e1 de ti detener a las fuerzas que amenazan a estos h\u00e9roes y a todo Excillant.\n\nSelecciona entre una gran variedad de trabajos, habilidades y capacidades para personalizar a cada miembro del grupo y lograr ajustarlos a tu estrategia. Cuanto m\u00e1s aprendas, m\u00e1s t\u00e1cticas ejercer\u00e1s. Encuentra y derrota a los jefes que tengan asteriscos para asumir m\u00e1s trabajos, \u00a1derrota a Orfeo para el trabajo de bardo o a Dag para convertirte en guardia!\n\n",
+        "description": "\u00a1La versi\u00f3n de prueba The Bravely Default II Final ya est\u00e1 disponible!\n\nViaja por el esc\u00e9nico continente de Excillant (\u00a1y obt\u00e9n 100 puntos de platino por jugarlo hasta el lanzamiento del juego el 26/02/21!). La \u00faltima versi\u00f3n de prueba Bravely Default II Final est\u00e1 aqu\u00ed para ofrecerte una probadita del v\u00edvido arte, el estrat\u00e9gico sistema de batalla y la memorable m\u00fasica del primer cap\u00edtulo del juego. \u00a1Esta versi\u00f3n de prueba incluye los cuatro personajes principales, los H\u00e9roes de la Luz (cuando ya han comenzado su aventura), y m\u00faltiples trabajos y habilidades a tu disposici\u00f3n! No importa si eres nuevo en esta serie o si la has disfrutado desde hace tiempo, \u00a1esta versi\u00f3n de prueba es una gran oportunidad para probar el juego!\n\n================================\n\nEmb\u00e1rcate en la b\u00fasqueda de cuatro cristales en la \u00faltima entrega de la serie Bravely. Explora un mundo lleno de nuevos personajes, con la atm\u00f3sfera y la jugabilidad por las que la serie es conocida.\n\nCuatro nuevos H\u00e9roes de la Luz emergen \n\n\u00a1Salva el continente de Excillant con la ayuda de los H\u00e9roes de la Luz! Sigue la historia del joven marinero Seth en su gran aventura mientras conoce a muchos amigos (y enemigos) durante su viaje.\n\nEl sistema de combate Brave and Default est\u00e1 de regreso\n\nBusca el equilibrio entre riesgo y recompensa en combates por turnos. Los personajes podr\u00e1n elaborar m\u00faltiples movimientos en un solo turno, pero puede que no logren realizar otras acciones por un periodo de tiempo. La clave est\u00e1 en el balance.\n\n\u00a1Un nuevo mundo, una historia nueva y H\u00e9roes de la Luz completamente nuevos y listos para salvar a Excillant! Participa en un combate de juego de rol por turnos con un sistema de riesgo/recompensa en la pr\u00f3xima entrega de la serie Bravely de Square Enix.\n\nLa saga comienza cuando nuestro h\u00e9roe Seth, un joven marinero, es arrastrado hacia la orilla de uno de los cinco reinos de Excillant. All\u00ed conocer\u00e1 a Gloria de Musa, una princesa que huy\u00f3 de su reino cuando fue destruido por fuerzas malignas empecinadas en robar sus cristales. Tambi\u00e9n se encuentra con Elvis y Adelle, dos viajeros resueltos a descifrar un misterioso y m\u00e1gico libro. Depender\u00e1 de ti detener a las fuerzas que amenazan a estos h\u00e9roes y a todo Excillant.\n\nSelecciona entre una gran variedad de trabajos, habilidades y capacidades para personalizar a cada miembro del grupo y lograr ajustarlos a tu estrategia. Cuanto m\u00e1s aprendas, m\u00e1s t\u00e1cticas ejercer\u00e1s. Encuentra y derrota a los jefes que tengan asteriscos para asumir m\u00e1s trabajos, \u00a1derrota a Orfeo para el trabajo de bardo o a Dag para convertirte en guardia!\n\n",
         "languages": [
             "ja",
             "en",
@@ -6933,7 +6984,7 @@
             "zh",
             "zh"
         ],
-        "size": 0
+        "size": 13319012352
     },
     "70010000028673": {
         "id": "010075701153A000",
@@ -8140,6 +8191,312 @@
         ],
         "size": 204472320
     },
+    "70010000037989": {
+        "id": null,
+        "rightsId": null,
+        "name": "New Pok\u00e9mon Snap\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210430,
+        "nsuId": 70010000037989,
+        "category": [
+            "Simulaci\u00f3n"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cc288ea752072c29ecd340ad04650694099b08dac54daab8030058c0f121a0a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5baa1a8ba0ad2db72621d47a41a624ca6a931f34e5d65dad0f2c2279e8dc425f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ced662ab03109d109e21a9152fb220a62d8d32696a48a5ef89acb3a41f46cfcd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8dc1622bb206a7f210d5cf2e4fe306b775318f84f2aefb17e7b07867f98d1a93.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0085e8b6b7a5924d751b96ae6ccab87b957edeb11740aa229517856a96a64864.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4d22eb84b6ce76c74e848281fbe1b4e1e582707084e6fd9cabc80fddd3b61e56.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00bd7efe46ab2b3ff0774172a5d4f21a5b2f467b3e324557ce1e9a9ae12c1d3b.jpg",
+        "intro": "Explora paisajes exuberantes en islas desconocidas para tomar fotos de Pok\u00e9mon en su h\u00e1bitat natural",
+        "description": "\u00a1Busca y fotograf\u00eda Pok\u00e9mon en su ambiente natural dentro del nuevo juego New Pok\u00e9mon Snap\u2122, disponible exclusivamente para la consola Nintendo Switch\u2122! Podr\u00e1s incluso descubrir comportamientos y expresiones que nunca antes hab\u00edas visto cuando encuentres e investigues Pok\u00e9mon salvajes. Es posible que los veas patrullando su territorio, jugando o merodeando en lugares rec\u00f3nditos.\n\nInvestiga el misterioso fen\u00f3meno L\u00famini\n\nViaja a trav\u00e9s de las islas que conforman la regi\u00f3n de Lensis. All\u00ed, algunos Pok\u00e9mon y ciertas plantas parecer\u00e1n tener un brillo especial. \u00a1Investiga a esos Pok\u00e9mon junto al Profesor Espejo mientras exploras espesas junglas, inmensos desiertos y m\u00e1s! Puede que tu an\u00e1lisis sobre el desarrollo de los Pok\u00e9mon en su ambiente natural ayude a descifrar la verdad detr\u00e1s del fen\u00f3meno L\u00famini. \u00a1Las fotos que les tomes a los Pok\u00e9mon se utilizar\u00e1n para crear tu propia Fotodex!\n\n\u00a1Revive la diversi\u00f3n de Pok\u00e9mon Snap, lanzado en 1999 para la consola Nintendo 64\u2122, en este nuevo juego para la consola Nintendo Switch, con islas por descubrir y distintos Pok\u00e9mon por encontrar! \n\nToma fotos de Pok\u00e9mon salvajes en su h\u00e1bitat natural mientras investigas y exploras islas desconocidas. Sube a tu veh\u00edculo, el fiel Neo-One, y viaja a trav\u00e9s de una variedad de lugares, como playas, junglas y desiertos para observar comportamientos de Pok\u00e9mon que jam\u00e1s se hab\u00edan visto. Puedes incluso atraer Pok\u00e9mon con deliciosas blanzanas. \u00a1Las fotos que tomes se pueden utilizar para completar tu propia Fotodex! \n\nEn la regi\u00f3n de Lensis a veces se puede apreciar el brillo de ciertos Pok\u00e9mon y ciertas plantas. Conoce al Profesor Espejo y trabaja con \u00e9l para descubrir el misterio del fen\u00f3meno L\u00famini. Tus fotos y tu an\u00e1lisis pueden ser esenciales para comprender este extra\u00f1o acontecimiento.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 0
+    },
+    "70010000038617": {
+        "id": null,
+        "rightsId": null,
+        "name": "Miitopia\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210521,
+        "nsuId": 70010000038617,
+        "category": [
+            "Aventura",
+            "Juego de rol"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f5b739aea15b7058c0fc1bbd80bd2b6b232316e2fd87ff8b7ae5365595bc9bf4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/89e88f6f7b08e166f5fc91c2f63925847ec3cff8a1d80d3f172559a41118a193.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b26c2022d4db2574f8aafe7d381cf1ffad9827c332df5ad96d11aaa1e1feb8b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3fee7df915abe2c75a5ad8bf12b7009835601523c864e05fcfddcf901b0bc870.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/875ccb832a45f9d75eff61bb6d3621e1f8f111b759f6ac36f7edb9e730f89add.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d60fb2fbff5e3abfba3e2e53f08cd9e1d904cd6ec605eb098895604097e8b729.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/405b7ccd33c2183bd6f0dc7773908e472cdde56f7c4ca2252a50c8bfd0e41d0c.jpg",
+        "intro": "\u00a1S\u00e9 la estrella de tu aventura en conjunto con\u2026 tus personas favoritas!",
+        "description": "Invita a tu familia, amigos o a cualquier persona que quieras a una divertid\u00edsima aventura para derrotar al Archimago. Crea y personaliza los personajes Mii\u2122 y convi\u00e9rtelos en quien t\u00fa quieras, desde tu aterrador profesor de matem\u00e1ticas hasta tu celebridad favorita, y as\u00edgnales tareas y rasgos de personalidad en la aventura de fantas\u00eda de sus vidas. Podr\u00e1s adornarlo con pelucas y maquillaje para darle m\u00e1s\u2026 personalidad. \u00a1Mira c\u00f3mo tus personajes cobran vida al ver a tu actor favorito luchar junto a una abuelita gru\u00f1ona contra el mal\u00e9volo Archimago que se parece a tu malhumorado vecino!\n\nSelecciona cuidadosamente a tus personajes Mii y fomenta su amistad \n\nForma d\u00faos con tus personajes Mii en las posadas para fortalecer sus afinidades y as\u00ed disfrutar de interacciones cargadas de car\u00e1cter. \u00a1Puede que escuches un buen chisme sobre la abuela o encuentres a tu mejor amigo y tu mam\u00e1 haciendo lagartijas! Los personajes tambi\u00e9n podr\u00e1n aprender habilidades como \u201cEchar una mano\u201d y ayudarse entre s\u00ed durante la batalla. Los cupones para planes te permitir\u00e1n crear aventuras donde tus personajes Mii disfrutar\u00e1n de la playa, de un caf\u00e9 y de mucho m\u00e1s para fortalecer su amistad. \u00a1Hasta tu fiel corcel brindar\u00e1 una pata!\n\nInvita a tus amigos al combate\n\nInicia un combate por turnos contra a los estramb\u00f3ticos malosos, como el revoltoso Pavo nalg\u00f3n, para aumentar el nivel de experiencia y mejorar el nivel de los personajes. Adapta tu estrategia asign\u00e1ndoles trabajos a los personajes Mii como hechiceros, guerreros y cantantes que determinar\u00e1n tu enfoque en la batalla. \u00bfNecesitas una ayudadita? Utiliza la comida para recuperar la salud y la magia para mantener a tu grupo en forma para el combate.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 0
+    },
+    "70010000038622": {
+        "id": null,
+        "rightsId": null,
+        "name": "Mario Golf\u2122: Super Rush",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210625,
+        "nsuId": 70010000038622,
+        "category": [
+            "Deportes",
+            "Multijugador"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/33339907d193a350dbf4d809fc249d19587199099a5fd116abcb9338c929fd87.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/68d6d9efb53149844a70ffd8fd4bcabcbc7557256eed0fceb99b71736e40ca8a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4af90688c6e815043ef068f788058e547093114dbe16981d508f4dbb6d70560.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad4d6b1812b21cd783d9780bd4513112b00dbea9cfee2cb285c80e547e51cc85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8e8d8bc76fed7ab365677ccf6ca964e72acc4ba934cbec76292ef715a7acbce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7646e20a8aab7be458b69f19539af2b8680998e860b3f9c66f86b1c4dbfd6e7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af5246b2f01dee8111a70bcb3f556e65a492801d6677d0ab0f17b566a7b0285b.jpg",
+        "intro": "Disfruta con tu familia y amigos en el juego m\u00e1s grande de Mario Golf",
+        "description": "Ad\u00e9ntrate en el campo de golf con hasta cuatro jugadores de manera local* o en l\u00ednea** y juega en compa\u00f1\u00eda de reconocidos personajes del Reino Champi\u00f1\u00f3n. Hay una gran variedad de modos, desde Golf tradicional hasta el energ\u00e9tico Golf r\u00e1pido, e incluso una aventura de golf al estilo juego de rol en el modo historia. Nuevas caracter\u00edsticas, como los intuitivos controles de movimiento o el uso de botones, un indicador de tiro que se adapta a la curva del campo y otras herramientas, facilitan guiar y golpear la pelota con potencia sin importar si eres un jugador nuevo o experimentado.\n\nGolpea y corre hacia la pelota simult\u00e1neamente en Golf r\u00e1pido\n\nComienza la diversi\u00f3n con tres jugadores* m\u00e1s al mismo tiempo y compite a trav\u00e9s del campo de golf para ser el primero en embocar la pelota en el hoyo. Supera e interrumpe a tus oponentes con carreras y disparos especiales. \n\nSube de nivel en las clasificaciones en el modo historia\n\n\u00a1Inscribe a tu personaje Mii\u2122 para que tome un entrenamiento de golf en un prestigioso club y empieza como novato y termina como un profesional! Enfr\u00e9ntate a tus compa\u00f1eros de clase del Reino Champi\u00f1\u00f3n y gana puntos de experiencia. Sube de nivel para mejorar las estad\u00edsticas de tu personaje, como el poder, el movimiento y los efectos. \u00a1Tambi\u00e9n puedes llevar a tu personaje (y sus estad\u00edsticas personalizadas) a otros modos!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 0
+    },
+    "70010000038627": {
+        "id": null,
+        "rightsId": null,
+        "name": "DC Super Hero Girls\u2122: Teen Power",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210604,
+        "nsuId": 70010000038627,
+        "category": [
+            "Acci\u00f3n"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fba16a7356c6edbc11bd5227150e8e23a870110cfc81c97ca5086b47242596bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f486c1d3051d11a7ad5f598699147fedef0c824fcf89e020c4b9f9dcc3efd20d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a6273c33f8c1f0c661b593ea210006c8f9e3c23f1953936b05e1389a86a75482.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fd01419b9fae2278e037e4c8852821dbcbd95b647e2970fdd926a6f00e76c69c.jpg",
+        "intro": "\u00a1Forma parte de DC Super Hero Girls y salva Metr\u00f3polis!",
+        "description": "\u00a1\u00danete a la lucha como Wonder Woman, Supergirl y Batgirl de la serie animada DC Super Hero Girls y rescata a Metr\u00f3polis de algunos de los supervillanos m\u00e1s famosos de DC! Cada h\u00e9roe puede luchar contra los malvados con un conjunto de habilidades \u00fanico: Wonder Woman usa sus habilidades de guerrera con su Lazo de la Verdad y su Escudo, Supergirl tiene Visi\u00f3n de calor y Super Aliento, y Batgirl puede inventar artilugios para combatir el crimen como el Batarang y el Bat-Hook. Pero cuando no est\u00e9s luchando contra el crimen, \u00a1deber\u00e1s equilibrar tu vida de h\u00e9roe con la vida de adolescente!\n\nExplora la ciudad como un superh\u00e9roe adolescente\n\nNo olvides visitar los mejores lugares de reuni\u00f3n del programa, como Metropolis High School y Sweet Justice, que tambi\u00e9n son excelentes lugares donde podr\u00e1s tomar fotos para compartir en Superstapost. Pero mantente alerta, porque siempre deber\u00e1s proteger tu identidad secreta e incluso puede que te encuentres con algunos de los supervillanos m\u00e1s traviesos de la ciudad como Harley Quinn, Catwoman y Star Sapphire.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 0
+    },
+    "70010000039214": {
+        "id": null,
+        "rightsId": null,
+        "name": "Famicom Detective Club\u2122: The Girl Who Stands Behind",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210514,
+        "nsuId": 70010000039214,
+        "category": [
+            "Simulaci\u00f3n"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Temas insinuantes",
+            "Uso de Alcohol y Tabaco",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cbff523dbceeb55cd513e948f4b5b70bfbe5f6d4b3571416e2f05e48914f90dc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4824ad6d52da53e61bdc7f9f588660fda2dccfc1be52396f9f0506a4852f8b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b3636e92181cdab9eb1106848dbe1f79a136836049a17cc299a62e951133d4b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ae91e25d95bdedce89983c43cc8fc9e42121aaadd41a71a7d801eda39513cbc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/adde39acf4cd75b29fdd6a58b34769ae4069c647b18d40c52bc6332cc06b794b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be251d7167ee9c2aaa085c11562ec878abfbe406cfd06e139d70cb1d2e6df52b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cb27694d95028f043301cb9d232229a15d5317a829ad5a2412a774e7e70f3173.jpg",
+        "intro": "Descubre el secreto detr\u00e1s de un espeluznante rumor que agobia una escuela secundaria japonesa",
+        "description": "Interroga a los sospechosos y ve en busca de las pistas necesarias para resolver los escalofriantes dilemas que invaden una escuela secundaria en Jap\u00f3n. Una ola de suspenso (y un poco de horror) se desata mientras intentas liberar a los estudiantes de su pesadilla. Juega esta aventura en casa, mientras viajas o en tu rinc\u00f3n de lectura favorito, exclusivamente en la consola Nintendo Switch. \u00bfPodr\u00e1s descifrar qui\u00e9n es el culpable... antes de que sea demasiado tarde?\n\nJuega por primera vez Famicom Detective Club en el idioma ingl\u00e9s\n\nOriginalmente lanzado de forma exclusiva en Jap\u00f3n, el juego Famicom Detective Club\u2122: The Girl Who Stands Behind se ha localizado con texto en ingl\u00e9s y modernizado para la consola Nintendo Switch\u2122. Y a pesar de que los gr\u00e1ficos, la m\u00fasica y los efectos de sonido se han reproducido, los jugadores tambi\u00e9n podr\u00e1n elegir la banda sonora de 8 bits original. Descubre una parte de la historia de Nintendo con la serie Famicom Detective Club.\n\nCompra uno de los juegos de la serie Famicom Detective Club y obt\u00e9n un descuento en el otro\n\nFamicom Detective Club: The Girl Who Stands Behind es el segundo juego de la serie. El primer juego, Famicom Detective Club: The Missing Heir, tambi\u00e9n est\u00e1 disponible en Nintendo eShop. \u00a1Si adquieres uno de estos juegos en Nintendo eShop, podr\u00e1s recibir un descuento en el otro si tambi\u00e9n haces la compra desde Nintendo eShop*!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 0
+    },
+    "70010000039215": {
+        "id": null,
+        "rightsId": null,
+        "name": "Famicom Detective Club\u2122: The Missing Heir",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210514,
+        "nsuId": 70010000039215,
+        "category": [
+            "Simulaci\u00f3n"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Lenguaje",
+            "Uso de tabaco",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d4de05200a5d61e1f6338bb19ca76792009f0e5b62184ca0f017c301b3bd26aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b050b10f1b579452b5c2e7013e9911163bf205d8e7f5746c41204ed4c40dd0d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35a9c9b4d227a6bbfc8f56e39918c5c94f9c033f9d7a49b06513972326baf425.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16962d2a5f5d0d275b27473479ce84b46b0b2818a2dd9dc8f82cb9ed31cec738.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c451a1f508131f885e6b565ae2d95c42104c4719dabf462febaa5bffa62b9c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c0dd96e80466dcb957ec78ba3e228d66dd59b39841f97dedb0e137738627a07.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f48da5a01b3859ab7d67a51bccabdb121b98468c9f40093c8bdb0fcc1c45e21.jpg",
+        "intro": "Resuelve un misterio que rodea a una familia pudiente japonesa",
+        "description": "Encuentra pistas, interroga a los sospechosos y explora la campi\u00f1a japonesa despu\u00e9s de que una tragedia golpeara a la millonaria familia Ayashiro. Esta historia llena de suspenso sigue a un detective con amnesia que intenta descifrar su propio pasado en medio de una terrible y angustiosa investigaci\u00f3n criminal. Juega en casa, mientras viajas o en tu rinc\u00f3n de lectura favorito, exclusivamente en la consola Nintendo Switch\u2122.\n\nJuega Famicom Detective Club por primera vez en el idioma ingl\u00e9s\n\nOriginalmente lanzado de forma exclusiva en Jap\u00f3n, el juego Famicom Detective Club\u2122: The Missing Heir se ha localizado con texto en ingl\u00e9s y modernizado para la consola Nintendo Switch\u2122. Y a pesar de que los gr\u00e1ficos, la m\u00fasica y los efectos de sonido han sido reproducidos, los jugadores tambi\u00e9n podr\u00e1n elegir la banda sonora de 8 bits original. Descubre una parte de la historia de Nintendo con la serie Famicom Detective Club.\n\nCompra uno de los juegos de la serie Famicom Detective Club y obt\u00e9n un descuento en el otro\n\nFamicom Detective Club: The The Missing Heir es el primer juego de la serie. Su precuela, Famicom Detective Club: The Girl Who Stands Behind, tambi\u00e9n est\u00e1 disponible en Nintendo eShop. \u00a1Si adquieres uno de estos juegos desde Nintendo eShop, podr\u00e1s recibir un descuento en el otro si tambi\u00e9n haces la compra en Nintendo eShop*!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 0
+    },
+    "70010000039317": {
+        "id": "01002980140F6000",
+        "rightsId": null,
+        "name": "Project TRIANGLE STRATEGY\u2122 Debut Demo",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210217,
+        "nsuId": 70010000039317,
+        "category": [
+            "Juego de rol",
+            "Estrategia"
+        ],
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje",
+            "Bajo contenido de sangre",
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/79e65a32f3e966c8848d69e609cdce423b1f2c08f3b0d0d8e4f35ccec49d2051.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0a883a0fee65623b645893b21947410fc31f7ded217c4027eb5fee458ec8dd59.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f5f76dcbeaec01ec6192c050d62eb55fef8091ca4a31298ec46056b5862cee6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0d6bc0b03c8a8a0bd710c5fba7e0731adacd54d4d61fa4a4c3d67caa711942c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23442191b5423c2a3697d39f4550250449c4c19b8bd446c3800c214297d7eb9a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2ef939e31b9fe0212662b65ed1a4f7c5f209eb15290d1dd24a939978d2492906.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1540235f2a3593950325560d0df60a1a8c0bc6686885f960873922f4c40a7b4f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b2074d239c15a98855a45c8436c8a0782860c9d8343f2357e2114304e55b03cd.jpg",
+        "intro": "Tres naciones luchan por el control de los escasos recursos de sal y hierro",
+        "description": "Dirige a un grupo de guerreros como Serinoa, heredero del Reino de Glaucoburgo, a trav\u00e9s de una enredada historia donde tus decisiones marcar\u00e1n la diferencia. Las decisiones clave que tomes reforzar\u00e1n una de las tres convicciones: el bien com\u00fan, la moralidad y la libertad. Juntas conforman la visi\u00f3n del mundo de Serinoa e influyen en c\u00f3mo se desarrollar\u00e1 la historia. Al enfrentarse a decisiones verdaderamente importantes, varios personajes intervendr\u00e1n al emitir su voto en la Balanza de la convicci\u00f3n. En estos momentos, los aliados y las decisiones que tomes podr\u00e1n determinar el destino de naciones enteras y del propio continente de Norselia.\n\nControla los campos de batalla multinivel para asegurar la victoria de manera estrat\u00e9gica\n\nEncontrar la mejor ubicaci\u00f3n en las batallas por turnos puede hacer que la marea del combate cambie a tu favor. Coloca las unidades en un terreno m\u00e1s alto para tener ventaja con un mayor alcance y as\u00ed tomar el control del campo de batalla. Tambi\u00e9n puedes flanquear enemigos en ambos lados y luego atacar desde atr\u00e1s para un poderoso ataque encadenado. Las reacciones elementales en cadena tambi\u00e9n son parte importante del combate. Por ejemplo, utiliza el fuego para derretir el terreno congelado y luego utiliza un rayo para electrocutarlo. \u00a1Empuja al enemigo al agua electrificada y mira c\u00f3mo vuelan las chispas!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh",
+            "zh"
+        ],
+        "size": 1733296128
+    },
     "70030000000341": {
         "id": null,
         "rightsId": null,
@@ -8453,7 +8810,7 @@
             "Desnudez",
             "Lenguaje fuerte",
             "Temas insinuantes",
-            "Interacci\u00c3\u00b3n de usuarios"
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 17,
@@ -8513,7 +8870,7 @@
             "Derramamiento de sangre",
             "Violencia intensa",
             "Lenguaje fuerte",
-            "Interacci\u00c3\u00b3n de usuarios"
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 17,
@@ -9030,6 +9387,37 @@
         "languages": null,
         "size": 1737490432,
         "parentId": "0100E1F013674000"
+    },
+    "70030000012810": {
+        "id": null,
+        "rightsId": null,
+        "name": "BRAVELY DEFAULT\u2122 II Final Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012810,
+        "category": null,
+        "ratingContent": [
+            "Bajo contenido de sangre",
+            "Temas insinuantes moderados",
+            "Uso de alcohol",
+            "Violencia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 3459252224,
+        "parentId": "01006DC010326000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",
@@ -18082,6 +18470,35 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000021739": {
+        "id": "0100C56010FD9001",
+        "rightsId": null,
+        "name": "Contenido de la reserva de Plants vs. Zombies\u2122: La Batalla de Neighborville Edici\u00f3n Completa",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210319,
+        "nsuId": 70050000021739,
+        "category": null,
+        "ratingContent": [
+            "Travesuras comicas",
+            "Violencia de fantasia",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c46609de84773eaf3ad66dfbc5695e330478675c00f5b919462ca49cba8e32b4.jpg",
+        "intro": "Contenido de reserva exclusivo para Switch",
+        "description": "Reserva ya para Nintendo Switch y obt\u00e9n el disfraz de Juez Z para H\u00e9roe de acci\u00f3n de los 80, el disfraz legendario de Garbanzo para Chicharito, cinco explosivos emojis y un c\u00f3mic digital especial para descubrir La Batalla de Neighborville.\n\nContenido de reserva exclusivo para Switch: \n- Disfraz de Garbanzo legendario para Chicharito\n- Disfraz de Juez Z legendario para H\u00e9roe de acci\u00f3n de los 80\n- C\u00f3mic digital de Plants vs. Zombies: La Batalla de Neighborville\n- Cinco emojis",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000022124": {
         "id": "01000B900D8B1001",
         "rightsId": null,
@@ -20490,6 +20907,33 @@
         "languages": null,
         "size": 10485760
     },
+    "70050000025935": {
+        "id": null,
+        "rightsId": null,
+        "name": "Suscripci\u00f3n de expansi\u00f3n de Hyrule Warriors: Age of Calamity - Bonificaci\u00f3n de compra",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210528,
+        "nsuId": 70050000025935,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9689a1bee8752f33333cc8f01ecdb6c82646b4e1c0c3ac96d80a72586701f7aa.jpg",
+        "intro": null,
+        "description": "Bonificaci\u00f3n de compra (Disponible el 28 de mayo de 2021)\n\n\u30fbNueva arma para Link\n\u30fbNuevo atuendo para Link\n",
+        "languages": null,
+        "size": 0
+    },
     "70070000000041": {
         "id": null,
         "rightsId": null,
@@ -22766,5 +23210,59 @@
         "description": "Requiere MK11. Los nuevos jugadores pueden adquirir Mortal\u00a0Kombat\u00a011 Ultimate.\n\nIncluye el recientemente agregado Paquete de Kombate\u00a02, junto con la expansi\u00f3n Aftermath y el Paquete de Kombate\u00a01, lanzados anteriormente. \n\nPaquete Kombate\u00a02\n\n\u2022 3\u00a0nuevos personajes jugables: Mileena, Rain y Rambo\n\nExpansi\u00f3n Aftermath\n\nDios del Fuego, Liu Kang, nuevo guardi\u00e1n del tiempo y protector de la Tierra, busca asegurar el futuro como \u00e9l lo concibe. Para lograrlo, se ve forzado a pedir ayuda a un grupo de aliados inesperados y enemigos conocidos. Con el destino en riesgo, los jugadores tendr\u00e1n que decidir en qui\u00e9n pueden confiar y a qui\u00e9n deben derrotar. Forja una nueva historia.\n\n\u2022 Nueva historia cinem\u00e1tica \n\u2022 3\u00a0nuevos personajes jugables: Sheeva, Fujin y RoboCop\n\u2022 3\u00a0nuevos paquetes de skins\n\nPaquete de Kombate\u00a01\n\n\u2022 6\u00a0nuevos personajes jugables, incluyendo a Shang Tsung, Nightwolf, Terminator\u00a0T-800, Sindel, el Guas\u00f3n y Spawn \n\u2022 6\u00a0paquetes de skins y 7\u00a0skins exclusivas",
         "languages": null,
         "size": 96468992
+    },
+    "70070000011679": {
+        "id": null,
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Rhythm & Exercise Modo Infernal: Todos los instructores",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210217,
+        "nsuId": 70070000011679,
+        "category": null,
+        "ratingContent": [
+            "Sin Descriptores"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c1469a442b5fa048ccb1772f32cbc19114f1a27ba69de8aa2a309b115c14a0e1.jpg",
+        "intro": "\u00a1Nada detiene a tus instructores!",
+        "description": "Aumenta la intensidad a Sesi\u00f3n extrema con todos los instructores: Lin, Evan, Karen, Hiro, Sophie, Martina, Janice, Laura y Bernardo.\n\nAhora podr\u00e1s probar la intensidad alta y baja, as\u00ed como el nuevo Modo Infernal. Los bondadosos instructores que conoces te mostrar\u00e1n su lado despiadado. Est\u00e1n listos para ponerte a prueba.\n",
+        "languages": null,
+        "size": 99614720
+    },
+    "70070000011785": {
+        "id": null,
+        "rightsId": null,
+        "name": "Suscripci\u00f3n de expansi\u00f3n de Hyrule Warriors: Age of Calamity",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210528,
+        "nsuId": 70070000011785,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9689a1bee8752f33333cc8f01ecdb6c82646b4e1c0c3ac96d80a72586701f7aa.jpg",
+        "intro": "Expande tu misi\u00f3n para salvar a Hyrule con el contenido descargable",
+        "description": "Dos olas de contenido descargable llegan al pase de expansi\u00f3n de Hyrule Warriors: Age of Calamity. \u00a1Nuevos personajes, niveles y m\u00e1s vienen en camino! Adquiere este pase de expansi\u00f3n para recibir las dos olas de contenido descargable conforme sean lanzadas. Adem\u00e1s, \u00a1en el juego recibir\u00e1s un arma adicional y un atuendo para Link a partir del 28 de mayo de 2021!\n\nOla 1 (Disponible en junio de 2021)\n\nEn junio estar\u00e1 disponible el pase de expansi\u00f3n de Hyrule Warriors: Age of Calamity, que incluye un amplio reparto de personajes, nuevos tipos de armas y desafiantes enemigos. \u00a1Visita tambi\u00e9n el Laboratorio Real de Tecnolog\u00eda Ancestral y ponte a prueba con los nuevos desaf\u00edos!\n\nOla 2 (Disponible en noviembre de 2021)\n\nEsta ola del pase de expansi\u00f3n de Hyrule Warriors: Age of Calamity traer\u00e1 nuevas vi\u00f1etas de personajes, m\u00e1s niveles, m\u00e1s personajes y nuevas habilidades de combate para los personajes existentes. \n",
+        "languages": null,
+        "size": 0
     }
 }
