@@ -4950,7 +4950,7 @@
             "ru",
             "ko"
         ],
-        "size": 16162750464
+        "size": 16174284800
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -6751,7 +6751,7 @@
             "zh",
             "zh"
         ],
-        "size": 6797918208
+        "size": 6899630080
     },
     "70010000027969": {
         "id": "0100DD30110CC000",
@@ -20844,6 +20844,96 @@
         "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abLet's Love\u00bb de David Guetta & Sia! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
         "languages": null,
         "size": 8388608
+    },
+    "70050000025202": {
+        "id": "0100E1F013675051",
+        "rightsId": null,
+        "name": "Anitta ft. Cardi B & Myke Towers - \"Me Gusta\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210218,
+        "nsuId": 70050000025202,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5139c905a3d586a4bd28d1c9a6b38017a57112580e4b41f8d3a8c3dadd40caa3.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abMe Gusta\u00bb de Anitta ft. Cardi B & Myke Towers! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 9437184
+    },
+    "70050000025203": {
+        "id": "0100E1F013675053",
+        "rightsId": null,
+        "name": "Harry Styles - \"Golden\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210218,
+        "nsuId": 70050000025203,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/378990ec42776eed555ea71bf87233499ee022f16e351c61baca59f066edee1c.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abGolden\u00bb de Harry Styles! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 8388608
+    },
+    "70050000025204": {
+        "id": "0100E1F01367505A",
+        "rightsId": null,
+        "name": "Marshmello, Imanbek ft. Usher - \"Too Much\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210218,
+        "nsuId": 70050000025204,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5782ed599a76e50088005d5113416c9d7016bcc48d717bab333bc16b396e68ee.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abToo Much\u00bb de Marshmello, Imanbek ft. Usher! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 9437184
     },
     "70050000025400": {
         "id": "0100073011383005",

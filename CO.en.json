@@ -4823,7 +4823,7 @@
             "ru",
             "ko"
         ],
-        "size": 16162750464
+        "size": 16174284800
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -6590,7 +6590,7 @@
             "zh",
             "zh"
         ],
-        "size": 6797918208
+        "size": 6899630080
     },
     "70010000027969": {
         "id": "0100DD30110CC000",
@@ -8323,7 +8323,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0712adcdd5eaa745789dcb9ae6d948f3472c7f790197556d490937151fa2cc4b.jpg",
         "intro": "Three nations battle for control of the dwindling resources of salt and iron",
-        "description": "Command a group of warriors as Serenoa, heir to the Kingdom of Glenbrook in a tangled plot where your decisions make all the difference. Key choices you make will bolster one of three convictions\u2014Utility, Morality, Liberty\u2014which together make up Serenoa\u2019s world view and influence how the story will unfold. When faced with truly momentous decisions, multiple characters will weigh in by casting their votes on the Scales of Conviction. In these moments, the allies and decisions you make can determine the fate of whole nations and the continent of Norzelia itself.\n\nControl multi-tiered battlefields to strategically secure victory\n\nFinding the best location in turn-based battles can tip the tide of combat in your favor. Position units on higher ground to take control of the battlefield and gain the advantage with increased range. You can also flank enemies on both sides, then strike from behind for a powerful follow-up attack. Elemental chain reactions are also an important part of combat. For example, use fire to melt icy terrain, then use lightning to electrocute it. Push the enemy into the electrified water to see sparks fly!",
+        "description": "Command a group of warriors as Serenoa, heir of House Wolffort, in a tangled plot where your decisions make all the difference. Key choices you make will bolster one of three convictions\u2014Utility, Morality, Liberty\u2014which together make up Serenoa\u2019s world view and influence how the story will unfold. When faced with truly momentous decisions, multiple characters will weigh in by casting their votes on the Scales of Conviction. In these moments, the allies and decisions you make can determine the fate of whole nations and the continent of Norzelia itself.\n\nControl multi-tiered battlefields to strategically secure victory\n\nFinding the best location in turn-based battles can tip the tide of combat in your favor. Position units on higher ground to take control of the battlefield and gain the advantage with increased range. You can also flank enemies on both sides, then strike from behind for a powerful follow-up attack. Elemental chain reactions are also an important part of combat. For example, use fire to melt icy terrain, then use lightning to electrocute it. Push the enemy into the electrified water to see sparks fly!",
         "languages": [
             "ja",
             "en",
@@ -20683,6 +20683,96 @@
         "description": "Expand your FUSER\u2122 library with \"Let's Love\" by David Guetta & Sia! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
         "languages": null,
         "size": 8388608
+    },
+    "70050000025202": {
+        "id": "0100E1F013675051",
+        "rightsId": null,
+        "name": "Anitta ft. Cardi B & Myke Towers - \"Me Gusta\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210218,
+        "nsuId": 70050000025202,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5139c905a3d586a4bd28d1c9a6b38017a57112580e4b41f8d3a8c3dadd40caa3.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"Me Gusta\" by Anitta ft. Cardi B & Myke Towers! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 9437184
+    },
+    "70050000025203": {
+        "id": "0100E1F013675053",
+        "rightsId": null,
+        "name": "Harry Styles - \"Golden\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210218,
+        "nsuId": 70050000025203,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/378990ec42776eed555ea71bf87233499ee022f16e351c61baca59f066edee1c.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"Golden\" by Harry Styles! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 8388608
+    },
+    "70050000025204": {
+        "id": "0100E1F01367505A",
+        "rightsId": null,
+        "name": "Marshmello, Imanbek ft. Usher - \"Too Much\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210218,
+        "nsuId": 70050000025204,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5782ed599a76e50088005d5113416c9d7016bcc48d717bab333bc16b396e68ee.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"Too Much\" by Marshmello, Imanbek ft. Usher! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 9437184
     },
     "70050000025400": {
         "id": "0100073011383005",
