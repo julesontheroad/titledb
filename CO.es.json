@@ -2952,7 +2952,7 @@
             "zh",
             "zh"
         ],
-        "size": 15962472448
+        "size": 15972958208
     },
     "70010000012332": {
         "id": "01006A800016E000",
@@ -8484,7 +8484,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b2074d239c15a98855a45c8436c8a0782860c9d8343f2357e2114304e55b03cd.jpg",
         "intro": "Tres naciones luchan por el control de los escasos recursos de sal y hierro",
-        "description": "Dirige a un grupo de guerreros como Serinoa, heredero del Reino de Glaucoburgo, a trav\u00e9s de una enredada historia donde tus decisiones marcar\u00e1n la diferencia. Las decisiones clave que tomes reforzar\u00e1n una de las tres convicciones: el bien com\u00fan, la moralidad y la libertad. Juntas conforman la visi\u00f3n del mundo de Serinoa e influyen en c\u00f3mo se desarrollar\u00e1 la historia. Al enfrentarse a decisiones verdaderamente importantes, varios personajes intervendr\u00e1n al emitir su voto en la Balanza de la convicci\u00f3n. En estos momentos, los aliados y las decisiones que tomes podr\u00e1n determinar el destino de naciones enteras y del propio continente de Norselia.\n\nControla los campos de batalla multinivel para asegurar la victoria de manera estrat\u00e9gica\n\nEncontrar la mejor ubicaci\u00f3n en las batallas por turnos puede hacer que la marea del combate cambie a tu favor. Coloca las unidades en un terreno m\u00e1s alto para tener ventaja con un mayor alcance y as\u00ed tomar el control del campo de batalla. Tambi\u00e9n puedes flanquear enemigos en ambos lados y luego atacar desde atr\u00e1s para un poderoso ataque encadenado. Las reacciones elementales en cadena tambi\u00e9n son parte importante del combate. Por ejemplo, utiliza el fuego para derretir el terreno congelado y luego utiliza un rayo para electrocutarlo. \u00a1Empuja al enemigo al agua electrificada y mira c\u00f3mo vuelan las chispas!",
+        "description": "Dirige a un grupo de guerreros como Serinoa, heredero de la casa Wolffort, a trav\u00e9s de una enredada historia donde tus decisiones marcar\u00e1n la diferencia. Las decisiones clave que tomes reforzar\u00e1n una de las tres convicciones: el bien com\u00fan, la moralidad y la libertad. Juntas conforman la visi\u00f3n del mundo de Serinoa e influyen en c\u00f3mo se desarrollar\u00e1 la historia. Al enfrentarse a decisiones verdaderamente importantes, varios personajes intervendr\u00e1n al emitir su voto en la Balanza de la convicci\u00f3n. En estos momentos, los aliados y las decisiones que tomes podr\u00e1n determinar el destino de naciones enteras y del propio continente de Norselia.\n\nControla los campos de batalla multinivel para asegurar la victoria de manera estrat\u00e9gica\n\nEncontrar la mejor ubicaci\u00f3n en las batallas por turnos puede hacer que la marea del combate cambie a tu favor. Coloca las unidades en un terreno m\u00e1s alto para tener ventaja con un mayor alcance y as\u00ed tomar el control del campo de batalla. Tambi\u00e9n puedes flanquear enemigos en ambos lados y luego atacar desde atr\u00e1s para un poderoso ataque encadenado. Las reacciones elementales en cadena tambi\u00e9n son parte importante del combate. Por ejemplo, utiliza el fuego para derretir el terreno congelado y luego utiliza un rayo para electrocutarlo. \u00a1Empuja al enemigo al agua electrificada y mira c\u00f3mo vuelan las chispas!",
         "languages": [
             "ja",
             "en",
@@ -20996,6 +20996,36 @@
         "description": "\u00a1Una nueva intensidad de ejercicio se ha a\u00f1adido para Laura!\n\nAhora podr\u00e1s probar la intensidad alta y baja, as\u00ed como el nuevo Modo Infernal. La instructora bondadosa que conoces te mostrar\u00e1 su lado despiadado. Ella est\u00e1 lista para ponerte a prueba.",
         "languages": null,
         "size": 10485760
+    },
+    "70050000025649": {
+        "id": "01001B300B9BF064",
+        "rightsId": null,
+        "name": "Diablo\u00ae III: Paquete del 30.\u00b0 aniversario de Blizzard",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210219,
+        "nsuId": 70050000025649,
+        "category": null,
+        "ratingContent": [
+            "Derramamiento de sangre",
+            "Desnudez parcial",
+            "Violencia",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9d8f95e20b59b76eab1a74aaefdabbabe6438b6761efc4efa6306dde638987f3.jpg",
+        "intro": null,
+        "description": "\"Este paquete desbloquea los siguientes art\u00edculos para Diablo III\u00ae con tu compra de la colecci\u00f3n de celebraci\u00f3n del 30.\u00b0 aniversario de Blizzard\u00ae:\n\n\u2022  Alas Terror desatado\n\u2022  Mascota Murglrrr oscuro\n\u2022  Retrato del Errante oscuro\n\u2022  Conjunto de transfiguraci\u00f3n El Errante\n\n*Requiere Diablo III. Diablo III clasificado MADURO +17 por la ESRB.\"\n",
+        "languages": null,
+        "size": 3145728
     },
     "70050000025935": {
         "id": null,

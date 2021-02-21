@@ -2903,7 +2903,7 @@
             "zh",
             "zh"
         ],
-        "size": 15962472448
+        "size": 15972958208
     },
     "70010000012332": {
         "id": "01006A800016E000",
@@ -20835,6 +20835,36 @@
         "description": "A new exercise intensity has been added for Laura! \n\nNow you can try Low, High, and the new No Mercy intensity. The instructor you know as good-natured and mellow will show you her ruthless side. She\u2019s ready to put you through your paces!",
         "languages": null,
         "size": 10485760
+    },
+    "70050000025649": {
+        "id": "01001B300B9BF064",
+        "rightsId": null,
+        "name": "Diablo\u00ae  III: Blizzard's 30th Anniversary Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210219,
+        "nsuId": 70050000025649,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Partial Nudity",
+            "Violence",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9d8f95e20b59b76eab1a74aaefdabbabe6438b6761efc4efa6306dde638987f3.jpg",
+        "intro": null,
+        "description": "\"This bundle unlocks the following items in Diablo III\u00ae when you purchase the Blizzard\u00ae 30-Year Celebration Collection:\n\n\u2022  Terror Unleashed Wings\n\u2022  The Dark Murglrrr Pet\n\u2022  Dark Wanderer Portrait\n\u2022  The Wanderer's Transmog Set\n\n*Requires Diablo III. Diablo III is rated MATURE 17+ by the ESRB.\"\n",
+        "languages": null,
+        "size": 3145728
     },
     "70050000025935": {
         "id": null,
