@@ -5306,7 +5306,7 @@
         "developer": null,
         "publisher": "Team17",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7606a0e2bb7664a3d0130cca0aab409a2fce42eb7eadd5dfd00612d4dd2f8284.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/981c51a1a8e507cc6ce06d133075bf53b81e6c00c44bba340faf6b52cd61f03e.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/168bf363103f7ee37aa05513b380b76c1fa94724bf28846bc3e16deb290cf2af.jpg",
             "https://img-eshop.cdn.nintendo.net/i/7658c955d0b1f70341a2a4165e78813f258586c50a308bcb3a45e5eff649abcd.jpg",
@@ -5331,7 +5331,7 @@
             "zh",
             "zh"
         ],
-        "size": 1092616192
+        "size": 1181745152
     },
     "70010000020674": {
         "id": "0100B7000D89E000",
@@ -5696,7 +5696,7 @@
             "ru",
             "ko"
         ],
-        "size": 4928307200
+        "size": 5563744256
     },
     "70010000021451": {
         "id": "01006C300E9F0000",
@@ -6700,7 +6700,7 @@
             "zh",
             "zh"
         ],
-        "size": 7522484224
+        "size": 7544504320
     },
     "70010000027858": {
         "id": "0100C56010FD8000",
@@ -8314,8 +8314,8 @@
             "https://img-eshop.cdn.nintendo.net/i/f7646e20a8aab7be458b69f19539af2b8680998e860b3f9c66f86b1c4dbfd6e7.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af5246b2f01dee8111a70bcb3f556e65a492801d6677d0ab0f17b566a7b0285b.jpg",
-        "intro": "Disfruta con tu familia y amigos en el juego m\u00e1s grande de Mario Golf",
-        "description": "Ad\u00e9ntrate en el campo de golf con hasta cuatro jugadores de manera local* o en l\u00ednea** y juega en compa\u00f1\u00eda de reconocidos personajes del Reino Champi\u00f1\u00f3n. Hay una gran variedad de modos, desde Golf tradicional hasta el energ\u00e9tico Golf r\u00e1pido, e incluso una aventura de golf al estilo juego de rol en el modo historia. Nuevas caracter\u00edsticas, como los intuitivos controles de movimiento o el uso de botones, un indicador de tiro que se adapta a la curva del campo y otras herramientas, facilitan guiar y golpear la pelota con potencia sin importar si eres un jugador nuevo o experimentado.\n\nGolpea y corre hacia la pelota simult\u00e1neamente en Golf r\u00e1pido\n\nComienza la diversi\u00f3n con tres jugadores* m\u00e1s al mismo tiempo y compite a trav\u00e9s del campo de golf para ser el primero en embocar la pelota en el hoyo. Supera e interrumpe a tus oponentes con carreras y disparos especiales. \n\nSube de nivel en las clasificaciones en el modo historia\n\n\u00a1Inscribe a tu personaje Mii\u2122 para que tome un entrenamiento de golf en un prestigioso club y empieza como novato y termina como un profesional! Enfr\u00e9ntate a tus compa\u00f1eros de clase del Reino Champi\u00f1\u00f3n y gana puntos de experiencia. Sube de nivel para mejorar las estad\u00edsticas de tu personaje, como el poder, el movimiento y los efectos. \u00a1Tambi\u00e9n puedes llevar a tu personaje (y sus estad\u00edsticas personalizadas) a otros modos!",
+        "intro": "Disfruta con tu familia y amigos en este juego de Mario Golf cargado de contenido",
+        "description": "Ad\u00e9ntrate en el campo de golf con hasta cuatro jugadores de manera local* o en l\u00ednea** y juega en compa\u00f1\u00eda de reconocidos personajes del Reino Champi\u00f1\u00f3n. Hay una gran variedad de modos, desde Golf tradicional hasta el energ\u00e9tico Golf r\u00e1pido, e incluso una aventura de golf al estilo juego de rol en el modo historia. Los intuitivos controles de movimiento o el uso de botones, nuevas caracter\u00edsticas como un indicador de tiro que se adapta a la curva del campo y otras herramientas, facilitan guiar y golpear la pelota con potencia sin importar si eres un jugador nuevo o experimentado.\n\nGolpea y corre hacia la pelota simult\u00e1neamente en Golf r\u00e1pido\n\nComienza la diversi\u00f3n con tres jugadores* m\u00e1s al mismo tiempo y compite a trav\u00e9s del campo de golf para ser el primero en embocar la pelota en el hoyo. Supera e interrumpe a tus oponentes con carreras y disparos especiales. Por ejemplo, Mario puede mandar a volar la bola de un jugador de un soplo.\n\nSube de nivel en las clasificaciones en el modo historia\n\n\u00a1Inscribe a tu personaje Mii\u2122 para que tome un entrenamiento de golf en un prestigioso club y empieza como novato y termina como un profesional! Enfr\u00e9ntate a tus compa\u00f1eros de clase del Reino Champi\u00f1\u00f3n y gana puntos de experiencia. Sube de nivel para mejorar las estad\u00edsticas de tu personaje, como el poder, el movimiento y los efectos. \u00a1Tambi\u00e9n puedes llevar a tu personaje (y sus estad\u00edsticas personalizadas) a otros modos!",
         "languages": [
             "ja",
             "en",
@@ -20308,6 +20308,40 @@
         "languages": null,
         "size": 11534336
     },
+    "70050000024784": {
+        "id": null,
+        "rightsId": null,
+        "name": "Moving Out - Movers in Paradise",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210225,
+        "nsuId": 70050000024784,
+        "category": null,
+        "ratingContent": [
+            "Violencia moderada en caricaturas"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Team17",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b9d4f37165486d4e894a018be8c41d5678a3499a11aac0d75226228c70e72663.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c1d69ded92340e8f8ee86eaf72d50d5737930bc8665feea18224b9e0142d5fa5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/671145e5f3d6f6e8d9f97f606534db35d862ee2b14781c21178906a273dcaf26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/371d7ccc6f207201b71340498102fd1eaf6fa140f1056b56233cb922b6c3ce81.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f61891cf9f4fb16b9a7a547cedd9f92405b9aa6bfb27da1c05980bd00c4fe51e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4a173fa062ceddef65ae255c57fc9ce5d5520d36ff11b7613c971c147cf0314.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4b91ab5848b6c54c401452209c6893a3645a11a59f09cb87dbe038d93a656aff.jpg",
+        "intro": "\u00a1Empaca tus maletas y toma tu pasaporte! \u00a1Vamos a un fin de semana de trabajo en equipo en la isla de Packmore! ",
+        "description": "Te damos la bienvenida a Movers in Paradise, la expansi\u00f3n m\u00e1s reciente de Moving Out. \n\n\u00a1Completa y disfruta de 24 nuevos niveles tropicales y arcade para revelar el misterio del legendario \"mayor bot\u00edn del mundo\"!\n\nDescubre nuevos y rid\u00edculos obst\u00e1culos, mec\u00e1nicas y enemigos para poner a prueba tus habilidades de movimiento y comunicaci\u00f3n.\n\n\u00a1Obt\u00e9n ayuda de cuatro nuevos transportistas tropicales (Tooki, Gilly, Coco y Clawdius) con los que tambi\u00e9n puedes jugar a trav\u00e9s de los niveles originales!\n\nTooki: \u00a1Los transportistas del mismo plumaje vuelan juntos! Ese es su lema. Tooki siempre toma nuevos reclutas bajo su ala y lleva al equipo a nuevas alturas. Solo ten cuidado cuando te invita a almorzar; \u00a1su cuenta siempre es enorme!\n\nCoco: Coco es un hueso duro de roer. Criado en una familia de cincuenta hermanos ruidosos, disfruta de una noche tranquila solo en la playa con nada m\u00e1s que sus pensamientos y colecci\u00f3n de sellos. \u00a1Pero haz que Coco hable de muebles tropicales y se explayar\u00e1!\n\nGilly: \u00a1Hay un mont\u00f3n de peces en el mar, pero ninguno es tan burbujeante como Gilly! Nacida en la realeza, escap\u00f3 del castillo de arena de su familia para vivir su sue\u00f1o como transportista de muebles. Bueno, eso es lo que ella le dice a todo el mundo mientras va por agua. Aunque la historia suena un poco sos-pez-chosa...\n\nClawdius: A este peque\u00f1o y ocupado administrador le encanta llenar papeles y firmar formularios, \u00a1pero cuando hay cajas pendientes para transportar, Clawdius ser\u00e1 el primero en apuntarse! Puedes encontrarlo por la noche nombrando todas las constelaciones.\n\n\u00a1As\u00ed que abr\u00f3chate el cintur\u00f3n, ponte protector solar y navega hasta la isla de Packmore para jugar Movers in Paradise!",
+        "languages": null,
+        "size": 174063616
+    },
     "70050000024816": {
         "id": "0100073011383007",
         "rightsId": null,
@@ -22469,7 +22503,7 @@
         "intro": null,
         "description": "\"\u00a1Disfruta un juego de acci\u00f3n y aventura, inspirado en los cl\u00e1sicos de mazmorras y basado en el universo de Minecraft! \u00a1Recorre las mazmorras por tu cuenta o con tus amigos! Hasta cuatro jugadores pueden recorrer los diferentes niveles llenos de acci\u00f3n y tesoros para salvar a los aldeanos y derrotar al malvado Archillano.\n\nLa edici\u00f3n de h\u00e9roe incluye el contenido descargable La jungla se despierta, el contenido descargable El Invierno Rastrero, una capa de h\u00e9roe, dos aspectos de jugador y una gallina mascota.\n\n\u2022\tARMA TU EQUIPO: Hasta cuatro jugadores pueden combatir juntos en modo cooperativo. \n\u2022\tPREP\u00c1RATE PARA EL COMBATE: \u00a1Personaliza tu personaje y pelea con las armas cuerpo a cuerpo, utiliza los ataques a distancia o arremete contra las hordas de criaturas con armaduras pesadas! Desbloquea varias docenas de objetos \u00fanicos y encantamientos de armas para hacer ataques especiales devastadores. \n\u2022\tSOBREVIVE: \u00a1Explora los niveles llenos de acci\u00f3n y tesoros para salvar a los aldeanos y derrotar al malvado Archillano!\"\n",
         "languages": null,
-        "size": 4940890112
+        "size": 5576327168
     },
     "70070000008805": {
         "id": null,

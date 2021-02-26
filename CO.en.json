@@ -5145,7 +5145,7 @@
         "developer": null,
         "publisher": "Team17",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7606a0e2bb7664a3d0130cca0aab409a2fce42eb7eadd5dfd00612d4dd2f8284.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/981c51a1a8e507cc6ce06d133075bf53b81e6c00c44bba340faf6b52cd61f03e.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/168bf363103f7ee37aa05513b380b76c1fa94724bf28846bc3e16deb290cf2af.jpg",
             "https://img-eshop.cdn.nintendo.net/i/7658c955d0b1f70341a2a4165e78813f258586c50a308bcb3a45e5eff649abcd.jpg",
@@ -5170,7 +5170,7 @@
             "zh",
             "zh"
         ],
-        "size": 1092616192
+        "size": 1181745152
     },
     "70010000020674": {
         "id": "0100B7000D89E000",
@@ -5535,7 +5535,7 @@
             "ru",
             "ko"
         ],
-        "size": 4928307200
+        "size": 5563744256
     },
     "70010000021451": {
         "id": "01006C300E9F0000",
@@ -6539,7 +6539,7 @@
             "zh",
             "zh"
         ],
-        "size": 7522484224
+        "size": 7544504320
     },
     "70010000027858": {
         "id": "0100C56010FD8000",
@@ -20147,6 +20147,40 @@
         "languages": null,
         "size": 11534336
     },
+    "70050000024784": {
+        "id": null,
+        "rightsId": null,
+        "name": "Moving Out - Movers in Paradise",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210225,
+        "nsuId": 70050000024784,
+        "category": null,
+        "ratingContent": [
+            "Mild Cartoon Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Team17",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b9d4f37165486d4e894a018be8c41d5678a3499a11aac0d75226228c70e72663.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c1d69ded92340e8f8ee86eaf72d50d5737930bc8665feea18224b9e0142d5fa5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/671145e5f3d6f6e8d9f97f606534db35d862ee2b14781c21178906a273dcaf26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/371d7ccc6f207201b71340498102fd1eaf6fa140f1056b56233cb922b6c3ce81.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f61891cf9f4fb16b9a7a547cedd9f92405b9aa6bfb27da1c05980bd00c4fe51e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4a173fa062ceddef65ae255c57fc9ce5d5520d36ff11b7613c971c147cf0314.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4b91ab5848b6c54c401452209c6893a3645a11a59f09cb87dbe038d93a656aff.jpg",
+        "intro": "Pack your bags and grab your Haul Pass-port! We're heading off to a team-building power weekend on Packmore Island! \n",
+        "description": "Welcome to Movers in Paradise, the latest expansion for Moving Out. \n\nMove and groove across 24 new tropical and arcade levels to unravel the mystery of the fabled \u201cgreatest haul of them all!\u201d\n\nDiscover ridiculous new mechanics, obstacles and enemies to test your moving and communication skills.\n\nGet help from four new tropical movers, Tooki, Gilly, Coco and Clawdius, who can also be played across the original levels, too!\n\nTooki: Movers of a feather flock together! That's Tooki's motto. Always taking on new recruits under her wing, Tooki brings the team to new heights. Just be careful when she invites you out to lunch; her bill is always enormous!\n\nCoco: Coco is one tough nut to crack. Raised in a family of fifty noisy brothers, he enjoys a quiet evening alone on the beach with nothing but his thoughts and stamp collection. But get Coco talking about tropical furniture and he'll open right up!\n\nGilly: There are plenty of fish in the sea, but none are quite as bubbly as Gilly! Born into royalty, she escaped her family's sandcastle to live out her dreams as a furniture mover. Well, that's what she tells everyone around the water cooler. Though the tale does sound a bit fishy...\n\nClawdius: This busy little administrator loves filling out paperwork and signing forms, but when there's boxes to move in a pinch, Clawdius will scuttle right to the forefront! You can find him at night naming all the constellations.\n\nSo buckle up, slap on some sunscreen and sail on over to Packmore Island for Movers in Paradise!",
+        "languages": null,
+        "size": 174063616
+    },
     "70050000024816": {
         "id": "0100073011383007",
         "rightsId": null,
@@ -22308,7 +22342,7 @@
         "intro": null,
         "description": "\"Fight your way through an all-new action-adventure game, inspired by classic dungeon crawlers and set in the Minecraft universe! Brave the dungeons alone, or team up with friends! Up to four players can battle together through action-packed, treasure-stuffed, wildly varied levels \u2013 all in an epic quest to save the villagers and take down the evil Arch-Illager!.\n\nThe Hero Edition includes the Jungle Awakens DLC, Creeping Winter DLC, a Hero Cape, two player skins, and a chicken pet.\n\n\u2022\tUNITE - Up to four players can team up and fight together in co-op mode. \n\u2022\tFIGHT - Personalize your character, then fight up-close and personal with melee swings, hang back with ranged attacks, or tank your way through swarms of mobs, shielded by heavy armour! Unlock dozens of unique items and weapon enchantments for devastating special attacks. \n\u2022\tSURVIVE - Explore action-packed, treasure-stuffed levels in a quest to save the villagers and take down the evil Arch-Illager!. \"\n",
         "languages": null,
-        "size": 4940890112
+        "size": 5576327168
     },
     "70070000008805": {
         "id": null,
