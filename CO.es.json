@@ -18388,6 +18388,37 @@
         "languages": null,
         "size": 20971520
     },
+    "70050000021149": {
+        "id": null,
+        "rightsId": null,
+        "name": "Paquete de esp\u00edritus 1 - Incluye uno de apoyo de clase leyenda y uno primario de clase as",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210303,
+        "nsuId": 70050000021149,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd130737a816362c2556a885170615c0625779a7417a5d59ae6ab0ddafe31f3d.jpg",
+        "intro": null,
+        "description": "El siguiente contenido descargable est\u00e1 disponible por tiempo limitado para los suscriptores de pago a Nintendo Switch Online. Estos objetos pueden descargarse de manera gratuita para su uso en el juego Super Smash Bros.\u2122 Ultimate.\n\nContenido del paquete:\n\u30fbUn esp\u00edritu de apoyo de clase leyenda elegido al azar\n\u30fbUn esp\u00edritu primario de clase as elegido al azar",
+        "languages": null,
+        "size": 8388608
+    },
     "70050000021424": {
         "id": "010053401147D001",
         "rightsId": null,

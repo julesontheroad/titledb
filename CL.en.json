@@ -18388,6 +18388,37 @@
         "languages": null,
         "size": 20971520
     },
+    "70050000021149": {
+        "id": "01006A800016F084",
+        "rightsId": null,
+        "name": "Spirits Set 1 \u2013 Legend Support and Ace Primary",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210303,
+        "nsuId": 70050000021149,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/44578ec4314e711423832faa327c34e3141c6de77604f26ec4b65896ee95749a.jpg",
+        "intro": null,
+        "description": "This is bonus content only available for active Nintendo Switch Online members. These items can be downloaded for free and used in the Super Smash Bros.\u2122 Ultimate game.\n\nThe set contains the following:\n\u30fbOne randomly selected Legend-class Support \n\u30fbOne randomly selected Ace-class Primary",
+        "languages": null,
+        "size": 8388608
+    },
     "70050000021424": {
         "id": "010053401147D001",
         "rightsId": null,
