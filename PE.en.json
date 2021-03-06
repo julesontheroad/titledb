@@ -1208,7 +1208,7 @@
             "zh",
             "zh"
         ],
-        "size": 1590689792
+        "size": 1591738368
     },
     "70010000002264": {
         "id": "0100A330022C2000",
@@ -3006,7 +3006,7 @@
             "zh",
             "zh"
         ],
-        "size": 17518559232
+        "size": 17922260992
     },
     "70010000012523": {
         "id": "01003D200BAA2000",
@@ -7715,6 +7715,57 @@
         ],
         "size": 4358930432
     },
+    "70010000033000": {
+        "id": "0100538012496000",
+        "rightsId": null,
+        "name": "Grindstone",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210304,
+        "nsuId": 70010000033000,
+        "category": [
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Use of Alcohol",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPY",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a50507e9913a8a13285cf444b210d8f46a93ddefd7a5a91de3b8c63ea679b62d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cbb69b74be8cc5847ce7633128875604011d8cca78c70cdb6285527658cb258a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/89f17e5bafc69dd956f755285460754c67e7059ea887f137405daef19e2f541b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d48508d77c718b07ffb5ec854926cc23eb13482c5bf0949adaec89092265bbf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/95849d98aac274668a42405f8efc6fc548354033ee73b40a2317232819d4dd04.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ffa44a129b97af5d5115126690cc8bf8ef767f98a3059ae2aa682623ca6dd126.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7bdc0d767b89a904ebd60a4b18621e3317c5bc429d93ec6002b2f6612f219486.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/47f1fc289e006d5559fb1e5eddf46e6df015903bcb4c0f6244a8d5b285681159.jpg",
+        "intro": "Rise. Grind. Repeat.",
+        "description": "Smash creeps to get huge combos and earn precious Grindstones in CAPY\u2019s hit puzzle-battler.  Cash in your grindstones to craft new gear and overcome devious enemies, obstacles, and boss encounters as you conquer Grindstone Mountain\u2019s 200+ levels, and prove your prowess on the daily mode\u2019s leaderboards.\n \nFeatures:\n \n- Brutal Puzzle-Battle Action\n- 200+ Levels to conquer\n- Daily Challenges w/Leaderboards\n- Dozens of Weapons & Gear to Unlock\n- Award-Winning Soundtrack by Sam Webster",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1944059904
+    },
     "70010000033131": {
         "id": "0100535012974000",
         "rightsId": null,
@@ -8143,8 +8194,8 @@
             "https://img-eshop.cdn.nintendo.net/i/c7f67086999efcf0fe1b6e7d0db8a1acff484f4ca6e1d061e78ada45b06cd48c.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0d5feb2fb0bf37222583603af470d8ed06b81e1b44ce06ce736e052b81f72e2f.jpg",
-        "intro": "Play the Famicom classic that started the Fire Emblem\u2122 legacy\u2014localized for the first time",
-        "description": "Meet Marth and recruit some of the most beloved Fire Emblem characters in their 8-bit glory as you play through all 25 chapters of this classic Famicom tactical role-playing game, localized and released for the first time in North America\u2014for a limited time.\n\nChoose from over 50 playable characters and discover the roots of the strategic gameplay that defines the Fire Emblem series\n\nPick the units and classes suited to the mission at hand and approach characters on the battlefield to forge relationships and even add to your army. Make a mistake or lose a favorite unit? Newly added features like save states and rewind let you tailor the challenge to your playstyle!\n\nJump back to the 90s with the Fire Emblem 30th Anniversary Edition, while supplies last\n\nGet your hands on the Anniversary Edition, available in limited quantities, for a Fire Emblem\u2122 history lesson! This includes a replica NES\u2122 Game Pak art piece, a replica game box with a localized version of the original Famicom instruction manual, protective sleeve and world map, a Mini Nintendo Power retro collectible, hardbound 222 page Legacy of Archanea deluxe art book, and game download code.\n\nFollow Marth on the journey that started it all! From defending the kingdom of Talys to facing off against the titular Shadow Dragon, the humble hero himself must be poised to take on any challenge. Luckily, he has a capable group of allies at his side: Tiki, Minerva, the Whitewing Sisters, and more! Of course, Caeda, princess of Talys, makes her appearance as a skilled fighter and Marth\u2019s love interest. \n\nIn the Fire Emblem\u2122: Shadow Dragon & the Blade of Light game, guide Marth to seize the throne in each chapter, while keeping him out of harm\u2019s way. If Marth dies, it\u2019s game over\u2026but all other characters will be gone for the rest of the game, if they fall in battle. Make a mistake and lose a favorite unit? In this release of the game there is a rewind feature, so you can try again and change the course of battle.\n\nWith save states, you can save any time and jump back in right where you left off. There\u2019s even a fast forward feature if you\u2019d like to breeze through dialogue or combat animations. Whether you take advantage of these modern comforts or stick with the old school approach, now\u2019s your chance to experience the origin of the Fire Emblem series. \n\nFire Emblem: Shadow Dragon & the Blade of Light and the Fire Emblem 30th Anniversary Edition will only be available for a limited time.\n",
+        "intro": "AVAILABLE FOR PURCHASE UNTIL 3/31/2021",
+        "description": "After the end of the Fire Emblem\u2122 30th Anniversary year, 3/31/2021, it will no longer be possible to purchase the Fire Emblem: Shadow Dragon and the Blade of Light game for the Nintendo Switch\u2122 system. For players who purchased the game digitally, it will still be possible to re-download the game after this date. For codes included in the Fire Emblem 30th Anniversary Edition or purchased through retail partners, redemption will be possible after \nthis date.\n\nPlay the Famicom classic that started the Fire Emblem\u2122 \n\nMeet Marth and recruit some of the most beloved Fire Emblem characters in their 8-bit glory as you play through all 25 chapters of this classic Famicom tactical role-playing game, localized and released for the first time in North America\u2014for a limited time.\n\nChoose from over 50 playable characters and discover the roots of the strategic gameplay that defines the Fire Emblem series\n\nPick the units and classes suited to the mission at hand and approach characters on the battlefield to forge relationships and even add to your army. Make a mistake or lose a favorite unit? Newly added features like save states and rewind let you tailor the challenge to your playstyle!\n\nJump back to the 90s with the Fire Emblem 30th Anniversary Edition, while supplies last\n\nGet your hands on the Anniversary Edition, available in limited quantities, for a Fire Emblem\u2122 history lesson! This includes a replica NES\u2122 Game Pak art piece, a replica game box with a localized version of the original Famicom instruction manual, protective sleeve and world map, a Mini Nintendo Power retro collectible, hardbound 222 page Legacy of Archanea deluxe art book, and game download code.\n\nFollow Marth on the journey that started it all! From defending the kingdom of Talys to facing off against the titular Shadow Dragon, the humble hero himself must be poised to take on any challenge. Luckily, he has a capable group of allies at his side: Tiki, Minerva, the Whitewing Sisters, and more! Of course, Caeda, princess of Talys, makes her appearance as a skilled fighter and Marth\u2019s love interest. \n\nIn the Fire Emblem\u2122: Shadow Dragon & the Blade of Light game, guide Marth to seize the throne in each chapter, while keeping him out of harm\u2019s way. If Marth dies, it\u2019s game over\u2026but all other characters will be gone for the rest of the game, if they fall in battle. Make a mistake and lose a favorite unit? In this release of the game there is a rewind feature, so you can try again and change the course of battle.\n\nWith save states, you can save any time and jump back in right where you left off. There\u2019s even a fast forward feature if you\u2019d like to breeze through dialogue or combat animations. Whether you take advantage of these modern comforts or stick with the old school approach, now\u2019s your chance to experience the origin of the Fire Emblem series. \n\nFire Emblem: Shadow Dragon & the Blade of Light and the Fire Emblem 30th Anniversary Edition will only be available for a limited time.\n",
         "languages": [
             "ja",
             "en"
@@ -8224,7 +8275,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00bd7efe46ab2b3ff0774172a5d4f21a5b2f467b3e324557ce1e9a9ae12c1d3b.jpg",
         "intro": "Explore lush scenery on unknown islands to snap photos of Pok\u00e9mon in their natural habitats",
-        "description": "Seek out and take in-game photographs of Pok\u00e9mon in their native environments in the New Pok\u00e9mon Snap\u2122 game, only for the Nintendo Switch\u2122 system! You'll even discover behaviors and expressions you've never seen before when you encounter and research lively wild Pok\u00e9mon. You might see them patrolling their territory, playing, or lurking in out-of-the-way spots. \n\nInvestigate the mysterious Illumina phenomenon\n\nTravel to the islands that make up the Lental region. In this region, some of the Pok\u00e9mon and vegetation will appear to have a special glow. Research these Pok\u00e9mon alongside Professor Mirror as you explore dense jungles, vast deserts, and more! Your observations of Pok\u00e9mon thriving in the wild may help unravel the truth behind the Illumina phenomenon. The Pok\u00e9mon pictures you take will be used to build your very own Pok\u00e9mon Photodex!\n\nThis new game brings the gameplay of the 1999 Pok\u00e9mon Snap game for the Nintendo 64\u2122 system to life on the Nintendo Switch system with unknown islands to discover and different Pok\u00e9mon to see! \n\nPhotograph lively wild Pok\u00e9mon in their natural habitats as you research and explore unknown islands. Hop in your trusty travel pod, the NEO-ONE, and journey through a variety of environments such as beaches, jungles, and deserts to capture previously-unseen Pok\u00e9mon behaviors. You can even toss Pok\u00e9mon a delicious fluffruit to catch their attention. Photos you take can also be used to fill out your very own Pok\u00e9mon Photodex! \n\nIn the Lental region, Pok\u00e9mon and vegetation have sometimes been seen to glow. Meet Professor Mirror and work with him to uncover the mystery of the Illumina Phenomenon. Your photos and observations may be key to learning about this strange occurrence.",
+        "description": "Seek out and take in-game photographs of Pok\u00e9mon in their native environments in the New Pok\u00e9mon Snap\u2122 game, only for the Nintendo Switch\u2122 system! Snap photos from the NEO-ONE as you you encounter and research lively wild Pok\u00e9mon. You might see unexpected expressions or behaviors\u2014Pok\u00e9mon patrolling their territory, playing, or lurking in out-of-the-way spots. \n\nInvestigate the mysterious Illumina phenomenon\n\nTravel to the islands that make up the Lental region. In this region, some of the Pok\u00e9mon and vegetation will appear to have a special glow. Research these Pok\u00e9mon alongside Professor Mirror as you explore dense jungles, vast deserts, and more! Your observations of Pok\u00e9mon thriving in the wild may help unravel the truth behind the Illumina phenomenon. The Pok\u00e9mon pictures you take will be used to build your very own Pok\u00e9mon Photodex!\n\nSave, edit, and share your favorite Pok\u00e9mon photos\n\nSave photos to your personal in-game album to edit and adjust them. When you complete a course, you can adjust the brightness, blur, zoom and other aspects of your photo in Re-Snap mode. Then, add stickers, frames, and filters to add a personal touch. Share your favorite photos with family and friends in-game *. You can also see what kinds of photos everyone else is taking. See something you like? Award a Sweet! medal.\n\nThis new game brings the gameplay of the 1999 Pok\u00e9mon Snap game for the Nintendo 64\u2122 system to life on the Nintendo Switch system with unknown islands to discover and different Pok\u00e9mon to see! \n\nPhotograph lively wild Pok\u00e9mon in their natural habitats as you research and explore unknown islands. Hop in your trusty travel pod, the NEO-ONE, and journey through a variety of environments such as beaches, jungles, and deserts to capture previously-unseen Pok\u00e9mon behaviors. You can even play a melody or toss Pok\u00e9mon a delicious fluffruit to catch their attention. Photos you take can also be used to fill out your very own Pok\u00e9mon Photodex! \n\nYour photos are scored based on the Pok\u00e9mon\u2019s poses, how large they appear, how directly they\u2019re facing you, and other factors. You may even snap a four star-worthy photo if you catch rare Pok\u00e9mon behaviors. These scores can be shared via in-game rankings* so you can compare your shots with other Pok\u00e9mon photographers around the world.\n\nIn the Lental region, Pok\u00e9mon and vegetation have sometimes been seen to glow. Meet Professor Mirror and work with him to uncover the mystery of the Illumina Phenomenon. Your photos and observations may be key to learning about this strange occurrence.",
         "languages": [
             "ja",
             "en",
@@ -8406,7 +8457,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cb27694d95028f043301cb9d232229a15d5317a829ad5a2412a774e7e70f3173.jpg",
         "intro": "Find the secret behind a grizzly rumor haunting a Japanese high school",
-        "description": "Interrogate suspects and hunt for clues to piece together chilling conundrums plaguing a high school in Japan. Suspense (and a little bit of horror) ensues as you try to free students from their nightmare. Play at home, on the go, or in your favorite reading nook\u2014only on the Nintendo Switch system. Can you figure out who the culprit is...before it\u2019s too late?\n\nPlay Famicom Detective Club in English for the first time\n\nOriginally released in Japan only, the Famicom Detective Club\u2122: The Girl Who Stands Behind game has been localized with English text and modernized for the Nintendo Switch\u2122 system. While the graphics, music, and sound effects have been recreated, players can also choose the original 8-bit soundtrack. Discover a piece of Nintendo history with the Famicom Detective Club series of games.\n\nBuy one Famicom Detective Club game, get the other at a discount\n\nFamicom Detective Club: The Girl Who Stands Behind is the second game in the series. The first game, Famicom Detective Club: The Missing Heir is also available on Nintendo eShop. If you purchase one of these games on Nintendo eShop, you can get $10 off the other when also purchased on Nintendo eShop*!\n",
+        "description": "Interrogate suspects and hunt for clues to piece together chilling conundrums plaguing a high school in Japan. Suspense (and a little bit of horror) ensues as you try to free students from their nightmare. Play at home, on the go, or in your favorite reading nook\u2014only on the Nintendo Switch system. Can you figure out who the culprit is...before it\u2019s too late?\n\nPlay Famicom Detective Club in English for the first time\n\nOriginally released in Japan only, the Famicom Detective Club\u2122: The Girl Who Stands Behind game has been localized with English text and modernized for the Nintendo Switch\u2122 system. While the graphics, music, and sound effects have been recreated, players can also choose the original 8-bit soundtrack. Discover a piece of Nintendo history with the Famicom Detective Club series of games.\n\nBuy one Famicom Detective Club game, get the other at a discount\n\nFamicom Detective Club: The Girl Who Stands Behind is the second game in the series. The first game, Famicom Detective Club: The Missing Heir is also available on Nintendo eShop. If you purchase one of these games on Nintendo eShop, you can get $10* off the other when also purchased on Nintendo eShop**!\n",
         "languages": [
             "en"
         ],
@@ -8447,7 +8498,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f48da5a01b3859ab7d67a51bccabdb121b98468c9f40093c8bdb0fcc1c45e21.jpg",
         "intro": "Solve a murder mystery surrounding a wealthy Japanese family",
-        "description": "Hunt for clues, talk to suspects, and explore the Japanese countryside after tragedy strikes the wealthy Ayashiro family. Filled with suspense, this tale follows an amnesia-stricken detective trying to unravel his own past amidst the horrors of a harrowing murder investigation. Play at home, on the go, or in your favorite reading nook\u2014only on the Nintendo Switch\u2122 system.\n\nPlay Famicom Detective Club in English for the first time\n\nOriginally released in Japan only, the Famicom Detective Club\u2122: The Missing Heir game has been localized with English text and modernized for Nintendo Switch. While the graphics, music, and sound effects have been recreated, players can choose the original 8-bit soundtrack. Discover a piece of Nintendo history with the Famicom Detective Club series of games.\n\nBuy one Famicom Detective Club game, get the other at a discount\n\nFamicom Detective Club: The Missing Heir is the first entry in the series. The game\u2019s prequel, Famicom Detective Club: The Girl Who Stands Behind, is also available on Nintendo eShop. If you purchase one of these games on Nintendo eShop, you can get $10 off the other when also purchased on Nintendo eShop*!\n",
+        "description": "Hunt for clues, talk to suspects, and explore the Japanese countryside after tragedy strikes the wealthy Ayashiro family. Filled with suspense, this tale follows an amnesia-stricken detective trying to unravel his own past amidst the horrors of a harrowing murder investigation. Play at home, on the go, or in your favorite reading nook\u2014only on the Nintendo Switch\u2122 system.\n\nPlay Famicom Detective Club in English for the first time\n\nOriginally released in Japan only, the Famicom Detective Club\u2122: The Missing Heir game has been localized with English text and modernized for Nintendo Switch. While the graphics, music, and sound effects have been recreated, players can choose the original 8-bit soundtrack. Discover a piece of Nintendo history with the Famicom Detective Club series of games.\n\nBuy one Famicom Detective Club game, get the other at a discount\n\nFamicom Detective Club: The Missing Heir is the first entry in the series. The game\u2019s prequel, Famicom Detective Club: The Girl Who Stands Behind, is also available on Nintendo eShop. If you purchase one of these games on Nintendo eShop, you can get $10* off the other when also purchased on Nintendo eShop**!\n",
         "languages": [
             "en"
         ],
@@ -17373,12 +17424,12 @@
     "70050000018964": {
         "id": "01006A800016F00A",
         "rightsId": null,
-        "name": "Challenger Pack 9",
+        "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 9",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20211231,
+        "releaseDate": 20210304,
         "nsuId": 70050000018964,
         "category": null,
         "ratingContent": [
@@ -17394,12 +17445,19 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3ea21806c2e57ed1ee73ec2c50ccf9ebcfd92846b6341dbb59caa14b0e9d2df6.jpg",
-        "intro": null,
-        "description": "This pack of downloadable content contains:\n\u3000- One New Fighter\n\u3000- One New Stage\n\u3000- Several New Music Tracks\n\nAdditional information to follow at a later date.",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fe60ad1279f447393159cc3c512b263935dcc0bd69aa503004ab45beb52c55e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/365e1687d654f609050b65476937d3bea99bd36aef41acab6c2f5321d288900b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e905c8d06452b7d36271c10cd1ad67e48242d7b3e94608cf0656ac7e730e0b50.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f80126462ef95bfc262af4528da50870f521c1d1b680b6d8df3c98a26804d8d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7c9d13725d9c9b3db7670ec941821c1fa1fb96c1bc97a6ebdfe2d41a473b58d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d2c6206cd62301b5c12bb3d0f0daf288f8e1cf36790f0ee342e8514680873cde.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/215e9d8c885db94e8111effb919c8e31e84f5ad3cf98948aeac45150953b4106.jpg",
+        "intro": "Pyra/Mythra joins the battle!",
+        "description": "The legendary Aegis, Pyra, from the Xenoblade Chronicles 2* game comes to the Super Smash Bros.\u2122 Ultimate game. A living weapon known as a Blade, Pyra brings her fiery attacks to the battlefield! This fighter is focused on power and can KO opponents in a flash with her hard-hitting attacks. What makes Pyra truly legendary is her ability to swap with her other, quicker half\u2014Mythra!\n\nMythra Awakens\n\nMythra is a personality locked deep within Pyra\u2014use your down special to let her out! Her light-attuned attacks are similar to Pyra\u2019s but focused on speed rather than power. As Mythra, you can dart across stage hitting enemies with flurries of slashes to build up damage. Then, switch to Pyra to unleash a fiery slash to KO your opponent!\n",
         "languages": null,
-        "size": 4194304
+        "size": 3145728
     },
     "70050000018965": {
         "id": "01006A800016F00B",
@@ -18389,7 +18447,7 @@
         "size": 20971520
     },
     "70050000021149": {
-        "id": null,
+        "id": "01006A800016F084",
         "rightsId": null,
         "name": "Spirits Set 1 \u2013 Legend Support and Ace Primary",
         "version": null,
@@ -21217,6 +21275,206 @@
         "languages": null,
         "size": 3145728
     },
+    "70050000025756": {
+        "id": "0100E1F01367505B",
+        "rightsId": null,
+        "name": "Bonnie Tyler - \"Holding Out for a Hero\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210304,
+        "nsuId": 70050000025756,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c214893178d970faa9922eb388938163012b2c8e63c7b97e372e51b651a0a599.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"Holding Out for a Hero\" by Bonnie Tyler! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 8388608
+    },
+    "70050000025770": {
+        "id": "0100E1F01367505C",
+        "rightsId": null,
+        "name": "Ava Max - \"My Head & My Heart\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210304,
+        "nsuId": 70050000025770,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/12181e495ad692f78f927aab002a64248b7e1df1211d024705d5e29fa92af64b.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"My Head & My Heart\" by Ava Max! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 10485760
+    },
+    "70050000025914": {
+        "id": "01006A800016F048",
+        "rightsId": null,
+        "name": "\u3010Costume\u3011Arthur's Armor and Helm",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210304,
+        "nsuId": 70050000025914,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/542edef73134b462a4ef21fed714ec3dbdf97e20044bb05c27d8e63ff1e4b489.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6092e72a7ba9efae7d57d3a2c3a72a024541f6972e4c817fe2fec94403c7e38a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a545d6f5571656915ce509c6462cf848a45d0ef1ae9ef1ae4e497a054726acd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3180223319f927a89be92953a74c6d7dd701592d46d72fd3af5cfb62cd6de67e.jpg",
+        "intro": null,
+        "description": "This DLC contains the Arthur's Armor and Helm.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000025918": {
+        "id": "01006A800016F049",
+        "rightsId": null,
+        "name": "\u3010Costume\u3011Felyne Hat",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210304,
+        "nsuId": 70050000025918,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6c8d046bbbe9a2741ce3d6f5557a0d9455e33e614589e6eede771745ffe40c7a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4d113b2206075bef2f1b0ee5d50d77c17b6ca81597e3b9a3aa45fbde6eeca3ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f3c0802d7d3f0a94177baa3e7bcbaf9f0b73e59d349a22803414c1ee24056a76.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2e3c0d633b641a9f8d0837f51fe1fff86e05fd2d4d5589261c396cf806987749.jpg",
+        "intro": null,
+        "description": "This DLC contains the Felyne Hat.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000025927": {
+        "id": "01006A800016F04A",
+        "rightsId": null,
+        "name": "\u3010Costume\u3011Hunter's Mail and Helm",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210304,
+        "nsuId": 70050000025927,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/45fd8f13b209a848f188d75745c0aa1479b2f0e5bb96369d7652b1390e75d712.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d075b44fb71ed9192267ee7ad382f75f843235ac89c0636be292f40e1b7f466b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dcbbd81c7bba7a2316b71254377fbd04ba854f4cf87bd6500ec78a9849cfcf4c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/17b61a7d612cb6b8253ddb2e0f388c26bab4270bb11dd9ce0e3ace0400be9f8b.jpg",
+        "intro": null,
+        "description": "This DLC contains the Hunter's Mail and Helm.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000025931": {
+        "id": "01006A800016F04B",
+        "rightsId": null,
+        "name": "\u3010Costume\u3011Rathalos Mail and Helm",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210304,
+        "nsuId": 70050000025931,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/65980c6c2e68e303e9fcb81fb70231c783402e5cb873e3800cc62c2bd0408b22.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/559671524fe1a6a2f8ea406417a98a0e14232076fe97c50adbd064e85f4956c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94a5123353b7a9d0b2dfce7c04ec1c94b62d5d3bea239fe542323544a5a0736b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b2178103088214c1523991f16a364f6f10753229c71f0e1a68fd23047665c317.jpg",
+        "intro": null,
+        "description": "This DLC contains the Rathalos Mail and Helm.",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000025935": {
         "id": null,
         "rightsId": null,
@@ -22930,13 +23188,14 @@
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/8ba126dea2c82f92aa1388284624485fecf0c598a8a80836ac41b4efcea94ddd.jpg",
             "https://img-eshop.cdn.nintendo.net/i/39a117ef0605dc18f879d73d2736e210e61f690e607083d3e0de7f30e6661521.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/f63ea055ccf19501e56551404e741e1836bc62b4370649ccf12a12095823c5f9.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/f63ea055ccf19501e56551404e741e1836bc62b4370649ccf12a12095823c5f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fe60ad1279f447393159cc3c512b263935dcc0bd69aa503004ab45beb52c55e2.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd2b31900908fa299444d35836d4ae468c0462160e35d36cf218482ac4ffca9b.jpg",
         "intro": "Expand your roster of fighters with the Super Smash Bros.\u2122 Ultimate Fighters Pass Vol. 2!",
-        "description": "Expand your roster of fighters with the Super Smash Bros.\u2122 Ultimate Fighters Pass Vol. 2 for the Super Smash Bros. Ultimate game! Purchase this Fighters Pass now to get access to six additional playable fighters, plus additional stages, and music as they release. Announced fighters include Min Min from the ARMS\u2122 game and Steve & Alex from Minecraft\u2122  and Sephiroth from the Final Fantasy series! \n\nThe Super Smash Bros. Ultimate Fighters Pass VOL. 2 will contain six Challenger Packs.\n\nThe contents of Challenger Pack 9 through Challenger Pack 11 have not been announced yet, but they\u2019re still included with the purchase of this Fighters Pass.\n\nChallenger Pack 6 includes Min Min as a playable fighter, their stage, and a selection of music.\n\nChallenger Pack 7 includes Steve & Alex as a playable fighter, their stage, and a selection of music.\n\nChallenger Pack 8 includes Sephiroth as a playable fighter, their stage, and a selection of music. \n\nChallenger Pack 1 through Challenger Pack 5 of the original Super Smash Bros. Ultimate Fighters Pass are not included and are sold separately.\n",
+        "description": "Expand your roster of fighters with the Super Smash Bros.\u2122 Ultimate Fighters Pass Vol. 2 for the Super Smash Bros. Ultimate game! Purchase this Fighters Pass now to get access to six additional playable fighters, plus additional stages, and music as they release. Announced fighters include Min Min from the ARMS\u2122 game, Steve & Alex from Minecraft\u2122, Sephrioth from the Final Fantasy\u2122 series, and Pyra/Mythra from Xenoblade Chronicles\u2122 2 *! \n\nThe Super Smash Bros. Ultimate Fighters Pass VOL. 2 will contain six Challenger Packs.\n\nThe contents of Challenger Pack 10 through Challenger Pack 11 have not been announced yet, but they\u2019re still included with the purchase of this Fighters Pass.\n\nChallenger Pack 6 includes Min Min as a playable fighter, their stage, and a selection of music.\n\nChallenger Pack 7 includes Steve & Alex as a playable fighter, their stage, and a selection of music.\n\nChallenger Pack 8 includes Sephiroth as a playable fighter, their stage, and a selection of music. \n\nChallenger Pack 9 includes Pyra/Mythra as a playable fighter, their stage and a selection of music.\n\nChallenger Pack 1 through Challenger Pack 5 of the original Super Smash Bros. Ultimate Fighters Pass are not included and are sold separately.\n",
         "languages": null,
-        "size": 28311552
+        "size": 27262976
     },
     "70070000010144": {
         "id": null,
