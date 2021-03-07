@@ -4898,7 +4898,7 @@
         "languages": [
             "en"
         ],
-        "size": 1123024896
+        "size": 1164967936
     },
     "70010000019691": {
         "id": "0100F8600E21E000",
@@ -7131,6 +7131,50 @@
         ],
         "size": 14893973504
     },
+    "70010000029035": {
+        "id": "010073401175E000",
+        "rightsId": null,
+        "name": "Crash Bandicoot\u2122 4: It's About Time",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210311,
+        "nsuId": 70010000029035,
+        "category": [
+            "Plataformas"
+        ],
+        "ratingContent": [
+            "Referencia al alcohol",
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Lenguaje"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/889667ededff5038290b7ceb9cfba213e56216f1c8f690f7fc97b500941b53f0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0f8df75decc706706eab2c8d3db11ec8bbc748ce92b0f2feb83758237732ce53.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/627ded367b9e8593236d153bf0dd454d76289f408b3f770fe6320bad5a73ee4c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7067ce415173f448b38fdb8894954be999394669b1572dd720011cea4ab626f7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/52f1799d32072107f9f0ecad96fb833c4a0850b7e1cc6b1c7ca630b9f89dd2a0.jpg",
+        "intro": "\u00a1Ya era hora de que llegara un juego nuevo de Crash Bandicoot\u2122!",
+        "description": "Compra la versi\u00f3n digital y obt\u00e9n los aspectos Megalucinantes para Crash y Coco*.\n\n\u00a1Ya era hora de que llegara un juego nuevo de Crash Bandicoot\u2122! Crash se lanza de lleno con tus marsupiales favoritos a una aventura temporal que se cae a pedazos.\n\nNeo Cortex y N. Tropy regresaron a las andadas y esta vez no planean darle con todo al universo, \u00a1su objetivo es el multiverso entero! Crash y Coco tendr\u00e1n que juntar cuatro m\u00e1scaras cu\u00e1nticas y trastocar las leyes de la realidad para salvar el mundo.\n\n\u00bfHabilidades nuevas? Evidentemente. \u00bfM\u00e1s personajes jugables? Sep. \u00bfDimensiones alternativas? Obvio. \u00bfJefes alocad\u00edsimos? Por supuesto. \u00bfSalsa de la buena? Por sus 'jorts' puedes apostar que s\u00ed. \u00bfC\u00f3mo? \u00bfEntonces se llaman 'jorts' de verdad? \u00a1En este universo no!\n\n\n*Disponibles al completar el segundo nivel.",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 11049893888
+    },
     "70010000029278": {
         "id": "010029B0118E8000",
         "rightsId": null,
@@ -8303,7 +8347,11 @@
             "Aventura",
             "Juego de rol"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Humor vulgar",
+            "Violencia moderada en caricaturas",
+            "Lenguaje moderado"
+        ],
         "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
@@ -20215,6 +20263,36 @@
         "description": "\u00a1Ya puedes comprar el disfraz de Geno del juego Super Mario RPG: Legend of the Seven Stars! Geno lucha por recuperar el camino estelar, \u00a1as\u00ed que demuestra a tus adversarios lo que puedes lograr mientras consigues la victoria mientras tu capa ondea con el viento!\n\nContenido\nIndumentaria para los combatientes Mii\n\u30fbGorro de Geno\n\u30fbTraje de Geno (para tiradores)\nPuedes equiparlo en \"Juegos y dem\u00e1s\" \u2192 \"Combatientes Mii\" tras la compra.",
         "languages": null,
         "size": 3145728
+    },
+    "70050000024396": {
+        "id": "010073401175F002",
+        "rightsId": null,
+        "name": "Crash Bandicoot\u2122 4 - Aspectos Megalucinantes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210311,
+        "nsuId": 70050000024396,
+        "category": null,
+        "ratingContent": [
+            "Referencia al alcohol",
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Lenguaje"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4fc95bde180902c9909ddfd7509f30f4d307711b61b9e2ece810a1985e6bb983.jpg",
+        "intro": "\u00a1Ya era hora de que llegara un juego nuevo de Crash Bandicoot\u2122!",
+        "description": "Compra la versi\u00f3n digital de Crash Bandicoot\u2122 4: It's About Time y obt\u00e9n los aspectos Megalucinantes para Crash y Coco. Disponibles al completar el segundo nivel.",
+        "languages": null,
+        "size": 6291456
     },
     "70050000024400": {
         "id": "01004A600EC0B00C",

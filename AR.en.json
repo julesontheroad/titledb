@@ -4898,7 +4898,7 @@
         "languages": [
             "en"
         ],
-        "size": 1123024896
+        "size": 1164967936
     },
     "70010000019691": {
         "id": "0100F8600E21E000",
@@ -7131,6 +7131,50 @@
         ],
         "size": 14893973504
     },
+    "70010000029035": {
+        "id": "010073401175E000",
+        "rightsId": null,
+        "name": "Crash Bandicoot\u2122 4: It\u2019s About Time",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210311,
+        "nsuId": 70010000029035,
+        "category": [
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Alcohol Reference",
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Language"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/889667ededff5038290b7ceb9cfba213e56216f1c8f690f7fc97b500941b53f0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0f8df75decc706706eab2c8d3db11ec8bbc748ce92b0f2feb83758237732ce53.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/627ded367b9e8593236d153bf0dd454d76289f408b3f770fe6320bad5a73ee4c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7067ce415173f448b38fdb8894954be999394669b1572dd720011cea4ab626f7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/52f1799d32072107f9f0ecad96fb833c4a0850b7e1cc6b1c7ca630b9f89dd2a0.jpg",
+        "intro": "It\u2019s About Time - for a brand-wumping new Crash Bandicoot\u2122 game!",
+        "description": "Buy digitally and get the Totally Tubular Skins for Crash and Coco*.\n\nIt\u2019s About Time - for a brand-wumping new Crash Bandicoot\u2122 game! Crash fourward into a time shattered adventure with your favorite marsupials.\n\nNeo Cortex and N. Tropy are back at it again and launching an all-out assault on not just this universe, but the entire multiverse! Crash and Coco are here to save the day by reuniting the four Quantum Masks and bending the rules of reality.\n\nNew abilities? Check. More playable characters? Yep. Alternate dimensions? Obviously. Ridonkulous bosses? For sure. Same awesome sauce? You bet your sweet jorts. Wait, are they actually jorts? Not in this universe!\n\n\n*Available upon completion of the second level.",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 11049893888
+    },
     "70010000029278": {
         "id": "010029B0118E8000",
         "rightsId": null,
@@ -8303,7 +8347,11 @@
             "Adventure",
             "RPG"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Crude Humor",
+            "Mild Cartoon Violence",
+            "Mild Language"
+        ],
         "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
@@ -20215,6 +20263,36 @@
         "description": "A Mii Gunner costume of Geno from Super Mario RPG: Legend of the Seven Stars is now available for purchase! Geno fights to restore Star Road, so show opponents what you can do as you fight your way to victory in Smash, blue cape fluttering in the wind!\n\nThis content includes\nMii Fighter Costume\n\u30fbGeno Hat\n\u30fbGeno Outfit (for Gunner)\nUsable after purchase by going to Games & More \u2192 Mii Fighter.",
         "languages": null,
         "size": 3145728
+    },
+    "70050000024396": {
+        "id": "010073401175F002",
+        "rightsId": null,
+        "name": "Crash Bandicoot\u2122 4 - Totally Tubular Skins",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210311,
+        "nsuId": 70050000024396,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Language"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4fc95bde180902c9909ddfd7509f30f4d307711b61b9e2ece810a1985e6bb983.jpg",
+        "intro": "It\u2019s About Time - for a brand-wumping new Crash Bandicoot\u2122 game!",
+        "description": "Buy Crash Bandicoot\u2122 4: It\u2019s About Time digitally and get the Totally Tubular Skins for Crash and Coco. Available upon completion of the second level.",
+        "languages": null,
+        "size": 6291456
     },
     "70050000024400": {
         "id": "01004A600EC0B00C",
