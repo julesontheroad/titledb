@@ -7723,6 +7723,49 @@
         ],
         "size": 44393562112
     },
+    "70010000030780": {
+        "id": "0100A3E010E56000",
+        "rightsId": null,
+        "name": "A-Train: All Aboard! Tourism",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210312,
+        "nsuId": 70010000030780,
+        "category": [
+            "Simulation",
+            "Strategy",
+            "Puzzle",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "ARTDINK",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e71a1f553dbf2f6a052f13fb6489dfa4bbe71fffe6db2b167006972316fef90b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dc45ceae2d9c1c33307db42a7d3a533ee88f8a8cc7a85f315516779ff511e84a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/44fc0fea4b3af6ec94d4ef25ed6c621045573afeb0c2a945122dbe83bdf3363a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/29faf6d5599dc4b2a11b951d41454fceefbbfa4bb772ddf9dadbb93da9c36566.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51219d4e05310748d6631ff5042e7b348acf522b0b6a46e01e0dea4d43f4f9b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb607fe2781eede5d69d9ce9d19759d3c85e024bc0f66f47f669fe3a21432fda.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f3b1d112b350fdb723dcc202331c4cf9e893bbeb50b2f90302097e591d43d6e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6c5312668e59572388e720ae420ae4958c37ef97ac3bd6cfa2686bc70cb90e94.jpg",
+        "intro": "All aboard! Tourism is a one-way ticket to urban planning!",
+        "description": "A-Train, the classic urban development simulation game that allows you to create the city of your dreams, is now available on the Nintendo Switch!\n\nBecome the president of your very own railroad company, laying tracks and running your trains as you see fit. However, you will be responsible for more than the railroad. You'll also be tasked with managing subsidiaries, playing the stock market, and participating in urban planning, in order to develop and expand your town.\n\nThis latest installment in the A-Train series introduces the element of tourism to the urban planning formula, and focuses on building up towns into bustling tourism capitals. Providing realistic business management simulations of financing, investing, and more, as well as a wide variety of customizable options for all your vehicles, A-Train: All Aboard! Tourism is packed full of features for you to explore. But don't be overwhelmed\u2014players old and new alike will be able to jump right into the series thanks to the fun and practical tutorials provided in the early stages.\n\nSo why not hop aboard the A-Train with your trusted team of advisors, and start crafting a bright future for your town?",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2339373056
+    },
     "70010000030996": {
         "id": "01002120116C4000",
         "rightsId": null,
@@ -8741,7 +8784,7 @@
         "description": null,
         "languages": null,
         "size": 2387607552,
-        "parentId": "0100187003A36000"
+        "parentId": "010003F003A34000"
     },
     "70030000006721": {
         "id": "0100B7200E02E000",
@@ -9522,6 +9565,32 @@
         "languages": null,
         "size": 3459252224,
         "parentId": "01006DC010326000"
+    },
+    "70030000012909": {
+        "id": null,
+        "rightsId": null,
+        "name": "A-Train: All Aboard! Tourism Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012909,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1524629504,
+        "parentId": "0100A3E010E56000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",

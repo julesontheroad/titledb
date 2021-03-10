@@ -7723,6 +7723,49 @@
         ],
         "size": 44393562112
     },
+    "70010000030780": {
+        "id": "0100A3E010E56000",
+        "rightsId": null,
+        "name": "A-Train: All Aboard! Tourism",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210312,
+        "nsuId": 70010000030780,
+        "category": [
+            "Simulaci\u00f3n",
+            "Estrategia",
+            "Rompecabezas",
+            "Otros"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "ARTDINK",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e71a1f553dbf2f6a052f13fb6489dfa4bbe71fffe6db2b167006972316fef90b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dc45ceae2d9c1c33307db42a7d3a533ee88f8a8cc7a85f315516779ff511e84a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/44fc0fea4b3af6ec94d4ef25ed6c621045573afeb0c2a945122dbe83bdf3363a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/29faf6d5599dc4b2a11b951d41454fceefbbfa4bb772ddf9dadbb93da9c36566.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51219d4e05310748d6631ff5042e7b348acf522b0b6a46e01e0dea4d43f4f9b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb607fe2781eede5d69d9ce9d19759d3c85e024bc0f66f47f669fe3a21432fda.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f3b1d112b350fdb723dcc202331c4cf9e893bbeb50b2f90302097e591d43d6e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/22ee8959ffed83f3f8034c558458124cdd4d7112fe2204a42624a5a2ff8976bc.jpg",
+        "intro": "\u00a1Que de comienzo la construcci\u00f3n de una ciudad de lo m\u00e1s concurrida gracias al turismo!",
+        "description": "\u00a1Llega a Nintendo Switch \u00abAll Aboard!\u00bb, un simulador de trenes y de desarrollo urban\u00edstico con el que podr\u00e1s construir toda una ciudad a tu gusto!\n\nPoni\u00e9ndose en la piel del presidente de una compa\u00f1\u00eda ferroviaria, el jugador podr\u00e1 distribuir a su antojo la red de v\u00edas de la ciudad y hacer circular a los trenes. En tus manos quedar\u00e1n operaciones tales como la \u00abGesti\u00f3n ferroviaria\u00bb, la \u00abAdministraci\u00f3n de la empresa\u00bb, llevada a cabo mediante el control de las filiales y el intercambio de acciones, y el \u00abDesarrollo urban\u00edstico\u00bb. Todo ello para hacer que tu ciudad crezca y prospere.\n\nEn \u00abAll Aboard! Tourism\u00bb se ha a\u00f1adido el elemento del \u00abTurismo\u00bb para que puedas aspirar a crear una ciudad tur\u00edstica llena de gente. Adem\u00e1s de gestionar la integridad de tu empresa, mediante la financiaci\u00f3n o la compra y venta de acciones, tambi\u00e9n tendr\u00e1s la opci\u00f3n de personalizar tu flota de veh\u00edculos. Y, por supuesto, todos aquellos que se acaben de iniciar a esta serie, o los que simplemente nunca hayan o\u00eddo hablar de ella, tendr\u00e1n a su disposici\u00f3n tutoriales muy detallados y f\u00e1ciles de seguir.\n\n\u00bfSer\u00e1s capaz de construir con tus amigos de confianza el futuro de esta ciudad?",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2339373056
+    },
     "70010000030996": {
         "id": "01002120116C4000",
         "rightsId": null,
@@ -8741,7 +8784,7 @@
         "description": null,
         "languages": null,
         "size": 2387607552,
-        "parentId": "0100187003A36000"
+        "parentId": "010003F003A34000"
     },
     "70030000006721": {
         "id": "0100B7200E02E000",
@@ -9522,6 +9565,32 @@
         "languages": null,
         "size": 3459252224,
         "parentId": "01006DC010326000"
+    },
+    "70030000012909": {
+        "id": null,
+        "rightsId": null,
+        "name": "A-Train: All Aboard! Tourism Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012909,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1524629504,
+        "parentId": "0100A3E010E56000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",
