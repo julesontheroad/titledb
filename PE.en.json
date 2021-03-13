@@ -5846,7 +5846,7 @@
             "nl",
             "ru"
         ],
-        "size": 16827547648
+        "size": 16994271232
     },
     "70010000022226": {
         "id": "01002C000E35E000",
@@ -19065,12 +19065,12 @@
     "70050000022226": {
         "id": "0100EAE010561013",
         "rightsId": null,
-        "name": "Captain Tsubasa: Rise of New Champions Character 4",
+        "name": "Captain Tsubasa: Rise of New Champions - Mark Owairan",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20211231,
+        "releaseDate": 20210311,
         "nsuId": 70050000022226,
         "category": null,
         "ratingContent": [
@@ -19086,22 +19086,27 @@
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d2212c657de9f09b5a94b07d13c54e9dac6e96d9cb1696baf367a0decc8feb11.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c2c9af81d77fd916970a5fa2fc897ae00b4ea2da64408e653d30248651370e44.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/47aceb3345ff53364b0ce8606aae47fd153a3ea43d7b675966dbca58c55738ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09e50d89f5d0157fc986fd68b96076406f34ad4e142bb0ea94fd3a3517eae40c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d4199427dd9f2598896a6bb0c23fda34a96725fdf15eda9dd9cf5eba76981002.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b122789aad83413fca64a9b92b5f60824ad80d9c03f4783a3a8ab2691aa34295.jpg",
         "intro": null,
-        "description": "Get access to this additional character.",
+        "description": "Mark Owairan is now available as a new playable character in Captain Tsubasa: Rise of New Champions.",
         "languages": null,
-        "size": 4194304
+        "size": 3145728
     },
     "70050000022227": {
         "id": "0100EAE010561014",
         "rightsId": null,
-        "name": "Captain Tsubasa: Rise of New Champions Character 5",
+        "name": "Captain Tsubasa: Rise of New Champions - Ryoma Hino",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20211231,
+        "releaseDate": 20210311,
         "nsuId": 70050000022227,
         "category": null,
         "ratingContent": [
@@ -19117,22 +19122,27 @@
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f29e1a8358a5730f3a03a1832341c76b473c1ef6f1a186589700368f6696e0fe.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e3220817fd75af77ef6536a12a231b41d99e5ba54b1ba11df82c52e1125f55c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/93ee9933bb1cc6958c094e1db468565cdbc73c663fbd2e03f8d2aa5f7fd40c8c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/306a8d9191c846f36d0a425de5a6c909fc8ed1daa7f1df95d7dbdddaa7ea4fd2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3bebc9b6e7215e3b56477e3d4b791586a37bce829c8f5ad52b043841b17b49d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9846193bbb43e852fd168716b5cc5e94ff8c83e2135f256bfe73b974dfb828ec.jpg",
         "intro": null,
-        "description": "Get access to this additional character.",
+        "description": "Ryoma Hino is now available as a new playable character in Captain Tsubasa: Rise of New Champions.",
         "languages": null,
-        "size": 4194304
+        "size": 3145728
     },
     "70050000022228": {
         "id": "0100EAE010561015",
         "rightsId": null,
-        "name": "Captain Tsubasa: Rise of New Champions Character 6",
+        "name": "Captain Tsubasa: Rise of New Champions - Shingo Aoi",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20211231,
+        "releaseDate": 20210311,
         "nsuId": 70050000022228,
         "category": null,
         "ratingContent": [
@@ -19148,12 +19158,17 @@
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1938a6abfc61381721d48d99aec802e5aa3761362b6a4d036e7f3a8280a1c0ea.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/13993a33729feb1eec42cf8cf607f305d6529c00f19146874d21a005c81452d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9563ccde5ddc14406e429893052baa80fe6352656f1ba5a72f6615669ff147b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/544b8e16f452609d3b87560753452ed88280e316244ef638648e5cf2aaeb3383.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/099cd4099e874bb7ab8f4eda200d87dde919247108d25feba9e3881f2e65b771.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cdef3054bd7fc1d080820581d15851c401734777ca113d364dc094d0d2e8e86b.jpg",
         "intro": null,
-        "description": "Get access to this additional character.",
+        "description": "Shingo Aoi is now available as a new playable character in Captain Tsubasa: Rise of New Champions.",
         "languages": null,
-        "size": 4194304
+        "size": 3145728
     },
     "70050000022229": {
         "id": "0100EAE010561016",
@@ -21482,6 +21497,96 @@
         "languages": null,
         "size": 10485760
     },
+    "70050000025776": {
+        "id": "0100E1F01367505D",
+        "rightsId": null,
+        "name": "The White Stripes - \"Seven Nation Army\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210311,
+        "nsuId": 70050000025776,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/28a618ec1647587432e164f9ee8ad2cf073e93e3ea5d68fed128c8965b1504b1.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"Seven Nation Army\" by The White Stripes! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 6291456
+    },
+    "70050000025777": {
+        "id": "0100E1F01367505E",
+        "rightsId": null,
+        "name": "Vengaboys - \"We Like to Party! (The Vengabus)\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210311,
+        "nsuId": 70050000025777,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c70e7180c9ee5cfb32e5e279d3c411d42c7e7283f093c2d320426723e048ad07.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"We Like to Party! (The Vengabus)\" by Vengaboys! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 7340032
+    },
+    "70050000025778": {
+        "id": "0100E1F01367505F",
+        "rightsId": null,
+        "name": "David Guetta ft. Nicki Minaj & Flo Rida - \"Where Them Girls At\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210311,
+        "nsuId": 70050000025778,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/45562c4ec17e94bc37b3d21bdb44dde6d1f2098a774f9b8a2f2a273eddb29c41.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"Where Them Girls At\" by David Guetta ft. Nicki Minaj & Flo Rida! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 8388608
+    },
     "70050000025914": {
         "id": "01006A800016F048",
         "rightsId": null,
@@ -23601,13 +23706,15 @@
         "iconUrl": null,
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/bc3e879baa78bcd044e7759de918b88f4ff39a0a072a5e072ee2f0eb5f71f356.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/496f604d552baba75a79d7cab65dbd8c26161cd0d7b8d357a69d162c0b8c8e00.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/496f604d552baba75a79d7cab65dbd8c26161cd0d7b8d357a69d162c0b8c8e00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c2c9af81d77fd916970a5fa2fc897ae00b4ea2da64408e653d30248651370e44.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/13993a33729feb1eec42cf8cf607f305d6529c00f19146874d21a005c81452d8.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/02ebc11d42315b74c2624527bc78978663c72fe35e7a051e3e28a82556adcbd7.jpg",
         "intro": null,
         "description": "The Character Pass adds 9 characters that can be used in Captain Tsubasa: Rise of New Champions.\n\nCharacter Pass Bonus:\n- New Champions Uniform Set",
         "languages": null,
-        "size": 41943040
+        "size": 38797312
     },
     "70070000010882": {
         "id": null,
@@ -23638,7 +23745,7 @@
         "intro": "Super plays clash in soccer action game Captain Tsubasa!",
         "description": "The Deluxe Edition includes:\n- Captain Tsubasa: Rise of New Champions (full game)\n- Character Pass\n\nDeluxe Edition Bonus:\n- V Jump accessories\n\nCaptain Tsubasa: Rise of New Champions, based on the globally beloved anime series, is an action soccer game featuring the latest graphics and super plays anyone can enjoy.",
         "languages": null,
-        "size": 14796455936
+        "size": 14793310208
     },
     "70070000010923": {
         "id": null,
@@ -23894,7 +24001,7 @@
         "intro": null,
         "description": "Receive the game, season pass, and exclusive in-game content with the Gold Edition. \n\nImmortals Fenyx Rising\u2122 brings grand mythological adventure to life. Play as Fenyx, a new, winged demigod, on a quest to save the Greek gods. \n\n- Wield the powers of the gods like Achilles' sword and Daidalos' wings to battle powerful enemies and solve ancient puzzles.\n- Fight iconic mythological beasts like Cyclops and Medusa in dynamic combat in the air and on the ground. \n- Use your skills and diverse weapons, including self-guided arrows, telekinesis, and more, for devastating damage.  \n- Discover a stylized open world across seven unique regions, each inspired by the gods.",
         "languages": null,
-        "size": 16827547648
+        "size": 16994271232
     },
     "70070000011395": {
         "id": null,
