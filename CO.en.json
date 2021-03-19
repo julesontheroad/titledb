@@ -6535,7 +6535,7 @@
             "zh",
             "zh"
         ],
-        "size": 7544504320
+        "size": 7614758912
     },
     "70010000027858": {
         "id": "0100C56010FD8000",
@@ -8619,7 +8619,7 @@
         "description": null,
         "languages": null,
         "size": 2387607552,
-        "parentId": "010003F003A34000"
+        "parentId": "0100187003A36000"
     },
     "70030000006721": {
         "id": null,
@@ -17599,7 +17599,7 @@
     "70050000019990": {
         "id": "01006F800232712D",
         "rightsId": null,
-        "name": "Nook Inc. silk rug",
+        "name": "Animal Crossing: New Horizons Nintendo Switch Online - Member-Exclusive Items",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -17619,9 +17619,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b292778538e0e3cbe64bff8a7fc69ab27e38a69ca8741d2e9544abeee86dc817.jpg",
-        "intro": "Exclusive bonus: Get the Nook Inc. silk rug in your Animal Crossing\u2122: New Horizons game",
-        "description": "Nintendo Switch Online members can decorate in style with this themed rug! Follow the steps below and you\u2019ll be able to get this exclusive rug in exchange for Nook Miles at your island\u2019s Nook Stop.\n\n1. Open Nintendo eShop on your Nintendo Switch\u2122 system and select \u201cNintendo Switch Online\u201d from the menu. \n2. Look for the Nook Inc. silk rug under \u201cSpecial Offers\u201d and select \u201cDownload.\u201d\n3. Open the Animal Crossing: New Horizons game. (Be sure to use the same Nintendo Account you used to download the offer.)\n4. After the option to redeem your Nook Miles becomes available in the game, you can exchange them for the \u201cNook Inc. silk rug\u201d at the Nook Stop located in Resident Services! \n\n\nPlayers who live on the same island as the Nintendo Switch Online member will also be able to exchange Nook Miles for the item. If other players are unable to exchange, please have the member who downloaded the special offer try restarting the game and then try again.\n\n \nAvailable with paid Nintendo Switch Online memberships; free trial memberships do not qualify for this offer. The full version of Animal Crossing: New Horizons is required to download this content.\n \n\n",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8739b7411fe816c267242ed658dadb81662d3fb2e014e641c692c3273eb8c485.jpg",
+        "intro": "Member-exclusive items for the Animal Crossing\u2122: New Horizons game!",
+        "description": "Download this bonus to get access to the Nook Inc. silk rug and the Nintendo Switch\u2122 Lite in-game furniture items for Animal Crossing: New Horizons.\n\nHere\u2019s how to receive each item:\n\nNintendo Switch Lite\n\nOnce any player on an island has downloaded this reward, all players who have a paid Nintendo Switch Online membership can order the Nintendo Switch Lite in-game item. Players can order this item from Nook Shopping under the Daily Selection tab (provided they have enough Bells). The color of the item available for order will change on a rotating basis, updated daily.\n\n\u25c6 You need to have progressed far enough through the game that you have access to Nook Shopping.\n\u25c6 If other players who live on the island are Nintendo Switch Online members and cannot order the item, have the player who redeemed the bonus content start the game and try again.\n\nNook Inc. Silk Rug\n\nOnce any player on an island has downloaded this reward, all players on the island can redeem Nook Miles for the Nook Inc. silk rug item at Nook Stop in Resident Services (provided they have enough Nook Miles).\n\n\u25c6 You need to have progressed far enough through the game that you can use miles at Nook Stop.\n\u25c6 Even if other players who live on the island do not have Nintendo Switch Online memberships, they can still exchange Nook Miles for the item. If other players cannot collect the item, have the player who redeemed the bonus content start the game and try again.\n\nNote: If this bonus content already displays as Purchased in Nintendo eShop, there is no need to redownload the bonus content. Follow the steps above to confirm you can collect the content in game.",
         "languages": null,
         "size": 4194304
     },
