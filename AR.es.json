@@ -6801,6 +6801,50 @@
         ],
         "size": 575668224
     },
+    "70010000028005": {
+        "id": "01005790110F0000",
+        "rightsId": null,
+        "name": "Cobra Kai: The Karate Kid Saga Continues",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210318,
+        "nsuId": 70010000028005,
+        "category": [
+            "Acci\u00f3n",
+            "Arcade",
+            "Peleas",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Referencia al alcohol",
+            "Lenguaje moderado",
+            "Temas insinuantes moderados",
+            "Violencia"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Game Mill",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7e0cdc2f9dfb28f6e022d686be1005418ef546dd0e7d21b18794b84559283ce1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c858f69ac4b5fdbb6fb1b1bcfca8691d446e223cb7888060afe4eab095d89537.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd4df7b74730a52b9367074e86e1c3d3dc0c891890d491fb92711174cee538de.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ecd731a9a358dea6d3da05da2206ff34cb2b51502c12272bd30ca686b140ef7d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eeb665458ec508b58cb307c4c9055ce26643c848dd0dfaeb6e5b09fad69e9633.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2402b02fff3e01b0550f814c52b3d0d3dcc94b46f5b3cdcce129afd8db8214e5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da3f407176c704341c4305c98a18d969e0a830873f99983f55e841346aa7c868.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/70dbe9ae01db04ef258aff225309b3270146b8e30ef24579e96d43787de7e6fa.jpg",
+        "intro": null,
+        "description": "Elige un bando, domina las t\u00e9cnicas y afronta tu destino en una \u00e9pica aventura de peleas inspirada en la serie de \u00e9xito. \u00a1Juega con los 8 personajes y sus extensos conjuntos de t\u00e9cnicas, combinaciones, progreso, cambios de personaje en tiempo real, ataques definitivos y mucho m\u00e1s! 34 a\u00f1os despu\u00e9s de lo ocurrido en el 1984 All Valley Karate Tournament, sigue existiendo la rivalidad entre Daniel LaRusso y Johnny Lawrence. \u00a1La lucha est\u00e1 ahora en tus manos!\n \n\u2022L\u00ednea argumental doble: incluye una l\u00ednea argumental totalmente nueva con cinem\u00e1ticas y elecciones de di\u00e1logos \u00fanicas en la que podr\u00e1s controlar a Daniel y sus estudiantes del Miyagi-Do Karate en una campa\u00f1a hist\u00f3rica. Tambi\u00e9n podr\u00e1s elegir a sus rivales, Johnny Lawrence y sus disc\u00edpulos del Cobra Kai, y jugar su parte de la historia. Si completas ambas partes de la campa\u00f1a, se desbloquear\u00e1 un final verdadero.\n\n\u2022Evoluci\u00f3n del dojo al estilo de los RPG: domina 40 habilidades \u00fanicas y mejora las estad\u00edsticas de tus personajes a medida que derrotas a tus enemigos con el karate.\n\n\u2022Sistema de cambio de personaje: elige tu dojo y cambia de personaje entre tus favoritos del dojo, como Daniel, Robby, Sam y Demetri, del Miyagi-Do, o Johnny, Miguel, Hawk y Tory, del Cobra Kai.\n\n\u2022Vive el universo de Cobra Kai: \u00a1explora Los \u00c1ngeles en 28 misiones cargadas de personajes y enemigos de la serie!\n\n\u2022Experiencia Cobra Kai aut\u00e9ntica: incluye las voces de William Zabka, Ralph Macchio y otros actores de la mayor categor\u00eda, as\u00ed como una banda sonora exclusiva de los creadores de la serie Cobra Kai.",
+        "languages": [
+            "en"
+        ],
+        "size": 5313134592
+    },
     "70010000028226": {
         "id": "0100DCA011262000",
         "rightsId": null,
@@ -21582,6 +21626,66 @@
         "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abWhere Them Girls At\u00bb de David Guetta ft. Nicki Minaj & Flo Rida! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
         "languages": null,
         "size": 8388608
+    },
+    "70050000025779": {
+        "id": "0100E1F013675060",
+        "rightsId": null,
+        "name": "Sean Kingston - \"Fire Burning\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210318,
+        "nsuId": 70050000025779,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f806cfafa07c26699d64ac79b4187acf6cdcd56a3e52d3154e4aebddcc302aa7.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abFire Burning\u00bb de Sean Kingston! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 9437184
+    },
+    "70050000025780": {
+        "id": "0100E1F013675061",
+        "rightsId": null,
+        "name": "Ti\u00ebsto - \"Red Lights\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210318,
+        "nsuId": 70050000025780,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/602dadaf6bcc35923ca9bd9f74d61b9dc842e1f4e151de1088446e888febc68f.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abRed Lights\u00bb de Ti\u00ebsto! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 9437184
     },
     "70050000025914": {
         "id": "01006A800016F048",
