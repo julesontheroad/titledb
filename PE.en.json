@@ -5692,7 +5692,7 @@
             "ru",
             "ko"
         ],
-        "size": 5563744256
+        "size": 5575278592
     },
     "70010000021451": {
         "id": "01006C300E9F0000",
@@ -5794,7 +5794,7 @@
             "zh",
             "zh"
         ],
-        "size": 11812208640
+        "size": 11838423040
     },
     "70010000021933": {
         "id": "01004A600EC0A000",
@@ -8370,6 +8370,51 @@
         ],
         "size": 204472320
     },
+    "70010000037986": {
+        "id": "0100BC701417A000",
+        "rightsId": null,
+        "name": "TY the Tasmanian Tiger\u2122 2: Bush Rescue\u2122 HD",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210330,
+        "nsuId": 70010000037986,
+        "category": [
+            "Platformer",
+            "Adventure",
+            "Action"
+        ],
+        "ratingContent": [
+            "Comic Mischief",
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Krome Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/56aea936ae5b7119534db020e718022835adea28fae648e05f08154c3ce4efe5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3854f69c36edd7c10dda6c518cb4870ba10141be21ecd819cc128e1cef0ba1b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f2551b46dc82b435318c540832925d0c845600b1b8077fa1b1193a254d1a5ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/41e0f5f73eaa5156dc444bc1725f1e79bf827dd249d7fa17ded4028ec9cb152b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6ea6d66ce084b150f1a92bbcd689b2d0427c215b04a90e9929aeb73af0285d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf8622b5646b03a88fc287121efde0c62dbc4c7b8a725e331f0ebd1273c15066.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da9b209895b0aead70c778bf59bcbe8b82cf2f5624cf58aadf4d1928f3a7dae3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/923812ccda17ce17eae5ca8c3dd8c72175dcbfa8cac14e6fbab701cb51027576.jpg",
+        "intro": "More rangs, more vehicles, more mechs, more EVERYTHING... in an open world Aussie Adventure. There might even be a few surprises!",
+        "description": "TY puts the BOOM in BOOMERANG! TY the Tasmanian Tiger\u2122 2: Bush Rescue\u2122 is the sequel to Krome Studios' charming Australiana-themed videogame. This classic platformer, updated for Nintendo Switch\u2122, features more rangs, more vehicles, more bots, and more EVERYTHING... in an open world Aussie Adventure. \n\nThrow boomerangs, bite, smash and glide your way around the Australian Outback and stop the evil plans of the wicked Boss Cass and help the good folk of the little country town of BURRAMUDGEE. \n\nThis sequel to the popular TY the Tasmanian Tiger is a game on a grander scale. In addition to classic platforming elements, you'll fight Aussie bush fires from a helicopter, drive around Southern Rivers while hanging on to the back of a four-wheel drive and use the bots to defeat enemies and solve puzzles - all while trying to find a variety of different collectables. And now, only on the HD remaster, you can customize TY's looks, and best of all there are two brand NEW never before seen boomerangs.\n\n* Explore from the beach to the desert to the billabong and beyond in a huge open world of old-school 3D platforming glory.\n* Arm yourself with 20 different boomerangs including the classic Ironbark, Flamerang and two NEW rangs!\n* Brand new photo-mode.\n* A wide variety of vehicles like the Fourbie, cart, and mechs.\n* 7 Levels of two-player split-screen cart racing.\n* Improved camera & graphics; including updated shadows, reflections and HD resolutions\n* New Gamemode called \"Hardcore Mode\"\n* Character customization with NEW skins for TY and paint jobs for the Fourbie!\n* Play multiple ways with Nintendo Switch  Joy-Con\u2122 controllers and motion input.\n* Audio Director's cut\n\nTHE STORY\nLong ago, a great battle was fought. BOSS CASS sought out five mystic talismans, so he could banish every warm-blooded creature, to the DREAMING.\nBut one brave soul stood up to CASS, and thwarted his quest for the talismans. He risked all, in an effort to save his family and friends.\nAnd in the end... he succeeded. CASS was banished for his crimes, and the land was made safe once again. All thanks to to one lone hero...\nTY the Tasmanian Tiger.\n\nNow, evil stirs again - the little country town of CURRAWONG is under attack, and a hero is needed once more...\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 2718957568
+    },
     "70010000037989": {
         "id": null,
         "rightsId": null,
@@ -8450,8 +8495,8 @@
             "https://img-eshop.cdn.nintendo.net/i/d60fb2fbff5e3abfba3e2e53f08cd9e1d904cd6ec605eb098895604097e8b729.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/405b7ccd33c2183bd6f0dc7773908e472cdde56f7c4ca2252a50c8bfd0e41d0c.jpg",
-        "intro": "Star in your own adventure alongside your favorite people!",
-        "description": "Cast your friends, family or anyone you choose in a hilarious adventure to bring down the face-stealing Dark Lord. Create and customize Mii\u2122 characters of anyone you like\u2014from your favorite historical figure to your dreaded math teacher\u2014and assign them roles in the fantasy adventure of a lifetime. With expanded customization in Miitopia, you can even add wigs and makeup to give your characters more\u2026character. Watch your characters come to life as your best friend and dear old grandma team up to topple the villainous Dark Lord that resembles your grumpy neighbor!\n\nFoster friendship between your hand-picked Mii characters\n\nPair up your Mii characters at inns to build their relationships and see some personality-packed interactions. You may hear some hot gossip on grandma or find your best friend and mom doing pushups! Characters may also learn skills like \u201clend a hand\u201d and help each other out during battle. Outings let you send character pairs on bonding experiences at the beach, a caf\u00e9, and more. Even your trusty horse can lend a hoof!\n\nBring your friends into battle\n\nEngage in turn-based combat against outlandish baddies like the gyrating Twerkey to gain experience and level up characters. Tailor your strategy by assigning Mii characters personality traits and jobs like mage, warrior, and pop star that will determine their approach to battle. Need a boost? Food is used to recover health and magic to keep your party in fighting shape.",
+        "intro": "Star in a hilarious adventure alongside your family and friends!",
+        "description": "Cast your friends, family or anyone you choose in a comedy-filled adventure to bring down the face-stealing Dark Lord. Create and customize Mii\u2122 characters of anyone you like and assign them roles in the fantasy adventure of a lifetime. With expanded customization in Miitopia, you can even add wigs and makeup to give your characters more\u2026character. Watch your characters come to life as your best friend and dear old grandma team up to topple the villainous Dark Lord that resembles your grumpy uncle!\n\nFoster friendships between your hand-picked Mii characters\n\nPair up your Mii characters at inns to build their relationships and see some personality-packed interactions. You may hear some hot gossip on grandma or find your best friend and mom doing pushups! Characters may also learn skills like \u201clend a hand\u201d and help each other out during battle. Outings let you send character pairs on bonding experiences at the beach, a caf\u00e9, and more. Even your trusty horse can lend a hoof.\n\nBring your friends into battle\n\nEngage in turn-based combat against outlandish baddies like the gyrating Twerkey to gain experience and level up characters. Tailor your strategy by assigning Mii characters personality traits and jobs like warrior, chef, and pop star that will determine their approach to battle. Need a boost? Food is used to recover health and magic to keep your party in fighting shape.",
         "languages": [
             "ja",
             "en",
@@ -8588,7 +8633,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cb27694d95028f043301cb9d232229a15d5317a829ad5a2412a774e7e70f3173.jpg",
         "intro": "Find the secret behind a grisly rumor haunting a Japanese high school",
-        "description": "Interrogate suspects and hunt for clues to piece together chilling conundrums plaguing a high school in Japan. Suspense (and a little bit of horror) ensues as you try to free students from their nightmare. Play at home, on the go, or in your favorite reading nook\u2014only on the Nintendo Switch system. Can you figure out who the culprit is...before it\u2019s too late?\n\nPlay Famicom Detective Club in English for the first time\n\nOriginally released in Japan only, the Famicom Detective Club\u2122: The Girl Who Stands Behind game has been localized with English text and modernized for the Nintendo Switch\u2122 system. While the graphics, music, and sound effects have been recreated, players can also choose the original 8-bit soundtrack. Discover a piece of Nintendo history with the Famicom Detective Club series of games.\n\nBuy one Famicom Detective Club game, get the other at a discount\n\nFamicom Detective Club: The Girl Who Stands Behind is the second game in the series. The first game, Famicom Detective Club: The Missing Heir is also available on Nintendo eShop. If you purchase one of these games on Nintendo eShop, you can get $10* off the other when also purchased on Nintendo eShop**!\n",
+        "description": "Interrogate suspects and hunt for clues to piece together chilling conundrums plaguing a high school in Japan. Suspense (and a little bit of horror) ensues as you try to free students from their nightmare. Play at home, on the go, or in your favorite reading nook\u2014only on the Nintendo Switch\u2122 system. Can you figure out who the culprit is...before it\u2019s too late?\n\nImmerse yourself in an interactive visual novel\n\nPress suspects by selecting the right question from a series of options. Uncover clues by moving a magnifying glass around the screen and examining your environment with a press of a button. Get enough information to push forward with your investigation, then access different areas and meet more suspects. Put on your detective hat and leave no stone unturned on your path to the truth.\n\nBuy one Famicom Detective Club game, get the other at a discount\n\nFamicom Detective Club\u2122: The Girl Who Stands Behind is the second game in the series. The first game, Famicom Detective Club\u2122: The Missing Heir is also available on Nintendo eShop. If you purchase one of these games on Nintendo eShop, you can get $10* off the other when also purchased on Nintendo eShop**!\n\nAs an up-and-coming detective, find the culprit who took the life of an innocent girl, Yoko, and rattled her high school community. The victim was investigating a ghost story of a bloody girl haunts the school and appears behind students. Deconstruct this grisly rumor at Ushimitsu High School and free these students from their nightmare.\n\nOriginally released in Japan only, the Famicom Detective Club: The Girl Who Stands Behind game has been localized with English text and modernized for the Nintendo Switch system. While the graphics, music, and sound effects have been recreated, players can also choose the original 8-bit soundtrack. Discover a piece of Nintendo history with the Famicom Detective Club series of games.",
         "languages": [
             "en"
         ],
@@ -8629,7 +8674,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f48da5a01b3859ab7d67a51bccabdb121b98468c9f40093c8bdb0fcc1c45e21.jpg",
         "intro": "Solve a murder mystery surrounding a wealthy Japanese family",
-        "description": "Hunt for clues, talk to suspects, and explore the Japanese countryside after tragedy strikes the wealthy Ayashiro family. Filled with suspense, this tale follows an amnesia-stricken detective trying to unravel his own past amidst the horrors of a harrowing murder investigation. Play at home, on the go, or in your favorite reading nook\u2014only on the Nintendo Switch\u2122 system.\n\nPlay Famicom Detective Club in English for the first time\n\nOriginally released in Japan only, the Famicom Detective Club\u2122: The Missing Heir game has been localized with English text and modernized for Nintendo Switch. While the graphics, music, and sound effects have been recreated, players can choose the original 8-bit soundtrack. Discover a piece of Nintendo history with the Famicom Detective Club series of games.\n\nBuy one Famicom Detective Club game, get the other at a discount\n\nFamicom Detective Club: The Missing Heir is the first entry in the series. The game\u2019s prequel, Famicom Detective Club: The Girl Who Stands Behind, is also available on Nintendo eShop. If you purchase one of these games on Nintendo eShop, you can get $10* off the other when also purchased on Nintendo eShop**!\n",
+        "description": "Hunt for clues, talk to suspects, and explore the Japanese countryside after tragedy strikes the wealthy Ayashiro family. Filled with suspense, this tale follows an amnesia-stricken detective trying to unravel his own past amidst the horrors of a harrowing murder investigation. Play at home, on the go, or in your favorite reading nook\u2014only on the Nintendo Switch\u2122 system.\n\nImmerse yourself in an interactive visual novel\n\nPress suspects by selecting the right question from a series of options. Uncover clues by moving a magnifying glass around the screen and examining your environment with a press of a button. Get enough information to push forward with your investigation, then access different areas and meet more suspects. Put on your detective hat and leave no stone unturned on your path to the truth.\n\nBuy one Famicom Detective Club game, get the other at a discount\n\nFamicom Detective Club\u2122: The Missing Heir is the first entry in the series. The game\u2019s prequel, Famicom Detective Club\u2122: The Girl Who Stands Behind, is also available on Nintendo eShop. If you purchase one of these games on Nintendo eShop, you can get $10* off the other when also purchased on Nintendo eShop**!\n\nThe mystery begins when a man named Amachi discovers your unconscious body on a cliff in the Japanese countryside. Clouded with amnesia, you learn that you are a detective from a young woman and must return to your case\u2014solving the murder involving the wealthy Ayashiro family. Uncover the secrets of the Ayashiro family, find the murderer, and regain your lost memories.\n\nOriginally released in Japan only, the Famicom Detective Club: The Missing Heir game has been localized with English text and modernized for the Nintendo Switch system. While the graphics, music, and sound effects have been recreated, players can also choose the original 8-bit soundtrack. Discover a piece of Nintendo history with the Famicom Detective Club series of games.",
         "languages": [
             "en"
         ],
@@ -20048,7 +20093,7 @@
         "intro": null,
         "description": "Play a brand new story inspired by Chinese mythology, where you'll encounter new gods and fight exotic monsters in a distant land, as a new hero.",
         "languages": null,
-        "size": 4194304
+        "size": 4126146560
     },
     "70050000023830": {
         "id": "01004A600EC0B002",
@@ -23264,7 +23309,7 @@
         "intro": null,
         "description": "\"Fight your way through an all-new action-adventure game, inspired by classic dungeon crawlers and set in the Minecraft universe! Brave the dungeons alone, or team up with friends! Up to four players can battle together through action-packed, treasure-stuffed, wildly varied levels \u2013 all in an epic quest to save the villagers and take down the evil Arch-Illager!.\n\nThe Hero Edition includes the Jungle Awakens DLC, Creeping Winter DLC, a Hero Cape, two player skins, and a chicken pet.\n\n\u2022\tUNITE - Up to four players can team up and fight together in co-op mode. \n\u2022\tFIGHT - Personalize your character, then fight up-close and personal with melee swings, hang back with ranged attacks, or tank your way through swarms of mobs, shielded by heavy armour! Unlock dozens of unique items and weapon enchantments for devastating special attacks. \n\u2022\tSURVIVE - Explore action-packed, treasure-stuffed levels in a quest to save the villagers and take down the evil Arch-Illager!. \"\n",
         "languages": null,
-        "size": 5576327168
+        "size": 5587861504
     },
     "70070000008805": {
         "id": null,
@@ -23778,7 +23823,7 @@
         "intro": "Brawl Without Limits!",
         "description": "The world of WWE is your battleground with all-new, over the top, in-your-face arcade action as your favorite WWE Superstars and Legends battle it out in outlandish environments with an arsenal of moves, special abilities, and power-ups. Compete in your favorite match types including Steel Cage, Royal Rumble, Fatal Four Way and more, as Mauro Ranallo and Jerry \u201cThe King\u201d Lawler call the mayhem!\nRaise some hell with Stone Cold Steve Austin, lay the SmackDown with the Attitude Era version of The Rock and get rowdy with Ronda Rousey. The WWE 2K Battlegrounds Digital Deluxe Edition includes three versions of each Superstar along with the pre-order bonus, Edge. Also includes additional 1100 Golden Bucks to unlock additional WWE Superstars and legends.",
         "languages": null,
-        "size": 11812208640
+        "size": 11838423040
     },
     "70070000010881": {
         "id": null,
