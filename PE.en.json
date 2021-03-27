@@ -3330,7 +3330,7 @@
             "zh",
             "zh"
         ],
-        "size": 9035579392
+        "size": 9039773696
     },
     "70010000014081": {
         "id": "0100C9F009F7A000",
@@ -7126,6 +7126,55 @@
             "zh"
         ],
         "size": 16721641472
+    },
+    "70010000029016": {
+        "id": "0100B04011742000",
+        "rightsId": null,
+        "name": "MONSTER HUNTER RISE",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210326,
+        "nsuId": 70010000029016,
+        "category": [
+            "Action"
+        ],
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/10f565a04c2183b9c9a31365fd7885b991706e7c511e1388d8f1a930504d4edf.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1a2a03fe22db183543ea8c8c96fb48b4524acd16b8d2201eec0931c03d5748d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e2ede299ca4f81feca424858f0ad7d7109e2938e79b1f066c9aad9784e309ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eecc90e96e26b6f62705bd11a82b1aede7f0f114ec6139a8c8994f980b59f84a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d77417414cbb042d8e8243171bcea8c5f879f839d87fb2134d47869236b8f5ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa2016dc15a66c9e150f447c61dcb534cd4a00faa26760da5d79b6c4afde666c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9e4ed9941c43122fff2cb00ef99f0796320ab38875f1273fbca8f6de4c84dcc5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b6ca09e9a7f6faf27641f62dabe64c6ff97b4f326aa478379e3c112aa28eb9ab.jpg",
+        "intro": "Rise to the challenge and join the hunt!",
+        "description": "The critically acclaimed action-RPG series returns to the Nintendo Switch\u2122!\n\nSet in the ninja-inspired land of Kamura Village, explore lush ecosystems and battle fearsome monsters to become the ultimate hunter. It\u2019s been half a century since the last calamity struck, but a terrifying new monster has reared its head and threatens to plunge the land into chaos once again.\n\nHunt solo or in a party with friends to earn rewards that you can use to craft a huge variety of weapons and armor. Brand new gameplay systems such as the high-flying \u2018Wire Action\u2019 and your canine companion \u2018Palamute\u2019 will add exciting new layers to the already robust combat that Monster Hunter is known for.\n\nWhether it\u2019s at home, on the go, online or offline - you\u2019ll always be ready for your next hunt on the Nintendo Switch\u2122!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 7675576320
     },
     "70010000029020": {
         "id": "01000A001171A000",
@@ -18310,12 +18359,12 @@
     "70050000020788": {
         "id": "010044500C18300A",
         "rightsId": null,
-        "name": "Civilization VI - New Frontier Pass",
+        "name": "Sid Meier's Civilization VI - Portugal Pack",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20221201,
+        "releaseDate": 20210325,
         "nsuId": 70050000020788,
         "category": null,
         "ratingContent": [
@@ -18332,11 +18381,11 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ab9d896c63f8f1b27822c2d25ba093dac740e628a8a2babe777cf71fc7ead115.jpg",
         "intro": null,
-        "description": "Continue your quest to build your greatest empire with the Civilization VI - New Frontier Pass, featuring eight new civilizations and nine new leaders, and a variety of new gameplay content, including six new game modes. Delivering six DLC packs on a bimonthly basis from May 2020 to March 2021, the New Frontier Pass includes:\n\n\u2022 Pack #1: Maya & Gran Colombia Pack. Adds two new civilizations and leaders, one new game mode*, new City States, Resources, and Natural Wonders. Available May 2020.\n\u2022 Pack #2: Ethiopia Pack. Adds one new civilization and leader, one new game mode*, one new District and two new Buildings. Available July 2020.\n\u2022 Pack #3: Adds two new civilizations and leaders, one new game mode*, new World Wonders, and one new map. Available September 2020.\n\u2022 Pack #4: Adds one new civilization and leader, one new game mode, new City States, and numerous new Great People. Available November 2020.\n\u2022 Pack #5: Adds one new civilization and two new leaders**, one new game mode, a new District, and two new Buildings. Available January 2021.\n\u2022 Pack #6: Adds one new civilization and leader, one new game mode, new World Wonders, and one new map. Available March 2021. \n\n*New game mode requires the Civilization VI Expansion Bundle to play.\n**New leader requires the Civilization VI Expansion Bundle to play.\n\nGame modes can include additional content such as new units, buildings, or improvements and can be turned on or off during game setup to apply significant and dramatic changes to the rules of the game.\n\nExclusive bonus: Teddy Roosevelt and Catherine De Medici Persona Packs.  Each Persona Pack contains a brand-new take on a favorite leader, with a new leader model and background, new gameplay bonuses, and an updated agenda that reflect the changes to the leader\u2019s personality. The Persona Packs are available exclusively to owners of the New Frontier Pass and will be delivered with the second add-on pack. ",
+        "description": "The Portugal Pack introduces Jo\u00e3o III as the leader of Portugal. Also includes the the Nau unique unit, two unique structures (the Navigation School building and the Feitoria), a new map script and World Wonders,\n\nPortugal\u2019s unique ability, \u201cCasa Da \u00cdndia,\u201d significantly increases the yields of International Trade Routes, but limits those routes to cities on the coast or with a Harbor. Portugal\u2019s unique unit, the Nau, is a naval melee unit that replaces the Caravel. It starts with one free Promotion, requires less maintenance than the Caravel, and has two charges to build Feitorias, special shipping ports unique to Portugal.\n\nThe Portugal pack also introduces the new Zombies Defense game mode. In this optional game mode, the dead don\u2019t stay dead for long and present an ever-growing threat to the world\u2019s civilizations.",
         "languages": null,
-        "size": 6291456
+        "size": 455081984
     },
     "70050000020789": {
         "id": "010044500C18300C",
@@ -19595,6 +19644,37 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023082": {
+        "id": "0100B0401174301D",
+        "rightsId": null,
+        "name": "MONSTER HUNTER RISE Pre-order bonus Add-on Content",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210326,
+        "nsuId": 70050000023082,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fcb55b2d288171b4dd65754872324cc940e2b25a861caea1100dd217a1cb6e21.jpg",
+        "intro": "MONSTER HUNTER RISE Pre-order bonus content",
+        "description": "- Palamute Golden Retriever Costume layered armor\nGives your Palamute companion the appearance of a gorgeous Golden Retriever! Good boy!\n\n- Palico Forest Cat Costume layered armor\nMakes your Palico companion look like a fluffy forest-dwelling feline friend!\n\n- Novice Talisman\nAn item which will assist you in the early stages of your adventure.\n\nNote: Layered armor is a \"skin\" which changes the appearance of the character without affecting their stats and abilities.",
+        "languages": null,
+        "size": 9437184
+    },
     "70050000023109": {
         "id": "01000A001171B005",
         "rightsId": null,
@@ -19622,6 +19702,37 @@
         "description": "Portuguese (Brazil) In-Game Commentary\n",
         "languages": null,
         "size": 517996544
+    },
+    "70050000023111": {
+        "id": null,
+        "rightsId": null,
+        "name": "MONSTER HUNTER RISE Deluxe Kit",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210326,
+        "nsuId": 70050000023111,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/67db2f84ae82b21867537d5fb66b995b90e991e9ed464f9411c017be5528ed98.jpg",
+        "intro": "Our recommended DLC in a set.",
+        "description": "    - Hunter \"Kamurai\" layered armor set\n    - Palamute \"Shuriken Collar\" layered head armor\n    - Palico \"Fish Collar\" layered head armor\n    - 4 Gestures\n    - Samurai pose set\n    - Kabuki face paint\n    - \"Izuchi Tail\" hairstyle",
+        "languages": null,
+        "size": 22020096
     },
     "70050000023139": {
         "id": "01006A800016F03D",
@@ -20072,7 +20183,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20211231,
+        "releaseDate": 20210325,
         "nsuId": 70050000023829,
         "category": null,
         "ratingContent": [
@@ -21898,6 +22009,96 @@
         "description": "Purchase Bonus (Available May 28, 2021)\n\n\u30fbNewly added weapon for Link\n\u30fbNewly added costume for Link\n",
         "languages": null,
         "size": 0
+    },
+    "70050000026189": {
+        "id": "0100E1F013675062",
+        "rightsId": null,
+        "name": "Linkin Park - \"Numb\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210325,
+        "nsuId": 70050000026189,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c7d3b01fd6df2486a1fd1f45e9314b2d1a29cc52594cc790a36507cccde0ec3.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"Numb\" by Linkin Park! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 9437184
+    },
+    "70050000026190": {
+        "id": "0100E1F013675063",
+        "rightsId": null,
+        "name": "Martin Garrix - \"Animals\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210325,
+        "nsuId": 70050000026190,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/54b4cfedaa1690fbc79a7f0b8af107d256b39145f44ad53c90a2856241c4ab72.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"Animals\" by Martin Garrix! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 6291456
+    },
+    "70050000026191": {
+        "id": "0100E1F013675064",
+        "rightsId": null,
+        "name": "Modern English - \"I Melt With You\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210325,
+        "nsuId": 70050000026191,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/858bd429475772097eb953caee27431a49f18773fd3b371efeed4a31c734dc1d.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"I Melt With You\" by Modern English! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 7340032
     },
     "70070000000041": {
         "id": null,
@@ -23786,7 +23987,7 @@
         "intro": null,
         "description": "Continue your quest to build your greatest empire with the Civilization VI - New Frontier Pass, featuring eight new civilizations and nine new leaders, and a variety of new gameplay content, including six new game modes. Delivering six DLC packs on a bimonthly basis from May 2020 to March 2021, the New Frontier Pass includes:\n\n\u2022 Pack #1: Maya & Gran Colombia Pack. Adds two new civilizations and leaders, one new game mode*, new City States, Resources, and Natural Wonders. Available May 2020.\n\u2022 Pack #2: Ethiopia Pack. Adds one new civilization and leader, one new game mode*, one new District and two new Buildings. Available July 2020.\n\u2022 Pack #3: Adds two new civilizations and leaders, one new game mode*, new World Wonders, and one new map. Available September 2020.\n\u2022 Pack #4: Adds one new civilization and leader, one new game mode, new City States, and numerous new Great People. Available November 2020.\n\u2022 Pack #5: Adds one new civilization and two new leaders**, one new game mode, a new District, and two new Buildings. Available January 2021.\n\u2022 Pack #6: Adds one new civilization and leader, one new game mode, new World Wonders, and one new map. Available March 2021. \n\n*New game mode requires the Civilization VI Expansion Bundle to play.\n**New leader requires the Civilization VI Expansion Bundle to play.\n\nGame modes can include additional content such as new units, buildings, or improvements and can be turned on or off during game setup to apply significant and dramatic changes to the rules of the game.\n\nExclusive bonus: Teddy Roosevelt and Catherine De Medici Persona Packs.  Each Persona Pack contains a brand-new take on a favorite leader, with a new leader model and background, new gameplay bonuses, and an updated agenda that reflect the changes to the leader\u2019s personality. The Persona Packs are available exclusively to owners of the New Frontier Pass and will be delivered with the second add-on pack. ",
         "languages": null,
-        "size": 2695888896
+        "size": 3144679424
     },
     "70070000010681": {
         "id": null,
@@ -24048,6 +24249,44 @@
         "description": "NBA 2K21 is the latest release in the world-renowned, best-selling NBA 2K series. 2K21 leads the charge with next-gen innovations, while continuing to deliver an industry-leading sports video game experience on the current generation of gaming platforms.\n \nWith extensive improvements upon its best-in-class graphics and gameplay, competitive and community online features, and deep, varied game modes, NBA 2K21 offers one-of-a-kind immersion into all facets of NBA basketball and culture - where Everything is Game.\n\nThe NBA 2K21 Mamba Forever Edition includes the following digital items:\n \u2022 100,000 Virtual Currency\n \u2022 10,000 MyTEAM Points\n \u2022 10 MyTEAM Tokens\n \u2022 60 MyCAREER Skill Boosts\n \u2022 40 MyTEAM Promo Packs (10 at launch, then 3 per week)\n \u2022 Sapphire Damian Lillard and Zion Williamson MyTEAM cards\n \u2022 MyPLAYER Shoe Collection\n \u2022 MyPLAYER backpack\n \u2022 Kobe Bryant Digital Collection",
         "languages": null,
         "size": 44482691072
+    },
+    "70070000011160": {
+        "id": null,
+        "rightsId": null,
+        "name": "MONSTER HUNTER RISE Deluxe Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210326,
+        "nsuId": 70070000011160,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1a2a03fe22db183543ea8c8c96fb48b4524acd16b8d2201eec0931c03d5748d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e2ede299ca4f81feca424858f0ad7d7109e2938e79b1f066c9aad9784e309ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eecc90e96e26b6f62705bd11a82b1aede7f0f114ec6139a8c8994f980b59f84a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d77417414cbb042d8e8243171bcea8c5f879f839d87fb2134d47869236b8f5ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa2016dc15a66c9e150f447c61dcb534cd4a00faa26760da5d79b6c4afde666c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9e4ed9941c43122fff2cb00ef99f0796320ab38875f1273fbca8f6de4c84dcc5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/32510344876dd4e305c6e659088894f1ba6891455db8b9f11ba930bdde5f494a.jpg",
+        "intro": "Rise to the challenge and join the hunt!",
+        "description": "Includes MONSTER HUNTER RISE and the Deluxe Kit content in one package!\u2019\n\nMain game \"MONSTER HUNTER RISE\"\n    - \"Kamurai\" Hunter layered armor set\n    - \"Shuriken Collar\" Palamute layered armor piece\n    - \"Fish Collar\" Palico layered armor piece\n    - Gestures (4 Jumps)\n    - Samurai pose set\n    - Kabuki face paint\n    - \"Izuchi Tail\" hairstyle\n\nThe critically acclaimed action-RPG series returns to the Nintendo Switch\u2122!\n\nSet in the ninja-inspired land of Kamura Village, explore lush ecosystems and battle fearsome monsters to become the ultimate hunter. It\u2019s been half a century since the last calamity struck, but a terrifying new monster has reared its head and threatens to plunge the land into chaos once again.\n\nHunt solo or in a party with friends to earn rewards that you can use to craft a huge variety of weapons and armor. Brand new gameplay systems such as the high-flying \u2018Wire Action\u2019 and your canine companion \u2018Palamute\u2019 will add exciting new layers to the already robust combat that Monster Hunter is known for.\n\nWhether it\u2019s at home, on the go, online or offline - you\u2019ll always be ready for your next hunt on the Nintendo Switch\u2122!",
+        "languages": null,
+        "size": 7675576320
     },
     "70070000011195": {
         "id": null,
