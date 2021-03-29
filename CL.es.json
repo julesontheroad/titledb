@@ -2408,7 +2408,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/453d17f26995df6bd67d698c90ba2fd27157a61875e1a9730545da23474c6aaf.jpg",
         "intro": "DARK SOULS\u2122: REMASTERED\nPrep\u00e1rate para volver a Lordran",
-        "description": "Vuelve a disfrutar del aclamado juego que defini\u00f3 el g\u00e9nero con el que empez\u00f3 todo. Regresa a Lordran en un ambiente remasterizado con todo cuidado. DARK SOULS: REMASTERED incluye el juego principal y el contenido descargable Artorias of the Abyss. Es el debut de la franquicia en Nintendo y se podr\u00e1 jugar en cualquier lugar con Nintendo Switch.\n\nUn universo profundo y oscuro: sum\u00e9rgete en un universo fant\u00e1stico azotado por la maldici\u00f3n. Explora su complejo dise\u00f1o, lleno de pasajes ocultos, mazmorras y secretos.\n\nCada final es un nuevo comienzo: te sorprender\u00e1s en cada partida con nuevos desaf\u00edos y descubrimientos. \n\nCompleja jugabilidad y posibilidades: usa cientos de armas, armaduras, magia y combinaciones ajustadas a tu estilo y experiencia de juego.\n\nMultijugador (hasta 6 jugadores): sea cual sea tu objetivo al jugar en l\u00ednea (colaboraci\u00f3n o enfrentamiento, ayuda o traici\u00f3n), te sentir\u00e1s como en casa entre los nueve juramentos. ",
+        "description": "Vuelve a disfrutar del aclamado juego que defini\u00f3 el g\u00e9nero con el que empez\u00f3 todo. Regresa a Lordran en un ambiente remasterizado con todo cuidado. DARK SOULS: REMASTERED incluye el juego principal y el contenido descargable Artorias of the Abyss. Es el debut de la franquicia en Nintendo y se podr\u00e1 jugar en cualquier lugar con Nintendo Switch\u2122.\n\nUn universo profundo y oscuro: sum\u00e9rgete en un universo fant\u00e1stico azotado por la maldici\u00f3n. Explora su complejo dise\u00f1o, lleno de pasajes ocultos, mazmorras y secretos.\n\nCada final es un nuevo comienzo: te sorprender\u00e1s en cada partida con nuevos desaf\u00edos y descubrimientos. \n\nCompleja jugabilidad y posibilidades: usa cientos de armas, armaduras, magia y combinaciones ajustadas a tu estilo y experiencia de juego.\n\nMultijugador (hasta 6 jugadores): sea cual sea tu objetivo al jugar en l\u00ednea (colaboraci\u00f3n o enfrentamiento, ayuda o traici\u00f3n), te sentir\u00e1s como en casa entre los nueve juramentos. ",
         "languages": [
             "en",
             "es",
@@ -3330,7 +3330,7 @@
             "zh",
             "zh"
         ],
-        "size": 9035579392
+        "size": 9039773696
     },
     "70010000014081": {
         "id": "0100C9F009F7A000",
@@ -7126,6 +7126,55 @@
             "zh"
         ],
         "size": 16721641472
+    },
+    "70010000029016": {
+        "id": "0100B04011742000",
+        "rightsId": null,
+        "name": "MONSTER HUNTER RISE",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210326,
+        "nsuId": 70010000029016,
+        "category": [
+            "Acci\u00f3n"
+        ],
+        "ratingContent": [
+            "Referencia al alcohol",
+            "Sangre",
+            "Violencia",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/10f565a04c2183b9c9a31365fd7885b991706e7c511e1388d8f1a930504d4edf.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1a2a03fe22db183543ea8c8c96fb48b4524acd16b8d2201eec0931c03d5748d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e2ede299ca4f81feca424858f0ad7d7109e2938e79b1f066c9aad9784e309ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eecc90e96e26b6f62705bd11a82b1aede7f0f114ec6139a8c8994f980b59f84a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d77417414cbb042d8e8243171bcea8c5f879f839d87fb2134d47869236b8f5ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa2016dc15a66c9e150f447c61dcb534cd4a00faa26760da5d79b6c4afde666c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9e4ed9941c43122fff2cb00ef99f0796320ab38875f1273fbca8f6de4c84dcc5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b6ca09e9a7f6faf27641f62dabe64c6ff97b4f326aa478379e3c112aa28eb9ab.jpg",
+        "intro": "\u00a1Preparaos para\nsentir la emoci\u00f3n\ny el desaf\u00edo de la caza!",
+        "description": "Nuevos monstruos. Nuevas habilidades. Nuevos escenarios. \u00a1Una nueva y original forma de cazar monstruos!\n\n\u00a1Coged vuestra Nintendo Switch\u2122 y cazad juntos!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 7675576320
     },
     "70010000029020": {
         "id": "01000A001171A000",
@@ -18310,12 +18359,12 @@
     "70050000020788": {
         "id": "010044500C18300A",
         "rightsId": null,
-        "name": "Civilization VI - Pase de nuevas fronteras",
+        "name": "Sid Meier's Civilization VI - Pack de Portugal",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20221201,
+        "releaseDate": 20210325,
         "nsuId": 70050000020788,
         "category": null,
         "ratingContent": [
@@ -18332,11 +18381,11 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ab9d896c63f8f1b27822c2d25ba093dac740e628a8a2babe777cf71fc7ead115.jpg",
         "intro": null,
-        "description": "Prosigue tu misi\u00f3n de crear el mayor imperio con Civilization VI - Pase de nuevas fronteras, que cuenta con ocho civilizaciones adicionales, nueve l\u00edderes m\u00e1s y gran variedad de contenido, incluidos seis nuevos modos de juego. El Pase de nuevas fronteras entregar\u00e1 seis packs de contenido descargable de manera bimestral entre mayo de 2020 y marzo de 2021, que incluyen:\n\n\u2022 Pack 1: pack de los mayas y la Gran Colombia. A\u00f1ade dos civilizaciones y dos l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s ciudades-estado, recursos y maravillas naturales. Disponible en mayo de 2020.\n\u2022 Pack 2: pack de Etiop\u00eda. A\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional*, un distrito y dos edificios m\u00e1s. Disponible en julio de 2020.\n\u2022 Pack 3: a\u00f1ade dos civilizaciones y l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s maravillas naturales y un mapa nuevo. Disponible en septiembre de 2020.\n\u2022 Pack 4: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s ciudades-estado y numerosos grandes personajes. Disponible en noviembre de 2020.\n\u2022 Pack 5: a\u00f1ade una civilizaci\u00f3n y dos l\u00edderes nuevos**, un modo de juego adicional, un distrito y dos edificios m\u00e1s. Disponible en enero de 2021.\n\u2022 Pack 6: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s maravillas del mundo y un mapa nuevo. Disponible en marzo de 2021. \n\n*Para jugar a este nuevo modo se requiere el lote de expansi\u00f3n de Civilization VI.\n**Para jugar con este l\u00edder nuevo se requiere el lote de expansi\u00f3n de Civilization VI.\n\nLos modos de juego pueden incluir contenido adicional \u2013como nuevas unidades, edificios o mejoras\u2013 y pueden activarse o desactivarse durante la configuraci\u00f3n de la partida para aplicar cambios importantes y de gran impacto en las reglas del juego.\n\nBonificaci\u00f3n exclusiva: packs de personalidades de Teddy Roosevelt y de Catalina de M\u00e9dici. Cada pack de personalidades contiene una aproximaci\u00f3n distinta a un l\u00edder favorito, con nuevos modelos, trasfondos y bonificaciones de juego y una agenda actualizada que refleja los cambios en la personalidad del l\u00edder. Los packs de personalidades est\u00e1n disponibles en exclusiva para quienes tengan el New Frontier Pass y se entregar\u00e1n con el segundo pack de a\u00f1adidos.",
+        "description": "El pack de Portugal introduce a Juan\u00a0III liderando esta naci\u00f3n. Tambi\u00e9n incluye la unidad exclusiva de la Nao, dos edificios exclusivos (la Escuela de navegaci\u00f3n y la Feitoria), otro comando de mapa y dos maravillas del mundo m\u00e1s.\n\n\"Casa da \u00cdndia\", la habilidad exclusiva de Portugal, aumenta de manera significativa los rendimientos de las Rutas comerciales internacionales, pero las limita a las ciudades que tengan costa o puerto. La unidad exclusiva de Portugal, la Nao, es una unidad cuerpo a cuerpo naval que sustituye a la Carabela. Esta empieza con un ascenso gratis, requiere menos mantenimiento que la Carabela y tiene dos cargas para construir Feitorias, que son puertos comerciales especiales exclusivos de la naci\u00f3n lusa.\n\nEl pack de Portugal tambi\u00e9n incluye el nuevo modo de juego Zombis. En este modo de juego opcional, los muertos no se quedan quietos mucho tiempo y presentan una amenaza cada vez mayor para las civilizaciones del mundo.",
         "languages": null,
-        "size": 6291456
+        "size": 455081984
     },
     "70050000020789": {
         "id": "010044500C18300C",
@@ -19595,6 +19644,37 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023082": {
+        "id": "0100B0401174301D",
+        "rightsId": null,
+        "name": "Contenido adicional de bonificaci\u00f3n de MONSTER HUNTER RISE",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210326,
+        "nsuId": 70050000023082,
+        "category": null,
+        "ratingContent": [
+            "Referencia al alcohol",
+            "Sangre",
+            "Violencia",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fcb55b2d288171b4dd65754872324cc940e2b25a861caea1100dd217a1cb6e21.jpg",
+        "intro": "Contenido adicional\nde bonificaci\u00f3n de\nMONSTER HUNTER RISE",
+        "description": "- Armadura superpuesta \u00abgolden retriever\u00bb\n\u00a1Convierte a tu camarada Canyne en un precioso golden retriever! \u00a1Buen chico!\n\n- Armadura superpuesta \u00abgato forestal\u00bb\n\u00a1Convierte a tu camarada en un encantador gato peludo que habita los bosques!\n\n- Talism\u00e1n de principiante\nUn art\u00edculo que te ayudar\u00e1 en los primeros compases de tu aventura.\n\nNota: las armaduras superpuestas son aspectos que solo modifican la apariencia del personaje, sin afectar a sus estad\u00edsticas y habilidades.",
+        "languages": null,
+        "size": 9437184
+    },
     "70050000023109": {
         "id": "01000A001171B005",
         "rightsId": null,
@@ -19622,6 +19702,37 @@
         "description": "Comentarios del juego en portugu\u00e9s (Brasil)\n",
         "languages": null,
         "size": 517996544
+    },
+    "70050000023111": {
+        "id": "0100B04011743024",
+        "rightsId": null,
+        "name": "MONSTER HUNTER RISE Deluxe Kit",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210326,
+        "nsuId": 70050000023111,
+        "category": null,
+        "ratingContent": [
+            "Referencia al alcohol",
+            "Sangre",
+            "Violencia",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/67db2f84ae82b21867537d5fb66b995b90e991e9ed464f9411c017be5528ed98.jpg",
+        "intro": "\u00a1Caza con estilo con\nestos divertidos\nelementos cosm\u00e9ticos!",
+        "description": "    - Set de armadura superpuesta \u00abKamurai\u00bb\n    - Pieza de armadura superpuesta \u00abcollar shuriken\u00bb de camarada Canyne\n    - Pieza de armadura superpuesta \u00abcollar de pez\u00bb de camarada\n    - 4 gestos\n    - Set de poses de samur\u00e1i\n    - Pintura facial \u00abKabuki\u00bb\n    - Peinado \u00abcoleta Izuchi\u00bb",
+        "languages": null,
+        "size": 22020096
     },
     "70050000023139": {
         "id": "01006A800016F03D",
@@ -20072,7 +20183,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20211231,
+        "releaseDate": 20210325,
         "nsuId": 70050000023829,
         "category": null,
         "ratingContent": [
@@ -21899,6 +22010,96 @@
         "languages": null,
         "size": 0
     },
+    "70050000026189": {
+        "id": "0100E1F013675062",
+        "rightsId": null,
+        "name": "Linkin Park - \"Numb\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210325,
+        "nsuId": 70050000026189,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c7d3b01fd6df2486a1fd1f45e9314b2d1a29cc52594cc790a36507cccde0ec3.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abNumb\u00bb de Linkin Park! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 9437184
+    },
+    "70050000026190": {
+        "id": "0100E1F013675063",
+        "rightsId": null,
+        "name": "Martin Garrix - \"Animals\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210325,
+        "nsuId": 70050000026190,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/54b4cfedaa1690fbc79a7f0b8af107d256b39145f44ad53c90a2856241c4ab72.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abAnimals\u00bb de Martin Garrix! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 6291456
+    },
+    "70050000026191": {
+        "id": "0100E1F013675064",
+        "rightsId": null,
+        "name": "Modern English - \"I Melt With You\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210325,
+        "nsuId": 70050000026191,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/858bd429475772097eb953caee27431a49f18773fd3b371efeed4a31c734dc1d.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abI Melt With You\u00bb de Modern English! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 7340032
+    },
     "70070000000041": {
         "id": null,
         "rightsId": null,
@@ -22840,7 +23041,8 @@
             "Sangre",
             "Temas insinuantes",
             "Violencia",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
         "rating": 13,
@@ -23786,7 +23988,7 @@
         "intro": null,
         "description": "Prosigue tu misi\u00f3n de crear el mayor imperio con Civilization VI - Pase de nuevas fronteras, que cuenta con ocho civilizaciones adicionales, nueve l\u00edderes m\u00e1s y gran variedad de contenido, incluidos seis nuevos modos de juego. El Pase de nuevas fronteras entregar\u00e1 seis packs de contenido descargable de manera bimestral entre mayo de 2020 y marzo de 2021, que incluyen:\n\n\u2022 Pack 1: pack de los mayas y la Gran Colombia. A\u00f1ade dos civilizaciones y dos l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s ciudades-estado, recursos y maravillas naturales. Disponible en mayo de 2020.\n\u2022 Pack 2: pack de Etiop\u00eda. A\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional*, un distrito y dos edificios m\u00e1s. Disponible en julio de 2020.\n\u2022 Pack 3: a\u00f1ade dos civilizaciones y l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s maravillas naturales y un mapa nuevo. Disponible en septiembre de 2020.\n\u2022 Pack 4: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s ciudades-estado y numerosos grandes personajes. Disponible en noviembre de 2020.\n\u2022 Pack 5: a\u00f1ade una civilizaci\u00f3n y dos l\u00edderes nuevos**, un modo de juego adicional, un distrito y dos edificios m\u00e1s. Disponible en enero de 2021.\n\u2022 Pack 6: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s maravillas del mundo y un mapa nuevo. Disponible en marzo de 2021. \n\n*Para jugar a este nuevo modo se requiere el lote de expansi\u00f3n de Civilization VI.\n**Para jugar con este l\u00edder nuevo se requiere el lote de expansi\u00f3n de Civilization VI.\n\nLos modos de juego pueden incluir contenido adicional \u2013como nuevas unidades, edificios o mejoras\u2013 y pueden activarse o desactivarse durante la configuraci\u00f3n de la partida para aplicar cambios importantes y de gran impacto en las reglas del juego.\n\nBonificaci\u00f3n exclusiva: packs de personalidades de Teddy Roosevelt y de Catalina de M\u00e9dici. Cada pack de personalidades contiene una aproximaci\u00f3n distinta a un l\u00edder favorito, con nuevos modelos, trasfondos y bonificaciones de juego y una agenda actualizada que refleja los cambios en la personalidad del l\u00edder. Los packs de personalidades est\u00e1n disponibles en exclusiva para quienes tengan el New Frontier Pass y se entregar\u00e1n con el segundo pack de a\u00f1adidos.",
         "languages": null,
-        "size": 2695888896
+        "size": 3144679424
     },
     "70070000010681": {
         "id": null,
@@ -24048,6 +24250,44 @@
         "description": "NBA 2K21 es la nueva entrega de la famosa serie superventas NBA 2K e incluye innovaciones para la pr\u00f3xima generaci\u00f3n, a la vez que sigue siendo una de las principales referencias dentro del g\u00e9nero de videojuegos de deportes en la actual generaci\u00f3n de plataformas.\n \n Gracias a las importantes mejoras realizadas en la jugabilidad, los gr\u00e1ficos, las funciones en l\u00ednea comunitarias y competitivas, y con una gran variedad de modos de juego, NBA 2K21 ofrece una experiencia \u00fanica llena de baloncesto y cultura de la NBA. Donde Este juego lo es todo.\n\nNBA 2K21 Mamba Forever Edition incluye los siguientes objetos digitales:\n \u2022 100 000 VC \n \u2022 10 000 puntos de MyTEAM\n \u2022 10 fichas de MyTEAM\n \u2022 60 potenciadores de habilidades de MyCAREER\n \u2022 40 paquetes Promoci\u00f3n de MyTEAM (10 a fecha de lanzamiento; despu\u00e9s, 3 a la semana)\n \u2022 2 cartas Zafiro de MyTEAM del deportista de portada Standard Edition\n \u2022 Colecci\u00f3n de zapatillas de MyPLAYER\n \u2022 Mochila para MyPLAYER\n \u2022 Colecci\u00f3n digital de Kobe Bryant",
         "languages": null,
         "size": 44482691072
+    },
+    "70070000011160": {
+        "id": null,
+        "rightsId": null,
+        "name": "MONSTER HUNTER RISE Edici\u00f3n Deluxe",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210326,
+        "nsuId": 70070000011160,
+        "category": null,
+        "ratingContent": [
+            "Referencia al alcohol",
+            "Sangre",
+            "Violencia",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1a2a03fe22db183543ea8c8c96fb48b4524acd16b8d2201eec0931c03d5748d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e2ede299ca4f81feca424858f0ad7d7109e2938e79b1f066c9aad9784e309ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eecc90e96e26b6f62705bd11a82b1aede7f0f114ec6139a8c8994f980b59f84a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d77417414cbb042d8e8243171bcea8c5f879f839d87fb2134d47869236b8f5ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa2016dc15a66c9e150f447c61dcb534cd4a00faa26760da5d79b6c4afde666c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9e4ed9941c43122fff2cb00ef99f0796320ab38875f1273fbca8f6de4c84dcc5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/32510344876dd4e305c6e659088894f1ba6891455db8b9f11ba930bdde5f494a.jpg",
+        "intro": "\u00a1Preparaos para\nsentir la emoci\u00f3n\ny el desaf\u00edo de la caza!",
+        "description": "\u00a1Incluye MONSTER HUNTER RISE junto con un pack de fant\u00e1sticos contenidos adicionales!\n\nJuego principal \"MONSTER HUNTER RISE\"\n    - Set de armadura superpuesta para cazador \"Kamurai\"\n    - Pieza de armadura superpuesta para camarada Canyne \"collar shuriken\"\n    - Pieza de armadura superpuesta para camarada \"collar de pez\"\n    - Set de gestos (4 saltos)\n    - Set de poses de samur\u00e1i\n    - Pintura facial \"Kabuki\"\n    - Peinado \"coleta Izuchi\"\n\nNuevos monstruos. Nuevas habilidades. Nuevos escenarios. \u00a1Una nueva y original forma de cazar monstruos!\n\n\u00a1Coged vuestra Nintendo Switch\u2122 y cazad juntos!",
+        "languages": null,
+        "size": 7697596416
     },
     "70070000011195": {
         "id": null,
