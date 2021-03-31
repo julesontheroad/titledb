@@ -2689,12 +2689,16 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a638a8eef2b2e89cc9b5319b33fe819c28b04207bc0685e90e3a8c58bc12502a.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/d17c6079c96eb004604d4b4775959d64b13b141b79fc9cca821566c6a1c524d6.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/bd5b6e0d57d965066d9c8fe2bec00168e94421a47f88ae1eafb67a2501c7ba9f.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/9f41b35f72be8bd6306525901e6f4427c511ada773eacbaf9d225fc651bfb71c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7be061c0bb3d835a39104405f7359bad4c2c93e9899f7aebe76ca55ba11171a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f58dd69fbed9b923ebc9f9a41dd7e6de7f6241044810706f4e102ecab827b3b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb9f7352cb73721a9d4b65aa56394284f900dba5c1eb5a40c630b63b9b4d83f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0bffaadaf01d8c3dfa6797a7bc60709930f3a12ef722a6e5a1c814e96c740d97.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ba0c92b7f0f1bc8851be9db3145fa024b2fe80b0798cdb7409287ae3ecc84446.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9a308b27e65c59210e1c1020c004937b934e27d349318d4c7a6ab9b269b6fbc5.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f41b585452c31720711fa8dd2ed116b95b8f4c107ecc45d96ed19f377555e095.jpg",
         "intro": "Squad up and play the #1 Battle Royale game! ",
-        "description": "Play the Zero Crisis Finale in Fortnite Chapter 2 Season 6: Primal.\n\nJump in to be the last one standing in the free 100-player Battle Royale. Build huge forts. Outwit your opponents. Earn your Victory. Squad up together online with friends in the same room or around the world!\n\n\u2022\tBUILD & DESTROY - Shape the battlefield by building your own cover. Opponent hiding behind a wall? Take out their cover to get the edge.\n\u2022\tGEAR UP - Board the battle bus and drop in on your favorite zone. Gather resources, collect gear, and battle your opponents!\n\u2022\tSQUAD UP WITH FRIENDS - Team up online with your friends around the world or in the same room!\n\u2022\tWEEKLY UPDATES & EVENTS -  Updates constantly fuel the fun with new gameplay modes, outfits, weapons and items.",
+        "description": "Embrace your wild side in Fortnite Chapter 2 Season 6: Primal. In the aftermath of the Zero Crisis, the Zero Point has been contained, but not without collapsing Reality in the process. A mysterious pulse shot from the newly formed Spire restoring a natural balance to the Island. In your fight for survival, traverse primal battlegrounds, hunt Wildlife for food, and craft weapons on the fly. The Island has grown wild. So must you.\n\nJump in to be the last one standing in the free 100-player Battle Royale. Build huge forts. Outwit your opponents. Earn your Victory. Squad up together online with friends in the same room or around the world!\n\n\u2022\tBUILD & DESTROY - Shape the battlefield by building your own cover. Opponent hiding behind a wall? Take out their cover to get the edge.\n\u2022\tGEAR UP - Board the battle bus and drop in on your favorite zone. Gather resources, collect gear, and battle your opponents!\n\u2022\tSQUAD UP WITH FRIENDS - Team up online with your friends around the world or in the same room!\n\u2022\tWEEKLY UPDATES & EVENTS -  Updates constantly fuel the fun with new gameplay modes, outfits, weapons and items.",
         "languages": [
             "ja",
             "en",
@@ -4223,8 +4227,8 @@
         "ratingContent": [
             "Blood",
             "Crude Humor",
-            "Language",
-            "Violence"
+            "Fantasy Violence",
+            "Language"
         ],
         "numberOfPlayers": 1,
         "rating": 13,
@@ -13858,7 +13862,7 @@
         "size": 437256192
     },
     "70050000014581": {
-        "id": "01006A800016F06D",
+        "id": "01006A800016F06C",
         "rightsId": null,
         "name": "Spirit Board Challenge Pack 2 -Challenge Strong Enemies!-",
         "version": null,
@@ -16462,7 +16466,7 @@
         "size": 4194304
     },
     "70050000016732": {
-        "id": "01006A800016F06F",
+        "id": "01006A800016F06E",
         "rightsId": null,
         "name": "Spirit Board Challenge Pack 3 -Bonus 5000 in-game Gold and 3 Classic Tickets -",
         "version": null,
@@ -16493,7 +16497,7 @@
         "size": 8388608
     },
     "70050000016745": {
-        "id": "01006A800016F073",
+        "id": "01006A800016F070",
         "rightsId": null,
         "name": "Spirit Board Challenge Pack 4 -Bolster Your Spirits-",
         "version": null,
@@ -18605,7 +18609,7 @@
         "size": 4194304
     },
     "70050000021146": {
-        "id": "01006A800016F07B",
+        "id": "01006A800016F078",
         "rightsId": null,
         "name": "Spirit Board Challenge Pack 5 -Snipe your Target!-",
         "version": null,
@@ -18636,7 +18640,7 @@
         "size": 20971520
     },
     "70050000021147": {
-        "id": "01006A800016F07D",
+        "id": "01006A800016F07C",
         "rightsId": null,
         "name": "Vault Shopper Set 2 -Classic Tickets and Gold for Music, Mii Costumes, and More-",
         "version": null,
@@ -18667,7 +18671,7 @@
         "size": 8388608
     },
     "70050000021148": {
-        "id": "01006A800016F082",
+        "id": "01006A800016F07E",
         "rightsId": null,
         "name": "Spirit Board Challenge Pack 7 - Challenge Powerful Enemies! -",
         "version": null,
@@ -19645,7 +19649,7 @@
         "size": 4194304
     },
     "70050000023082": {
-        "id": "0100B0401174301D",
+        "id": "0100B04011743012",
         "rightsId": null,
         "name": "MONSTER HUNTER RISE Pre-order bonus Add-on Content",
         "version": null,
@@ -20178,7 +20182,7 @@
     "70050000023829": {
         "id": "01004A600EC0B001",
         "rightsId": null,
-        "name": "IMMORTALS FENYX RISING - Myths of the Eastern Realm",
+        "name": "Immortals Fenyx Rising\u00e2\u201e\u00a2 - DLC 2: Myths of the Eastern Realm",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -20199,10 +20203,17 @@
         "publisher": "Ubisoft",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6016861f9e3ac22a99beea96b2c73582859e3aabf9133e016ec7b479d8e9821a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3801e3bd75056bdb709cca2a212bf7b32b128d7f46af8e0b6a6bde845d122d41.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c892412c8a22bf1d51f59409cc1f4ba4c3c04c377e51021941d85fbe5a8e081.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0bea7c182c2d6bab0093255432f58cb7f68bf8abe4149da9b97ea004c53d0490.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17de54d510fe6a32f509860ea7fdcdad24e68466bde9359ca0cad966d7bd9070.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/335681981f85bdd5c97b3ace1e6b146879418c143dd50dcc79412f84e9766758.jpg"
+        ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/233e88836e07ae64c3b92c5651f548c34ce5d1134fd2c806bd2a26361d48fd53.jpg",
         "intro": null,
-        "description": "Play a brand new story inspired by Chinese mythology, where you'll encounter new gods and fight exotic monsters in a distant land, as a new hero.",
+        "description": "Experience an exciting new tale inspired by Chinese mythology! As Ku, a brave new hero, you must help the goddess Nuwa restore the balance between Heaven and Earth. Encounter legendary Chinese deities, fight exotic monsters, and challenge yourself with unique puzzle mechanics in the quest to save humanity.",
         "languages": null,
         "size": 4126146560
     },
@@ -20545,7 +20556,7 @@
         "size": 3145728
     },
     "70050000024396": {
-        "id": "010073401175F002",
+        "id": "010073401175F001",
         "rightsId": null,
         "name": "Crash Bandicoot\u2122 4 - Totally Tubular Skins",
         "version": null,
