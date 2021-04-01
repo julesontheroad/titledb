@@ -2638,7 +2638,7 @@
         "developer": null,
         "publisher": "Epic Games",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a638a8eef2b2e89cc9b5319b33fe819c28b04207bc0685e90e3a8c58bc12502a.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/aac56ed96a62ad9edadf44417957c5797b80135c82fd93557bc7614d9ada71a7.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/9f41b35f72be8bd6306525901e6f4427c511ada773eacbaf9d225fc651bfb71c.jpg",
             "https://img-eshop.cdn.nintendo.net/i/7be061c0bb3d835a39104405f7359bad4c2c93e9899f7aebe76ca55ba11171a5.jpg",
@@ -2661,7 +2661,7 @@
             "ru",
             "ko"
         ],
-        "size": 12075401216
+        "size": 11832131584
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -2903,7 +2903,7 @@
             "zh",
             "zh"
         ],
-        "size": 15972958208
+        "size": 16148070400
     },
     "70010000012332": {
         "id": "01006A800016E000",
@@ -5738,6 +5738,50 @@
             "zh"
         ],
         "size": 722468864
+    },
+    "70010000022747": {
+        "id": "010038400C2FE000",
+        "rightsId": null,
+        "name": "TY the Tasmanian Tiger\u2122 HD",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210330,
+        "nsuId": 70010000022747,
+        "category": [
+            "Platformer",
+            "Adventure",
+            "Action"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Krome Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7f190e31f6782bd31420187697b527e8799bb2b9fe098716f818e2a064d794a1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3e723c0aba576a194dc1b2e1d381198165ca3b0be3f4ee6f62b92832a382c869.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dc3fc4d16873a2337c917ecab6f8765b194a8f0dd8af9d293d522b37d083c0ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/80a78da73a032ce2d8ce0ad8a2b2aaa863478d47247ae0866ad81e8165dd4f3f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d15262355e3f1ef493e49381d6f76f3d741c7fe9ac2feeedac643b4a109004e5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f6ff11fd3c4239d71a6e04178f7dc098a5943c00bcdad6a0bf5cc004edbf0333.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d7064d6b2af54d534a233567613c16d8c5aeea8ef9673b79828ee9a77a12560.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9a40a6068a2fd0f5aa6ad2ad151432b88bb452be37602d2add7d1d79e60b41fb.jpg",
+        "intro": "G'day, Mate. Explore the wilds of Australia with TY the Tasmanian Tiger, the charming Aussie platformer.",
+        "description": "STONE THE CROWS! Are you ready to explore the wilds of the Australian Outback in this remastered version of the classic game, TY the Tasmanian Tiger?\n\nJoin TY on a RIPPER of an adventure to free his family from the DREAMING and stop the nefarious evil genius BOSS CASS from removing mammals from the top of the food chain. \n\nTo help you on your quest, you've got a BEAUT arsenal of boomerangs, sharp teeth, and the help of a few friends!\n\nSo don\u2019t be a galah - let's head down under, and have a CORKER of a time! BEAUTY, BOTTLER, BONZA!\n\n* Explore 17 levels of the Australian Outback in their old-school 3D platforming glory\n* 13 different boomerangs including the Frostyrang, Flamerang and powerful Doomerang\n* Improved graphics; including updated shadows, reflections, HD resolutions and 60fps\n* New Gamemode called \"Hardcore Mode\"\n* New TY character skins\n* Audio Director's cut\n\n* * * * *\n\nG'day mate! Things can be a bit confusing at times, so let me remind you what's going on... You are TY, the last of the Tasmanian Tigers. Raised by a family of Bilbies, you can only vaguely recall your real parents. You've always thought that all the other Tassie Tigers died a long time ago.\n\nBut then the Bunyip Elder found you, and told you that your family is alive, but trapped in the Dreaming. Now hold your horses... don't get upset... you see they're not stuck there forever, if you're up for a bit of an adventure!\n\nYou see, deep in the Outback, there's this kind of glowy portal thing that is a doorway to the Dreaming. And around that portal there are some carvings in the rock, where five ancient mystical Talismans used to lay. Now, all you have to do is find the five Talismans, put them in the carvings, and the portal to the Dreaming will open!\n\nNow, before you go off like a frog in a sock, there's just this one SMALL problem. You see there's this evil cassowary - Boss Cass - who's also after the Talismans. Yes. THAT Boss Cass. The one that trapped your family in the Dreaming in the first place, and told the school board to remove all the meat pies from the tuck shops. And if you didn't think that made him enough of a megalomaniac, he's ALSO trapped a whole bunch of your Bilby mates in cages all across the outback... something about overdue library books... Anyways, if you want to open the portal, you'll have to beat him and his henchmen to the Talismans!\n\nDon't worry though, you won't be alone! You'll have a bunch of friends to help you along the way, including me - your old mate, Maurie. Now let's get down to brass tacks, find those Talismans, and rescue your family!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 2388656128
     },
     "70010000022886": {
         "id": "0100A9400C9C2000",
@@ -20575,6 +20619,38 @@
         "languages": null,
         "size": 11534336
     },
+    "70050000024708": {
+        "id": null,
+        "rightsId": null,
+        "name": "Swimsanity! - Unleash Pack 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210331,
+        "nsuId": 70050000024708,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Decoy Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3da842264190bb591e63a48a8cf83554f5971f966d71c826b14ee0aabca81604.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2fce9552ce1c9d67c9ebe98b21895abff9793ee1312f0b3d51369f11c6d3481a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1248b9dfe4b54f8ae362927814f5ac3191289ac1e3642d9f3ceaf4065f975c00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94a50b604daa67181cb7fa5a8f782d4b7de824e2ef2337e2a9e4dda2cda84b8d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/73539285716960cd1b667bec1af8623f00b73793e0edbb034ea1afed980d7a20.jpg",
+        "intro": null,
+        "description": "In this Swimsanity! DLC, add to your underwater arsenal with four all new unleashes!\n\nAmmo Bot Unleash\n\nEngage underwater combat with an endless supply of ammo when Mooba uses the Ammo Bot Unleash\n\nRegen Unleash\n\nMooba generates a healing aura around him that slowly regenerates his and other teammates health.\n\nSentry Unleash\n\nThe Sentry Unleash will quickly do work to defend an area of the map.\n\nShock Drone Unleash\n\nCripple your opponents by deploying your own set of Shock Drones to freeze them in place.",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000024754": {
         "id": "0100073011383009",
         "rightsId": null,
@@ -20604,6 +20680,136 @@
         "description": "A new exercise intensity has been added for Hiro! \n\nNow you can try Low, High, and the new No Mercy intensity. The instructor you know as good-natured and mellow will show you his ruthless side. He\u2019s ready to put you through your paces!",
         "languages": null,
         "size": 11534336
+    },
+    "70050000024761": {
+        "id": null,
+        "rightsId": null,
+        "name": "Swimsanity! - Sentry Unleash",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210331,
+        "nsuId": 70050000024761,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Decoy Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/09f123776564fc5397e88ed1b7400ded8d09eceaf1c8e2cb461da85a753bfcba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b09851146651b4f0f5ef483091a402a4ded1fdfea89328dde5296daa334186e6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94a50b604daa67181cb7fa5a8f782d4b7de824e2ef2337e2a9e4dda2cda84b8d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c1e732cbe0168e79e0c7aeb2b7226773ba225698f4887203dce0728aab7d984a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2acb8d28521b85554fec12d383abce905ca165b4a11cf3821bb6b64550578cc1.jpg",
+        "intro": null,
+        "description": "Sentry Unleash\n\nIn this Swimsanity! DLC, The Sentry Unleash will quickly do work to defend an area of the map.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000024762": {
+        "id": null,
+        "rightsId": null,
+        "name": "Swimsanity! - Shock Drones Unleash",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210331,
+        "nsuId": 70050000024762,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Decoy Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/297aa5c613634227e0c0504390be129c20789782a21c0aaa6d3324d74d3ecb18.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3395841316a1f7feadbb7f94d1e7a19f1db8094c5241eab8b43857b45121f8c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ffbc0117856121f7cbea6881c753996bd39cc5c2b1b78127e340fe075f6bdd2c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78b4e3b4bbd42a437d7a211dec141e9473b5af6ebe89b5266873672b6ab75b5d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1248b9dfe4b54f8ae362927814f5ac3191289ac1e3642d9f3ceaf4065f975c00.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4dc2b9d052c8b069ecd6e1fad6ca2dd18f3861d43908b9e00f5afbdec39e19d9.jpg",
+        "intro": null,
+        "description": "Shock Drones Unleash\n\nIn this Swimsanity! DLC, cripple your opponents by deploying your own set of Shock Drones to freeze them in place.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000024763": {
+        "id": null,
+        "rightsId": null,
+        "name": "Swimsanity! - Regen Unleash",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210331,
+        "nsuId": 70050000024763,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Decoy Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/29bbf4e968e862b1af19ec34eda428b6af49f03213daf2fca4c0689f38c7d186.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa43f3f728afda97478fb5fc1a52fe7d8853f5e5611d190b6a2e575fd02afe73.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/617d838b120de5b5aaeba9890c588a0f4c6c6664e100feb254b9d18c94e9d4e5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2fce9552ce1c9d67c9ebe98b21895abff9793ee1312f0b3d51369f11c6d3481a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5c7414cb48fbeb1a4d5c8d9a8e04dab180114e0cd41c32288d4a766707959015.jpg",
+        "intro": null,
+        "description": "Regen Unleash\n\nIn this Swimsanity! DLC, Mooba generates a healing aura around him that slowly regenerates his and other teammates health.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000024764": {
+        "id": null,
+        "rightsId": null,
+        "name": "Swimsanity! - AmmoBot Unleash",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210331,
+        "nsuId": 70050000024764,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Decoy Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8d4698479e128e7ed41ce2330c5ac3fb937964d955c7b1b1b2005126af883d1f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8fcea9e54a49880df962411606816bd1a469c4c7ded4d073fc74c60e9e68cfa0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/36c96c02bcdedc7f652d362867e470a58f39376711467dd62f244bc339051112.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/59bd88563f9d0920cbeaa29736c686862982c18c0a20f73a81e1f1dd721d94ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6619a904f1751e96802e8f7e1754fc75ac57db23a4d5a4e637c0d9aad4194c95.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25b270e55e17005acf54610594d05944bb616bb36aa8767c0e3f24469e129cc1.jpg",
+        "intro": null,
+        "description": "Ammo Bot Unleash\n\nIn this Swimsanity! DLC, Engage underwater combat with an endless supply of ammo when Mooba uses the Ammo Bot Unleash",
+        "languages": null,
+        "size": 3145728
     },
     "70050000024784": {
         "id": "0100C4C00E73F002",
