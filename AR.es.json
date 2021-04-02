@@ -929,10 +929,10 @@
             "Plataformas"
         ],
         "ratingContent": [
-            "Sangre",
+            "Derramamiento de sangre",
             "Referencia a drogas",
             "Lenguaje",
-            "Uso de Alcohol y Tabaco",
+            "Temas insinuantes",
             "Violencia"
         ],
         "numberOfPlayers": 2,
@@ -20781,7 +20781,7 @@
         "size": 11534336
     },
     "70050000024708": {
-        "id": null,
+        "id": "010049D00C8B1001",
         "rightsId": null,
         "name": "Swimsanity! - Paquete de despliegues 1",
         "version": null,
@@ -20843,7 +20843,7 @@
         "size": 11534336
     },
     "70050000024761": {
-        "id": null,
+        "id": "010049D00C8B1004",
         "rightsId": null,
         "name": "\u00a1Swimsanity! - Despliegue Centinela",
         "version": null,
@@ -20875,7 +20875,7 @@
         "size": 3145728
     },
     "70050000024762": {
-        "id": null,
+        "id": "010049D00C8B1003",
         "rightsId": null,
         "name": "\u00a1Swimsanity! - Despliegue Drones El\u00e9ctricos",
         "version": null,
@@ -20908,7 +20908,7 @@
         "size": 3145728
     },
     "70050000024763": {
-        "id": null,
+        "id": "010049D00C8B1005",
         "rightsId": null,
         "name": "\u00a1Swimsanity! - Despliegue Regeneraci\u00f3n",
         "version": null,
@@ -20940,7 +20940,7 @@
         "size": 3145728
     },
     "70050000024764": {
-        "id": null,
+        "id": "010049D00C8B1002",
         "rightsId": null,
         "name": "Swimsanity! - Despliegue Bot De Munici\u00f3n",
         "version": null,

@@ -929,10 +929,10 @@
             "Platformer"
         ],
         "ratingContent": [
-            "Blood",
+            "Blood and Gore",
             "Drug Reference",
             "Language",
-            "Use of Alcohol and Tobacco",
+            "Suggestive Themes",
             "Violence"
         ],
         "numberOfPlayers": 2,
@@ -20781,7 +20781,7 @@
         "size": 11534336
     },
     "70050000024708": {
-        "id": null,
+        "id": "010049D00C8B1001",
         "rightsId": null,
         "name": "Swimsanity! - Unleash Pack 1",
         "version": null,
@@ -20843,7 +20843,7 @@
         "size": 11534336
     },
     "70050000024761": {
-        "id": null,
+        "id": "010049D00C8B1004",
         "rightsId": null,
         "name": "Swimsanity! - Sentry Unleash",
         "version": null,
@@ -20875,7 +20875,7 @@
         "size": 3145728
     },
     "70050000024762": {
-        "id": null,
+        "id": "010049D00C8B1003",
         "rightsId": null,
         "name": "Swimsanity! - Shock Drones Unleash",
         "version": null,
@@ -20908,7 +20908,7 @@
         "size": 3145728
     },
     "70050000024763": {
-        "id": null,
+        "id": "010049D00C8B1005",
         "rightsId": null,
         "name": "Swimsanity! - Regen Unleash",
         "version": null,
@@ -20940,7 +20940,7 @@
         "size": 3145728
     },
     "70050000024764": {
-        "id": null,
+        "id": "010049D00C8B1002",
         "rightsId": null,
         "name": "Swimsanity! - AmmoBot Unleash",
         "version": null,
