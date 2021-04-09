@@ -7901,7 +7901,7 @@
             "zh",
             "zh"
         ],
-        "size": 2848980992
+        "size": 2852126720
     },
     "70010000030996": {
         "id": "01002120116C4000",
@@ -8384,6 +8384,59 @@
             "it"
         ],
         "size": 6687817728
+    },
+    "70010000035711": {
+        "id": "01003370136EA000",
+        "rightsId": null,
+        "name": "Cozy Grove",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210408,
+        "nsuId": 70010000035711,
+        "category": [
+            "Simulaci\u00f3n",
+            "Aventura",
+            "Estilo de vida",
+            "Rompecabezas"
+        ],
+        "ratingContent": [
+            "Referencia al alcohol",
+            "Humor vulgar"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "The Quantum Astrophysicists Guild",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d2bd6b9faa8cd1910a0e851fb77731a86408c2f6070de43a7723ec9efe9378b5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c5b9d717494a828c0cc0a697ad034fac18ef3e46f40df77ef9b1be6d2f9a4932.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52c7b7c2376db0731fb78c42a9b2780af9c68c174b73fef014e99656bdb79391.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4008062eac5bbf2c0476292342f6a3ca2ff598b9428d93acba7f0d76bfa77a63.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7e92a0d295657e82268d2539d923b9a38e9fb04b4495232a61642a62dd8889c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f0724ae55299e344e4368e65501b019b5c60d06b3ab961239d0c37f4df466838.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/99d41df44fc942b8bb4ce78347d01e941ce7d968f605ed8003bfa4f9747ab755.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6b3effd905f39421cb3fcb7d9623f8c7584e26417027e9405da371e5bd17a9fa.jpg",
+        "intro": "El paisaje te hace venir, pero los amigos hacen que te quedes.",
+        "description": "Vente a Cozy Grove y disfruta del d\u00eda a d\u00eda acampando en esta isla encantada. Pasea por el bosque, descubre sus secretos y ayuda a tus vecinos los fantasmas. \u00a1Demuestra tus dotes de bricolaje y cumple tus funciones de scout espectral para devolverle el color y la alegr\u00eda a Cozy Grove!\n\nIncluye:\n\u2022 Preciosos paisajes din\u00e1micos dibujados a mano que cobran vida cuando ayudas a un fantasma en apuros.\n\u2022 Gran cantidad de personajes y esp\u00edritus. Encu\u00e9ntralos a todos y haceos amigos. Cada esp\u00edritu tiene una profunda historia que ir\u00e1s descubriendo con el tiempo.\n\u2022 Colecciona animales espectrales, decora, pesca \u00a1y mucho m\u00e1s!\n\u2022 Tendr\u00e1s entretenimiento durante meses mientras vas explorando la historia y decorando la isla.\n",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "pt",
+            "es",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 894435328
     },
     "70010000035838": {
         "id": "0100A12011CC8000",
