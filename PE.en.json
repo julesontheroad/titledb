@@ -7310,7 +7310,7 @@
             "it",
             "ru"
         ],
-        "size": 11049893888
+        "size": 11053039616
     },
     "70010000029278": {
         "id": "010029B0118E8000",
@@ -8566,7 +8566,7 @@
         "size": 2718957568
     },
     "70010000037989": {
-        "id": null,
+        "id": "0100F4300BF2C000",
         "rightsId": null,
         "name": "New Pok\u00e9mon Snap\u2122",
         "version": null,
@@ -8586,7 +8586,7 @@
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
-        "iconUrl": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/961f7e70e919bb9300c64d90e9e0ff3beb2d9128ce0d5137968e776fd8c2ec38.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/cc288ea752072c29ecd340ad04650694099b08dac54daab8030058c0f121a0a2.jpg",
             "https://img-eshop.cdn.nintendo.net/i/5baa1a8ba0ad2db72621d47a41a624ca6a931f34e5d65dad0f2c2279e8dc425f.jpg",
@@ -8609,7 +8609,7 @@
             "zh",
             "zh"
         ],
-        "size": 0
+        "size": 6272581632
     },
     "70010000038617": {
         "id": null,
@@ -22429,6 +22429,66 @@
         "description": "Expand your FUSER\u2122 library with \"Dancing's Not A Crime\" by Panic! At The Disco! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
         "languages": null,
         "size": 11534336
+    },
+    "70050000026292": {
+        "id": "0100E1F013675067",
+        "rightsId": null,
+        "name": "Winnage - \"The Night Porter\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210408,
+        "nsuId": 70050000026292,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/814100228eb4b948c6c96311e18ad89bcdb3d6857fe2a19fbde7cd456c0abb95.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"The Night Porter\" by Winnage! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 9437184
+    },
+    "70050000026293": {
+        "id": "0100E1F013675068",
+        "rightsId": null,
+        "name": "La Guerra Naranja - \"Una Noche M\u00e1s\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210408,
+        "nsuId": 70050000026293,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2cc0861364fd7c44d3cf9418ca5cc4187aabf7f2d5613127d60b465688c2440e.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"Una Noche M\u00e1s\" by La Guerra Naranja! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 8388608
     },
     "70070000000041": {
         "id": null,
