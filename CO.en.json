@@ -8588,7 +8588,7 @@
         "size": 0
     },
     "70010000039214": {
-        "id": null,
+        "id": "0100D670126F6000",
         "rightsId": null,
         "name": "Famicom Detective Club\u2122: The Girl Who Stands Behind",
         "version": null,
@@ -8611,7 +8611,7 @@
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
-        "iconUrl": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5e7e54e6200c545d486e6a9c181af4ae9a0600d9a200bc4588286443c3ed41ae.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/cbff523dbceeb55cd513e948f4b5b70bfbe5f6d4b3571416e2f05e48914f90dc.jpg",
             "https://img-eshop.cdn.nintendo.net/i/c4824ad6d52da53e61bdc7f9f588660fda2dccfc1be52396f9f0506a4852f8b7.jpg",
@@ -8626,7 +8626,7 @@
         "languages": [
             "en"
         ],
-        "size": 0
+        "size": 2080374784
     },
     "70010000039215": {
         "id": null,
