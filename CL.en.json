@@ -2580,7 +2580,8 @@
             "Mild Blood",
             "Mild Suggestive Themes",
             "Violence",
-            "Users Interact"
+            "Users Interact",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": 4,
         "rating": 13,
@@ -2597,7 +2598,7 @@
             "https://img-eshop.cdn.nintendo.net/i/b3d4cc8faa8beb68953b9c6fc7fc6d948a448d3b910f5b3687190239a43745be.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a746d6ebc71bd10eb74ded9afb4ac96b8a795268e9ad47bda982c82190404b0a.jpg",
-        "intro": "Assemble your dream team of Marvel Super Heroes ",
+        "intro": "Assemble your ultimate team of Marvel Super Heroes ",
         "description": "The MARVEL ULTIMATE ALLIANCE series returns for the first time in 10 years\u2014with a new action RPG\u2014exclusively on the Nintendo Switch\u2122 system! Assemble your ultimate team of Marvel Super Heroes from a huge cast including the Avengers, the Guardians of the Galaxy, the X-Men, and more! Team up with friends to prevent galactic devastation at the hands of the mad cosmic tyrant Thanos and his ruthless warmasters, The Black Order.\n\nIn this new storyline, heroes and villains unite in a race across the Marvel Universe to find the Infinity Stones before Thanos and The Black Order use them to unleash cosmic chaos. From Avengers Tower to the X-Mansion and beyond, every stop on the dangerous quest to thwart Thanos results in unexpected collisions of fan-favorite characters and iconic locations. Get closer to the action by shifting the view to an over-the-shoulder \u201cHeroic Camera\u201d perspective\u2014a series first that offers a more immersive way to play single-player or multiplayer on up to four systems. Play online*, offline via local wireless, or simply pass a Joy-Con controller to a friend, so they can join your team. With another pair of Joy-Con\u2122 controllers (sold separately), four players can team up on one system! The drop-in/drop-out co-op possibilities let players create their own \u201cUltimate Alliance\u201d at will.\n",
         "languages": [
             "ja",
@@ -2607,9 +2608,10 @@
             "de",
             "it",
             "ko",
+            "zh",
             "zh"
         ],
-        "size": 14235467776
+        "size": 19169017856
     },
     "70010000010137": {
         "id": "010075600AE96000",
@@ -2657,6 +2659,7 @@
             "nl",
             "ru",
             "ko",
+            "zh",
             "zh"
         ],
         "size": 8071938048
@@ -3185,7 +3188,7 @@
             "fr",
             "pt"
         ],
-        "size": 150994944
+        "size": 145752064
     },
     "70010000013359": {
         "id": "0100A4400BE74000",
@@ -13160,7 +13163,7 @@
     "70050000012570": {
         "id": "010042000A98700E",
         "rightsId": null,
-        "name": "Designer\u2019s Sunglasses",
+        "name": "Designer\u00e2\u20ac\u2122s Sunglasses",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -13220,6 +13223,42 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f531dfbca8d73375d13c6e5fa7d9e67678c8980dac6e5469b7a092bfc6fdf19f.jpg",
         "intro": null,
         "description": "Receive the following in-game items when you purchase DRAGON QUEST BUILDERS 2 + Season Pass Bundle: \nstackable slime",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000012782": {
+        "id": "010060700AC51001",
+        "rightsId": null,
+        "name": "MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190611,
+        "nsuId": 70050000012782,
+        "category": null,
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Suggestive Themes",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4f9e497849dc54ac9c2d412006adb3609125b9f97a8526a32705f24db9b86860.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69a5ed1a5f0838abc08f105914f9435f8f59fcab0de09b2273e418d51cbbe334.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/99815c4b4aa8aaa39f0289237c2368f1c9028f2df21c6e313b8b5dce61c324e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7439abeb80b2f951358981fae944f3823e4b3e3b830b7c92263b33a7548c344d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/89e9dd512a4428f0ac7c93b4b974c1f0914f48d0dc5e98a2f8c1947a023d2dbb.jpg",
+        "intro": "The Fantastic Four join the alliance!",
+        "description": "Expand your adventure and roster of playable characters in the MARVEL ULTIMATE ALLIANCE 3: The Black Order game with the paid Expansion Pass, which grants access to three exclusive DLC packs that will become available as they release one at a time after the game\u2019s launch and will not be available for individual purchase. \n\n\u25a0DLC 1 \u2013 Marvel Knights: Curse of the Vampire\n\nPrepare to step into the boots of Punisher, Blade, Moon Knight, and Morbius\u2014the Marvel Knights are joining the alliance! These playable characters are part of DLC Pack 1 included with the MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass*, which also includes a new mode! \n\nIn Gauntlet Mode, up to four players** take on a frenzied series of co-op challenges in rapid succession to earn rewards. Once you\u2019ve cleared a Gauntlet, you\u2019ll unlock a survival-style version of it with ongoing waves of challenges. Find out how long you can last and see how your score stacks up with online*** rankings!  \n\n\n\u25a0DLC 2 \u2013 X-Men: Rise of the Phoenix\n\nDark Phoenix, the infinitely powerful cosmic entity from one of the X-Men's greatest sagas, unleashes an era of fiery destruction! Four more X-Men join the alliance\u2014Phoenix, Gambit, Ice Man, and Cable\u2014 with the purchase of the MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass. \n\nCompete against friends and foes in the newly added Danger Room mode! Players compete to see who can take down enemies while being barraged by buffs and debuffs.\nw\n\n\u25a0DLC 3 - Fantastic Four: Shadow of Doom\n\nMarvel\u2019s First Family, the Fantastic Four\u2014Mr. Fantastic, Invisible Woman, Human Torch, and The Thing\u2014join the alliance with the purchase of the MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass. \n\nHead to the kingdom of Latveria in an added storyline that pits your team of Marvel Super Heroes against the man in the iron mask himself, Doctor Doom. \n\n",
         "languages": null,
         "size": 4194304
     },
@@ -23104,7 +23143,7 @@
         "intro": null,
         "description": "Mortal Kombat\u00a011 is the latest installment in the critically acclaimed franchise, providing a deeper and more personalized experience than ever before. The all new Custom Character Variations give you unprecedented control of your fighters to make them your own.\n\nThe Mortal Kombat\u00a011 Premium Edition includes:\n\u2022 Main Game\n\u2022 Kombat Pack\n\nThe Kombat Pack includes:\n\u2022 6 new add-on playable characters including Shang Tsung, Nightwolf, Terminator T-800, Sindel, The Joker and Spawn\n\u2022 1 week early access to all add-on characters\n\u2022 Skins & gear sets with each add-on character\n\u2022 6 themed skin packs including the Klassic Arcade Ninjas, Klassic Arcade Fighters and more",
         "languages": null,
-        "size": 27031240704
+        "size": 34950086656
     },
     "70070000005704": {
         "id": null,
@@ -23512,9 +23551,9 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd0574de767610a9baed6a7a2b3043644f57b3564822ebc10c43644010126bf1.jpg",
         "intro": "The Future Is Now.\u00a0 Are You With Us?",
-        "description": "Overwatch: Legendary Edition includes:\n\u2022\tRedeemable code for Nintendo Switch Online Individual Membership 3-month subscription (Terms apply. nintendo.com/switch-online)\n\u2022\tThe full game\n\u2022\t5 Legendary Hero Skins\n\u2022\t5 Epic Hero Skins\n\u2022\t5 Origin Hero Skins\n\nUnlock a Golden Loot Box\nPurchase and log into Overwatch on Nintendo Switch by December 31, 2019 to unlock a Golden Loot Box with at least 1 guaranteed Legendary item!\n\nBegin your Watch\nJoin the fight for the future in the world of Overwatch\u00ae and choose your hero from a diverse cast of soldiers, scientists, adventurers, and oddities. Bend time, defy physics, and unleash a dizzying array of extraordinary powers and weapons. Engage your enemies in iconic locations from around the globe in the ultimate team-based shooter.\n\nExperience the Extraordinary\nSpeed up and slow down time. Rain destruction from above in an experimental, jet-powered armor suit. Stalk your prey as a wraith-like assassin that can appear anywhere, anytime. Unleash powers such as Dragonstrike, Transcendence, Graviton Surge, and so much more. Every hero has a unique set of devastating, game-changing abilities.\n\nPlay Heroes, Not Classes\nEvery hero has a unique perspective on the battlefield and a story behind how they arrived there. You are a champion of a bygone age wielding his punishing rocket hammer in the service of honor, a robotic monk committed to healing the rifts between man and machine, a genetically engineered gorilla who also happens to be a brilliant scientist, and many, many more.\n\nFight for the Future...Together\nTeamwork is imperative for survival as you enter the fight with friends and comrades. Careful coordination will prove the difference between victory and defeat as your team combines the formidable powers at your disposal to devastating effect.\n\nShift Your Perspective\nJust when it seems like your team is destined to go down in defeat, switch heroes on the fly and change the course of the battle. But don\u2019t forget that your opponents can do the same. Master the game within the game as both teams shift strategies and change heroes to try to gain the upper hand.\n\nThe World Is Your Battlefield\nProtect the secrets of the mysterious Temple of Anubis in Egypt, safely escort an EMP device through King\u2019s Row in London, and do battle at many other unique locations. Every map has its own distinct feel with unique gameplay and team-based objectives.",
+        "description": "Overwatch: Legendary Edition includes:\n\u2022\tRedeemable code for Nintendo Switch Online Individual Membership 3-month subscription (Terms apply. nintendo.com/switch-online)\n\u2022\tThe full game\n\u2022\t5 Legendary Hero Skins\n\u2022\t5 Epic Hero Skins\n\u2022\t5 Origin Hero Skins\n\nBegin your Watch\nJoin the fight for the future in the world of Overwatch\u00ae and choose your hero from a diverse cast of soldiers, scientists, adventurers, and oddities. Bend time, defy physics, and unleash a dizzying array of extraordinary powers and weapons. Engage your enemies in iconic locations from around the globe in the ultimate team-based shooter.\n\nExperience the Extraordinary\nSpeed up and slow down time. Rain destruction from above in an experimental, jet-powered armor suit. Stalk your prey as a wraith-like assassin that can appear anywhere, anytime. Unleash powers such as Dragonstrike, Transcendence, Graviton Surge, and so much more. Every hero has a unique set of devastating, game-changing abilities.\n\nPlay Heroes, Not Classes\nEvery hero has a unique perspective on the battlefield and a story behind how they arrived there. You are a champion of a bygone age wielding his punishing rocket hammer in the service of honor, a robotic monk committed to healing the rifts between man and machine, a genetically engineered gorilla who also happens to be a brilliant scientist, and many, many more.\n\nFight for the Future...Together\nTeamwork is imperative for survival as you enter the fight with friends and comrades. Careful coordination will prove the difference between victory and defeat as your team combines the formidable powers at your disposal to devastating effect.\n\nShift Your Perspective\nJust when it seems like your team is destined to go down in defeat, switch heroes on the fly and change the course of the battle. But don\u2019t forget that your opponents can do the same. Master the game within the game as both teams shift strategies and change heroes to try to gain the upper hand.\n\nThe World Is Your Battlefield\nProtect the secrets of the mysterious Temple of Anubis in Egypt, safely escort an EMP device through King\u2019s Row in London, and do battle at many other unique locations. Every map has its own distinct feel with unique gameplay and team-based objectives.",
         "languages": null,
-        "size": 11792285696
+        "size": 13175357440
     },
     "70070000007201": {
         "id": null,
@@ -24215,7 +24254,7 @@
         "intro": null,
         "description": "Incl. Mortal Kombat\u00a011, Kombat Pack and MK11: Aftermath. \n\nIn the original MK11 cinematic story, take on the role of Earthrealm's protectors as a menacing new foe bends the forces of time, threatening to turn the tide and rewrite their own dark history. Aftermath kontinues the critically acclaimed storyline in an all-new adventure. Fragile alliances are tested and the fate of two worlds hang in the balance. Now is the time to forge a new history. \n\n\u2022 Experience the original MK11 story and Aftermath, the brand new story conclusion\n\u2022 Play as the entire 34-character MK11 roster incl. new fighters Sheeva & Fujin\n\u2022 Includes RoboCop, Terminator, Spawn & The Joker \n\u2022 All-New Krushing Blows, Friendships & Iconic Fatalities\n\u2022 Brand-New Stages & Stage Fatalities\n\u2022 Custom Character Variation System",
         "languages": null,
-        "size": 33800847360
+        "size": 34971058176
     },
     "70070000010161": {
         "id": null,

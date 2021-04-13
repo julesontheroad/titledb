@@ -2580,7 +2580,8 @@
             "Bajo contenido de sangre",
             "Temas insinuantes moderados",
             "Violencia",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": 4,
         "rating": 13,
@@ -2598,7 +2599,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a746d6ebc71bd10eb74ded9afb4ac96b8a795268e9ad47bda982c82190404b0a.jpg",
         "intro": "Re\u00fane al equipo perfecto de superh\u00e9roes de Marvel ",
-        "description": "La serie MARVEL ULTIMATE ALLIANCE est\u00e1 de regreso despu\u00e9s de 10 a\u00f1os, con nueva acci\u00f3n de juego de rol y \u00a1exclusivamente para la consola Nintendo Switch! \u00a1Re\u00fane a tu equipo de h\u00e9roes de Marvel con un enorme elenco de personajes que incluye h\u00e9roes de Avengers, Guardians of the Galaxy, X-Men y m\u00e1s! Haz equipo con tus amigos para evitar una devastaci\u00f3n gal\u00e1ctica a manos del tirano c\u00f3smico Thanos y sus seguidores: The Black Order.\n\nEn esta nueva historia los h\u00e9roes y los villanos se unen en una carrera a trav\u00e9s del universo de Marvel para encontrar las Gemas del infinito antes de que Thanos y The Black Order las utilicen para desatar un caos c\u00f3smico. Desde la Torre de los Avengers hasta la Mansi\u00f3n Xavier y m\u00e1s all\u00e1, cada parada en esta peligrosa misi\u00f3n por detener a Thanos resultar\u00e1 en inesperadas uniones de personajes favoritos e ic\u00f3nicas locaciones. Acercarte m\u00e1s a la acci\u00f3n al cambiar la vista a una perspectiva desde el hombro, una nueva funci\u00f3n para la serie que ofrece una forma de jugar m\u00e1s inmersiva, para un solo jugador o en el modo multijugador con hasta cuatro consolas. Juega en l\u00ednea*, sin internet a trav\u00e9s de la comunicaci\u00f3n local o simplemente comparte el control Joy-Con con un amigo para que se una a la aventura. \u00a1Con otro par de controles Joy-ConTM (se venden por separado) cuatro jugadores pueden formar un equipo en una sola consola! La posibilidad de unirse o abandonar permite que los jugadores creen la mejor alianza.",
+        "description": "La serie MARVEL ULTIMATE ALLIANCE est\u00e1 de regreso despu\u00e9s de 10 a\u00f1os, con nueva acci\u00f3n de juego de rol y \u00a1exclusivamente para la consola Nintendo Switch! \u00a1Re\u00fane a tu equipo de h\u00e9roes de Marvel con un enorme elenco de personajes que incluye h\u00e9roes de Avengers, Guardians of the Galaxy, X-Men y m\u00e1s! Haz equipo con tus amigos para evitar una devastaci\u00f3n gal\u00e1ctica a manos del tirano c\u00f3smico Thanos y sus seguidores: The Black Order.\n\nEn esta nueva historia los h\u00e9roes y los villanos se unen en una carrera a trav\u00e9s del universo de Marvel para encontrar las Gemas del infinito antes de que Thanos y The Black Order las utilicen para desatar un caos c\u00f3smico. Desde la Torre de los Avengers hasta la Mansi\u00f3n Xavier y m\u00e1s all\u00e1, cada parada en esta peligrosa misi\u00f3n por detener a Thanos resultar\u00e1 en inesperadas uniones de personajes favoritos e ic\u00f3nicas locaciones. Acercarte m\u00e1s a la acci\u00f3n al cambiar la vista a una perspectiva desde el hombro, una nueva funci\u00f3n para la serie que ofrece una forma de jugar m\u00e1s inmersiva, para un solo jugador o en el modo multijugador con hasta cuatro consolas. Juega en l\u00ednea*, sin internet a trav\u00e9s de la comunicaci\u00f3n local o simplemente comparte el control Joy-Con con un amigo para que se una a la aventura. \u00a1Con otro par de controles Joy-Con\u2122 (se venden por separado) cuatro jugadores pueden formar un equipo en una sola consola! La posibilidad de unirse o abandonar permite que los jugadores creen la mejor alianza.",
         "languages": [
             "ja",
             "en",
@@ -2607,9 +2608,10 @@
             "de",
             "it",
             "ko",
+            "zh",
             "zh"
         ],
-        "size": 14235467776
+        "size": 19169017856
     },
     "70010000010137": {
         "id": "010075600AE96000",
@@ -2657,6 +2659,7 @@
             "nl",
             "ru",
             "ko",
+            "zh",
             "zh"
         ],
         "size": 8071938048
@@ -3185,7 +3188,7 @@
             "fr",
             "pt"
         ],
-        "size": 150994944
+        "size": 145752064
     },
     "70010000013359": {
         "id": "0100A4400BE74000",
@@ -9192,7 +9195,7 @@
             "Desnudez",
             "Lenguaje fuerte",
             "Temas insinuantes",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00c3\u00b3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 17,
@@ -9252,7 +9255,7 @@
             "Derramamiento de sangre",
             "Violencia intensa",
             "Lenguaje fuerte",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00c3\u00b3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 17,
@@ -10144,7 +10147,7 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6476befca45bb60089f2c592d8c41986c3e0d40a2a06514ccd6ba4763f7d8927.jpg",
         "intro": null,
-        "description": "Modo desaf\u00edo",
+        "description": "Modo desaf\u00c3\u00ado",
         "languages": null,
         "size": 487587840
     },
@@ -13010,7 +13013,7 @@
             "Bajo contenido de sangre",
             "Lenguaje moderado",
             "Temas insinuantes",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00c3\u00b3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -13043,7 +13046,7 @@
             "Bajo contenido de sangre",
             "Lenguaje moderado",
             "Temas insinuantes",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00c3\u00b3n de usuarios"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -13220,6 +13223,42 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f531dfbca8d73375d13c6e5fa7d9e67678c8980dac6e5469b7a092bfc6fdf19f.jpg",
         "intro": null,
         "description": "Recibe los siguientes art\u00edculos en el juego al precomprar el DRAGON QUEST BUILDERS 2 + Season Pass Bundle:\nlimo apilable",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000012782": {
+        "id": "010060700AC51001",
+        "rightsId": null,
+        "name": "MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190611,
+        "nsuId": 70050000012782,
+        "category": null,
+        "ratingContent": [
+            "Bajo contenido de sangre",
+            "Temas insinuantes moderados",
+            "Violencia",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4f9e497849dc54ac9c2d412006adb3609125b9f97a8526a32705f24db9b86860.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69a5ed1a5f0838abc08f105914f9435f8f59fcab0de09b2273e418d51cbbe334.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/99815c4b4aa8aaa39f0289237c2368f1c9028f2df21c6e313b8b5dce61c324e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7439abeb80b2f951358981fae944f3823e4b3e3b830b7c92263b33a7548c344d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/89e9dd512a4428f0ac7c93b4b974c1f0914f48d0dc5e98a2f8c1947a023d2dbb.jpg",
+        "intro": "\u00a1Los Cuatro Fant\u00e1sticos se unen a la alianza!",
+        "description": "Expande la aventura y la lista de personajes jugables con el pase de expansi\u00f3n del juego MARVEL ULTIMATE ALLIANCE 3: The Black Order, el cual te brinda acceso a tres paquetes de contenido descargable exclusivos que estar\u00e1n disponibles uno a uno despu\u00e9s del lanzamiento del juego. (No estar\u00e1n a la venta de forma individual). \n\n\u25a0Contenido descargable 1 \u2013 Marvel Knights: Curse of the Vampire\n\nPrep\u00e1rate para ponerte en los zapatos de Blade, Caballero Luna, Morbius y Punisher, \u00a1los Marvel Knights est\u00e1n listos para unirse a la alianza! Estos personajes jugables son parte del primer contenido que forma parte del pase de expansi\u00f3n* de MARVEL ULTIMATE ALLIANCE 3: The Black Order, \u00a1el cual incluye un nuevo modo! \n\nEn el modo supervivencia, hasta cuatro jugadores** se enfrentar\u00e1n a una serie de desaf\u00edos cooperativos sucesivos para conseguir recompensas. Una vez que hayan completado un desaf\u00edo, se desbloquear\u00e1 una versi\u00f3n al estilo de supervivencia con m\u00faltiples desaf\u00edos continuos. \u00a1Descubre por cu\u00e1nto lo lograr\u00e1s y mira c\u00f3mo se acumulan tus puntuaciones en las clasificaciones en l\u00ednea***! \n\n\n\u25a0Contenido descargable 2 \u2013 X-Men: Rise of the Phoenix\n\nF\u00e9nix Oscura, la entidad c\u00f3smica con poderes infinitos de una de las sagas m\u00e1s grandes de la Patrulla-X, \u00a1desencadena una era de incre\u00edble destrucci\u00f3n! Con la compra del pase de expansi\u00f3n del juego MARVEL ULTIMATE ALLIANCE 3: The Black Order, cuatro integrantes de la Patrulla-X se unir\u00e1n a la alianza: F\u00e9nix Oscura, Gambito, Hombre de Hielo y Cable. \n\n\u00a1Enfr\u00e9ntate a tus amigos en el nuevo modo Sala de peligro! Hasta cuatro jugadores competir\u00e1n para ver qui\u00e9n puede derribar a la mayor\u00eda de los jefes mientras son bombardeados por los malosos.\n\n\n\u25a0Contenido descargable 3 \u2013 Fantastic Four: Shadow of Doom\n\nLa primera familia de Marvel, los Cuatro Fant\u00e1sticos: Mr. Fant\u00e1stico, la Mujer Invisible, Antorcha Humana y La Cosa, se unen a la alianza con la compra del pase de expansi\u00f3n de MARVEL ULTIMATE ALLIANCE 3: The Black Order. \n\nDir\u00edgete al reino de Latveria  con esta historia adicional donde tu equipo de superh\u00e9roes de Marvel se enfrentar\u00e1 el hombre de la m\u00e1scara de hierro, el Doctor Doom.\n",
         "languages": null,
         "size": 4194304
     },
@@ -23104,7 +23143,7 @@
         "intro": null,
         "description": "Mortal\u00a0Kombat\u00a011, la m\u00e1s reciente entrega de la aclamada franquicia, te ofrece una experiencia m\u00e1s profunda y personalizada que nunca. Con las nuevas variantes de personaje tendr\u00e1s un control sin precedentes para personalizar a tus luchadores y hacerlos \u00fanicos.\n\nLa Edici\u00f3n Pr\u00e9mium de Mortal\u00a0Kombat\u00a011 incluye:\n\u2022 Juego principal\n\u2022 Paquete de Kombate\n\nEl Paquete de Kombate incluye:\n\u2022 6\u00a0nuevos personajes complementarios jugables, incluyendo a Shang Tsung, Nightwolf, Terminator T-800, Sindel, el\u00a0Guas\u00f3n y Spawn\n\u2022 Acceso anticipado de 1\u00a0semana a todos los personajes complementarios\n\u2022 Skins y\u00a0conjuntos de equipo con cada personaje complementario\n\u2022 6 paquetes de skins tem\u00e1ticas incluyendo Ninjas de Arcade Kl\u00e1sicos, Luchadores de Arcade Kl\u00e1sicos y m\u00e1s",
         "languages": null,
-        "size": 27031240704
+        "size": 34950086656
     },
     "70070000005704": {
         "id": null,
@@ -23512,9 +23551,9 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd0574de767610a9baed6a7a2b3043644f57b3564822ebc10c43644010126bf1.jpg",
         "intro": "El futuro es ahora. \u00bfEst\u00e1s con nosotros?",
-        "description": "Overwatch: Legendary Edition incluye:\n\u2022\tC\u00f3digo para canjear para la suscripci\u00f3n de 3 meses de membres\u00eda individual de Nintendo Switch Online (Se aplican t\u00e9rminos. nintendo.com/switch-online)\n\u2022\tEl juego completo\n\u2022\t5 dise\u00f1os de h\u00e9roe legendarios\n\u2022\t5 dise\u00f1os de h\u00e9roe \u00e9picos\n\u2022\t5 dise\u00f1os de h\u00e9roe Origin\n\nDesbloquea una caja de bot\u00edn dorada\n\u00a1Compra Overwatch en Nintendo Switch e inicia sesi\u00f3n antes del 31 de diciembre de 2019 para desbloquear una caja de bot\u00edn dorada con al menos 1 objeto legendario garantizado!\n\nEmpieza tu guardia\n\u00danete a la lucha por el futuro en el mundo de Overwatch\u00ae y elige a tu h\u00e9roe de entre una diversa lista de soldados, cient\u00edficos, aventureros y superdotados. Manipula el tiempo, desaf\u00eda la f\u00edsica y desata una gran variedad de armas y poderes extraordinarios. Enfr\u00e9ntate a tus enemigos en ubicaciones emblem\u00e1ticas de todas partes del mundo en el juego de disparos por equipos definitivo.\n\nVive lo extraordinario\nAcelera y ralentiza el tiempo. Haz llover destrucci\u00f3n desde lo alto en una armadura experimental con propulsores. Acecha a tu presa como un asesino espectral que puede aparecer en cualquier lugar en cualquier momento. Desata poderes como Golpe drag\u00f3n, Trascendencia, Oleada de gravitones y muchos m\u00e1s. Cada h\u00e9roe tiene un conjunto de habilidades \u00fanicas y devastadoras capaces de alterar el curso de la partida.\n\nJuega con h\u00e9roes, no clases\nCada h\u00e9roe tiene una perspectiva \u00fanica en el campo de batalla y una historia detr\u00e1s de c\u00f3mo lleg\u00f3 hasta all\u00ed. Puedes ser un campe\u00f3n de una era antigua que blande su martillo propulsado en servicio del honor, un monje rob\u00f3tico que tiene como misi\u00f3n sanar las grietas entre la humanidad y las m\u00e1quinas, o un gorila dise\u00f1ado gen\u00e9ticamente que resulta ser tambi\u00e9n un brillante cient\u00edfico, entre muchos otros.\n\nLucha por el futuro... en equipo\nEl trabajo en equipo ser\u00e1 fundamental para la supervivencia cuando ingreses al campo de batalla con amigos y compa\u00f1eros. Una coordinaci\u00f3n minuciosa puede marcar la diferencia entre la victoria y la derrota al momento de combinar en equipo los formidables poderes que tienen a disposici\u00f3n para provocar un efecto devastador.\n\nCambia tu perspectiva\nJusto cuando parece que tu equipo est\u00e1 destinado a sufrir una derrota, cambia de h\u00e9roe en cualquier momento y modifica el curso de la batalla. Pero no olvides que tus oponentes pueden hacer lo mismo. Domina el juego dentro de la partida al tiempo que ambos equipos cambian de estrategia y de h\u00e9roe para obtener una ventaja sobre su rival.\n\nEl mundo es tu campo de batalla\nProtege los secretos del misterioso Templo de Anubis en Egipto, escolta un dispositivo PEM para que llegue a salvo a destino por King\u2019s Row en Londres y libra batallas en muchas m\u00e1s ubicaciones \u00fanicas. Todos los mapas tienen caracter\u00edsticas distintivas propias, con objetivos por equipos y estilos de juego singulares.",
+        "description": "Overwatch: Legendary Edition incluye:\n\u2022\tC\u00f3digo para canjear para la suscripci\u00f3n de 3 meses de membres\u00eda individual de Nintendo Switch Online (Se aplican t\u00e9rminos. nintendo.com/switch-online)\n\u2022\tEl juego completo\n\u2022\t5 dise\u00f1os de h\u00e9roe legendarios\n\u2022\t5 dise\u00f1os de h\u00e9roe \u00e9picos\n\u2022\t5 dise\u00f1os de h\u00e9roe Origin\n\nEmpieza tu guardia\n\u00danete a la lucha por el futuro en el mundo de Overwatch\u00ae y elige a tu h\u00e9roe de entre una diversa lista de soldados, cient\u00edficos, aventureros y superdotados. Manipula el tiempo, desaf\u00eda la f\u00edsica y desata una gran variedad de armas y poderes extraordinarios. Enfr\u00e9ntate a tus enemigos en ubicaciones emblem\u00e1ticas de todas partes del mundo en el juego de disparos por equipos definitivo.\n\nVive lo extraordinario\nAcelera y ralentiza el tiempo. Haz llover destrucci\u00f3n desde lo alto en una armadura experimental con propulsores. Acecha a tu presa como un asesino espectral que puede aparecer en cualquier lugar en cualquier momento. Desata poderes como Golpe drag\u00f3n, Trascendencia, Oleada de gravitones y muchos m\u00e1s. Cada h\u00e9roe tiene un conjunto de habilidades \u00fanicas y devastadoras capaces de alterar el curso de la partida.\n\nJuega con h\u00e9roes, no clases\nCada h\u00e9roe tiene una perspectiva \u00fanica en el campo de batalla y una historia detr\u00e1s de c\u00f3mo lleg\u00f3 hasta all\u00ed. Puedes ser un campe\u00f3n de una era antigua que blande su martillo propulsado en servicio del honor, un monje rob\u00f3tico que tiene como misi\u00f3n sanar las grietas entre la humanidad y las m\u00e1quinas, o un gorila dise\u00f1ado gen\u00e9ticamente que resulta ser tambi\u00e9n un brillante cient\u00edfico, entre muchos otros.\n\nLucha por el futuro... en equipo\nEl trabajo en equipo ser\u00e1 fundamental para la supervivencia cuando ingreses al campo de batalla con amigos y compa\u00f1eros. Una coordinaci\u00f3n minuciosa puede marcar la diferencia entre la victoria y la derrota al momento de combinar en equipo los formidables poderes que tienen a disposici\u00f3n para provocar un efecto devastador.\n\nCambia tu perspectiva\nJusto cuando parece que tu equipo est\u00e1 destinado a sufrir una derrota, cambia de h\u00e9roe en cualquier momento y modifica el curso de la batalla. Pero no olvides que tus oponentes pueden hacer lo mismo. Domina el juego dentro de la partida al tiempo que ambos equipos cambian de estrategia y de h\u00e9roe para obtener una ventaja sobre su rival.\n\nEl mundo es tu campo de batalla\nProtege los secretos del misterioso Templo de Anubis en Egipto, escolta un dispositivo PEM para que llegue a salvo a destino por King\u2019s Row en Londres y libra batallas en muchas m\u00e1s ubicaciones \u00fanicas. Todos los mapas tienen caracter\u00edsticas distintivas propias, con objetivos por equipos y estilos de juego singulares.",
         "languages": null,
-        "size": 11792285696
+        "size": 13175357440
     },
     "70070000007201": {
         "id": null,
@@ -24215,7 +24254,7 @@
         "intro": null,
         "description": "Incluye Mortal\u00a0Kombat\u00a011, el Paquete de Kombate y MK11: Aftermath.\n\nEn la historia cinem\u00e1tica original de MK11, toma el papel de protector de la Tierra cuando un enemigo juega con las fuerzas del tiempo, amenazando con cambiar el curso del tiempo y reescribir su propia historia. Aftermath kontin\u00faa la trama del juego con una nueva aventura. Las alianzas se pondr\u00e1n a prueba mientras el destino de dos mundos est\u00e1 en la cuerda floja. Ahora es el momento de forjar una nueva historia.\n\n\u2022 Disfruta la historia original del MK11 y Aftermath, la nueva conclusi\u00f3n de la historia\n\u2022 Juega con los 34 personajes de MK11, incluyendo a los nuevos luchadores Sheeva y Fujin\n\u2022 Incluye a RoboCop, Terminator, Spawn y el Guas\u00f3n\n\u2022 Nuevos golpes aplastantes, Friendships e ic\u00f3nicos Fatalities\n\u2022 Nuevas arenas y Fatalities de arena\n\u2022 Sistema de personalizaci\u00f3n de variantes de personaje",
         "languages": null,
-        "size": 33800847360
+        "size": 34971058176
     },
     "70070000010161": {
         "id": null,
