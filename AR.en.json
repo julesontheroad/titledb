@@ -2713,7 +2713,7 @@
             "ru",
             "ko"
         ],
-        "size": 11832131584
+        "size": 11833180160
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -8793,7 +8793,7 @@
         "size": 2080374784
     },
     "70010000039215": {
-        "id": null,
+        "id": "010033F0126F4000",
         "rightsId": null,
         "name": "Famicom Detective Club\u2122: The Missing Heir",
         "version": null,
@@ -8816,7 +8816,7 @@
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
-        "iconUrl": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c9e2af3dc4cc64359bfce0da5bee22b9ad5fed686900589f0ace41bb4f49ba34.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/d4de05200a5d61e1f6338bb19ca76792009f0e5b62184ca0f017c301b3bd26aa.jpg",
             "https://img-eshop.cdn.nintendo.net/i/7b050b10f1b579452b5c2e7013e9911163bf205d8e7f5746c41204ed4c40dd0d.jpg",
@@ -8831,7 +8831,7 @@
         "languages": [
             "en"
         ],
-        "size": 0
+        "size": 1682964480
     },
     "70010000039317": {
         "id": "01002980140F6000",
@@ -13163,7 +13163,7 @@
     "70050000012570": {
         "id": "010042000A98700E",
         "rightsId": null,
-        "name": "Designer\u00e2\u20ac\u2122s Sunglasses",
+        "name": "Designer\u2019s Sunglasses",
         "version": null,
         "key": null,
         "isDemo": false,
